@@ -1,0 +1,13 @@
+{
+  "updated_at": "2026-05-12T00:00:00Z",
+  "mode": "paper",
+  "account": {
+    "balance_usd": null,
+    "total_value_usd": null,
+    "pnl_usd": null,
+    "pnl_pct": null
+  },
+  "open_positions": [],
+  "last_decision": null,
+  "_seed": true
+}

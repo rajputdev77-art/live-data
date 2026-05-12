@@ -1,0 +1,23 @@
+{
+  "updated_at": "2026-05-12T00:00:00Z",
+  "totals": {
+    "blogs": 0,
+    "videos": 0,
+    "reels": 0,
+    "shorts": 0,
+    "platforms_active": 9
+  },
+  "streak_days": 0,
+  "last_publish_at": null,
+  "today": {
+    "date": "2026-05-12",
+    "entries_processed": 0,
+    "published": []
+  },
+  "health": {
+    "watcher_running": null,
+    "last_error": null,
+    "checked_at": "2026-05-12T00:00:00Z"
+  },
+  "_seed": true
+}
