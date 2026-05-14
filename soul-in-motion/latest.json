@@ -1,23 +1,27 @@
 {
-  "updated_at": "2026-05-12T00:00:00Z",
+  "updated_at": "2026-05-14T14:09:03Z",
   "totals": {
-    "blogs": 0,
-    "videos": 0,
-    "reels": 0,
-    "shorts": 0,
+    "blogs": 75,
+    "videos": 20,
+    "reels": 30,
+    "shorts": 30,
     "platforms_active": 9
   },
-  "streak_days": 0,
-  "last_publish_at": null,
+  "streak_days": 7,
+  "last_publish_at": "2026-04-30T13:33:08.062616Z",
   "today": {
-    "date": "2026-05-12",
+    "date": "2026-05-14",
     "entries_processed": 0,
     "published": []
   },
   "health": {
     "watcher_running": null,
     "last_error": null,
-    "checked_at": "2026-05-12T00:00:00Z"
+    "checked_at": "2026-05-14T14:09:03Z"
   },
-  "_seed": true
+  "backfill": {
+    "ran_at": "2026-05-14T14:09:03Z",
+    "source": "output/ folder counts + state/publish_tracker.json",
+    "notes": "Counts represent content the engine has generated. Each blog typically reaches 4\u20135 platforms (Dev.to, Hashnode, WordPress, Blogger, Medium queue). Each reel is uploaded to Instagram + YouTube. publish_tracker.json began tracking partway through; older publishes are reflected only in counters, not history."
+  }
 }
