@@ -1,1 +1,2 @@
 {"started_at": "2026-05-13T10:00:09Z", "finished_at": "2026-05-13T10:07:37Z", "status": "failure", "duration_seconds": 448.2, "video_url": null, "video_title": null, "error": "RuntimeError at stage 4_video: YouTube OAuth token expired. Run 'python reauth.py' to fix.", "stage_timings": {}}
+{"started_at": "2026-05-14T10:00:09Z", "finished_at": "2026-05-14T10:08:17Z", "status": "failure", "duration_seconds": 488.6, "video_url": null, "video_title": null, "error": "RuntimeError at stage 4_video: YouTube OAuth token expired. Run 'python reauth.py' to fix.", "stage_timings": {}}
