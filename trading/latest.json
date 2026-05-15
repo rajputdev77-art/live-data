@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-15T18:27:16Z",
+  "updated_at": "2026-05-15T19:27:50Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 997.9502712306096,
-    "total_value_usd": 997.9502712306096,
-    "pnl_usd": -1.5,
-    "pnl_pct": -0.15
+    "balance_usd": 1000.4142463498139,
+    "total_value_usd": 1000.4142463498139,
+    "pnl_usd": 0.96,
+    "pnl_pct": 0.1
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 716.21793,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4591311512037192
+      "unrealized_pnl": -0.8096310674188775
     },
     {
       "asset": "AAPL",
@@ -22,7 +22,7 @@
       "entry": 298.800525,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7805790968389354
+      "unrealized_pnl": -0.5164265629704078
     },
     {
       "asset": "TSLA",
@@ -30,7 +30,7 @@
       "entry": 445.966905,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 4.496940386270428
+      "unrealized_pnl": 5.133376881933704
     },
     {
       "asset": "NVDA",
@@ -38,7 +38,7 @@
       "entry": 228.71558500000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.578198044399755
+      "unrealized_pnl": 0.831918636105419
     },
     {
       "asset": "AMZN",
@@ -46,7 +46,7 @@
       "entry": 262.56865,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.46065422535210576
+      "unrealized_pnl": -0.2857246478873248
     },
     {
       "asset": "GOOG",
@@ -54,7 +54,7 @@
       "entry": 389.23528500000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7938834411832554
+      "unrealized_pnl": -0.7810570025421616
     },
     {
       "asset": "AVGO",
@@ -62,13 +62,13 @@
       "entry": 426.556615,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.31212400473322033
+      "unrealized_pnl": 0.0038893045434312628
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T18:27:16Z",
+    "at": "2026-05-15T19:27:50Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "SPY is trading below its intraday EMA20 and RSI is neutral. No strong conviction for a directional trade."
+    "action": "sell",
+    "rationale": "SPY is trading below its 5m EMA20 and RSI is low, indicating bearish momentum. The 4h EMA20 is also above the price, suggesting a potential downtrend. Enter short with a TP at 730.0 and SL at 745.0."
   }
 }
