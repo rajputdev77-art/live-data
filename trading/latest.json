@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-15T12:23:27Z",
+  "updated_at": "2026-05-15T13:24:06Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1000.1389535467689,
-    "total_value_usd": 1000.1389535467689,
-    "pnl_usd": 0.69,
-    "pnl_pct": 0.07
+    "balance_usd": 1002.3808473459259,
+    "total_value_usd": 1002.3808473459259,
+    "pnl_usd": 2.93,
+    "pnl_pct": 0.29
   },
   "open_positions": [
     {
@@ -22,7 +22,7 @@
       "entry": 298.800525,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.4379678173607604
+      "unrealized_pnl": 1.090222709483182
     },
     {
       "asset": "MSFT",
@@ -30,7 +30,7 @@
       "entry": 404.14782500000007,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.8698312266600496
+      "unrealized_pnl": -1.8797216681092943
     },
     {
       "asset": "TSLA",
@@ -38,13 +38,13 @@
       "entry": 445.966905,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.6178151257311947
+      "unrealized_pnl": 3.217344474215017
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T12:23:27Z",
+    "at": "2026-05-15T13:24:06Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Intraday RSI is extremely oversold, suggesting a potential bounce. Long-term EMAs indicate a bullish trend."
+    "rationale": "SPY is oversold intraday (RSI7: 29.99, RSI14: 26.57) and below its intraday EMA20, but its long-term EMA20 (738.31) and EMA50 (724.22) suggest a bullish trend. The recent price action shows a sharp drop, but without a clear reversal signal or confirmation of a breakdown below lon"
   }
 }
