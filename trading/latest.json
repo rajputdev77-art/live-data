@@ -1,34 +1,50 @@
 {
-  "updated_at": "2026-05-15T08:06:04Z",
+  "updated_at": "2026-05-15T08:21:00Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 967.3007324950197,
-    "total_value_usd": 967.3007324950197,
-    "pnl_usd": -5.6,
-    "pnl_pct": -0.58
+    "balance_usd": 999.4530348947984,
+    "total_value_usd": 999.4530348947984,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
   "open_positions": [
     {
-      "asset": "ENA",
-      "size": 817.4609662388622,
-      "entry": 0.1222460925,
+      "asset": "QQQ",
+      "size": 0.13964140088253366,
+      "entry": 716.21793,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.6453793018883314
+      "unrealized_pnl": 0.43178098642684487
     },
     {
-      "asset": "CRV",
-      "size": 261.2427691733532,
-      "entry": 0.26809397999999995,
+      "asset": "AAPL",
+      "size": -0.33437029603612645,
+      "entry": 298.800525,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2654547490203316
+      "unrealized_pnl": 0.1907666131460027
+    },
+    {
+      "asset": "MSFT",
+      "size": -0.247261036230988,
+      "entry": 404.14782500000007,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.3085486744157113
+    },
+    {
+      "asset": "TSLA",
+      "size": -0.22409735762791635,
+      "entry": 445.966905,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.6178151257311947
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T08:06:04Z",
-    "asset": "BTC",
+    "at": "2026-05-15T08:21:00Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "BTC is consolidating around its current price. No clear directional signal from intraday or long-term indicators to initiate a trade."
+    "rationale": "SPY is trading below its intraday EMA20 and RSI is below 50, indicating short-term weakness. However, the long-term RSI is high (72.46), suggesting potential for a pullback. No clear directional bias for new entry."
   }
 }
