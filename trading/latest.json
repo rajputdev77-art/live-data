@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-15T20:28:24Z",
+  "updated_at": "2026-05-15T21:28:55Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1000.9932035880846,
-    "total_value_usd": 1000.9932035880846,
-    "pnl_usd": 1.54,
-    "pnl_pct": 0.15
+    "balance_usd": 1000.8260795223302,
+    "total_value_usd": 1000.8260795223302,
+    "pnl_usd": 1.37,
+    "pnl_pct": 0.14
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 716.21793,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.195041333854669
+      "unrealized_pnl": -1.2104018879517497
     },
     {
       "asset": "AAPL",
@@ -38,7 +38,7 @@
       "entry": 228.71558500000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.7312500174802399
+      "unrealized_pnl": 1.587182369007569
     },
     {
       "asset": "AMZN",
@@ -54,7 +54,7 @@
       "entry": 389.23528500000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0196287612664527
+      "unrealized_pnl": -1.0273246244511147
     },
     {
       "asset": "AVGO",
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T20:28:24Z",
+    "at": "2026-05-15T21:28:55Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "SPY is below its intraday EMA20 and MACD is negative, indicating short-term weakness. RSI is low, suggesting potential for a bounce. Holding to observe further price action."
+    "rationale": "SPY shows intraday weakness with RSI below 30 and negative MACD, but long-term EMAs are still supportive. Holding to observe further price action."
   }
 }
