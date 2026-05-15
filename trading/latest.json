@@ -1,42 +1,50 @@
 {
-  "updated_at": "2026-05-15T04:05:23Z",
+  "updated_at": "2026-05-15T04:17:38Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 971.4019471802675,
-    "total_value_usd": 971.4019471802675,
-    "pnl_usd": -1.5,
-    "pnl_pct": -0.15
+    "balance_usd": 999.4530348947984,
+    "total_value_usd": 999.4530348947984,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
   "open_positions": [
     {
-      "asset": "ENA",
-      "size": 817.4609662388622,
-      "entry": 0.1222460925,
+      "asset": "QQQ",
+      "size": 0.13964140088253366,
+      "entry": 716.21793,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0554177225537542
+      "unrealized_pnl": 0.43178098642684487
     },
     {
-      "asset": "SUI",
-      "size": 58.364947679993335,
-      "entry": 1.200750075,
+      "asset": "AAPL",
+      "size": -0.33437029603612645,
+      "entry": 298.800525,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.3890901321549192
+      "unrealized_pnl": 0.1907666131460027
     },
     {
-      "asset": "CRV",
-      "size": 261.2427691733532,
-      "entry": 0.26809397999999995,
+      "asset": "MSFT",
+      "size": -0.247261036230988,
+      "entry": 404.14782500000007,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.8401619705168983
+      "unrealized_pnl": -1.3085486744157113
+    },
+    {
+      "asset": "TSLA",
+      "size": -0.22409735762791635,
+      "entry": 445.966905,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.6178151257311947
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T04:05:23Z",
-    "asset": "BTC",
+    "at": "2026-05-15T04:17:38Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "BTC is trading below its intraday EMA20 with RSI below 50, indicating bearish intraday momentum. Long-term EMA20 is above the current price. No strong signal to enter or exit."
+    "rationale": "Intraday momentum is weakening, RSI is below 50, and long-term RSI is high, suggesting a potential pullback. Holding is prudent given the mixed signals."
   }
 }
