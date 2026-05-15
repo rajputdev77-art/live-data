@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T08:21:00Z",
+  "updated_at": "2026-05-15T09:21:48Z",
   "mode": "paper",
   "account": {
     "balance_usd": 999.4530348947984,
@@ -42,9 +42,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T08:21:00Z",
+    "at": "2026-05-15T09:21:48Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "SPY is trading below its intraday EMA20 and RSI is below 50, indicating short-term weakness. However, the long-term RSI is high (72.46), suggesting potential for a pullback. No clear directional bias for new entry."
+    "rationale": "SPY intraday RSI is below 50 and MACD is slightly negative, indicating a weak short-term trend. Long-term EMA20 is above EMA50, suggesting a bullish bias, but current price is below EMA20. No strong conviction for a new trade."
   }
 }
