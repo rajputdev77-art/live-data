@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-15T14:24:44Z",
+  "updated_at": "2026-05-15T15:25:24Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 997.5698219418496,
-    "total_value_usd": 997.5698219418496,
-    "pnl_usd": -1.88,
-    "pnl_pct": -0.19
+    "balance_usd": 998.8694802356646,
+    "total_value_usd": 998.8694802356646,
+    "pnl_usd": -0.58,
+    "pnl_pct": -0.06
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 716.21793,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.576429927945036
+      "unrealized_pnl": -0.6937287046863688
     },
     {
       "asset": "AAPL",
@@ -22,7 +22,7 @@
       "entry": 298.800525,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.2606332865027566
+      "unrealized_pnl": -1.1801516006021042
     },
     {
       "asset": "TSLA",
@@ -30,7 +30,7 @@
       "entry": 445.966905,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.9770345165736503
+      "unrealized_pnl": 4.622434906542061
     },
     {
       "asset": "NVDA",
@@ -38,7 +38,7 @@
       "entry": 228.71558500000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.17270000218504547
+      "unrealized_pnl": 0.517589221255968
     },
     {
       "asset": "AMZN",
@@ -46,7 +46,7 @@
       "entry": 262.56865,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.41502042253522425
+      "unrealized_pnl": -0.31614718309858636
     },
     {
       "asset": "GOOG",
@@ -54,7 +54,7 @@
       "entry": 389.23528500000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.535251594638316
+      "unrealized_pnl": -1.1915030390570738
     },
     {
       "asset": "AVGO",
@@ -62,13 +62,13 @@
       "entry": 426.556615,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6304781533378584
+      "unrealized_pnl": 0.2730858272605937
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T14:24:44Z",
+    "at": "2026-05-15T15:25:24Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Mixed intraday and long-term signals. No strong conviction for a directional trade."
+    "rationale": "SPY intraday shows mixed signals with RSI around 51 and MACD slightly negative. Long-term RSI is at 59, suggesting it's not extremely overbought or oversold. No clear directional edge or strong momentum alignment across timeframes to initiate a new trade."
   }
 }
