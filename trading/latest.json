@@ -1,74 +1,26 @@
 {
-  "updated_at": "2026-05-15T19:27:50Z",
+  "updated_at": "2026-05-15T20:07:48Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1000.4142463498139,
-    "total_value_usd": 1000.4142463498139,
-    "pnl_usd": 0.96,
-    "pnl_pct": 0.1
+    "balance_usd": 971.877883213498,
+    "total_value_usd": 971.877883213498,
+    "pnl_usd": -1.03,
+    "pnl_pct": -0.11
   },
   "open_positions": [
     {
-      "asset": "QQQ",
-      "size": 0.13964140088253366,
-      "entry": 716.21793,
+      "asset": "CC",
+      "size": 602.4725061776871,
+      "entry": 0.16220606249999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.8096310674188775
-    },
-    {
-      "asset": "AAPL",
-      "size": -0.33437029603612645,
-      "entry": 298.800525,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.5164265629704078
-    },
-    {
-      "asset": "TSLA",
-      "size": -0.22409735762791635,
-      "entry": 445.966905,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 5.133376881933704
-    },
-    {
-      "asset": "NVDA",
-      "size": -0.4365686317353494,
-      "entry": 228.71558500000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.831918636105419
-    },
-    {
-      "asset": "AMZN",
-      "size": -0.3802816901408451,
-      "entry": 262.56865,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.2857246478873248
-    },
-    {
-      "asset": "GOOG",
-      "size": -0.2565287728218165,
-      "entry": 389.23528500000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.7810570025421616
-    },
-    {
-      "asset": "AVGO",
-      "size": -0.23408393279752562,
-      "entry": 426.556615,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0038893045434312628
+      "unrealized_pnl": -4.368565796826021
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T19:27:50Z",
-    "asset": "SPY",
-    "action": "sell",
-    "rationale": "SPY is trading below its 5m EMA20 and RSI is low, indicating bearish momentum. The 4h EMA20 is also above the price, suggesting a potential downtrend. Enter short with a TP at 730.0 and SL at 745.0."
+    "at": "2026-05-15T20:07:48Z",
+    "asset": "BTC",
+    "action": "hold",
+    "rationale": "BTC is trading below its intraday EMA20 and RSI is below 50, indicating a bearish short-term bias. Long-term EMA20 is also above current price. No strong bullish setup identified."
   }
 }
