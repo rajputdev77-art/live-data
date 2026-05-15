@@ -1,66 +1,50 @@
 {
-  "updated_at": "2026-05-15T12:06:46Z",
+  "updated_at": "2026-05-15T12:23:27Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 973.1124562915497,
-    "total_value_usd": 973.1124562915497,
-    "pnl_usd": 0.21,
-    "pnl_pct": 0.02
+    "balance_usd": 1000.1389535467689,
+    "total_value_usd": 1000.1389535467689,
+    "pnl_usd": 0.69,
+    "pnl_pct": 0.07
   },
   "open_positions": [
     {
-      "asset": "ENA",
-      "size": 817.4609662388622,
-      "entry": 0.1222460925,
+      "asset": "QQQ",
+      "size": 0.13964140088253366,
+      "entry": 716.21793,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.720340472492444
+      "unrealized_pnl": 0.43178098642684487
     },
     {
-      "asset": "CRV",
-      "size": 261.2427691733532,
-      "entry": 0.26809397999999995,
+      "asset": "AAPL",
+      "size": -0.33437029603612645,
+      "entry": 298.800525,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.004771785780921
+      "unrealized_pnl": 1.4379678173607604
     },
     {
-      "asset": "ENA",
-      "size": -812.7546947863715,
-      "entry": 0.11905544250000001,
+      "asset": "MSFT",
+      "size": -0.247261036230988,
+      "entry": 404.14782500000007,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.1219611227576431
+      "unrealized_pnl": -1.8698312266600496
     },
     {
-      "asset": "ZEC",
-      "size": -0.17770633353235657,
-      "entry": 544.4726275,
+      "asset": "TSLA",
+      "size": -0.22409735762791635,
+      "entry": 445.966905,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.4972409095209813
-    },
-    {
-      "asset": "SAGA",
-      "size": -3827.85912148793,
-      "entry": 0.025257365000000004,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 3.167036662049875
-    },
-    {
-      "asset": "ICP",
-      "size": -35.59718107715237,
-      "entry": 2.717190725,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.8397633095663066
+      "unrealized_pnl": 0.6178151257311947
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T12:06:46Z",
-    "asset": "BTC",
-    "action": "sell",
-    "rationale": "BTC is below its 4h EMA20 and EMA50, with RSI14 at 48.89 and intraday RSI7 at 25.49 indicating weakness. The recent price action shows a downtrend. Funding rate is slightly negative, favoring shorts."
+    "at": "2026-05-15T12:23:27Z",
+    "asset": "SPY",
+    "action": "hold",
+    "rationale": "Intraday RSI is extremely oversold, suggesting a potential bounce. Long-term EMAs indicate a bullish trend."
   }
 }
