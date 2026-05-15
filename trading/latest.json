@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T05:18:20Z",
+  "updated_at": "2026-05-15T06:18:52Z",
   "mode": "paper",
   "account": {
     "balance_usd": 999.4530348947984,
@@ -42,9 +42,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T05:18:20Z",
+    "at": "2026-05-15T06:18:52Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "4h RSI is high (72.46), intraday momentum is weakening (MACD negative, RSI 46.3). Prefer to hold given existing short positions in other assets."
+    "rationale": "Intraday weakness (RSI 46.3, MACD trending down) and elevated long-term RSI (72.46) suggest potential for a pullback. No strong conviction for a new direction."
   }
 }
