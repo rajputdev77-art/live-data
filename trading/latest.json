@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-15T13:24:06Z",
+  "updated_at": "2026-05-15T14:24:44Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1002.3808473459259,
-    "total_value_usd": 1002.3808473459259,
-    "pnl_usd": 2.93,
-    "pnl_pct": 0.29
+    "balance_usd": 997.5698219418496,
+    "total_value_usd": 997.5698219418496,
+    "pnl_usd": -1.88,
+    "pnl_pct": -0.19
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 716.21793,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.43178098642684487
+      "unrealized_pnl": -0.576429927945036
     },
     {
       "asset": "AAPL",
@@ -22,15 +22,7 @@
       "entry": 298.800525,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.090222709483182
-    },
-    {
-      "asset": "MSFT",
-      "size": -0.247261036230988,
-      "entry": 404.14782500000007,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.8797216681092943
+      "unrealized_pnl": -0.2606332865027566
     },
     {
       "asset": "TSLA",
@@ -38,13 +30,45 @@
       "entry": 445.966905,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.217344474215017
+      "unrealized_pnl": 3.9770345165736503
+    },
+    {
+      "asset": "NVDA",
+      "size": -0.4365686317353494,
+      "entry": 228.71558500000003,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.17270000218504547
+    },
+    {
+      "asset": "AMZN",
+      "size": -0.3802816901408451,
+      "entry": 262.56865,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.41502042253522425
+    },
+    {
+      "asset": "GOOG",
+      "size": -0.2565287728218165,
+      "entry": 389.23528500000003,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.535251594638316
+    },
+    {
+      "asset": "AVGO",
+      "size": -0.23408393279752562,
+      "entry": 426.556615,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.6304781533378584
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T13:24:06Z",
+    "at": "2026-05-15T14:24:44Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "SPY is oversold intraday (RSI7: 29.99, RSI14: 26.57) and below its intraday EMA20, but its long-term EMA20 (738.31) and EMA50 (724.22) suggest a bullish trend. The recent price action shows a sharp drop, but without a clear reversal signal or confirmation of a breakdown below lon"
+    "rationale": "Mixed intraday and long-term signals. No strong conviction for a directional trade."
   }
 }
