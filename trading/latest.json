@@ -1,41 +1,49 @@
 {
-  "updated_at": "2026-05-15T00:04:49Z",
+  "updated_at": "2026-05-15T01:02:46Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 972.90545669858,
-    "total_value_usd": 972.90545669858,
+    "balance_usd": 999.4530348947984,
+    "total_value_usd": 999.4530348947984,
     "pnl_usd": 0.0,
     "pnl_pct": 0.0
   },
   "open_positions": [
     {
-      "asset": "ENA",
-      "size": 817.4609662388622,
-      "entry": 0.1222460925,
+      "asset": "QQQ",
+      "size": 0.13964140088253366,
+      "entry": 716.21793,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.4641482056731743
+      "unrealized_pnl": 0.43178098642684487
     },
     {
-      "asset": "SUI",
-      "size": 58.364947679993335,
-      "entry": 1.200750075,
+      "asset": "AAPL",
+      "size": -0.33437029603612645,
+      "entry": 298.800525,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6916290073789915
+      "unrealized_pnl": 0.1907666131460027
     },
     {
-      "asset": "CRV",
-      "size": 261.2427691733532,
-      "entry": 0.26809397999999995,
+      "asset": "MSFT",
+      "size": -0.247261036230988,
+      "entry": 404.14782500000007,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.0549408471729875
+      "unrealized_pnl": -1.3085486744157113
+    },
+    {
+      "asset": "TSLA",
+      "size": -0.22409735762791635,
+      "entry": 445.966905,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.6178151257311947
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T00:04:49Z",
-    "asset": "BTC",
+    "at": "2026-05-15T01:02:46Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "empty response"
   }
