@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-15T17:26:42Z",
+  "updated_at": "2026-05-15T18:27:16Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 996.7770774495204,
-    "total_value_usd": 996.7770774495204,
-    "pnl_usd": -2.68,
-    "pnl_pct": -0.27
+    "balance_usd": 997.9502712306096,
+    "total_value_usd": 997.9502712306096,
+    "pnl_usd": -1.5,
+    "pnl_pct": -0.15
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 716.21793,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.36417499860358743
+      "unrealized_pnl": -0.4591311512037192
     },
     {
       "asset": "AAPL",
@@ -22,7 +22,7 @@
       "entry": 298.800525,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.4376167285499346
+      "unrealized_pnl": -0.7805790968389354
     },
     {
       "asset": "TSLA",
@@ -30,7 +30,7 @@
       "entry": 445.966905,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.9658296486922646
+      "unrealized_pnl": 4.496940386270428
     },
     {
       "asset": "NVDA",
@@ -38,7 +38,7 @@
       "entry": 228.71558500000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.1809205895205885
+      "unrealized_pnl": -0.578198044399755
     },
     {
       "asset": "AMZN",
@@ -46,7 +46,7 @@
       "entry": 262.56865,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.2629077464788732
+      "unrealized_pnl": -0.46065422535210576
     },
     {
       "asset": "GOOG",
@@ -54,7 +54,7 @@
       "entry": 389.23528500000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.124805558123404
+      "unrealized_pnl": -0.7938834411832554
     },
     {
       "asset": "AVGO",
@@ -62,13 +62,13 @@
       "entry": 426.556615,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6562273859455894
+      "unrealized_pnl": -0.31212400473322033
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T17:26:42Z",
+    "at": "2026-05-15T18:27:16Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "SPY shows strong upward momentum (RSI7=74.36, RSI14=62.34, MACD=0.186) and is above both 4h EMAs. No active position, holding for now."
+    "rationale": "SPY is trading below its intraday EMA20 and RSI is neutral. No strong conviction for a directional trade."
   }
 }
