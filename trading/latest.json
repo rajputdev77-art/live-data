@@ -1,50 +1,42 @@
 {
-  "updated_at": "2026-05-15T03:16:47Z",
+  "updated_at": "2026-05-15T04:05:23Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 998.8352197690672,
-    "total_value_usd": 998.8352197690672,
-    "pnl_usd": -0.62,
-    "pnl_pct": -0.06
+    "balance_usd": 971.4019471802675,
+    "total_value_usd": 971.4019471802675,
+    "pnl_usd": -1.5,
+    "pnl_pct": -0.15
   },
   "open_positions": [
     {
-      "asset": "QQQ",
-      "size": 0.13964140088253366,
-      "entry": 716.21793,
+      "asset": "ENA",
+      "size": 817.4609662388622,
+      "entry": 0.1222460925,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.43178098642684487
+      "unrealized_pnl": -1.0554177225537542
     },
     {
-      "asset": "AAPL",
-      "size": -0.33437029603612645,
-      "entry": 298.800525,
+      "asset": "SUI",
+      "size": 58.364947679993335,
+      "entry": 1.200750075,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.1907666131460027
+      "unrealized_pnl": -1.3890901321549192
     },
     {
-      "asset": "MSFT",
-      "size": -0.247261036230988,
-      "entry": 404.14782500000007,
+      "asset": "CRV",
+      "size": 261.2427691733532,
+      "entry": 0.26809397999999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.3085486744157113
-    },
-    {
-      "asset": "TSLA",
-      "size": -0.22409735762791635,
-      "entry": 445.966905,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.8401619705168983
     }
   ],
   "last_decision": {
-    "at": "2026-05-15T03:16:47Z",
-    "asset": "SPY",
+    "at": "2026-05-15T04:05:23Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "empty response"
+    "rationale": "BTC is trading below its intraday EMA20 with RSI below 50, indicating bearish intraday momentum. Long-term EMA20 is above the current price. No strong signal to enter or exit."
   }
 }
