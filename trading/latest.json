@@ -1,26 +1,74 @@
 {
-  "updated_at": "2026-05-16T21:09:52Z",
+  "updated_at": "2026-05-16T21:43:51Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 971.2206879111035,
-    "total_value_usd": 971.2206879111035,
-    "pnl_usd": -1.68,
-    "pnl_pct": -0.17
+    "balance_usd": 1000.8260795223302,
+    "total_value_usd": 1000.8260795223302,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": 0.8073584960064588,
-      "entry": 86.76386025,
+      "asset": "QQQ",
+      "size": 0.13964140088253366,
+      "entry": 716.21793,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.0818340589948379
+      "unrealized_pnl": -1.2104018879517497
+    },
+    {
+      "asset": "AAPL",
+      "size": -0.33437029603612645,
+      "entry": 298.800525,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.401068810837935
+    },
+    {
+      "asset": "TSLA",
+      "size": -0.22409735762791635,
+      "entry": 445.966905,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 5.3104137944597625
+    },
+    {
+      "asset": "NVDA",
+      "size": -0.4365686317353494,
+      "entry": 228.71558500000003,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 1.587182369007569
+    },
+    {
+      "asset": "AMZN",
+      "size": -0.3802816901408451,
+      "entry": 262.56865,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.6279781690140984
+    },
+    {
+      "asset": "GOOG",
+      "size": -0.2565287728218165,
+      "entry": 389.23528500000003,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.0273246244511147
+    },
+    {
+      "asset": "AVGO",
+      "size": -0.23408393279752562,
+      "entry": 426.556615,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.35735604306770613
     }
   ],
   "last_decision": {
-    "at": "2026-05-16T21:09:52Z",
-    "asset": "BTC",
+    "at": "2026-05-16T21:43:51Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "BTC is trading below its long-term EMAs, indicating a bearish bias. Intraday momentum is weak, and RSI is not showing oversold conditions. No clear setup for a buy or sell."
+    "rationale": "No strong directional signal on long-term indicators, and no intraday data to confirm short-term momentum. Holding existing positions."
   }
 }
