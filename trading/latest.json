@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-16T13:34:37Z",
+  "updated_at": "2026-05-16T14:38:48Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1000.8260795223302,
     "total_value_usd": 1000.8260795223302,
-    "pnl_usd": 1.37,
-    "pnl_pct": 0.14
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
   "open_positions": [
     {
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-16T13:34:37Z",
+    "at": "2026-05-16T14:38:48Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "SPY is in an intraday downtrend with RSI below 30, but the long-term EMA20 is above the current price. Holding to observe further price action."
+    "rationale": "SPY is below its intraday EMA20 and MACD is negative, suggesting bearish momentum. However, RSI is not extremely oversold, and there's no clear setup for a new entry or exit. Holding is prudent."
   }
 }
