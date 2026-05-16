@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T21:43:51Z",
+  "updated_at": "2026-05-16T22:44:21Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1000.8260795223302,
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-16T21:43:51Z",
+    "at": "2026-05-16T22:44:21Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "No strong directional signal on long-term indicators, and no intraday data to confirm short-term momentum. Holding existing positions."
+    "rationale": "No active position. Long-term RSI is neutral (53.24) and price is near the 4h EMA20. Insufficient intraday data to establish a directional bias or entry signal."
   }
 }
