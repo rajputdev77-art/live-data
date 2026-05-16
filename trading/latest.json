@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T19:41:29Z",
+  "updated_at": "2026-05-16T20:41:58Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1000.8260795223302,
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-16T19:41:29Z",
+    "at": "2026-05-16T20:41:58Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Intraday oversold, but long-term RSI is neutral. No strong conviction for a directional trade."
+    "rationale": "No clear intraday signals. Long-term RSI14 is neutral (53.24). Existing position is not present."
   }
 }
