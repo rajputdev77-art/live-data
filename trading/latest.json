@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T15:39:21Z",
+  "updated_at": "2026-05-16T16:39:57Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1000.8260795223302,
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-16T15:39:21Z",
+    "at": "2026-05-16T16:39:57Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "Intraday RSI is oversold (18.58), but the EMA20 is still above the current price, indicating some lingering weakness. No strong buy signal yet. Hold and monitor for a potential short entry if price breaks below EMA20 with momentum."
+    "action": "sell",
+    "rationale": "Intraday bearish momentum (below EMA20, bearish MACD, low RSI) aligns with broader market weakness. Target profit at previous support levels, stop loss above recent highs."
   }
 }
