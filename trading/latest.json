@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T01:32:47Z",
+  "updated_at": "2026-05-16T02:33:20Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1000.8260795223302,
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-16T01:32:47Z",
+    "at": "2026-05-16T02:33:20Z",
     "asset": "SPY",
-    "action": "sell",
-    "rationale": "Intraday bearish momentum (RSI 26.42, MACD -0.8853) and price below 5m EMA20 (739.87) indicate weakness. Long-term EMA20 (738.32) is also a resistance level."
+    "action": "hold",
+    "rationale": "SPY is oversold intraday (RSI7=18.58, RSI14=26.42) but intraday EMA20 is above price, and long-term EMA20 is below price. No strong conviction for either direction."
   }
 }
