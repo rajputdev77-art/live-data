@@ -1,28 +1,26 @@
 {
-<<<<<<< Updated upstream
-  "updated_at": "2026-05-17T08:46:02Z",
-=======
-  "updated_at": "2026-05-17T08:57:57Z",
->>>>>>> Stashed changes
+  "updated_at": "2026-05-17T09:12:19Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1000.0,
-    "total_value_usd": 1000.0,
-    "pnl_usd": 0.0,
-    "pnl_pct": 0.0
+    "balance_usd": 971.3668197988806,
+    "total_value_usd": 971.3668197988806,
+    "pnl_usd": -1.54,
+    "pnl_pct": -0.16
   },
-  "open_positions": [],
+  "open_positions": [
+    {
+      "asset": "SOL",
+      "size": 0.8073584960064588,
+      "entry": 86.76386025,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.06429782878234051
+    }
+  ],
   "last_decision": {
-<<<<<<< Updated upstream
-    "at": "2026-05-17T08:46:02Z",
+    "at": "2026-05-17T09:12:19Z",
     "asset": "BTC",
     "action": "hold",
-    "rationale": "hold-all: empty response"
-=======
-    "at": "2026-05-17T08:57:57Z",
-    "asset": "SPY",
-    "action": "hold",
-    "rationale": "No intraday data available to confirm short-term trend or momentum. Long-term RSI is neutral (53.24) and price is near EMA20. No strong signal for entry or exit."
->>>>>>> Stashed changes
+    "rationale": "BTC is below long-term EMAs and has a low long-term RSI, indicating weakness. Intraday momentum is neutral. No clear setup for entry."
   }
 }
