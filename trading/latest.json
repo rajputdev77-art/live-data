@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T03:46:41Z",
+  "updated_at": "2026-05-17T04:48:04Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1000.8260795223302,
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-17T03:46:41Z",
+    "at": "2026-05-17T04:48:04Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Insufficient intraday data to make a decision. Long-term RSI is neutral."
+    "rationale": "empty response"
   }
 }
