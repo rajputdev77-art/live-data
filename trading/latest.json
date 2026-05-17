@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T02:46:12Z",
+  "updated_at": "2026-05-17T03:46:41Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1000.8260795223302,
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-17T02:46:12Z",
+    "at": "2026-05-17T03:46:41Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Long-term EMA20 is slightly above current price, EMA50 below. RSI14 is neutral at 53.24. Insufficient intraday data to make a decision."
+    "rationale": "Insufficient intraday data to make a decision. Long-term RSI is neutral."
   }
 }
