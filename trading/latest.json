@@ -5,6 +5,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "updated_at": "2026-05-17T14:50:46Z",
 =======
   "updated_at": "2026-05-17T15:51:16Z",
@@ -96,6 +97,9 @@
 =======
   "updated_at": "2026-05-17T17:42:53Z",
 >>>>>>> Stashed changes
+=======
+  "updated_at": "2026-05-17T18:21:30Z",
+>>>>>>> Stashed changes
   "mode": "paper",
   "account": {
     "balance_usd": 1000.0,
@@ -105,10 +109,11 @@
   },
   "open_positions": [],
   "last_decision": {
-    "at": "2026-05-17T17:42:53Z",
-    "asset": "SPY",
+    "at": "2026-05-17T18:21:30Z",
+    "asset": "BTC",
     "action": "hold",
     "rationale": "hold-all: empty response"
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
@@ -124,6 +129,8 @@
 >>>>>>> Stashed changes
 =======
     "rationale": "No clear intraday signal. Long-term EMA20 is slightly above current price, RSI14 is neutral at 53.24. No strong conviction for new direction."
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   }
 }
