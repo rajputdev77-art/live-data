@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "updated_at": "2026-05-17T14:50:46Z",
   "mode": "paper",
   "account": {
@@ -70,5 +71,21 @@
     "asset": "SPY",
     "action": "hold",
     "rationale": "SPY is trading slightly below the 4h EMA20 but above EMA50 with RSI at 53. Existing long position is held to see if it can reclaim EMA20."
+=======
+  "updated_at": "2026-05-17T15:02:11Z",
+  "mode": "paper",
+  "account": {
+    "balance_usd": 1000.0,
+    "total_value_usd": 1000.0,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
+  },
+  "open_positions": [],
+  "last_decision": {
+    "at": "2026-05-17T15:02:11Z",
+    "asset": "SPY",
+    "action": "hold",
+    "rationale": "hold-all: empty response"
+>>>>>>> Stashed changes
   }
 }
