@@ -58,4 +58,8 @@
 {"at": "2026-05-17T05:52:17Z", "total_value": 1000.8260795223302, "pnl_pct": 0.0, "open_positions": 7}
 {"at": "2026-05-17T06:56:56Z", "total_value": 1000.8260795223302, "pnl_pct": 0.0, "open_positions": 7}
 {"at": "2026-05-17T07:57:26Z", "total_value": 1000.8260795223302, "pnl_pct": 0.0, "open_positions": 7}
+<<<<<<< Updated upstream
 {"at": "2026-05-17T08:46:02Z", "total_value": 1000.0, "pnl_pct": 0.0, "open_positions": 0}
+=======
+{"at": "2026-05-17T08:57:57Z", "total_value": 1000.8260795223302, "pnl_pct": 0.0, "open_positions": 7}
+>>>>>>> Stashed changes
