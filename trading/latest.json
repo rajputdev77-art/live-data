@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T06:56:56Z",
+  "updated_at": "2026-05-17T07:57:26Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1000.8260795223302,
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-17T06:56:56Z",
+    "at": "2026-05-17T07:57:26Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "empty response"
+    "rationale": "Insufficient intraday and 4h structural data to make a decision."
   }
 }
