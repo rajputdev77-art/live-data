@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
   "updated_at": "2026-05-17T09:12:19Z",
+=======
+  "updated_at": "2026-05-17T09:40:52Z",
+>>>>>>> Stashed changes
   "mode": "paper",
   "account": {
     "balance_usd": 971.3668197988806,
@@ -18,8 +22,13 @@
     }
   ],
   "last_decision": {
+<<<<<<< Updated upstream
     "at": "2026-05-17T09:12:19Z",
     "asset": "BTC",
+=======
+    "at": "2026-05-17T09:40:52Z",
+    "asset": "SPY",
+>>>>>>> Stashed changes
     "action": "hold",
     "rationale": "BTC is below long-term EMAs and has a low long-term RSI, indicating weakness. Intraday momentum is neutral. No clear setup for entry."
   }
