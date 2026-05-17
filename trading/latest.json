@@ -2,9 +2,13 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "updated_at": "2026-05-17T18:54:34Z",
 =======
   "updated_at": "2026-05-17T19:55:05Z",
+>>>>>>> Stashed changes
+=======
+  "updated_at": "2026-05-17T20:55:35Z",
 >>>>>>> Stashed changes
   "mode": "paper",
   "account": {
@@ -72,9 +76,10 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-17T19:55:05Z",
+    "at": "2026-05-17T20:55:35Z",
     "asset": "SPY",
     "action": "hold",
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "rationale": "Neutral long-term indicators, lack of intraday confirmation. No existing position."
 =======
@@ -101,6 +106,9 @@
     "rationale": "Long-term RSI (53.24) is neutral, and price is near the 4h EMA20 (738.32). No active position, and lack of intraday data prevents new entries."
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+    "rationale": "Long-term EMA20 is above EMA50, suggesting a bullish bias, but RSI14 is at 53.24, indicating neutral momentum. No intraday data to confirm direction. Hold existing position."
 >>>>>>> Stashed changes
   }
 }
