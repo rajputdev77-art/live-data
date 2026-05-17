@@ -4,12 +4,16 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "updated_at": "2026-05-17T18:54:34Z",
 =======
   "updated_at": "2026-05-17T19:55:05Z",
 >>>>>>> Stashed changes
 =======
   "updated_at": "2026-05-17T20:55:35Z",
+>>>>>>> Stashed changes
+=======
+  "updated_at": "2026-05-17T21:56:06Z",
 >>>>>>> Stashed changes
   "mode": "paper",
   "account": {
@@ -77,9 +81,10 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-17T20:55:35Z",
+    "at": "2026-05-17T21:56:06Z",
     "asset": "SPY",
     "action": "hold",
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "rationale": "Neutral long-term indicators, lack of intraday confirmation. No existing position."
@@ -116,6 +121,9 @@
     "rationale": "Long-term EMA20 is above EMA50, suggesting a bullish bias, but RSI14 is at 53.24, indicating neutral momentum. No intraday data to confirm direction. Hold existing position."
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+    "rationale": "Long-term RSI14 (53.24) is neutral. Current price (737.71) is slightly below EMA20 (738.32) but above EMA50 (725.38). No strong directional signal from limited data."
 >>>>>>> Stashed changes
   }
 }
