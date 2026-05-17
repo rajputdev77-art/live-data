@@ -1,6 +1,7 @@
 {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "updated_at": "2026-05-17T14:50:46Z",
 =======
   "updated_at": "2026-05-17T15:51:16Z",
@@ -78,6 +79,9 @@
     "rationale": "SPY is trading slightly below the 4h EMA20 but above EMA50 with RSI at 53. Existing long position is held to see if it can reclaim EMA20."
 =======
   "updated_at": "2026-05-17T15:02:11Z",
+=======
+  "updated_at": "2026-05-17T16:22:32Z",
+>>>>>>> Stashed changes
   "mode": "paper",
   "account": {
     "balance_usd": 1000.0,
@@ -87,13 +91,16 @@
   },
   "open_positions": [],
   "last_decision": {
-    "at": "2026-05-17T15:02:11Z",
+    "at": "2026-05-17T16:22:32Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
     "rationale": "No active position. Lack of intraday data prevents new entry."
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   }
 }
