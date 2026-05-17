@@ -3,6 +3,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "updated_at": "2026-05-17T14:50:46Z",
 =======
   "updated_at": "2026-05-17T15:51:16Z",
@@ -87,6 +88,9 @@
 =======
   "updated_at": "2026-05-17T16:22:32Z",
 >>>>>>> Stashed changes
+=======
+  "updated_at": "2026-05-17T17:42:53Z",
+>>>>>>> Stashed changes
   "mode": "paper",
   "account": {
     "balance_usd": 1000.0,
@@ -96,10 +100,11 @@
   },
   "open_positions": [],
   "last_decision": {
-    "at": "2026-05-17T16:22:32Z",
+    "at": "2026-05-17T17:42:53Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
@@ -109,6 +114,8 @@
 >>>>>>> Stashed changes
 =======
     "rationale": "Insufficient intraday data to make a decision. Holding current position."
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   }
 }
