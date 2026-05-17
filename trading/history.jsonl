@@ -137,7 +137,11 @@
 =======
 {"at": "2026-05-17T18:21:30Z", "total_value": 1000.0, "pnl_pct": 0.0, "open_positions": 0}
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 =======
 {"at": "2026-05-17T18:49:16Z", "total_value": 970.8428441349724, "pnl_pct": -0.06, "open_positions": 1}
 >>>>>>> Stashed changes
 {"at": "2026-05-17T18:54:34Z", "total_value": 1000.8260795223302, "pnl_pct": 0.0, "open_positions": 7}
+=======
+{"at": "2026-05-17T19:03:13Z", "total_value": 1000.0, "pnl_pct": 0.0, "open_positions": 0}
+>>>>>>> Stashed changes
