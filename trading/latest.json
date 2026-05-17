@@ -1,6 +1,7 @@
 {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "updated_at": "2026-05-17T10:48:09Z",
 =======
   "updated_at": "2026-05-17T11:48:51Z",
@@ -78,6 +79,9 @@
     "rationale": "BTC is in a strong intraday uptrend (RSI7=65.79, RSI14=69.79, EMA20 above recent prices) but long-term EMA20 is above current price, indicating potential resistance. No clear entry signal."
 =======
   "updated_at": "2026-05-17T11:01:10Z",
+=======
+  "updated_at": "2026-05-17T12:21:30Z",
+>>>>>>> Stashed changes
   "mode": "paper",
   "account": {
     "balance_usd": 1000.0,
@@ -87,13 +91,16 @@
   },
   "open_positions": [],
   "last_decision": {
-    "at": "2026-05-17T11:01:10Z",
+    "at": "2026-05-17T12:21:30Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
     "rationale": "Long-term EMAs are close, and RSI is neutral. Insufficient intraday data to make a directional decision. Hold current position."
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   }
 }
