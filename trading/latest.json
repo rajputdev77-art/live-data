@@ -3,6 +3,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "updated_at": "2026-05-17T10:48:09Z",
 =======
   "updated_at": "2026-05-17T11:48:51Z",
@@ -87,6 +88,9 @@
 =======
   "updated_at": "2026-05-17T12:21:30Z",
 >>>>>>> Stashed changes
+=======
+  "updated_at": "2026-05-17T13:41:51Z",
+>>>>>>> Stashed changes
   "mode": "paper",
   "account": {
     "balance_usd": 1000.0,
@@ -96,10 +100,11 @@
   },
   "open_positions": [],
   "last_decision": {
-    "at": "2026-05-17T12:21:30Z",
+    "at": "2026-05-17T13:41:51Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
@@ -109,6 +114,8 @@
 >>>>>>> Stashed changes
 =======
     "rationale": "Long-term indicators (EMA20, EMA50, RSI14) suggest a bullish trend. No existing position. Hold."
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   }
 }
