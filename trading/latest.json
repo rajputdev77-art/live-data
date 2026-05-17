@@ -3,6 +3,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "updated_at": "2026-05-17T18:54:34Z",
 =======
   "updated_at": "2026-05-17T19:55:05Z",
@@ -87,6 +88,9 @@
 =======
   "updated_at": "2026-05-17T20:23:34Z",
 >>>>>>> Stashed changes
+=======
+  "updated_at": "2026-05-17T21:43:54Z",
+>>>>>>> Stashed changes
   "mode": "paper",
   "account": {
     "balance_usd": 1000.0,
@@ -96,10 +100,11 @@
   },
   "open_positions": [],
   "last_decision": {
-    "at": "2026-05-17T20:23:34Z",
+    "at": "2026-05-17T21:43:54Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
@@ -109,6 +114,8 @@
 >>>>>>> Stashed changes
 =======
     "rationale": "Long-term EMA20 is above EMA50, suggesting a bullish bias, but RSI14 is at 53.24, indicating neutral momentum. No intraday data to confirm direction. Hold existing position."
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   }
 }
