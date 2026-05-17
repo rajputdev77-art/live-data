@@ -6,6 +6,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "updated_at": "2026-05-17T10:48:09Z",
 =======
   "updated_at": "2026-05-17T11:48:51Z",
@@ -16,75 +17,31 @@
 =======
   "updated_at": "2026-05-17T13:50:13Z",
 >>>>>>> Stashed changes
+=======
+  "updated_at": "2026-05-17T14:48:42Z",
+>>>>>>> Stashed changes
   "mode": "paper",
   "account": {
-    "balance_usd": 1000.8260795223302,
-    "total_value_usd": 1000.8260795223302,
-    "pnl_usd": 0.0,
-    "pnl_pct": 0.0
+    "balance_usd": 970.9284241355491,
+    "total_value_usd": 970.9284241355491,
+    "pnl_usd": -0.47,
+    "pnl_pct": -0.05
   },
   "open_positions": [
     {
-      "asset": "QQQ",
-      "size": 0.13964140088253366,
-      "entry": 716.21793,
+      "asset": "SOL",
+      "size": 0.8073584960064588,
+      "entry": 86.76386025,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2104018879517497
-    },
-    {
-      "asset": "AAPL",
-      "size": -0.33437029603612645,
-      "entry": 298.800525,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.401068810837935
-    },
-    {
-      "asset": "TSLA",
-      "size": -0.22409735762791635,
-      "entry": 445.966905,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 5.3104137944597625
-    },
-    {
-      "asset": "NVDA",
-      "size": -0.4365686317353494,
-      "entry": 228.71558500000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 1.587182369007569
-    },
-    {
-      "asset": "AMZN",
-      "size": -0.3802816901408451,
-      "entry": 262.56865,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.6279781690140984
-    },
-    {
-      "asset": "GOOG",
-      "size": -0.2565287728218165,
-      "entry": 389.23528500000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.0273246244511147
-    },
-    {
-      "asset": "AVGO",
-      "size": -0.23408393279752562,
-      "entry": 426.556615,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.35735604306770613
+      "unrealized_pnl": -0.3740978345491718
     }
   ],
   "last_decision": {
-    "at": "2026-05-17T13:50:13Z",
-    "asset": "SPY",
+    "at": "2026-05-17T14:48:42Z",
+    "asset": "BTC",
     "action": "hold",
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -131,6 +88,9 @@
     "rationale": "Long-term EMA20 is slightly above current price, and RSI14 is 53.24, indicating a neutral to slightly bullish bias. However, intraday data is missing, preventing any decisive action."
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+    "rationale": "BTC is below its 4h EMA20 and EMA50, indicating a bearish trend. RSI is below 50, suggesting weak momentum. No clear bullish setup to initiate a long position."
 >>>>>>> Stashed changes
   }
 }
