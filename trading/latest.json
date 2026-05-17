@@ -1,26 +1,74 @@
 {
-  "updated_at": "2026-05-17T01:10:20Z",
+  "updated_at": "2026-05-17T01:45:46Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 970.8662575313566,
-    "total_value_usd": 970.8662575313566,
-    "pnl_usd": -2.04,
-    "pnl_pct": -0.21
+    "balance_usd": 1000.8260795223302,
+    "total_value_usd": 1000.8260795223302,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": 0.8073584960064588,
-      "entry": 86.76386025,
+      "asset": "QQQ",
+      "size": 0.13964140088253366,
+      "entry": 716.21793,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.43626443874166765
+      "unrealized_pnl": -1.2104018879517497
+    },
+    {
+      "asset": "AAPL",
+      "size": -0.33437029603612645,
+      "entry": 298.800525,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.401068810837935
+    },
+    {
+      "asset": "TSLA",
+      "size": -0.22409735762791635,
+      "entry": 445.966905,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 5.3104137944597625
+    },
+    {
+      "asset": "NVDA",
+      "size": -0.4365686317353494,
+      "entry": 228.71558500000003,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 1.587182369007569
+    },
+    {
+      "asset": "AMZN",
+      "size": -0.3802816901408451,
+      "entry": 262.56865,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.6279781690140984
+    },
+    {
+      "asset": "GOOG",
+      "size": -0.2565287728218165,
+      "entry": 389.23528500000003,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.0273246244511147
+    },
+    {
+      "asset": "AVGO",
+      "size": -0.23408393279752562,
+      "entry": 426.556615,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.35735604306770613
     }
   ],
   "last_decision": {
-    "at": "2026-05-17T01:10:20Z",
-    "asset": "BTC",
+    "at": "2026-05-17T01:45:46Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "BTC is below its 4h EMA20 and EMA50, and intraday RSI is below 50. MACD is negative. No strong bullish signal to initiate a buy. Hold."
+    "rationale": "No intraday data available to assess short-term trend or momentum. Long-term RSI is neutral (53.24) and price is slightly below the long-term EMA20. Holding is the prudent action."
   }
 }
