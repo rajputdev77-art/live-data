@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T20:23:29Z",
+  "updated_at": "2026-05-18T20:29:46Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1000.0,
@@ -9,8 +9,8 @@
   },
   "open_positions": [],
   "last_decision": {
-    "at": "2026-05-18T20:23:29Z",
-    "asset": "BTC",
+    "at": "2026-05-18T20:29:46Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
