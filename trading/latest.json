@@ -1,30 +1,5 @@
 {
-<<<<<<< Updated upstream
-  "updated_at": "2026-05-18T02:56:09Z",
-  "mode": "paper",
-  "account": {
-    "balance_usd": 969.8061958261001,
-    "total_value_usd": 969.8061958261001,
-    "pnl_usd": -1.59,
-    "pnl_pct": -0.16
-  },
-  "open_positions": [
-    {
-      "asset": "SOL",
-      "size": 0.8073584960064588,
-      "entry": 86.76386025,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.49632614399815
-    }
-  ],
-  "last_decision": {
-    "at": "2026-05-18T02:56:09Z",
-    "asset": "BTC",
-    "action": "hold",
-    "rationale": "empty response"
-=======
-  "updated_at": "2026-05-18T03:02:09Z",
+  "updated_at": "2026-05-18T03:05:17Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1000.0,
@@ -34,10 +9,9 @@
   },
   "open_positions": [],
   "last_decision": {
-    "at": "2026-05-18T03:02:09Z",
-    "asset": "BTC",
+    "at": "2026-05-18T03:05:17Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
->>>>>>> Stashed changes
   }
 }
