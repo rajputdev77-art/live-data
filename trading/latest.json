@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "updated_at": "2026-05-18T02:56:09Z",
   "mode": "paper",
   "account": {
@@ -22,5 +23,21 @@
     "asset": "BTC",
     "action": "hold",
     "rationale": "empty response"
+=======
+  "updated_at": "2026-05-18T03:02:09Z",
+  "mode": "paper",
+  "account": {
+    "balance_usd": 1000.0,
+    "total_value_usd": 1000.0,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
+  },
+  "open_positions": [],
+  "last_decision": {
+    "at": "2026-05-18T03:02:09Z",
+    "asset": "BTC",
+    "action": "hold",
+    "rationale": "hold-all: empty response"
+>>>>>>> Stashed changes
   }
 }
