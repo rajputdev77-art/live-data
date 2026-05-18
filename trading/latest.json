@@ -1,129 +1,26 @@
 {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  "updated_at": "2026-05-17T22:56:32Z",
-=======
-  "updated_at": "2026-05-17T23:57:54Z",
->>>>>>> Stashed changes
-=======
-  "updated_at": "2026-05-18T00:59:19Z",
->>>>>>> Stashed changes
-=======
-  "updated_at": "2026-05-18T02:00:44Z",
->>>>>>> Stashed changes
+  "updated_at": "2026-05-18T02:56:09Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1000.8260795223302,
-    "total_value_usd": 1000.8260795223302,
-    "pnl_usd": 0.0,
-    "pnl_pct": 0.0
+    "balance_usd": 969.8061958261001,
+    "total_value_usd": 969.8061958261001,
+    "pnl_usd": -1.59,
+    "pnl_pct": -0.16
   },
   "open_positions": [
     {
-      "asset": "QQQ",
-      "size": 0.13964140088253366,
-      "entry": 716.21793,
+      "asset": "SOL",
+      "size": 0.8073584960064588,
+      "entry": 86.76386025,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2104018879517497
-    },
-    {
-      "asset": "AAPL",
-      "size": -0.33437029603612645,
-      "entry": 298.800525,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.401068810837935
-    },
-    {
-      "asset": "TSLA",
-      "size": -0.22409735762791635,
-      "entry": 445.966905,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 5.3104137944597625
-    },
-    {
-      "asset": "NVDA",
-      "size": -0.4365686317353494,
-      "entry": 228.71558500000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 1.587182369007569
-    },
-    {
-      "asset": "AMZN",
-      "size": -0.3802816901408451,
-      "entry": 262.56865,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.6279781690140984
-    },
-    {
-      "asset": "GOOG",
-      "size": -0.2565287728218165,
-      "entry": 389.23528500000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.0273246244511147
-    },
-    {
-      "asset": "AVGO",
-      "size": -0.23408393279752562,
-      "entry": 426.556615,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.35735604306770613
+      "unrealized_pnl": -1.49632614399815
     }
   ],
   "last_decision": {
-    "at": "2026-05-18T02:00:44Z",
-    "asset": "SPY",
+    "at": "2026-05-18T02:56:09Z",
+    "asset": "BTC",
     "action": "hold",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    "rationale": "Insufficient intraday data for decision making."
-=======
-  "updated_at": "2026-05-17T23:04:15Z",
-=======
-  "updated_at": "2026-05-18T00:24:35Z",
->>>>>>> Stashed changes
-=======
-  "updated_at": "2026-05-18T01:44:56Z",
->>>>>>> Stashed changes
-  "mode": "paper",
-  "account": {
-    "balance_usd": 1000.0,
-    "total_value_usd": 1000.0,
-    "pnl_usd": 0.0,
-    "pnl_pct": 0.0
-  },
-  "open_positions": [],
-  "last_decision": {
-    "at": "2026-05-18T01:44:56Z",
-    "asset": "SPY",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
     "rationale": "empty response"
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
-    "rationale": "empty response"
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
-    "rationale": "empty response"
->>>>>>> Stashed changes
   }
 }
