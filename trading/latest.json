@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-19T18:24:52Z",
+  "updated_at": "2026-05-19T19:25:43Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 995.071101814013,
-    "total_value_usd": 995.071101814013,
-    "pnl_usd": -4.93,
-    "pnl_pct": -0.49
+    "balance_usd": 992.7938174654345,
+    "total_value_usd": 992.7938174654345,
+    "pnl_usd": -7.21,
+    "pnl_pct": -0.72
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 738.66915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.29718948936745526
+      "unrealized_pnl": -0.5985574969524509
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 705.85275,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.1789865343727828
+      "unrealized_pnl": -0.5390148830616669
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 222.46117499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.1119069035304876
+      "unrealized_pnl": -0.4862491567348655
     },
     {
       "asset": "AAPL",
@@ -38,7 +38,7 @@
       "entry": 297.58871999999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.20887573964497474
+      "unrealized_pnl": 0.18197955890264553
     },
     {
       "asset": "MSFT",
@@ -46,7 +46,7 @@
       "entry": 423.681735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0465286797175721
+      "unrealized_pnl": -1.2755885895104802
     },
     {
       "asset": "GOOG",
@@ -54,7 +54,7 @@
       "entry": 392.92344,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.5118640618640644
+      "unrealized_pnl": 1.8374643874643974
     },
     {
       "asset": "TSLA",
@@ -62,7 +62,7 @@
       "entry": 410.174985,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2415506012635102
+      "unrealized_pnl": -1.6037722272361317
     },
     {
       "asset": "AVGO",
@@ -70,13 +70,13 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.947289586305273
+      "unrealized_pnl": -2.672444127436992
     }
   ],
   "last_decision": {
-    "at": "2026-05-19T18:24:52Z",
+    "at": "2026-05-19T19:25:43Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "action": "buy",
+    "rationale": "SPY's current price is below its ema20, indicating a potential buy opportunity."
   }
 }
