@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T10:18:42Z",
+  "updated_at": "2026-05-19T14:07:52Z",
   "channel": {
     "id": null,
     "title": "AI News Daily",
@@ -8,12 +8,12 @@
     "view_count": null
   },
   "last_run": {
-    "started_at": "2026-05-19T10:07:28Z",
-    "finished_at": "2026-05-19T10:18:42Z",
+    "started_at": "2026-05-19T14:00:28Z",
+    "finished_at": "2026-05-19T14:07:52Z",
     "status": "success",
-    "duration_seconds": 674.5,
-    "video_url": "https://www.youtube.com/watch?v=FyVjFM0VOj4",
-    "video_title": "Driver EXPOSED",
+    "duration_seconds": 443.9,
+    "video_url": "https://www.youtube.com/watch?v=zJP3E9t9YsA",
+    "video_title": "OMG ACM Moments!",
     "error": null,
     "stage_timings": {}
   },
@@ -28,9 +28,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 48,
-    "runs_succeeded": 46,
-    "videos_published": 46
+    "runs_attempted": 49,
+    "runs_succeeded": 47,
+    "videos_published": 47
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
