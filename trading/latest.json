@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-19T12:18:25Z",
+  "updated_at": "2026-05-19T13:18:45Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 997.4420329962487,
-    "total_value_usd": 997.4420329962487,
-    "pnl_usd": -2.56,
-    "pnl_pct": -0.26
+    "balance_usd": 997.6867666972764,
+    "total_value_usd": 997.6867666972764,
+    "pnl_usd": -2.31,
+    "pnl_pct": -0.23
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 738.66915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.40486929432479957
+      "unrealized_pnl": -0.4929093864282774
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 705.85275,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.741708008504608
+      "unrealized_pnl": -0.8395109851169474
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 222.46117499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.1113897009219518
+      "unrealized_pnl": -1.2373172925567624
     },
     {
       "asset": "AAPL",
@@ -46,7 +46,7 @@
       "entry": 423.681735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.049999999999994334
+      "unrealized_pnl": 1.473130328004348
     },
     {
       "asset": "AMZN",
@@ -62,7 +62,7 @@
       "entry": 392.92344,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.049999999999994084
+      "unrealized_pnl": -1.0166259666259636
     },
     {
       "asset": "TSLA",
@@ -82,9 +82,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-19T12:18:25Z",
+    "at": "2026-05-19T13:18:45Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "recent trading history and risk management limits"
+    "rationale": "Current price is below the entry price, and RSI14 is below 50, indicating a potential buy opportunity, but given the current market conditions and risk management limits, it's best to hold."
   }
 }
