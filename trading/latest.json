@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-20T12:01:22Z",
+  "updated_at": "2026-05-20T13:03:10Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 993.4591327331686,
-    "total_value_usd": 993.4591327331686,
-    "pnl_usd": 0.0,
-    "pnl_pct": 0.0
+    "balance_usd": 998.2260675858709,
+    "total_value_usd": 998.2260675858709,
+    "pnl_usd": 4.77,
+    "pnl_pct": 0.48
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 738.66915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7109779222538245
+      "unrealized_pnl": -0.25046051740483477
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 705.85275,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6410701630049572
+      "unrealized_pnl": 0.0364635010630757
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 222.46117499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4817517427479121
+      "unrealized_pnl": 0.7820215875871463
     },
     {
       "asset": "AAPL",
@@ -38,15 +38,7 @@
       "entry": 297.58871999999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5215438407746167
-    },
-    {
-      "asset": "MSFT",
-      "size": 0.23614423689989844,
-      "entry": 423.681735,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.4562389307388992
+      "unrealized_pnl": 0.5249058633674054
     },
     {
       "asset": "GOOG",
@@ -54,7 +46,7 @@
       "entry": 392.92344,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.1096459096459177
+      "unrealized_pnl": 2.002808302808307
     },
     {
       "asset": "TSLA",
@@ -62,7 +54,7 @@
       "entry": 410.174985,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.525717735444051
+      "unrealized_pnl": -0.3890491987218597
     },
     {
       "asset": "AVGO",
@@ -70,13 +62,13 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.306300523062285
+      "unrealized_pnl": -0.3804802662862587
     }
   ],
   "last_decision": {
-    "at": "2026-05-20T12:01:22Z",
+    "at": "2026-05-20T13:03:10Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is below ema20, and macd is negative, indicating a potential downtrend. Holding the current position to avoid churn and waiting for a potential reversal."
+    "rationale": "hold-all: empty response"
   }
 }
