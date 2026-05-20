@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-20T13:03:10Z",
+  "updated_at": "2026-05-20T14:04:31Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 998.2260675858709,
-    "total_value_usd": 998.2260675858709,
-    "pnl_usd": 4.77,
-    "pnl_pct": 0.48
+    "balance_usd": 996.6002708064792,
+    "total_value_usd": 996.6002708064792,
+    "pnl_usd": 3.14,
+    "pnl_pct": 0.32
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 738.66915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.25046051740483477
+      "unrealized_pnl": -0.44143979412162765
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 705.85275,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0364635010630757
+      "unrealized_pnl": -0.01810772501771677
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 222.46117499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.7820215875871463
+      "unrealized_pnl": -0.20740948954349847
     },
     {
       "asset": "AAPL",
@@ -38,7 +38,7 @@
       "entry": 297.58871999999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5249058633674054
+      "unrealized_pnl": 0.6963690155998045
     },
     {
       "asset": "GOOG",
@@ -46,7 +46,7 @@
       "entry": 392.92344,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.002808302808307
+      "unrealized_pnl": 2.5573463573463635
     },
     {
       "asset": "TSLA",
@@ -54,7 +54,7 @@
       "entry": 410.174985,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.3890491987218597
+      "unrealized_pnl": -0.08170963729053769
     },
     {
       "asset": "AVGO",
@@ -62,13 +62,13 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.3804802662862587
+      "unrealized_pnl": -1.8046362339514874
     }
   ],
   "last_decision": {
-    "at": "2026-05-20T13:03:10Z",
+    "at": "2026-05-20T14:04:31Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "action": "buy",
+    "rationale": "Current price is below ema20"
   }
 }
