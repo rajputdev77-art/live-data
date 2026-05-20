@@ -1,73 +1,16 @@
 {
-  "updated_at": "2026-05-20T18:11:46Z",
+  "updated_at": "2026-05-20T19:04:31Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1001.6595698063414,
-    "total_value_usd": 1001.6595698063414,
-    "pnl_usd": 8.2,
-    "pnl_pct": 0.83
+    "balance_usd": 1000.0,
+    "total_value_usd": 1000.0,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
-  "open_positions": [
-    {
-      "asset": "SPY",
-      "size": 0.13544629554381687,
-      "entry": 738.66915,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.19515779493431784
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.14174344436569808,
-      "entry": 705.85275,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.7409284195605991
-    },
-    {
-      "asset": "NVDA",
-      "size": 0.44974139869574997,
-      "entry": 222.46117499999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 1.015887114908941
-    },
-    {
-      "asset": "AAPL",
-      "size": 0.33620225927918235,
-      "entry": 297.58871999999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 1.274636901559988
-    },
-    {
-      "asset": "GOOG",
-      "size": -0.2543752543752544,
-      "entry": 392.92344,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 2.463227513227518
-    },
-    {
-      "asset": "TSLA",
-      "size": 0.24392028685025732,
-      "entry": 410.174985,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.6037063687586859
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.2377555872563005,
-      "entry": 420.8103,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.5338326200665682
-    }
-  ],
+  "open_positions": [],
   "last_decision": {
-    "at": "2026-05-20T18:11:46Z",
-    "asset": "SPY",
+    "at": "2026-05-20T19:04:31Z",
+    "asset": "BTC",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
