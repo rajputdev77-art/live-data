@@ -1,16 +1,81 @@
 {
-  "updated_at": "2026-05-20T09:50:34Z",
+  "updated_at": "2026-05-20T09:52:08Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1000.0,
-    "total_value_usd": 1000.0,
+    "balance_usd": 993.4591327331686,
+    "total_value_usd": 993.4591327331686,
     "pnl_usd": 0.0,
     "pnl_pct": 0.0
   },
-  "open_positions": [],
+  "open_positions": [
+    {
+      "asset": "SPY",
+      "size": 0.13544629554381687,
+      "entry": 738.66915,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.7109779222538245
+    },
+    {
+      "asset": "QQQ",
+      "size": 0.14174344436569808,
+      "entry": 705.85275,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.6410701630049572
+    },
+    {
+      "asset": "NVDA",
+      "size": 0.44974139869574997,
+      "entry": 222.46117499999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.4817517427479121
+    },
+    {
+      "asset": "AAPL",
+      "size": 0.33620225927918235,
+      "entry": 297.58871999999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.5215438407746167
+    },
+    {
+      "asset": "MSFT",
+      "size": 0.23614423689989844,
+      "entry": 423.681735,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.4562389307388992
+    },
+    {
+      "asset": "GOOG",
+      "size": -0.2543752543752544,
+      "entry": 392.92344,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 2.1096459096459177
+    },
+    {
+      "asset": "TSLA",
+      "size": 0.24392028685025732,
+      "entry": 410.174985,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.525717735444051
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.2377555872563005,
+      "entry": 420.8103,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -2.306300523062285
+    }
+  ],
   "last_decision": {
-    "at": "2026-05-20T09:50:34Z",
-    "asset": "BTC",
+    "at": "2026-05-20T09:52:08Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
