@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-20T17:09:57Z",
+  "updated_at": "2026-05-20T18:11:46Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1001.1730320083707,
-    "total_value_usd": 1001.1730320083707,
-    "pnl_usd": 7.71,
-    "pnl_pct": 0.78
+    "balance_usd": 1001.6595698063414,
+    "total_value_usd": 1001.6595698063414,
+    "pnl_usd": 8.2,
+    "pnl_pct": 0.83
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 738.66915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.050230258702427
+      "unrealized_pnl": 0.19515779493431784
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 705.85275,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5247696669028966
+      "unrealized_pnl": 0.7409284195605991
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 222.46117499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9506746120980526
+      "unrealized_pnl": 1.015887114908941
     },
     {
       "asset": "AAPL",
@@ -38,7 +38,7 @@
       "entry": 297.58871999999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.95188273265198
+      "unrealized_pnl": 1.274636901559988
     },
     {
       "asset": "GOOG",
@@ -46,7 +46,7 @@
       "entry": 392.92344,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.9109279609279635
+      "unrealized_pnl": 2.463227513227518
     },
     {
       "asset": "TSLA",
@@ -54,7 +54,7 @@
       "entry": 410.174985,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5671183257311528
+      "unrealized_pnl": 0.6037063687586859
     },
     {
       "asset": "AVGO",
@@ -62,11 +62,11 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.682429862101756
+      "unrealized_pnl": -0.5338326200665682
     }
   ],
   "last_decision": {
-    "at": "2026-05-20T17:09:57Z",
+    "at": "2026-05-20T18:11:46Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
