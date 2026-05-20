@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-20T16:08:10Z",
+  "updated_at": "2026-05-20T17:09:57Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1001.8742194606449,
-    "total_value_usd": 1001.8742194606449,
-    "pnl_usd": 8.42,
-    "pnl_pct": 0.85
+    "balance_usd": 1001.1730320083707,
+    "total_value_usd": 1001.1730320083707,
+    "pnl_usd": 7.71,
+    "pnl_pct": 0.78
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 738.66915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.23172829473114592
+      "unrealized_pnl": 0.050230258702427
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 705.85275,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.783451452870302
+      "unrealized_pnl": 0.5247696669028966
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 222.46117499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.2452552282437694
+      "unrealized_pnl": 0.9506746120980526
     },
     {
       "asset": "AAPL",
@@ -38,7 +38,7 @@
       "entry": 297.58871999999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5820602474448717
+      "unrealized_pnl": 0.95188273265198
     },
     {
       "asset": "GOOG",
@@ -46,7 +46,7 @@
       "entry": 392.92344,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.486121286121299
+      "unrealized_pnl": 2.9109279609279635
     },
     {
       "asset": "TSLA",
@@ -54,7 +54,7 @@
       "entry": 410.174985,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.7646937580798618
+      "unrealized_pnl": 0.5671183257311528
     },
     {
       "asset": "AVGO",
@@ -62,11 +62,11 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.11894912030432275
+      "unrealized_pnl": -0.682429862101756
     }
   ],
   "last_decision": {
-    "at": "2026-05-20T16:08:10Z",
+    "at": "2026-05-20T17:09:57Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
