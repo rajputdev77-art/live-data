@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T14:07:52Z",
+  "updated_at": "2026-05-20T15:38:17Z",
   "channel": {
     "id": null,
     "title": "AI News Daily",
@@ -8,12 +8,12 @@
     "view_count": null
   },
   "last_run": {
-    "started_at": "2026-05-19T14:00:28Z",
-    "finished_at": "2026-05-19T14:07:52Z",
+    "started_at": "2026-05-20T15:30:28Z",
+    "finished_at": "2026-05-20T15:38:17Z",
     "status": "success",
-    "duration_seconds": 443.9,
-    "video_url": "https://www.youtube.com/watch?v=zJP3E9t9YsA",
-    "video_title": "OMG ACM Moments!",
+    "duration_seconds": 469.5,
+    "video_url": "https://www.youtube.com/watch?v=tGh1LV58QB4",
+    "video_title": "Ebola Spreads Fast",
     "error": null,
     "stage_timings": {}
   },
@@ -28,9 +28,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 49,
-    "runs_succeeded": 47,
-    "videos_published": 47
+    "runs_attempted": 50,
+    "runs_succeeded": 48,
+    "videos_published": 48
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
