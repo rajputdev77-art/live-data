@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-20T05:37:54Z",
+  "updated_at": "2026-05-20T05:43:45Z",
   "mode": "paper",
   "account": {
     "balance_usd": 993.4591327331686,
     "total_value_usd": 993.4591327331686,
-    "pnl_usd": -6.54,
-    "pnl_pct": -0.65
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
   "open_positions": [
     {
@@ -74,9 +74,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-20T05:37:54Z",
+    "at": "2026-05-20T05:43:45Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "bearish trend"
+    "rationale": "hold-all: empty response"
   }
 }
