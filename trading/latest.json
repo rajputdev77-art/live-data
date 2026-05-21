@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-21T13:34:37Z",
+  "updated_at": "2026-05-21T14:35:58Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1004.0287637402139,
-    "total_value_usd": 1004.0287637402139,
-    "pnl_usd": 10.57,
-    "pnl_pct": 1.06
+    "balance_usd": 997.5247555489964,
+    "total_value_usd": 997.5247555489964,
+    "pnl_usd": 4.07,
+    "pnl_pct": 0.41
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 738.66915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.09469727752944843
+      "unrealized_pnl": -0.02020181498035531
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 705.85275,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.4475194897235969
+      "unrealized_pnl": 0.352551381998585
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 222.46117499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.620114684056683
+      "unrealized_pnl": -1.974893186417799
     },
     {
       "asset": "AAPL",
@@ -38,7 +38,7 @@
       "entry": 297.58871999999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.3435583647122151
+      "unrealized_pnl": 1.5856239913932357
     },
     {
       "asset": "GOOG",
@@ -46,7 +46,7 @@
       "entry": 392.92344,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.1271469271469354
+      "unrealized_pnl": 2.164336589336591
     },
     {
       "asset": "TSLA",
@@ -54,7 +54,7 @@
       "entry": 410.174985,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.3819584359831274
+      "unrealized_pnl": 0.9012891187160065
     },
     {
       "asset": "AVGO",
@@ -62,13 +62,13 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6966951973371346
+      "unrealized_pnl": -1.3838088445078398
     }
   ],
   "last_decision": {
-    "at": "2026-05-21T13:34:37Z",
+    "at": "2026-05-21T14:35:58Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "recent trading history and risk management limits"
   }
 }
