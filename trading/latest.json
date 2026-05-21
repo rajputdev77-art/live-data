@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T07:27:43Z",
+  "updated_at": "2026-05-21T08:28:03Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1000.0654684518615,
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-21T07:27:43Z",
+    "at": "2026-05-21T08:28:03Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "action": "buy",
+    "rationale": "SPY is above ema20 and macd is positive"
   }
 }
