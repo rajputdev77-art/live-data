@@ -1,17 +1,66 @@
 {
-  "updated_at": "2026-05-21T23:15:15Z",
+  "updated_at": "2026-05-21T23:48:19Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1000.0,
-    "total_value_usd": 1000.0,
-    "pnl_usd": 0.0,
-    "pnl_pct": 0.0
+    "balance_usd": 1001.4197010615212,
+    "total_value_usd": 1001.4197010615212,
+    "pnl_usd": 7.96,
+    "pnl_pct": 0.8
   },
-  "open_positions": [],
+  "open_positions": [
+    {
+      "asset": "SPY",
+      "size": 0.13544629554381687,
+      "entry": 738.66915,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.5744074224569989
+    },
+    {
+      "asset": "QQQ",
+      "size": 0.14174344436569808,
+      "entry": 705.85275,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 1.2923104181431626
+    },
+    {
+      "asset": "NVDA",
+      "size": 0.44974139869574997,
+      "entry": 222.46117499999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.4801776478524764
+    },
+    {
+      "asset": "GOOG",
+      "size": -0.2543752543752544,
+      "entry": 392.92344,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 2.41235246235247
+    },
+    {
+      "asset": "TSLA",
+      "size": 0.24392028685025732,
+      "entry": 410.174985,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 1.689151645242342
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.2377555872563005,
+      "entry": 420.8103,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.4598906324298544
+    }
+  ],
   "last_decision": {
-    "at": "2026-05-21T23:15:15Z",
-    "asset": "BTC",
+    "at": "2026-05-21T23:48:19Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "Current price is above ema20, but position is already open."
   }
 }
