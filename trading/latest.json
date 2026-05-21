@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-21T17:40:27Z",
+  "updated_at": "2026-05-21T18:42:15Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1002.4456962233455,
-    "total_value_usd": 1002.4456962233455,
-    "pnl_usd": 8.99,
-    "pnl_pct": 0.9
+    "balance_usd": 1001.3221261125759,
+    "total_value_usd": 1001.3221261125759,
+    "pnl_usd": 7.86,
+    "pnl_pct": 0.79
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 738.66915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5466409318705263
+      "unrealized_pnl": 0.620459162941901
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 705.85275,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.2462437987243042
+      "unrealized_pnl": 1.2554571226080824
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 222.46117499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4547672588261661
+      "unrealized_pnl": -1.1406228918371746
     },
     {
       "asset": "AAPL",
@@ -38,7 +38,7 @@
       "entry": 297.58871999999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.338717052178607
+      "unrealized_pnl": 2.2832436793975353
     },
     {
       "asset": "GOOG",
@@ -46,7 +46,7 @@
       "entry": 392.92344,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.5869047619047685
+      "unrealized_pnl": 1.6619454619454725
     },
     {
       "asset": "TSLA",
@@ -54,7 +54,7 @@
       "entry": 410.174985,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.801428153279516
+      "unrealized_pnl": 2.589217503719791
     },
     {
       "asset": "AVGO",
@@ -62,13 +62,13 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.5193295292439295
+      "unrealized_pnl": -1.847432239657623
     }
   ],
   "last_decision": {
-    "at": "2026-05-21T17:40:27Z",
+    "at": "2026-05-21T18:42:15Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "SPY's RSI14 is at 74.86, indicating overbought conditions. However, the MACD is positive, suggesting continued upward momentum. Holding the current position with a trailing stop-loss is prudent."
+    "rationale": "hold-all: empty response"
   }
 }
