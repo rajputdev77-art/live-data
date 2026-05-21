@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-21T11:32:29Z",
+  "updated_at": "2026-05-21T12:32:49Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1000.0654684518615,
-    "total_value_usd": 1000.0654684518615,
-    "pnl_usd": 6.61,
-    "pnl_pct": 0.66
+    "balance_usd": 999.8456168854278,
+    "total_value_usd": 999.8456168854278,
+    "pnl_usd": 6.39,
+    "pnl_pct": 0.64
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 738.66915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.2967425165921805
+      "unrealized_pnl": -0.006657185425970543
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 705.85275,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.6941530829199128
+      "unrealized_pnl": 0.5141389085754788
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 222.46117499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.2478862154261175
+      "unrealized_pnl": 0.15688104340006004
     },
     {
       "asset": "AAPL",
@@ -38,7 +38,7 @@
       "entry": 297.58871999999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.4124798278644612
+      "unrealized_pnl": 1.2712748789671995
     },
     {
       "asset": "GOOG",
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-21T11:32:29Z",
+    "at": "2026-05-21T12:32:49Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "action": "buy",
+    "rationale": "buy opportunity based on ema20"
   }
 }
