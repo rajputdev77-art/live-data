@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-21T12:32:49Z",
+  "updated_at": "2026-05-21T13:34:37Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 999.8456168854278,
-    "total_value_usd": 999.8456168854278,
-    "pnl_usd": 6.39,
-    "pnl_pct": 0.64
+    "balance_usd": 1004.0287637402139,
+    "total_value_usd": 1004.0287637402139,
+    "pnl_usd": 10.57,
+    "pnl_pct": 1.06
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 738.66915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.006657185425970543
+      "unrealized_pnl": -0.09469727752944843
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 705.85275,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5141389085754788
+      "unrealized_pnl": 0.4475194897235969
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 222.46117499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.15688104340006004
+      "unrealized_pnl": 0.620114684056683
     },
     {
       "asset": "AAPL",
@@ -38,7 +38,7 @@
       "entry": 297.58871999999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.2712748789671995
+      "unrealized_pnl": 1.3435583647122151
     },
     {
       "asset": "GOOG",
@@ -46,7 +46,7 @@
       "entry": 392.92344,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.9570207570207594
+      "unrealized_pnl": 3.1271469271469354
     },
     {
       "asset": "TSLA",
@@ -54,7 +54,7 @@
       "entry": 410.174985,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.1159389711442318
+      "unrealized_pnl": 3.3819584359831274
     },
     {
       "asset": "AVGO",
@@ -62,13 +62,13 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0628388017118422
+      "unrealized_pnl": -0.6966951973371346
     }
   ],
   "last_decision": {
-    "at": "2026-05-21T12:32:49Z",
+    "at": "2026-05-21T13:34:37Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "buy opportunity based on ema20"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
