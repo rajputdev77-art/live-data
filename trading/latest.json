@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-22T16:09:15Z",
+  "updated_at": "2026-05-22T17:11:04Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1002.5261194312247,
-    "total_value_usd": 1002.5261194312247,
-    "pnl_usd": 9.07,
-    "pnl_pct": 0.91
+    "balance_usd": 1002.210390146494,
+    "total_value_usd": 1002.210390146494,
+    "pnl_usd": 8.75,
+    "pnl_pct": 0.88
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 738.66915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.1906880671813749
+      "unrealized_pnl": 1.2319991873222322
     },
     {
       "asset": "NVDA",
@@ -22,7 +22,7 @@
       "entry": 222.46117499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.5573082977287895
+      "unrealized_pnl": -2.0963233640656433
     },
     {
       "asset": "GOOG",
@@ -30,7 +30,7 @@
       "entry": 392.92344,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.5166463166463307
+      "unrealized_pnl": 2.7684778184778205
     },
     {
       "asset": "AVGO",
@@ -38,7 +38,7 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.9461008083689926
+      "unrealized_pnl": -1.6572277698525935
     },
     {
       "asset": "SPY",
@@ -46,7 +46,7 @@
       "entry": 747.243435,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.028996344745412135
+      "unrealized_pnl": 0.07050289876417651
     },
     {
       "asset": "QQQ",
@@ -54,7 +54,7 @@
       "entry": 720.80022,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.06387774647104469
+      "unrealized_pnl": 0.0235651727344733
     },
     {
       "asset": "AAPL",
@@ -62,7 +62,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.11442327820807013
+      "unrealized_pnl": -0.45902320413518666
     },
     {
       "asset": "AMZN",
@@ -70,7 +70,7 @@
       "entry": 268.78432499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.05797735652304594
+      "unrealized_pnl": -0.4373487020967389
     },
     {
       "asset": "META",
@@ -78,7 +78,7 @@
       "entry": 611.5656299999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4540833687792393
+      "unrealized_pnl": -0.5227939011222618
     },
     {
       "asset": "TSLA",
@@ -86,11 +86,11 @@
       "entry": 430.23500999999993,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.14534440258590714
+      "unrealized_pnl": -0.724387237802876
     }
   ],
   "last_decision": {
-    "at": "2026-05-22T16:09:15Z",
+    "at": "2026-05-22T17:11:04Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
