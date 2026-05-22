@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T08:59:33Z",
+  "updated_at": "2026-05-22T10:01:20Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1001.4197010615212,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-22T08:59:33Z",
+    "at": "2026-05-22T10:01:20Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Bullish trend, but already holding a position"
+    "rationale": "hold-all: empty response"
   }
 }
