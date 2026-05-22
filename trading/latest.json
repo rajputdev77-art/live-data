@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-22T12:03:27Z",
+  "updated_at": "2026-05-22T13:05:14Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1001.6621499305446,
-    "total_value_usd": 1001.6621499305446,
-    "pnl_usd": 8.2,
-    "pnl_pct": 0.83
+    "balance_usd": 1004.2800104982107,
+    "total_value_usd": 1004.2800104982107,
+    "pnl_usd": 10.82,
+    "pnl_pct": 1.09
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 738.66915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.8168562914804416
+      "unrealized_pnl": 1.0173168088852775
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 705.85275,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.2923104181431626
+      "unrealized_pnl": 1.6920269312544223
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 222.46117499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.4801776478524764
+      "unrealized_pnl": -0.679637958174041
     },
     {
       "asset": "GOOG",
@@ -46,7 +46,7 @@
       "entry": 410.174985,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.689151645242342
+      "unrealized_pnl": 2.623366343878824
     },
     {
       "asset": "AVGO",
@@ -54,13 +54,13 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.4598906324298544
+      "unrealized_pnl": -1.1769614835948572
     }
   ],
   "last_decision": {
-    "at": "2026-05-22T12:03:27Z",
+    "at": "2026-05-22T13:05:14Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is above ema20, but already holding a position."
+    "rationale": "hold-all: empty response"
   }
 }
