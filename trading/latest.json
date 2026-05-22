@@ -1,97 +1,16 @@
 {
-  "updated_at": "2026-05-22T19:13:14Z",
+  "updated_at": "2026-05-22T19:23:56Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1001.0085185306037,
-    "total_value_usd": 1001.0085185306037,
-    "pnl_usd": 7.55,
-    "pnl_pct": 0.76
+    "balance_usd": 1000.0,
+    "total_value_usd": 1000.0,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
-  "open_positions": [
-    {
-      "asset": "SPY",
-      "size": 0.13544629554381687,
-      "entry": 738.66915,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 1.0552417716375582
-    },
-    {
-      "asset": "NVDA",
-      "size": 0.44974139869574997,
-      "entry": 222.46117499999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -3.12623116707892
-    },
-    {
-      "asset": "GOOG",
-      "size": -0.2543752543752544,
-      "entry": 392.92344,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 3.2772283272283294
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.2377555872563005,
-      "entry": 420.8103,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.9377793628150162
-    },
-    {
-      "asset": "SPY",
-      "size": 0.13389210973797314,
-      "entry": 747.243435,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.104895764992561
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.13879828445320416,
-      "entry": 720.80022,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.2928949158188284
-    },
-    {
-      "asset": "AAPL",
-      "size": 0.3220560055393633,
-      "entry": 310.73528999999996,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.48800824463372133
-    },
-    {
-      "asset": "AMZN",
-      "size": 0.37242560798480506,
-      "entry": 268.78432499999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.508109567613851
-    },
-    {
-      "asset": "META",
-      "size": 0.16359650557864083,
-      "entry": 611.5656299999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.22668422602493077
-    },
-    {
-      "asset": "TSLA",
-      "size": 0.2325473233803079,
-      "entry": 430.23500999999993,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.6522975675549799
-    }
-  ],
+  "open_positions": [],
   "last_decision": {
-    "at": "2026-05-22T19:13:14Z",
-    "asset": "SPY",
+    "at": "2026-05-22T19:23:56Z",
+    "asset": "BTC",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
