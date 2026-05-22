@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T23:48:19Z",
+  "updated_at": "2026-05-22T00:50:06Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1001.4197010615212,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-21T23:48:19Z",
+    "at": "2026-05-22T00:50:06Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is above ema20, but position is already open."
+    "rationale": "hold-all: empty response"
   }
 }
