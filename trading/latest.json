@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-22T20:13:35Z",
+  "updated_at": "2026-05-22T21:15:22Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 999.8322199346896,
-    "total_value_usd": 999.8322199346896,
-    "pnl_usd": 6.37,
-    "pnl_pct": 0.64
+    "balance_usd": 999.7085247548192,
+    "total_value_usd": 999.7085247548192,
+    "pnl_usd": 6.25,
+    "pnl_pct": 0.63
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 738.66915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9482391981579322
+      "unrealized_pnl": 0.9821007720438865
     },
     {
       "asset": "NVDA",
@@ -38,7 +38,7 @@
       "entry": 747.243435,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.21067053168557012
+      "unrealized_pnl": -0.17719750425107683
     },
     {
       "asset": "QQQ",
@@ -46,7 +46,7 @@
       "entry": 720.80022,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4691687370744109
+      "unrealized_pnl": -0.49276444543145
     },
     {
       "asset": "AAPL",
@@ -78,13 +78,13 @@
       "entry": 430.23500999999993,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0406515976000978
+      "unrealized_pnl": -1.2080856704339127
     }
   ],
   "last_decision": {
-    "at": "2026-05-22T20:13:35Z",
+    "at": "2026-05-22T21:15:22Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "buy opportunity based on ema20"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
