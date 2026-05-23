@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T15:46:57Z",
+  "updated_at": "2026-05-23T17:07:33Z",
   "channel": {
     "id": null,
     "title": "AI News Daily",
@@ -8,12 +8,12 @@
     "view_count": null
   },
   "last_run": {
-    "started_at": "2026-05-22T15:35:37Z",
-    "finished_at": "2026-05-22T15:46:57Z",
+    "started_at": "2026-05-23T17:00:02Z",
+    "finished_at": "2026-05-23T17:07:33Z",
     "status": "success",
-    "duration_seconds": 679.4,
-    "video_url": "https://www.youtube.com/watch?v=Z3JocLnv-xE",
-    "video_title": "Beavers Fight UK Floods",
+    "duration_seconds": 451.0,
+    "video_url": "https://www.youtube.com/watch?v=WN56YI8VSNk",
+    "video_title": "Trump's $1.8B Shock",
     "error": null,
     "stage_timings": {}
   },
@@ -28,9 +28,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 55,
-    "runs_succeeded": 49,
-    "videos_published": 49
+    "runs_attempted": 56,
+    "runs_succeeded": 50,
+    "videos_published": 50
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
