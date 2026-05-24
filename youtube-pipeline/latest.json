@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T17:07:33Z",
+  "updated_at": "2026-05-24T17:07:23Z",
   "channel": {
     "id": null,
     "title": "AI News Daily",
@@ -8,12 +8,12 @@
     "view_count": null
   },
   "last_run": {
-    "started_at": "2026-05-23T17:00:02Z",
-    "finished_at": "2026-05-23T17:07:33Z",
+    "started_at": "2026-05-24T17:00:08Z",
+    "finished_at": "2026-05-24T17:07:23Z",
     "status": "success",
-    "duration_seconds": 451.0,
-    "video_url": "https://www.youtube.com/watch?v=WN56YI8VSNk",
-    "video_title": "Trump's $1.8B Shock",
+    "duration_seconds": 434.8,
+    "video_url": "https://www.youtube.com/watch?v=Mt40chtSKlE",
+    "video_title": "SHOCKING Sale!",
     "error": null,
     "stage_timings": {}
   },
@@ -28,9 +28,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 56,
-    "runs_succeeded": 50,
-    "videos_published": 50
+    "runs_attempted": 57,
+    "runs_succeeded": 51,
+    "videos_published": 51
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
