@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T20:09:49Z",
+  "updated_at": "2026-05-24T21:11:36Z",
   "mode": "paper",
   "account": {
     "balance_usd": 999.7085247548192,
@@ -82,9 +82,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-24T20:09:49Z",
+    "at": "2026-05-24T21:11:36Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the recent high, and the long-term trend is upward."
+    "rationale": "hold-all: empty response"
   }
 }
