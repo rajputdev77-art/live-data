@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T06:20:25Z",
+  "updated_at": "2026-05-25T07:22:13Z",
   "mode": "paper",
   "account": {
     "balance_usd": 999.7085247548192,
@@ -82,9 +82,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-25T06:20:25Z",
+    "at": "2026-05-25T07:22:13Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "current price is near the take profit level"
+    "rationale": "hold-all: empty response"
   }
 }
