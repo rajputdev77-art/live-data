@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T17:07:23Z",
+  "updated_at": "2026-05-25T14:08:17Z",
   "channel": {
     "id": null,
     "title": "AI News Daily",
@@ -8,12 +8,12 @@
     "view_count": null
   },
   "last_run": {
-    "started_at": "2026-05-24T17:00:08Z",
-    "finished_at": "2026-05-24T17:07:23Z",
+    "started_at": "2026-05-25T14:00:28Z",
+    "finished_at": "2026-05-25T14:08:17Z",
     "status": "success",
-    "duration_seconds": 434.8,
-    "video_url": "https://www.youtube.com/watch?v=Mt40chtSKlE",
-    "video_title": "SHOCKING Sale!",
+    "duration_seconds": 469.0,
+    "video_url": "https://www.youtube.com/watch?v=rzcQniXAJpA",
+    "video_title": "Tragedy Unfolds",
     "error": null,
     "stage_timings": {}
   },
@@ -28,9 +28,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 57,
-    "runs_succeeded": 51,
-    "videos_published": 51
+    "runs_attempted": 58,
+    "runs_succeeded": 52,
+    "videos_published": 52
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
