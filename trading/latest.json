@@ -1,17 +1,66 @@
 {
-  "updated_at": "2026-05-26T15:59:18Z",
+  "updated_at": "2026-05-26T16:01:03Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1003.423801797297,
-    "total_value_usd": 1003.423801797297,
-    "pnl_usd": 3.42,
-    "pnl_pct": 0.34
+    "balance_usd": 1004.3210287556377,
+    "total_value_usd": 1004.3210287556377,
+    "pnl_usd": 10.86,
+    "pnl_pct": 1.09
   },
-  "open_positions": [],
+  "open_positions": [
+    {
+      "asset": "AVGO",
+      "size": 0.2377555872563005,
+      "entry": 420.8103,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.520613409415125
+    },
+    {
+      "asset": "QQQ",
+      "size": 0.13879828445320416,
+      "entry": 720.80022,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.79389565144975
+    },
+    {
+      "asset": "AAPL",
+      "size": 0.3220560055393633,
+      "entry": 310.73528999999996,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.18849615948212955
+    },
+    {
+      "asset": "AMZN",
+      "size": 0.37242560798480506,
+      "entry": 268.78432499999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.9344996461956696
+    },
+    {
+      "asset": "META",
+      "size": 0.16359650557864083,
+      "entry": 611.5656299999999,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.517886005954907
+    },
+    {
+      "asset": "TSLA",
+      "size": 0.2325473233803079,
+      "entry": 430.23500999999993,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.20115576019718315
+    }
+  ],
   "last_decision": {
-    "at": "2026-05-26T15:59:18Z",
-    "asset": "BTC",
+    "at": "2026-05-26T16:01:03Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "The current price of BTC is below its EMA20, and the MACD is negative, indicating a bearish trend. The RSI14 is also below 50, suggesting that the asset is not overbought. However, the risk management limits do not allow for a new position to be opened, so the decision is to hold"
+    "rationale": "hold-all: empty response"
   }
 }
