@@ -1,66 +1,17 @@
 {
-  "updated_at": "2026-05-26T19:06:55Z",
+  "updated_at": "2026-05-26T19:59:39Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1004.5107707121298,
-    "total_value_usd": 1004.5107707121298,
-    "pnl_usd": 11.05,
-    "pnl_pct": 1.11
+    "balance_usd": 1003.423801797297,
+    "total_value_usd": 1003.423801797297,
+    "pnl_usd": 3.42,
+    "pnl_pct": 0.34
   },
-  "open_positions": [
-    {
-      "asset": "AVGO",
-      "size": 0.2377555872563005,
-      "entry": 420.8103,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.3399191631003388
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.13879828445320416,
-      "entry": 720.80022,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 1.1228475856038447
-    },
-    {
-      "asset": "AAPL",
-      "size": 0.3220560055393633,
-      "entry": 310.73528999999996,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.5830147662678387
-    },
-    {
-      "asset": "AMZN",
-      "size": 0.37242560798480506,
-      "entry": 268.78432499999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -2.1691277792260952
-    },
-    {
-      "asset": "META",
-      "size": 0.16359650557864083,
-      "entry": 611.5656299999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.33792984981839835
-    },
-    {
-      "asset": "TSLA",
-      "size": 0.2325473233803079,
-      "entry": 430.23500999999993,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.28951909213526966
-    }
-  ],
+  "open_positions": [],
   "last_decision": {
-    "at": "2026-05-26T19:06:55Z",
-    "asset": "SPY",
+    "at": "2026-05-26T19:59:39Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "The current price of BTC is near its recent lows, and the RSI14 is below 50, indicating a potential buying opportunity. However, the MACD is negative, and the EMA20 is below the EMA50, suggesting a bearish trend. Therefore, a hold decision is made to avoid entering a potentially "
   }
 }
