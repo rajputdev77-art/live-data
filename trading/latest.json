@@ -1,17 +1,58 @@
 {
-  "updated_at": "2026-05-26T19:59:39Z",
+  "updated_at": "2026-05-26T20:08:43Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1003.423801797297,
-    "total_value_usd": 1003.423801797297,
-    "pnl_usd": 3.42,
-    "pnl_pct": 0.34
+    "balance_usd": 1006.0110754061083,
+    "total_value_usd": 1006.0110754061083,
+    "pnl_usd": 12.55,
+    "pnl_pct": 1.26
   },
-  "open_positions": [],
+  "open_positions": [
+    {
+      "asset": "AVGO",
+      "size": 0.2377555872563005,
+      "entry": 420.8103,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.14495958155017405
+    },
+    {
+      "asset": "AAPL",
+      "size": 0.3220560055393633,
+      "entry": 310.73528999999996,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.7746380895637686
+    },
+    {
+      "asset": "AMZN",
+      "size": 0.37242560798480506,
+      "entry": 268.78432499999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.3088246247811945
+    },
+    {
+      "asset": "META",
+      "size": 0.16359650557864083,
+      "entry": 611.5656299999999,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.12995615613651665
+    },
+    {
+      "asset": "TSLA",
+      "size": 0.2325473233803079,
+      "entry": 430.23500999999993,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.6941514348170076
+    }
+  ],
   "last_decision": {
-    "at": "2026-05-26T19:59:39Z",
-    "asset": "BTC",
+    "at": "2026-05-26T20:08:43Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "The current price of BTC is near its recent lows, and the RSI14 is below 50, indicating a potential buying opportunity. However, the MACD is negative, and the EMA20 is below the EMA50, suggesting a bearish trend. Therefore, a hold decision is made to avoid entering a potentially "
+    "rationale": "hold-all: empty response"
   }
 }
