@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-26T13:57:27Z",
+  "updated_at": "2026-05-26T14:59:15Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1007.2179170374798,
-    "total_value_usd": 1007.2179170374798,
-    "pnl_usd": 13.76,
-    "pnl_pct": 1.38
+    "balance_usd": 1008.0522145119165,
+    "total_value_usd": 1008.0522145119165,
+    "pnl_usd": 14.59,
+    "pnl_pct": 1.47
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 222.46117499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.112738925118047
+      "unrealized_pnl": -2.928344951652791
     },
     {
       "asset": "AVGO",
@@ -22,7 +22,7 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.7070137898240667
+      "unrealized_pnl": 2.4464336661911643
     },
     {
       "asset": "QQQ",
@@ -30,7 +30,7 @@
       "entry": 720.80022,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9701694727053168
+      "unrealized_pnl": 1.260257887212518
     },
     {
       "asset": "AAPL",
@@ -38,7 +38,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.06611487737717295
+      "unrealized_pnl": 0.1496626463342056
     },
     {
       "asset": "AMZN",
@@ -46,7 +46,7 @@
       "entry": 268.78432499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.8358441026404777
+      "unrealized_pnl": -1.5136587091728204
     },
     {
       "asset": "META",
@@ -54,7 +54,7 @@
       "entry": 611.5656299999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6405833851388876
+      "unrealized_pnl": -0.6651228609756801
     },
     {
       "asset": "TSLA",
@@ -62,13 +62,13 @@
       "entry": 430.23500999999993,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.008141481791531307
+      "unrealized_pnl": 0.09883028696341879
     }
   ],
   "last_decision": {
-    "at": "2026-05-26T13:57:27Z",
+    "at": "2026-05-26T14:59:15Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "No clear trend or signal to enter or exit a position in SPY."
+    "rationale": "hold-all: empty response"
   }
 }
