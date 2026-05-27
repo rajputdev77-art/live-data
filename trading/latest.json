@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-27T22:41:08Z",
+  "updated_at": "2026-05-27T23:42:54Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1014.4381365843265,
-    "total_value_usd": 1014.4381365843265,
-    "pnl_usd": 20.98,
+    "balance_usd": 1014.3881365843265,
+    "total_value_usd": 1014.3881365843265,
+    "pnl_usd": 20.93,
     "pnl_pct": 2.11
   },
   "open_positions": [
@@ -39,12 +39,28 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 2.2731477605692896
+    },
+    {
+      "asset": "NVDA",
+      "size": -0.2353827323227568,
+      "entry": 212.31379,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.024999999999994336
+    },
+    {
+      "asset": "GOOG",
+      "size": -0.12948000828672052,
+      "entry": 385.9669200000001,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.024999999999993805
     }
   ],
   "last_decision": {
-    "at": "2026-05-27T22:41:08Z",
+    "at": "2026-05-27T23:42:54Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the EMA20, and RSI14 is above 60, indicating a potential overbought condition."
+    "rationale": "hold-all: empty response"
   }
 }
