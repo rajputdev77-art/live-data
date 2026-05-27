@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-27T17:35:09Z",
+  "updated_at": "2026-05-27T18:36:56Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1010.3031798400643,
-    "total_value_usd": 1010.3031798400643,
-    "pnl_usd": 16.84,
-    "pnl_pct": 1.7
+    "balance_usd": 1012.6832307425567,
+    "total_value_usd": 1012.6832307425567,
+    "pnl_usd": 19.22,
+    "pnl_pct": 1.94
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.22579648121731027
+      "unrealized_pnl": -0.002448882548733343
     },
     {
       "asset": "AAPL",
@@ -22,7 +22,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.027468156712447893
+      "unrealized_pnl": -0.030688716767838596
     },
     {
       "asset": "AMZN",
@@ -30,15 +30,7 @@
       "entry": 268.78432499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.6594447134185095
-    },
-    {
-      "asset": "META",
-      "size": 0.16359650557864083,
-      "entry": 611.5656299999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.27412721264273066
+      "unrealized_pnl": 0.33915869055157205
     },
     {
       "asset": "TSLA",
@@ -46,13 +38,13 @@
       "entry": 430.23500999999993,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.5940630668341136
+      "unrealized_pnl": 2.235940188828448
     }
   ],
   "last_decision": {
-    "at": "2026-05-27T17:35:09Z",
+    "at": "2026-05-27T18:36:56Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "stable trend with potential reversal"
+    "rationale": "hold-all: empty response"
   }
 }
