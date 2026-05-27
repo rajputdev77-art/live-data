@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-05-27T20:10:13Z",
+  "updated_at": "2026-05-27T20:39:02Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1006.2021060467765,
-    "total_value_usd": 1006.2021060467765,
-    "pnl_usd": 6.2,
-    "pnl_pct": 0.62
+    "balance_usd": 1014.4715065468895,
+    "total_value_usd": 1014.4715065468895,
+    "pnl_usd": 21.01,
+    "pnl_pct": 2.12
   },
   "open_positions": [
     {
-      "asset": "LIT",
-      "size": -16.535758577924764,
-      "entry": 1.2096448750000002,
+      "asset": "AVGO",
+      "size": 0.2377555872563005,
+      "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.6803617197188935
+      "unrealized_pnl": 0.5586543033761391
     },
     {
-      "asset": "ZEC",
-      "size": -0.04279612780635608,
-      "entry": 583.5530775000001,
+      "asset": "AAPL",
+      "size": 0.3220560055393633,
+      "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.2221751345938254
+      "unrealized_pnl": 0.08203088517094588
     },
     {
-      "asset": "HYPE",
-      "size": -0.4935468746144165,
-      "entry": 60.71862550000001,
+      "asset": "AMZN",
+      "size": 0.37242560798480506,
+      "entry": 268.78432499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.28434493991067317
+      "unrealized_pnl": 1.4210550817474419
     },
     {
-      "asset": "NIL",
-      "size": -338.7120811825116,
-      "entry": 0.073779092,
+      "asset": "TSLA",
+      "size": 0.2325473233803079,
+      "entry": 430.23500999999993,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5914224552561357
+      "unrealized_pnl": 2.2684968141016877
     }
   ],
   "last_decision": {
-    "at": "2026-05-27T20:10:13Z",
-    "asset": "BTC",
+    "at": "2026-05-27T20:39:02Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
