@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-27T18:36:56Z",
+  "updated_at": "2026-05-27T19:37:16Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1012.6832307425567,
-    "total_value_usd": 1012.6832307425567,
-    "pnl_usd": 19.22,
-    "pnl_pct": 1.94
+    "balance_usd": 1013.862593757631,
+    "total_value_usd": 1013.862593757631,
+    "pnl_usd": 20.4,
+    "pnl_pct": 2.05
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.002448882548733343
+      "unrealized_pnl": 0.7060627674750329
     },
     {
       "asset": "AAPL",
@@ -22,7 +22,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.030688716767838596
+      "unrealized_pnl": -0.2529073605899985
     },
     {
       "asset": "AMZN",
@@ -30,7 +30,7 @@
       "entry": 268.78432499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.33915869055157205
+      "unrealized_pnl": 0.9182805109679465
     },
     {
       "asset": "TSLA",
@@ -38,13 +38,13 @@
       "entry": 430.23500999999993,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.235940188828448
+      "unrealized_pnl": 2.3498883772847874
     }
   ],
   "last_decision": {
-    "at": "2026-05-27T18:36:56Z",
+    "at": "2026-05-27T19:37:16Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "The SPY's current price is near its EMA20, and its RSI14 is above 50, indicating a neutral trend. No action is recommended."
   }
 }
