@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-27T20:39:02Z",
+  "updated_at": "2026-05-27T21:40:48Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1014.4715065468895,
-    "total_value_usd": 1014.4715065468895,
-    "pnl_usd": 21.01,
-    "pnl_pct": 2.12
+    "balance_usd": 1014.4381365843265,
+    "total_value_usd": 1014.4381365843265,
+    "pnl_usd": 20.98,
+    "pnl_pct": 2.11
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5586543033761391
+      "unrealized_pnl": 0.620470756062775
     },
     {
       "asset": "AAPL",
@@ -22,7 +22,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.08203088517094588
+      "unrealized_pnl": -0.01780647654625747
     },
     {
       "asset": "AMZN",
@@ -38,11 +38,11 @@
       "entry": 430.23500999999993,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.2684968141016877
+      "unrealized_pnl": 2.2731477605692896
     }
   ],
   "last_decision": {
-    "at": "2026-05-27T20:39:02Z",
+    "at": "2026-05-27T21:40:48Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
