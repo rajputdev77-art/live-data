@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-28T14:00:56Z",
+  "updated_at": "2026-05-28T15:01:22Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1012.704713713983,
-    "total_value_usd": 1012.704713713983,
-    "pnl_usd": 19.25,
-    "pnl_pct": 1.94
+    "balance_usd": 1014.6846258365225,
+    "total_value_usd": 1014.6846258365225,
+    "pnl_usd": 21.23,
+    "pnl_pct": 2.14
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.11181645268664023
+      "unrealized_pnl": 0.7274607703281075
     },
     {
       "asset": "AAPL",
@@ -22,7 +22,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0015168837861050583
+      "unrealized_pnl": 0.36866073010097483
     },
     {
       "asset": "AMZN",
@@ -30,7 +30,7 @@
       "entry": 268.78432499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.007197124874299177
+      "unrealized_pnl": 0.5272336225838969
     },
     {
       "asset": "TSLA",
@@ -38,7 +38,7 @@
       "entry": 430.23500999999993,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.487091298079177
+      "unrealized_pnl": 2.9777661504116293
     },
     {
       "asset": "NVDA",
@@ -46,7 +46,7 @@
       "entry": 212.31379,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.12621457489878138
+      "unrealized_pnl": -0.050892100555500794
     },
     {
       "asset": "GOOG",
@@ -54,13 +54,13 @@
       "entry": 385.9669200000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.320064222084119
+      "unrealized_pnl": -0.0068727988398473395
     }
   ],
   "last_decision": {
-    "at": "2026-05-28T14:00:56Z",
+    "at": "2026-05-28T15:01:22Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "neutral to slightly bearish sentiment"
+    "action": "buy",
+    "rationale": "Current price is above ema20, and macd is positive."
   }
 }
