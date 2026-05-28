@@ -1,49 +1,65 @@
 {
-  "updated_at": "2026-05-28T16:19:02Z",
+  "updated_at": "2026-05-28T17:04:59Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1011.9275412969836,
-    "total_value_usd": 1011.9275412969836,
-    "pnl_usd": 11.93,
-    "pnl_pct": 1.19
+    "balance_usd": 1014.7239851729447,
+    "total_value_usd": 1014.7239851729447,
+    "pnl_usd": 21.26,
+    "pnl_pct": 2.14
   },
   "open_positions": [
     {
-      "asset": "LIT",
-      "size": -16.535758577924764,
-      "entry": 1.2096448750000002,
+      "asset": "AVGO",
+      "size": 0.2377555872563005,
+      "entry": 420.8103,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.784950392724271
+      "unrealized_pnl": 1.3860437470280556
     },
     {
-      "asset": "ZEC",
-      "size": -0.04279612780635608,
-      "entry": 583.5530775000001,
+      "asset": "AAPL",
+      "size": 0.3220560055393633,
+      "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.917612211447112
+      "unrealized_pnl": 0.10457480555869912
     },
     {
-      "asset": "HYPE",
-      "size": -0.4935468746144165,
-      "entry": 60.71862550000001,
+      "asset": "AMZN",
+      "size": 0.37242560798480506,
+      "entry": 268.78432499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.4560252202452957
+      "unrealized_pnl": 0.586821719861475
     },
     {
-      "asset": "NIL",
-      "size": -338.7120811825116,
-      "entry": 0.073779092,
+      "asset": "TSLA",
+      "size": 0.2325473233803079,
+      "entry": 430.23500999999993,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.3451516752699546
+      "unrealized_pnl": 2.7219640946932855
+    },
+    {
+      "asset": "NVDA",
+      "size": -0.2353827323227568,
+      "entry": 212.31379,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.3321744656811936
+    },
+    {
+      "asset": "GOOG",
+      "size": -0.12948000828672052,
+      "entry": 385.9669200000001,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.11548580899110267
     }
   ],
   "last_decision": {
-    "at": "2026-05-28T16:19:02Z",
-    "asset": "BTC",
+    "at": "2026-05-28T17:04:59Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
