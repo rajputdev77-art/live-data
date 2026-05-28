@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T08:15:28Z",
+  "updated_at": "2026-05-28T05:11:11Z",
   "totals": {
     "blogs": 83,
     "videos": 22,
@@ -8,52 +8,16 @@
     "platforms_active": 9
   },
   "streak_days": 7,
-  "last_publish_at": "2026-05-26T08:15:28Z",
+  "last_publish_at": "2026-05-28T05:11:11Z",
   "today": {
-    "date": "2026-05-26",
+    "date": "2026-05-28",
     "entries_processed": 1,
     "published": [
       {
         "platform": "linkedin",
         "url": null,
-        "at": "2026-05-26T08:15:28Z",
-        "entry_ts": "1:34 PM"
-      },
-      {
-        "platform": "devto",
-        "url": null,
-        "at": "2026-05-26T08:15:28Z",
-        "entry_ts": "1:34 PM"
-      },
-      {
-        "platform": "wordpress",
-        "url": null,
-        "at": "2026-05-26T08:15:28Z",
-        "entry_ts": "1:34 PM"
-      },
-      {
-        "platform": "blogger",
-        "url": null,
-        "at": "2026-05-26T08:15:28Z",
-        "entry_ts": "1:34 PM"
-      },
-      {
-        "platform": "instagram",
-        "url": null,
-        "at": "2026-05-26T08:15:28Z",
-        "entry_ts": "1:34 PM"
-      },
-      {
-        "platform": "youtube_short",
-        "url": null,
-        "at": "2026-05-26T08:15:28Z",
-        "entry_ts": "1:34 PM"
-      },
-      {
-        "platform": "youtube",
-        "url": null,
-        "at": "2026-05-26T08:15:28Z",
-        "entry_ts": "1:34 PM"
+        "at": "2026-05-28T05:11:11Z",
+        "entry_ts": "11:01 AM"
       }
     ]
   },
@@ -67,5 +31,5 @@
     "source": "output/ folder counts + state/publish_tracker.json",
     "notes": "Counts represent content the engine has generated. Each blog typically reaches 4\u20135 platforms (Dev.to, Hashnode, WordPress, Blogger, Medium queue). Each reel is uploaded to Instagram + YouTube. publish_tracker.json began tracking partway through; older publishes are reflected only in counters, not history."
   },
-  "last_publish_at_date_cache": "2026-05-26"
+  "last_publish_at_date_cache": "2026-05-28"
 }
