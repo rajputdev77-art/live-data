@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T01:45:01Z",
+  "updated_at": "2026-05-28T02:45:21Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1014.3881365843265,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-28T01:45:01Z",
+    "at": "2026-05-28T02:45:21Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "action": "buy",
+    "rationale": "intraday ema20 is below current price"
   }
 }
