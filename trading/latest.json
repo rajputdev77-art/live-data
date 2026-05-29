@@ -1,89 +1,49 @@
 {
-  "updated_at": "2026-05-29T15:33:16Z",
+  "updated_at": "2026-05-29T16:28:10Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1021.5127045657741,
-    "total_value_usd": 1021.5127045657741,
-    "pnl_usd": 28.05,
-    "pnl_pct": 2.82
+    "balance_usd": 1002.7792321904241,
+    "total_value_usd": 1002.7792321904241,
+    "pnl_usd": 2.78,
+    "pnl_pct": 0.28
   },
   "open_positions": [
     {
-      "asset": "AAPL",
-      "size": 0.3220560055393633,
-      "entry": 310.73528999999996,
+      "asset": "LIT",
+      "size": -16.535758577924764,
+      "entry": 1.2096448750000002,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.32196260929777304
+      "unrealized_pnl": -1.045971475816449
     },
     {
-      "asset": "AMZN",
-      "size": 0.37242560798480506,
-      "entry": 268.78432499999997,
+      "asset": "ZEC",
+      "size": -0.04279612780635608,
+      "entry": 583.5530775000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.2962925030725185
+      "unrealized_pnl": 2.0830192454186784
     },
     {
-      "asset": "NVDA",
-      "size": -0.2353827323227568,
-      "entry": 212.31379,
+      "asset": "HYPE",
+      "size": -0.4935468746144165,
+      "entry": 60.71862550000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.799409189341869
+      "unrealized_pnl": -2.365508229894129
     },
     {
-      "asset": "SPY",
-      "size": 0.13238720610040244,
-      "entry": 755.73768,
+      "asset": "NIL",
+      "size": -338.7120811825116,
+      "entry": 0.073779092,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.16446727388266036
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.13586402728149669,
-      "entry": 736.398015,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.3141155931144179
-    },
-    {
-      "asset": "AAPL",
-      "size": 0.3201741747510646,
-      "entry": 312.48616499999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.24050363397686986
-    },
-    {
-      "asset": "AMZN",
-      "size": 0.3649901452660778,
-      "entry": 274.11699,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.6759580991313237
-    },
-    {
-      "asset": "META",
-      "size": 0.15750263816918933,
-      "entry": 635.227455,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.0170661983588196
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.23151363615316942,
-      "entry": 432.15596999999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 1.636576839375852
+      "unrealized_pnl": 0.6838908534189597
     }
   ],
   "last_decision": {
-    "at": "2026-05-29T15:33:16Z",
-    "asset": "SPY",
+    "at": "2026-05-29T16:28:10Z",
+    "asset": "BTC",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
