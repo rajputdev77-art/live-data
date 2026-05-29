@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T07:21:05Z",
+  "updated_at": "2026-05-29T08:22:53Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1019.7095121732647,
@@ -98,9 +98,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-29T07:21:05Z",
+    "at": "2026-05-29T08:22:53Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the defined take-profit level, and the RSI14 is above 65, indicating a potential overbought condition."
+    "rationale": "hold-all: empty response"
   }
 }
