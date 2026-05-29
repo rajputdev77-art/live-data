@@ -1,50 +1,106 @@
 {
-  "updated_at": "2026-05-29T12:26:24Z",
+  "updated_at": "2026-05-29T12:29:11Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1005.9073564201899,
-    "total_value_usd": 1005.9073564201899,
-    "pnl_usd": 5.91,
-    "pnl_pct": 0.59
+    "balance_usd": 1021.4466905259454,
+    "total_value_usd": 1021.4466905259454,
+    "pnl_usd": 27.99,
+    "pnl_pct": 2.82
   },
   "open_positions": [
     {
-      "asset": "LIT",
-      "size": -16.535758577924764,
-      "entry": 1.2096448750000002,
+      "asset": "AAPL",
+      "size": 0.3220560055393633,
+      "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.8093406366267071
+      "unrealized_pnl": 0.21407384744207458
     },
     {
-      "asset": "ZEC",
-      "size": -0.04279612780635608,
-      "entry": 583.5530775000001,
+      "asset": "AMZN",
+      "size": 0.37242560798480506,
+      "entry": 268.78432499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.067398658769358
+      "unrealized_pnl": 1.935002420766471
     },
     {
-      "asset": "HYPE",
-      "size": -0.4935468746144165,
-      "entry": 60.71862550000001,
+      "asset": "NVDA",
+      "size": -0.2353827323227568,
+      "entry": 212.31379,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.5571524813069061
+      "unrealized_pnl": -0.4298582995951358
     },
     {
-      "asset": "NIL",
-      "size": -338.7120811825116,
-      "entry": 0.073779092,
+      "asset": "GOOG",
+      "size": -0.12948000828672052,
+      "entry": 385.9669200000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.16396780880380624
+      "unrealized_pnl": 0.578376838616127
+    },
+    {
+      "asset": "SPY",
+      "size": 0.13238720610040244,
+      "entry": 755.73768,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.06120525312435006
+    },
+    {
+      "asset": "QQQ",
+      "size": 0.13586402728149669,
+      "entry": 736.398015,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.011958072361186536
+    },
+    {
+      "asset": "AAPL",
+      "size": 0.3201741747510646,
+      "entry": 312.48616499999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.34776198251848817
+    },
+    {
+      "asset": "MSFT",
+      "size": 0.2338032779219565,
+      "entry": 427.92385499999995,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 1.1003121273760375
+    },
+    {
+      "asset": "AMZN",
+      "size": 0.3649901452660778,
+      "entry": 274.11699,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.04999999999998864
+    },
+    {
+      "asset": "META",
+      "size": 0.15750263816918933,
+      "entry": 635.227455,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.049999999999999274
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.23151363615316942,
+      "entry": 432.15596999999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.3620942723526553
     }
   ],
   "last_decision": {
-    "at": "2026-05-29T12:26:24Z",
-    "asset": "BTC",
+    "at": "2026-05-29T12:29:11Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "BTC's RSI14 is below 30, indicating potential oversold conditions, but its MACD is negative, suggesting a bearish trend. Given the account's current balance and risk limits, holding is the most prudent decision."
+    "rationale": "hold-all: empty response"
   }
 }
