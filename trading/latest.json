@@ -1,34 +1,90 @@
 {
-  "updated_at": "2026-05-30T12:33:09Z",
+  "updated_at": "2026-05-30T13:02:28Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1019.0959382259997,
-    "total_value_usd": 1019.0959382259997,
-    "pnl_usd": 19.1,
-    "pnl_pct": 1.91
+    "balance_usd": 1022.0015110296374,
+    "total_value_usd": 1022.0015110296374,
+    "pnl_usd": 28.54,
+    "pnl_pct": 2.87
   },
   "open_positions": [
     {
-      "asset": "ZEC",
-      "size": -0.04279612780635608,
-      "entry": 583.5530775000001,
+      "asset": "AAPL",
+      "size": 0.3220560055393633,
+      "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.491294304691314
+      "unrealized_pnl": 0.23983832788523685
     },
     {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 15.644174,
+      "asset": "AMZN",
+      "size": 0.37242560798480506,
+      "entry": 268.78432499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.3536908759474248
+      "unrealized_pnl": 0.516060854344363
+    },
+    {
+      "asset": "NVDA",
+      "size": -0.2353827323227568,
+      "entry": 212.31379,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.034415309292909424
+    },
+    {
+      "asset": "SPY",
+      "size": 0.13238720610040244,
+      "entry": 755.73768,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.028108451599249448
+    },
+    {
+      "asset": "QQQ",
+      "size": 0.13586402728149669,
+      "entry": 736.398015,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.1986311699251426
+    },
+    {
+      "asset": "AAPL",
+      "size": 0.3201741747510646,
+      "entry": 312.48616499999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.3221480485383899
+    },
+    {
+      "asset": "AMZN",
+      "size": 0.3649901452660778,
+      "entry": 274.11699,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.440612453463746
+    },
+    {
+      "asset": "META",
+      "size": 0.15750263816918933,
+      "entry": 635.227455,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.5146327825990971
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.23151363615316942,
+      "entry": 432.15596999999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 2.818453951937773
     }
   ],
   "last_decision": {
-    "at": "2026-05-30T12:33:09Z",
-    "asset": "BTC",
+    "at": "2026-05-30T13:02:28Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "The current price is near the EMA20, and the RSI14 is below 50, indicating a potential buying opportunity. However, the recent trading history shows a small profit, so it's best to hold the current position."
   }
 }
