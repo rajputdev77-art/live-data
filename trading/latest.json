@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T23:17:30Z",
+  "updated_at": "2026-05-31T00:17:50Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1022.0015110296374,
@@ -82,9 +82,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-30T23:17:30Z",
+    "at": "2026-05-31T00:17:50Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "RSI14 is 71.08, which is above 70, so hold"
   }
 }
