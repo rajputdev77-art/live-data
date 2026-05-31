@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T11:28:48Z",
+  "updated_at": "2026-05-31T12:29:39Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1022.0015110296374,
@@ -82,9 +82,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-31T11:28:48Z",
+    "at": "2026-05-31T12:29:39Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the long-term ema20, and the rsi14 is above 70, indicating overbought conditions. Holding the existing position and adjusting the stop-loss to lock in profits."
+    "rationale": "Current price is above long-term EMAs, indicating a bullish trend."
   }
 }
