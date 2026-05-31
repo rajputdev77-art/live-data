@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T21:40:57Z",
+  "updated_at": "2026-05-31T22:41:17Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1022.0015110296374,
@@ -82,9 +82,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-31T21:40:57Z",
+    "at": "2026-05-31T22:41:17Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "Current price is near the long-term EMA20, and RSI14 is high, indicating potential overbuying."
   }
 }
