@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-01T13:58:02Z",
+  "updated_at": "2026-06-01T14:59:51Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1013.724086730497,
-    "total_value_usd": 1013.724086730497,
-    "pnl_usd": 20.26,
-    "pnl_pct": 2.04
+    "balance_usd": 1011.747552498145,
+    "total_value_usd": 1011.747552498145,
+    "pnl_usd": 18.29,
+    "pnl_pct": 1.84
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.18849615948212955
+      "unrealized_pnl": -1.2126342570972888
     },
     {
       "asset": "AMZN",
@@ -22,7 +22,7 @@
       "entry": 268.78432499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.5993165990093323
+      "unrealized_pnl": -1.7091821533648557
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 212.31379,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.6938635721683408
+      "unrealized_pnl": -1.679740608228975
     },
     {
       "asset": "SPY",
@@ -38,7 +38,7 @@
       "entry": 755.73768,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.03605168396526637
+      "unrealized_pnl": -0.03477547129844472
     },
     {
       "asset": "QQQ",
@@ -46,7 +46,7 @@
       "entry": 736.398015,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.15787196174068432
+      "unrealized_pnl": 0.3901994483920486
     },
     {
       "asset": "AAPL",
@@ -54,13 +54,13 @@
       "entry": 312.48616499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7479797009573189
+      "unrealized_pnl": -1.7661335766656883
     }
   ],
   "last_decision": {
-    "at": "2026-06-01T13:58:02Z",
+    "at": "2026-06-01T14:59:51Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the long-term EMA20, and RSI14 is below 30, indicating a potential buy signal, but given the existing position, it's prudent to hold and adjust the stop-loss."
+    "rationale": "hold-all: empty response"
   }
 }
