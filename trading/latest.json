@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T23:43:04Z",
+  "updated_at": "2026-06-01T00:43:23Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1022.0015110296374,
@@ -82,9 +82,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-05-31T23:43:04Z",
+    "at": "2026-06-01T00:43:23Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "High RSI14 value indicates potential overbuying; holding to avoid churn."
   }
 }
