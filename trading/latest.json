@@ -1,66 +1,42 @@
 {
-  "updated_at": "2026-06-01T16:00:50Z",
+  "updated_at": "2026-06-01T16:55:52Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1011.7789981615605,
-    "total_value_usd": 1011.7789981615605,
-    "pnl_usd": 18.32,
-    "pnl_pct": 1.84
+    "balance_usd": 1009.7232409769365,
+    "total_value_usd": 1009.7232409769365,
+    "pnl_usd": 9.72,
+    "pnl_pct": 0.97
   },
   "open_positions": [
     {
-      "asset": "AAPL",
-      "size": 0.3220560055393633,
-      "entry": 310.73528999999996,
+      "asset": "VVV",
+      "size": -1.9188333493236114,
+      "entry": 15.644174,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2577220978728136
+      "unrealized_pnl": -3.9572599059771636
     },
     {
-      "asset": "AMZN",
-      "size": 0.37242560798480506,
-      "entry": 268.78432499999997,
+      "asset": "VVV",
+      "size": 1.9188333493236114,
+      "entry": 19.14306675,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.9307753901158038
+      "unrealized_pnl": -2.7565321884294365
     },
     {
-      "asset": "NVDA",
-      "size": -0.2353827323227568,
-      "entry": 212.31379,
+      "asset": "VVV",
+      "size": 1.9188333493236114,
+      "entry": 19.1725815,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.7244633273702983
-    },
-    {
-      "asset": "SPY",
-      "size": 0.13238720610040244,
-      "entry": 755.73768,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.1287227282355541
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.13586402728149669,
-      "entry": 736.398015,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.6143750934065151
-    },
-    {
-      "asset": "AAPL",
-      "size": 0.3201741747510646,
-      "entry": 312.48616499999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.810957961130851
+      "unrealized_pnl": -2.8131660750263867
     }
   ],
   "last_decision": {
-    "at": "2026-06-01T16:00:50Z",
-    "asset": "SPY",
+    "at": "2026-06-01T16:55:52Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "Current position is profitable, and the asset's RSI14 is above 50, indicating a bullish trend."
+    "rationale": "hold-all: empty response"
   }
 }
