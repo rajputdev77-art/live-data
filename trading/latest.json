@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-01T18:04:01Z",
+  "updated_at": "2026-06-01T19:05:50Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1012.6406637325601,
-    "total_value_usd": 1012.6406637325601,
-    "pnl_usd": 19.18,
-    "pnl_pct": 1.93
+    "balance_usd": 1013.062383129595,
+    "total_value_usd": 1013.062383129595,
+    "pnl_usd": 19.6,
+    "pnl_pct": 1.97
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.9839744931643474
+      "unrealized_pnl": -0.9871950532197381
     },
     {
       "asset": "AMZN",
@@ -22,7 +22,7 @@
       "entry": 268.78432499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.465206137574
+      "unrealized_pnl": -1.9196026218762698
     },
     {
       "asset": "SPY",
@@ -30,7 +30,7 @@
       "entry": 755.73768,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5093359457742112
+      "unrealized_pnl": 0.5126456259267181
     },
     {
       "asset": "QQQ",
@@ -38,7 +38,7 @@
       "entry": 736.398015,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.1687003247150272
+      "unrealized_pnl": 1.0559331820713793
     },
     {
       "asset": "AAPL",
@@ -46,13 +46,13 @@
       "entry": 312.48616499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.5388099125924388
+      "unrealized_pnl": -1.5500160087087342
     }
   ],
   "last_decision": {
-    "at": "2026-06-01T18:04:01Z",
+    "at": "2026-06-01T19:05:50Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY is above EMA20 and MACD is positive"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
