@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-06-02T17:06:28Z",
+  "updated_at": "2026-06-02T17:36:35Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1010.2731838916444,
-    "total_value_usd": 1010.2731838916444,
-    "pnl_usd": 10.27,
-    "pnl_pct": 1.03
+    "balance_usd": 1016.0140267211799,
+    "total_value_usd": 1016.0140267211799,
+    "pnl_usd": 22.55,
+    "pnl_pct": 2.27
   },
   "open_positions": [
     {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 15.644174,
+      "asset": "AAPL",
+      "size": 0.3220560055393633,
+      "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -5.285092583709103
+      "unrealized_pnl": 1.1979549443648316
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.14306675,
+      "asset": "SPY",
+      "size": 0.13238720610040244,
+      "entry": 755.73768,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.4286995106974971
+      "unrealized_pnl": 0.4471139589070184
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.1725815,
+      "asset": "QQQ",
+      "size": 0.13586402728149669,
+      "entry": 736.398015,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.4853333972944474
+      "unrealized_pnl": 1.0674816243903114
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 18.80389725,
+      "asset": "AAPL",
+      "size": 0.3201741747510646,
+      "entry": 312.48616499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7778897630240815
+      "unrealized_pnl": 0.622365766977247
     }
   ],
   "last_decision": {
-    "at": "2026-06-02T17:06:28Z",
-    "asset": "BTC",
+    "at": "2026-06-02T17:36:35Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
