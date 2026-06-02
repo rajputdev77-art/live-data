@@ -1,50 +1,58 @@
 {
-  "updated_at": "2026-06-02T13:04:41Z",
+  "updated_at": "2026-06-02T13:29:21Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1008.7611432123773,
-    "total_value_usd": 1008.7611432123773,
-    "pnl_usd": 8.76,
-    "pnl_pct": 0.88
+    "balance_usd": 1010.636146047352,
+    "total_value_usd": 1010.636146047352,
+    "pnl_usd": 17.18,
+    "pnl_pct": 1.73
   },
   "open_positions": [
     {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 15.644174,
+      "asset": "AAPL",
+      "size": 0.3220560055393633,
+      "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -4.5290722440756035
+      "unrealized_pnl": -1.499264102027336
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.14306675,
+      "asset": "AMZN",
+      "size": 0.37242560798480506,
+      "entry": 268.78432499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.184719850330997
+      "unrealized_pnl": -2.720317679043592
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.1725815,
+      "asset": "SPY",
+      "size": 0.13238720610040244,
+      "entry": 755.73768,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.2413537369279473
+      "unrealized_pnl": 0.18829697098072617
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 18.80389725,
+      "asset": "QQQ",
+      "size": 0.13586402728149669,
+      "entry": 736.398015,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.5339101026575812
+      "unrealized_pnl": 0.7679014442346057
+    },
+    {
+      "asset": "AAPL",
+      "size": 0.3201741747510646,
+      "entry": 312.48616499999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -2.0510885921941497
     }
   ],
   "last_decision": {
-    "at": "2026-06-02T13:04:41Z",
-    "asset": "BTC",
+    "at": "2026-06-02T13:29:21Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "Current price is above EMA20, but RSI14 is below 50."
   }
 }
