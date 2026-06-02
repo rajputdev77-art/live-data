@@ -1,49 +1,57 @@
 {
-  "updated_at": "2026-06-02T00:59:22Z",
+  "updated_at": "2026-06-02T01:13:39Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1010.069787556616,
-    "total_value_usd": 1010.069787556616,
-    "pnl_usd": 10.07,
-    "pnl_pct": 1.01
+    "balance_usd": 1010.9198521556598,
+    "total_value_usd": 1010.9198521556598,
+    "pnl_usd": 17.46,
+    "pnl_pct": 1.76
   },
   "open_positions": [
     {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 15.644174,
+      "asset": "AAPL",
+      "size": 0.3220560055393633,
+      "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -5.183394416194957
+      "unrealized_pnl": -1.4123089805316955
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.14306675,
+      "asset": "AMZN",
+      "size": 0.37242560798480506,
+      "entry": 268.78432499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.5303976782116433
+      "unrealized_pnl": -2.720317679043592
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.1725815,
+      "asset": "SPY",
+      "size": 0.13238720610040244,
+      "entry": 755.73768,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.5870315648085935
+      "unrealized_pnl": 0.385553908070327
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 18.80389725,
+      "asset": "QQQ",
+      "size": 0.13586402728149669,
+      "entry": 736.398015,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.8795879305382277
+      "unrealized_pnl": 0.6809484667744496
+    },
+    {
+      "asset": "AAPL",
+      "size": 0.3201741747510646,
+      "entry": 312.48616499999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.9646415650113498
     }
   ],
   "last_decision": {
-    "at": "2026-06-02T00:59:22Z",
-    "asset": "BTC",
+    "at": "2026-06-02T01:13:39Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
