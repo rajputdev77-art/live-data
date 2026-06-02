@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-02T18:38:22Z",
+  "updated_at": "2026-06-02T19:38:44Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1015.8749523013855,
-    "total_value_usd": 1015.8749523013855,
-    "pnl_usd": 22.42,
-    "pnl_pct": 2.26
+    "balance_usd": 1016.4626680112355,
+    "total_value_usd": 1016.4626680112355,
+    "pnl_usd": 23.0,
+    "pnl_pct": 2.32
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.135154023284658
+      "unrealized_pnl": 1.3348287467190647
     },
     {
       "asset": "SPY",
@@ -22,7 +22,7 @@
       "entry": 755.73768,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.4252700699004568
+      "unrealized_pnl": 0.4769010802796119
     },
     {
       "asset": "QQQ",
@@ -30,7 +30,7 @@
       "entry": 736.398015,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.0674816243903114
+      "unrealized_pnl": 1.2053836120810286
     },
     {
       "asset": "AAPL",
@@ -38,13 +38,13 @@
       "entry": 312.48616499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5679361572695609
+      "unrealized_pnl": 0.7664441456152224
     }
   ],
   "last_decision": {
-    "at": "2026-06-02T18:38:22Z",
+    "at": "2026-06-02T19:38:44Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "The current price is near the intraday ema20, and the long-term ema20 and ema50 are trending upwards, indicating a potential buy signal, but given the current position and risk limits, holding is the preferred action."
   }
 }
