@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-02T21:41:21Z",
+  "updated_at": "2026-06-02T22:41:41Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1016.9710871579764,
-    "total_value_usd": 1016.9710871579764,
-    "pnl_usd": 23.51,
-    "pnl_pct": 2.37
+    "balance_usd": 1016.8460871579764,
+    "total_value_usd": 1016.8460871579764,
+    "pnl_usd": 23.39,
+    "pnl_pct": 2.35
   },
   "open_positions": [
     {
@@ -39,12 +39,52 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.867299010661807
+    },
+    {
+      "asset": "NVDA",
+      "size": -0.22407457201756745,
+      "entry": 223.02843,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.025000000000000088
+    },
+    {
+      "asset": "MSFT",
+      "size": -0.11324771805848112,
+      "entry": 441.289245,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.02499999999999965
+    },
+    {
+      "asset": "AMZN",
+      "size": -0.19490897750750402,
+      "entry": 256.401735,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.0249999999999998
+    },
+    {
+      "asset": "GOOG",
+      "size": -0.1395517597476904,
+      "entry": 358.110855,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.025000000000000758
+    },
+    {
+      "asset": "META",
+      "size": -0.08364980844193867,
+      "entry": 597.431135,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.024999999999998156
     }
   ],
   "last_decision": {
-    "at": "2026-06-02T21:41:21Z",
+    "at": "2026-06-02T22:41:41Z",
     "asset": "SPY",
     "action": "buy",
-    "rationale": "Bullish trend with upward momentum"
+    "rationale": "SPY is above ema20 and macd is positive"
   }
 }
