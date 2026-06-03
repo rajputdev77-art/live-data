@@ -1,34 +1,15 @@
 {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  "updated_at": "2026-06-03T09:56:37Z",
-=======
-  "updated_at": "2026-06-03T10:58:25Z",
->>>>>>> Stashed changes
+  "updated_at": "2026-06-03T12:00:14Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1016.8460871579764,
     "total_value_usd": 1016.8460871579764,
     "pnl_usd": 23.39,
     "pnl_pct": 2.35
-=======
-  "updated_at": "2026-06-03T10:11:17Z",
-=======
-  "updated_at": "2026-06-03T11:11:52Z",
->>>>>>> Stashed changes
-  "mode": "paper",
-  "account": {
-    "balance_usd": 987.3533332643477,
-    "total_value_usd": 987.3533332643477,
-    "pnl_usd": -5.94,
-    "pnl_pct": -0.6
   },
   "open_positions": [
     {
       "asset": "AAPL",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       "size": 0.3220560055393633,
       "entry": 310.73528999999996,
       "tp": null,
@@ -101,78 +82,9 @@
     }
   ],
   "last_decision": {
-<<<<<<< Updated upstream
-    "at": "2026-06-03T09:56:37Z",
-=======
-=======
->>>>>>> Stashed changes
-      "size": -0.3208891478438634,
-      "entry": 310.80452,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.4088573858255151
-    },
-    {
-      "asset": "NVDA",
-      "size": 0.4472150697926548,
-      "entry": 221.55071999999998,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.7107499661200715
-    },
-    {
-      "asset": "GOOG",
-      "size": 0.2711066078812608,
-      "entry": 365.352585,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.9147134622230622
-    },
-    {
-      "asset": "MSFT",
-      "size": -0.22428735212600895,
-      "entry": 440.43967000000004,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.24006148160102125
-    },
-    {
-      "asset": "AMZN",
-      "size": -0.382483760365357,
-      "entry": 258.22082500000005,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.6467131041197833
-    },
-    {
-      "asset": "GOOG",
-      "size": -0.27377483819719267,
-      "entry": 360.589615,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.6295767245408264
-    },
-    {
-      "asset": "META",
-      "size": -0.16420758787891634,
-      "entry": 601.6990000000001,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.6517399162914274
-    }
-  ],
-  "last_decision": {
-<<<<<<< Updated upstream
-    "at": "2026-06-03T10:11:17Z",
->>>>>>> Stashed changes
-=======
-    "at": "2026-06-03T10:58:25Z",
->>>>>>> Stashed changes
-=======
-    "at": "2026-06-03T11:11:52Z",
->>>>>>> Stashed changes
+    "at": "2026-06-03T12:00:14Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "SPY shows strong intraday and long-term bullish momentum (RSI 66.91 on 4h, 77.68 intraday). EMA20 is above EMA50 on 4h. Intraday EMA20 is above recent prices. No immediate reason to exit or enter."
+    "rationale": "hold-all: empty response"
   }
 }
