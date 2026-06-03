@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-02T14:22:46Z",
+  "updated_at": "2026-06-03T09:53:38Z",
   "channel": {
-    "id": null,
-    "title": "AI News Daily",
-    "subscriber_count": null,
-    "video_count": 42,
-    "view_count": null
+    "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
+    "title": "Dev Rajput",
+    "subscriber_count": 2,
+    "video_count": 68,
+    "view_count": 810
   },
   "last_run": {
     "started_at": "2026-06-02T14:22:31Z",
@@ -17,7 +17,7 @@
     "error": "RateLimitError at stage 1_research: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kmx8djkff15rdyfhykamtgcq` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99993, Requested 4766. Please try again in 1h8m31.776s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
     "stage_timings": {}
   },
-  "next_run_at": null,
+  "next_run_at": "2026-06-03T10:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -36,5 +36,68 @@
     "ran_at": "2026-05-14T14:09:36Z",
     "source": "data/published_log.json",
     "notes": "Each entry in published_log is a confirmed YouTube upload. duration_seconds=0 because the log only records the upload time, not the full pipeline duration. Going forward, live_status.py records exact timings."
+  },
+  "schedules": {
+    "news": {
+      "monday": "14:00",
+      "tuesday": "14:00",
+      "wednesday": "15:30",
+      "thursday": "15:30",
+      "friday": "15:30",
+      "saturday": "17:00",
+      "sunday": "17:00"
+    },
+    "teaching": {
+      "monday": "10:30",
+      "tuesday": "10:30",
+      "wednesday": "10:30",
+      "thursday": "10:30",
+      "friday": "10:30",
+      "saturday": "11:30",
+      "sunday": "11:30"
+    },
+    "shorts": {
+      "monday": "18:30",
+      "tuesday": "18:30",
+      "wednesday": "18:30",
+      "thursday": "18:30",
+      "friday": "18:30",
+      "saturday": "18:30",
+      "sunday": "18:30"
+    }
+  },
+  "pipelines": {
+    "news": {
+      "last_run": null,
+      "next_run_at": null,
+      "totals": {
+        "runs_attempted": 0,
+        "runs_succeeded": 0,
+        "videos_published": 0
+      }
+    },
+    "teaching": {
+      "last_run": null,
+      "next_run_at": null,
+      "totals": {
+        "runs_attempted": 0,
+        "runs_succeeded": 0,
+        "videos_published": 0
+      }
+    },
+    "shorts": {
+      "last_run": null,
+      "next_run_at": null,
+      "totals": {
+        "runs_attempted": 0,
+        "runs_succeeded": 0,
+        "videos_published": 0
+      }
+    }
+  },
+  "health": {
+    "youtube_token": "ok",
+    "detail": null,
+    "checked_at": "2026-06-03T09:53:38Z"
   }
 }
