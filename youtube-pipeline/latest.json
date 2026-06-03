@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T09:53:38Z",
+  "updated_at": "2026-06-03T10:59:33Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,16 +8,17 @@
     "view_count": 810
   },
   "last_run": {
-    "started_at": "2026-06-02T14:22:31Z",
-    "finished_at": "2026-06-02T14:22:46Z",
-    "status": "failure",
-    "duration_seconds": 14.4,
-    "video_url": null,
-    "video_title": null,
-    "error": "RateLimitError at stage 1_research: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kmx8djkff15rdyfhykamtgcq` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99993, Requested 4766. Please try again in 1h8m31.776s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "pipeline": "teaching",
+    "started_at": "2026-06-03T10:30:00Z",
+    "finished_at": "2026-06-03T10:59:33Z",
+    "status": "success",
+    "duration_seconds": 1773.1,
+    "video_url": "https://www.youtube.com/watch?v=sUOQFqel-C4",
+    "video_title": "AI #1: Can Computers Really Think Like You?",
+    "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-03T10:00:00Z",
+  "next_run_at": "2026-06-03T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -28,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 73,
-    "runs_succeeded": 54,
-    "videos_published": 54
+    "runs_attempted": 74,
+    "runs_succeeded": 55,
+    "videos_published": 55
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -69,7 +70,7 @@
   "pipelines": {
     "news": {
       "last_run": null,
-      "next_run_at": null,
+      "next_run_at": "2026-06-04T10:00:00Z",
       "totals": {
         "runs_attempted": 0,
         "runs_succeeded": 0,
@@ -77,17 +78,27 @@
       }
     },
     "teaching": {
-      "last_run": null,
-      "next_run_at": null,
+      "last_run": {
+        "pipeline": "teaching",
+        "started_at": "2026-06-03T10:30:00Z",
+        "finished_at": "2026-06-03T10:59:33Z",
+        "status": "success",
+        "duration_seconds": 1773.1,
+        "video_url": "https://www.youtube.com/watch?v=sUOQFqel-C4",
+        "video_title": "AI #1: Can Computers Really Think Like You?",
+        "error": null,
+        "stage_timings": {}
+      },
+      "next_run_at": "2026-06-04T05:00:00Z",
       "totals": {
-        "runs_attempted": 0,
-        "runs_succeeded": 0,
-        "videos_published": 0
+        "runs_attempted": 1,
+        "runs_succeeded": 1,
+        "videos_published": 1
       }
     },
     "shorts": {
       "last_run": null,
-      "next_run_at": null,
+      "next_run_at": "2026-06-03T13:00:00Z",
       "totals": {
         "runs_attempted": 0,
         "runs_succeeded": 0,
@@ -98,6 +109,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-03T09:53:38Z"
+    "checked_at": "2026-06-03T10:59:33Z"
   }
 }
