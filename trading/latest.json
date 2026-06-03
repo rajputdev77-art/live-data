@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "updated_at": "2026-06-03T12:00:14Z",
   "mode": "paper",
   "account": {
@@ -6,10 +7,20 @@
     "total_value_usd": 1016.8460871579764,
     "pnl_usd": 23.39,
     "pnl_pct": 2.35
+=======
+  "updated_at": "2026-06-03T12:12:28Z",
+  "mode": "paper",
+  "account": {
+    "balance_usd": 989.1783607376389,
+    "total_value_usd": 989.1783607376389,
+    "pnl_usd": -4.11,
+    "pnl_pct": -0.41
+>>>>>>> Stashed changes
   },
   "open_positions": [
     {
       "asset": "AAPL",
+<<<<<<< Updated upstream
       "size": 0.3220560055393633,
       "entry": 310.73528999999996,
       "tp": null,
@@ -86,5 +97,59 @@
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
+=======
+      "size": -0.3208891478438634,
+      "entry": 310.80452,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.0863637922424338
+    },
+    {
+      "asset": "NVDA",
+      "size": 0.4472150697926548,
+      "entry": 221.55071999999998,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 1.2071586935899243
+    },
+    {
+      "asset": "MSFT",
+      "size": -0.22428735212600895,
+      "entry": 440.43967000000004,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.08964092602420527
+    },
+    {
+      "asset": "AMZN",
+      "size": -0.382483760365357,
+      "entry": 258.22082500000005,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.6467131041197833
+    },
+    {
+      "asset": "GOOG",
+      "size": -0.27377483819719267,
+      "entry": 360.589615,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 1.420786006930725
+    },
+    {
+      "asset": "META",
+      "size": -0.16420758787891634,
+      "entry": 601.6990000000001,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.6517399162914274
+    }
+  ],
+  "last_decision": {
+    "at": "2026-06-03T12:12:28Z",
+    "asset": "SPY",
+    "action": "hold",
+    "rationale": "SPY is in an uptrend, but RSI is high, indicating potential for a pullback. Holding to observe further price action."
+>>>>>>> Stashed changes
   }
 }
