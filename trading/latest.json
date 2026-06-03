@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T02:47:24Z",
+  "updated_at": "2026-06-03T03:49:11Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1016.8460871579764,
@@ -82,9 +82,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-03T02:47:24Z",
+    "at": "2026-06-03T03:49:11Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "intraday RSI14 indicates a potential buy signal"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
