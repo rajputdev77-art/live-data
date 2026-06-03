@@ -1,6 +1,7 @@
 {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "updated_at": "2026-06-03T09:56:37Z",
 =======
   "updated_at": "2026-06-03T10:58:25Z",
@@ -13,17 +14,20 @@
     "pnl_pct": 2.35
 =======
   "updated_at": "2026-06-03T10:11:17Z",
+=======
+  "updated_at": "2026-06-03T11:11:52Z",
+>>>>>>> Stashed changes
   "mode": "paper",
   "account": {
     "balance_usd": 987.3533332643477,
     "total_value_usd": 987.3533332643477,
     "pnl_usd": -5.94,
     "pnl_pct": -0.6
->>>>>>> Stashed changes
   },
   "open_positions": [
     {
       "asset": "AAPL",
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "size": 0.3220560055393633,
       "entry": 310.73528999999996,
@@ -100,6 +104,8 @@
 <<<<<<< Updated upstream
     "at": "2026-06-03T09:56:37Z",
 =======
+=======
+>>>>>>> Stashed changes
       "size": -0.3208891478438634,
       "entry": 310.80452,
       "tp": null,
@@ -156,13 +162,17 @@
     }
   ],
   "last_decision": {
+<<<<<<< Updated upstream
     "at": "2026-06-03T10:11:17Z",
 >>>>>>> Stashed changes
 =======
     "at": "2026-06-03T10:58:25Z",
 >>>>>>> Stashed changes
+=======
+    "at": "2026-06-03T11:11:52Z",
+>>>>>>> Stashed changes
     "asset": "SPY",
     "action": "hold",
-    "rationale": "SPY shows strong intraday momentum (RSI7=77.68, RSI14=66.91, MACD=0.134) and is above its 4h EMA20 (753.15). However, it's approaching overbought territory on the 4h RSI (75.01). Holding to observe for potential pullback or continuation."
+    "rationale": "SPY shows strong intraday and long-term bullish momentum (RSI 66.91 on 4h, 77.68 intraday). EMA20 is above EMA50 on 4h. Intraday EMA20 is above recent prices. No immediate reason to exit or enter."
   }
 }
