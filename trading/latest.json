@@ -1,6 +1,10 @@
 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "updated_at": "2026-06-03T09:56:37Z",
+=======
+  "updated_at": "2026-06-03T10:58:25Z",
+>>>>>>> Stashed changes
   "mode": "paper",
   "account": {
     "balance_usd": 1016.8460871579764,
@@ -93,6 +97,7 @@
     }
   ],
   "last_decision": {
+<<<<<<< Updated upstream
     "at": "2026-06-03T09:56:37Z",
 =======
       "size": -0.3208891478438634,
@@ -152,6 +157,9 @@
   ],
   "last_decision": {
     "at": "2026-06-03T10:11:17Z",
+>>>>>>> Stashed changes
+=======
+    "at": "2026-06-03T10:58:25Z",
 >>>>>>> Stashed changes
     "asset": "SPY",
     "action": "hold",
