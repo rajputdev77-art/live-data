@@ -1,5 +1,6 @@
 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "updated_at": "2026-06-03T12:00:14Z",
   "mode": "paper",
   "account": {
@@ -16,6 +17,15 @@
     "pnl_usd": -4.11,
     "pnl_pct": -0.41
 >>>>>>> Stashed changes
+=======
+  "updated_at": "2026-06-03T13:00:40Z",
+  "mode": "paper",
+  "account": {
+    "balance_usd": 1016.5845149032383,
+    "total_value_usd": 1016.5845149032383,
+    "pnl_usd": 23.13,
+    "pnl_pct": 2.33
+>>>>>>> Stashed changes
   },
   "open_positions": [
     {
@@ -25,7 +35,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.4362763884639635
+      "unrealized_pnl": 1.032096101512064
     },
     {
       "asset": "SPY",
@@ -33,7 +43,7 @@
       "entry": 755.73768,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5642766363058733
+      "unrealized_pnl": 0.3325990256301691
     },
     {
       "asset": "QQQ",
@@ -41,7 +51,7 @@
       "entry": 736.398015,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.4241246960042402
+      "unrealized_pnl": 1.326302596361559
     },
     {
       "asset": "AAPL",
@@ -49,7 +59,7 @@
       "entry": 312.48616499999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.867299010661807
+      "unrealized_pnl": 0.4654804213492224
     },
     {
       "asset": "NVDA",
@@ -57,7 +67,7 @@
       "entry": 223.02843,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.025000000000000088
+      "unrealized_pnl": 0.11168548893071274
     },
     {
       "asset": "MSFT",
@@ -65,7 +75,7 @@
       "entry": 441.289245,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.02499999999999965
+      "unrealized_pnl": 0.14147414554596424
     },
     {
       "asset": "AMZN",
@@ -81,7 +91,7 @@
       "entry": 358.110855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.025000000000000758
+      "unrealized_pnl": 0.5457666973680575
     },
     {
       "asset": "META",
@@ -93,8 +103,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-03T12:00:14Z",
+    "at": "2026-06-03T13:00:40Z",
     "asset": "SPY",
+<<<<<<< Updated upstream
     "action": "hold",
     "rationale": "hold-all: empty response"
 =======
@@ -150,6 +161,10 @@
     "asset": "SPY",
     "action": "hold",
     "rationale": "SPY is in an uptrend, but RSI is high, indicating potential for a pullback. Holding to observe further price action."
+>>>>>>> Stashed changes
+=======
+    "action": "buy",
+    "rationale": "SPY's current price is below the ema20, indicating a potential buy opportunity."
 >>>>>>> Stashed changes
   }
 }
