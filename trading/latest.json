@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T00:16:16Z",
+  "updated_at": "2026-06-04T01:18:03Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1019.0125960371535,
@@ -42,9 +42,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-04T00:16:16Z",
+    "at": "2026-06-04T01:18:03Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current position is near the stop loss, and the market is volatile."
+    "rationale": "hold-all: empty response"
   }
 }
