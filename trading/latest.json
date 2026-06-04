@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-04T02:18:24Z",
+  "updated_at": "2026-06-04T03:20:11Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1019.0125960371535,
-    "total_value_usd": 1019.0125960371535,
-    "pnl_usd": 25.55,
-    "pnl_pct": 2.57
+    "balance_usd": 1018.7625960371536,
+    "total_value_usd": 1018.7625960371536,
+    "pnl_usd": 25.3,
+    "pnl_pct": 2.55
   },
   "open_positions": [
     {
@@ -39,12 +39,52 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.32527491696670885
+    },
+    {
+      "asset": "SPY",
+      "size": 0.13272280841462605,
+      "entry": 753.826725,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.04999999999999534
+    },
+    {
+      "asset": "QQQ",
+      "size": 0.13495823042768262,
+      "entry": 741.340485,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.04999999999998878
+    },
+    {
+      "asset": "MSFT",
+      "size": 0.2350562959828879,
+      "entry": 425.642715,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.050000000000000676
+    },
+    {
+      "asset": "META",
+      "size": 0.16118633139909735,
+      "entry": 620.7102,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.05000000000000144
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.21997360316761988,
+      "entry": 454.8273,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.04999999999999054
     }
   ],
   "last_decision": {
-    "at": "2026-06-04T02:18:24Z",
+    "at": "2026-06-04T03:20:11Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY's current price is below its ema20, indicating a potential buy signal."
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
