@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-04T17:39:54Z",
+  "updated_at": "2026-06-04T18:41:49Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1012.582586024964,
-    "total_value_usd": 1012.582586024964,
-    "pnl_usd": 19.12,
-    "pnl_pct": 1.92
+    "balance_usd": 1013.0750397188693,
+    "total_value_usd": 1013.0750397188693,
+    "pnl_usd": 19.62,
+    "pnl_pct": 1.97
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.33806540957474485
+      "unrealized_pnl": 0.3944252105441188
     },
     {
       "asset": "SPY",
@@ -22,7 +22,7 @@
       "entry": 755.73768,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.17572018640119938
+      "unrealized_pnl": 0.27434865494598476
     },
     {
       "asset": "QQQ",
@@ -30,7 +30,7 @@
       "entry": 736.398015,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.7081212722307552
+      "unrealized_pnl": 0.8670821841501007
     },
     {
       "asset": "GOOG",
@@ -38,7 +38,7 @@
       "entry": 358.110855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.5028531357280386
+      "unrealized_pnl": -1.5733267744006216
     },
     {
       "asset": "SPY",
@@ -46,7 +46,7 @@
       "entry": 753.826725,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.42979295241887905
+      "unrealized_pnl": 0.528671444687761
     },
     {
       "asset": "QQQ",
@@ -54,7 +54,7 @@
       "entry": 741.340485,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.03637326747372625
+      "unrealized_pnl": 0.1942743970741094
     },
     {
       "asset": "MSFT",
@@ -62,7 +62,7 @@
       "entry": 425.642715,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.337842888371759
+      "unrealized_pnl": 0.6951284582657578
     },
     {
       "asset": "META",
@@ -70,11 +70,11 @@
       "entry": 620.7102,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.3402321083172133
+      "unrealized_pnl": 0.9751450676982599
     }
   ],
   "last_decision": {
-    "at": "2026-06-04T17:39:54Z",
+    "at": "2026-06-04T18:41:49Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
