@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-05T18:10:12Z",
+  "updated_at": "2026-06-05T19:12:01Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1001.4833660100613,
-    "total_value_usd": 1001.4833660100613,
-    "pnl_usd": 8.02,
-    "pnl_pct": 0.81
+    "balance_usd": 996.2192253078712,
+    "total_value_usd": 996.2192253078712,
+    "pnl_usd": 2.76,
+    "pnl_pct": 0.28
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.4684980918181782
+      "unrealized_pnl": -0.6297128870710588
     },
     {
       "asset": "GOOG",
@@ -22,15 +22,7 @@
       "entry": 358.110855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.212585475452845
-    },
-    {
-      "asset": "SPY",
-      "size": 0.13272280841462605,
-      "entry": 753.826725,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.4064271019974772
+      "unrealized_pnl": -0.7778817438387879
     },
     {
       "asset": "MSFT",
@@ -38,7 +30,7 @@
       "entry": 425.642715,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2041264132759861
+      "unrealized_pnl": -2.2066415156429997
     },
     {
       "asset": "META",
@@ -46,13 +38,13 @@
       "entry": 620.7102,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.7779174725983296
+      "unrealized_pnl": -4.732462927143772
     }
   ],
   "last_decision": {
-    "at": "2026-06-05T18:10:12Z",
+    "at": "2026-06-05T19:12:01Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is below EMA20, and RSI14 is below 40, indicating a potential downtrend."
+    "rationale": "hold-all: empty response"
   }
 }
