@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-05T12:03:35Z",
+  "updated_at": "2026-06-05T13:03:56Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1011.3627368721218,
-    "total_value_usd": 1011.3627368721218,
-    "pnl_usd": 17.9,
-    "pnl_pct": 1.8
+    "balance_usd": 1010.2478920634978,
+    "total_value_usd": 1010.2478920634978,
+    "pnl_usd": 16.79,
+    "pnl_pct": 1.69
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.17542712677734953
+      "unrealized_pnl": 0.5779971337015537
     },
     {
       "asset": "SPY",
@@ -22,7 +22,7 @@
       "entry": 755.73768,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.055909764880323724
+      "unrealized_pnl": -0.27241050624867674
     },
     {
       "asset": "QQQ",
@@ -30,7 +30,7 @@
       "entry": 736.398015,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.2991705501134514
+      "unrealized_pnl": -0.4834062470279683
     },
     {
       "asset": "GOOG",
@@ -38,7 +38,7 @@
       "entry": 358.110855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.3995848335147465
+      "unrealized_pnl": -1.0451233637556179
     },
     {
       "asset": "SPY",
@@ -46,7 +46,7 @@
       "entry": 753.826725,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.309678810803631
+      "unrealized_pnl": -0.019473754064644022
     },
     {
       "asset": "QQQ",
@@ -54,7 +54,7 @@
       "entry": 741.340485,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.3698510061135972
+      "unrealized_pnl": -1.147210413377048
     },
     {
       "asset": "MSFT",
@@ -62,7 +62,7 @@
       "entry": 425.642715,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.47182497708200355
+      "unrealized_pnl": 0.8173577321768551
     },
     {
       "asset": "META",
@@ -74,9 +74,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-05T12:03:35Z",
+    "at": "2026-06-05T13:03:56Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "action": "buy",
+    "rationale": "Buy signal due to price below ema20"
   }
 }
