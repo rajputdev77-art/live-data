@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-05T22:14:28Z",
+  "updated_at": "2026-06-05T23:16:15Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 995.6700106022331,
-    "total_value_usd": 995.6700106022331,
-    "pnl_usd": 2.21,
-    "pnl_pct": 0.22
+    "balance_usd": 995.4210930995825,
+    "total_value_usd": 995.4210930995825,
+    "pnl_usd": 1.96,
+    "pnl_pct": 0.2
   },
   "open_positions": [
     {
@@ -39,12 +39,52 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": -4.490683430045126
+    },
+    {
+      "asset": "SPY",
+      "size": 0.13556306052013467,
+      "entry": 734.837235,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.0497835005301031
+    },
+    {
+      "asset": "QQQ",
+      "size": 0.14203161259339722,
+      "entry": 701.37051,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.049783500530109624
+    },
+    {
+      "asset": "NVDA",
+      "size": 0.4871899058581167,
+      "entry": 204.472185,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.04978350053010753
+    },
+    {
+      "asset": "AAPL",
+      "size": 0.3240796831696882,
+      "entry": 307.383615,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.04978350053011232
+    },
+    {
+      "asset": "META",
+      "size": -0.16794636258787773,
+      "entry": 592.553575,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.04978350053011153
     }
   ],
   "last_decision": {
-    "at": "2026-06-05T22:14:28Z",
+    "at": "2026-06-05T23:16:15Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "intraday RSI7 is 30.69, indicating a potential buy opportunity"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
