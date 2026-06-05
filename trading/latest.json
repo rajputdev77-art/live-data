@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-05T15:06:07Z",
+  "updated_at": "2026-06-05T16:07:57Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1004.3162905391118,
-    "total_value_usd": 1004.3162905391118,
-    "pnl_usd": 10.86,
-    "pnl_pct": 1.09
+    "balance_usd": 1002.3065964644748,
+    "total_value_usd": 1002.3065964644748,
+    "pnl_usd": 8.85,
+    "pnl_pct": 0.89
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.7873335373021508
+      "unrealized_pnl": 0.7341942963881493
     },
     {
       "asset": "SPY",
@@ -22,7 +22,7 @@
       "entry": 755.73768,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.8588858292734529
+      "unrealized_pnl": -1.3513662359669536
     },
     {
       "asset": "GOOG",
@@ -30,7 +30,7 @@
       "entry": 358.110855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.1776975355159223
+      "unrealized_pnl": -1.2391003098049058
     },
     {
       "asset": "SPY",
@@ -38,7 +38,7 @@
       "entry": 753.826725,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6074357953414308
+      "unrealized_pnl": -1.1011646426438433
     },
     {
       "asset": "MSFT",
@@ -46,7 +46,7 @@
       "entry": 425.642715,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.8609442211409613
+      "unrealized_pnl": -1.3169534353477632
     },
     {
       "asset": "META",
@@ -54,13 +54,13 @@
       "entry": 620.7102,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0300128949065017
+      "unrealized_pnl": -1.4829464861379746
     }
   ],
   "last_decision": {
-    "at": "2026-06-05T15:06:07Z",
+    "at": "2026-06-05T16:07:57Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY is below ema20, potential buy signal"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
