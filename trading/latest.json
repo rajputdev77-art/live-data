@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-05T20:12:21Z",
+  "updated_at": "2026-06-05T21:14:07Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 995.7507881650623,
-    "total_value_usd": 995.7507881650623,
-    "pnl_usd": 2.29,
-    "pnl_pct": 0.23
+    "balance_usd": 995.6700106022331,
+    "total_value_usd": 995.6700106022331,
+    "pnl_usd": 2.21,
+    "pnl_pct": 0.22
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0387240141060443
+      "unrealized_pnl": -1.1288996956570572
     },
     {
       "asset": "GOOG",
@@ -22,7 +22,7 @@
       "entry": 358.110855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7464825978955545
+      "unrealized_pnl": -0.7018260347762945
     },
     {
       "asset": "MSFT",
@@ -30,7 +30,7 @@
       "entry": 425.642715,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.5392461744587913
+      "unrealized_pnl": -2.574504618856219
     },
     {
       "asset": "META",
@@ -42,9 +42,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-05T20:12:21Z",
+    "at": "2026-06-05T21:14:07Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "The current price is below the ema20, indicating a potential buy opportunity."
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
