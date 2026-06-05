@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-06-04T13:01:10Z",
+  "updated_at": "2026-06-05T05:10:02Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 2,
-    "video_count": 72,
-    "view_count": 824
+    "video_count": 74,
+    "view_count": 862
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-06-04T13:00:22Z",
-    "finished_at": "2026-06-04T13:01:10Z",
+    "pipeline": "teaching",
+    "started_at": "2026-06-05T05:00:27Z",
+    "finished_at": "2026-06-05T05:10:02Z",
     "status": "success",
-    "duration_seconds": 48.2,
-    "video_url": "https://www.youtube.com/watch?v=rMOYrWvZ8Us",
-    "video_title": "3 Heart Attacks #Shorts",
+    "duration_seconds": 574.1,
+    "video_url": "https://www.youtube.com/watch?v=DCKUR1ziZFY",
+    "video_title": "AI #3: Can Computers Really Learn Secrets?",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-05T05:00:00Z",
+  "next_run_at": "2026-06-05T10:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 79,
-    "runs_succeeded": 60,
-    "videos_published": 60
+    "runs_attempted": 80,
+    "runs_succeeded": 61,
+    "videos_published": 61
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -90,20 +90,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-06-04T05:00:24Z",
-        "finished_at": "2026-06-04T05:11:22Z",
+        "started_at": "2026-06-05T05:00:27Z",
+        "finished_at": "2026-06-05T05:10:02Z",
         "status": "success",
-        "duration_seconds": 657.5,
-        "video_url": "https://www.youtube.com/watch?v=vA5YJEIaUPg",
-        "video_title": "AI #2: Can Machines Really Learn?",
+        "duration_seconds": 574.1,
+        "video_url": "https://www.youtube.com/watch?v=DCKUR1ziZFY",
+        "video_title": "AI #3: Can Computers Really Learn Secrets?",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-05T05:00:00Z",
+      "next_run_at": "2026-06-06T06:00:00Z",
       "totals": {
-        "runs_attempted": 2,
-        "runs_succeeded": 2,
-        "videos_published": 2
+        "runs_attempted": 3,
+        "runs_succeeded": 3,
+        "videos_published": 3
       }
     },
     "shorts": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-04T13:01:10Z"
+    "checked_at": "2026-06-05T05:10:02Z"
   }
 }
