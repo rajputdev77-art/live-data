@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T15:36:15Z",
+  "updated_at": "2026-06-06T16:38:03Z",
   "mode": "paper",
   "account": {
     "balance_usd": 995.4210930995825,
@@ -82,9 +82,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-06T15:36:15Z",
+    "at": "2026-06-06T16:38:03Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "intraday ema20 indicates a potential buy opportunity"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
