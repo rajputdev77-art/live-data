@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T06:35:51Z",
+  "updated_at": "2026-06-07T12:06:46Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 930
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-06-07T06:00:01Z",
-    "finished_at": "2026-06-07T06:35:51Z",
+    "pipeline": "news",
+    "started_at": "2026-06-07T11:30:28Z",
+    "finished_at": "2026-06-07T12:06:46Z",
     "status": "failure",
-    "duration_seconds": 2149.9,
+    "duration_seconds": 2177.5,
     "video_url": null,
     "video_title": null,
     "error": "RuntimeError: YouTube OAuth token expired. Run 'python reauth.py' to fix.",
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-07T11:30:00Z",
+  "next_run_at": "2026-06-07T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,7 +29,7 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 86,
+    "runs_attempted": 87,
     "runs_succeeded": 66,
     "videos_published": 66
   },
@@ -71,18 +71,18 @@
     "news": {
       "last_run": {
         "pipeline": "news",
-        "started_at": "2026-06-06T11:30:06Z",
-        "finished_at": "2026-06-06T11:41:23Z",
-        "status": "success",
-        "duration_seconds": 676.8,
-        "video_url": "https://www.youtube.com/watch?v=69gvmG0f-P0",
-        "video_title": "Judge SHOCKED",
-        "error": null,
+        "started_at": "2026-06-07T11:30:28Z",
+        "finished_at": "2026-06-07T12:06:46Z",
+        "status": "failure",
+        "duration_seconds": 2177.5,
+        "video_url": null,
+        "video_title": null,
+        "error": "RuntimeError: YouTube OAuth token expired. Run 'python reauth.py' to fix.",
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-07T11:30:00Z",
+      "next_run_at": "2026-06-08T08:30:00Z",
       "totals": {
-        "runs_attempted": 4,
+        "runs_attempted": 5,
         "runs_succeeded": 4,
         "videos_published": 4
       }
@@ -128,7 +128,7 @@
   },
   "health": {
     "youtube_token": "needs_reauth",
-    "detail": "YouTube token expired at 2026-06-07T12:05:51.168806.",
-    "checked_at": "2026-06-07T06:35:51Z"
+    "detail": "YouTube token expired at 2026-06-07T17:36:46.050981.",
+    "checked_at": "2026-06-07T12:06:46Z"
   }
 }
