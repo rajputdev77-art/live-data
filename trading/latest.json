@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T20:07:54Z",
+  "updated_at": "2026-06-07T21:09:41Z",
   "mode": "paper",
   "account": {
     "balance_usd": 995.4210930995825,
@@ -82,9 +82,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-07T20:07:54Z",
+    "at": "2026-06-07T21:09:41Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is below EMA20 and EMA50, indicating a bearish trend. Existing position is near stop-loss, so holding to avoid additional churn."
+    "rationale": "hold-all: empty response"
   }
 }
