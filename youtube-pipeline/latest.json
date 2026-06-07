@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T13:01:03Z",
+  "updated_at": "2026-06-07T06:35:51Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 930
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-06-06T13:00:09Z",
-    "finished_at": "2026-06-06T13:01:03Z",
-    "status": "success",
-    "duration_seconds": 54.3,
-    "video_url": "https://www.youtube.com/watch?v=Va8BZC1KqO8",
-    "video_title": "3 Heart Attacks #Shorts",
-    "error": null,
+    "pipeline": "teaching",
+    "started_at": "2026-06-07T06:00:01Z",
+    "finished_at": "2026-06-07T06:35:51Z",
+    "status": "failure",
+    "duration_seconds": 2149.9,
+    "video_url": null,
+    "video_title": null,
+    "error": "RuntimeError: YouTube OAuth token expired. Run 'python reauth.py' to fix.",
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-07T06:00:00Z",
+  "next_run_at": "2026-06-07T11:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,7 +29,7 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 85,
+    "runs_attempted": 86,
     "runs_succeeded": 66,
     "videos_published": 66
   },
@@ -90,18 +90,18 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-06-06T06:00:07Z",
-        "finished_at": "2026-06-06T06:08:55Z",
-        "status": "success",
-        "duration_seconds": 528.5,
-        "video_url": "https://www.youtube.com/watch?v=Yy_fCw-PUZs",
-        "video_title": "AI #4: Can AI Learn Like You Do?",
-        "error": null,
+        "started_at": "2026-06-07T06:00:01Z",
+        "finished_at": "2026-06-07T06:35:51Z",
+        "status": "failure",
+        "duration_seconds": 2149.9,
+        "video_url": null,
+        "video_title": null,
+        "error": "RuntimeError: YouTube OAuth token expired. Run 'python reauth.py' to fix.",
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-07T06:00:00Z",
+      "next_run_at": "2026-06-08T05:00:00Z",
       "totals": {
-        "runs_attempted": 4,
+        "runs_attempted": 5,
         "runs_succeeded": 4,
         "videos_published": 4
       }
@@ -127,8 +127,8 @@
     }
   },
   "health": {
-    "youtube_token": "ok",
-    "detail": null,
-    "checked_at": "2026-06-06T13:01:03Z"
+    "youtube_token": "needs_reauth",
+    "detail": "YouTube token expired at 2026-06-07T12:05:51.168806.",
+    "checked_at": "2026-06-07T06:35:51Z"
   }
 }
