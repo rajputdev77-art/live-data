@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-08T12:27:49Z",
+  "updated_at": "2026-06-08T13:29:36Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1000.591486344353,
-    "total_value_usd": 1000.591486344353,
-    "pnl_usd": 7.13,
-    "pnl_pct": 0.72
+    "balance_usd": 1000.6624897646032,
+    "total_value_usd": 1000.6624897646032,
+    "pnl_usd": 7.2,
+    "pnl_pct": 0.73
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7746380895637686
+      "unrealized_pnl": -0.8004025700069125
     },
     {
       "asset": "GOOG",
@@ -22,7 +22,7 @@
       "entry": 358.110855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.95581023751709
+      "unrealized_pnl": -0.8958029808255822
     },
     {
       "asset": "MSFT",
@@ -30,7 +30,7 @@
       "entry": 425.642715,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.576855181816046
+      "unrealized_pnl": -2.5251427966998174
     },
     {
       "asset": "META",
@@ -38,15 +38,7 @@
       "entry": 620.7102,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.831431334622813
-    },
-    {
-      "asset": "NVDA",
-      "size": 0.4871899058581167,
-      "entry": 204.472185,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 2.668736174158176
+      "unrealized_pnl": -3.5122823984526157
     },
     {
       "asset": "AAPL",
@@ -54,7 +46,7 @@
       "entry": 307.383615,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.30670415095653364
+      "unrealized_pnl": 0.28077777630296374
     },
     {
       "asset": "META",
@@ -62,11 +54,11 @@
       "entry": 592.553575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7366841235145368
+      "unrealized_pnl": -1.0692179214385187
     }
   ],
   "last_decision": {
-    "at": "2026-06-08T12:27:49Z",
+    "at": "2026-06-08T13:29:36Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
