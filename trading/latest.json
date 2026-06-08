@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T22:39:36Z",
+  "updated_at": "2026-06-08T23:41:24Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1004.9459027947624,
@@ -106,9 +106,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-08T22:39:36Z",
+    "at": "2026-06-08T23:41:24Z",
     "asset": "SPY",
-    "action": "sell",
-    "rationale": "macd is negative"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
