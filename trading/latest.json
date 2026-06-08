@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-08T14:29:56Z",
+  "updated_at": "2026-06-08T15:31:46Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1003.651198251438,
-    "total_value_usd": 1003.651198251438,
-    "pnl_usd": 10.19,
-    "pnl_pct": 1.03
+    "balance_usd": 1004.5223460293873,
+    "total_value_usd": 1004.5223460293873,
+    "pnl_usd": 11.06,
+    "pnl_pct": 1.11
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.4040868907103092
+      "unrealized_pnl": 1.0192138612904829
     },
     {
       "asset": "GOOG",
@@ -22,7 +22,7 @@
       "entry": 358.110855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.11570864383599636
+      "unrealized_pnl": -0.32224524826258066
     },
     {
       "asset": "MSFT",
@@ -30,7 +30,7 @@
       "entry": 425.642715,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.0869273440989162
+      "unrealized_pnl": -3.3360870178407778
     },
     {
       "asset": "AAPL",
@@ -38,7 +38,7 @@
       "entry": 307.383615,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.5025581818526825
+      "unrealized_pnl": 2.111827986211695
     },
     {
       "asset": "META",
@@ -46,13 +46,13 @@
       "entry": 592.553575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.7126929856188664
+      "unrealized_pnl": 0.815140266797455
     }
   ],
   "last_decision": {
-    "at": "2026-06-08T14:29:56Z",
+    "at": "2026-06-08T15:31:46Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the recent mid prices, and there's no strong indication for a new position."
+    "rationale": "hold-all: empty response"
   }
 }
