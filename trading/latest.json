@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-09T16:02:43Z",
+  "updated_at": "2026-06-09T17:04:31Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1001.1045426659217,
-    "total_value_usd": 1001.1045426659217,
-    "pnl_usd": 7.65,
-    "pnl_pct": 0.77
+    "balance_usd": 1001.1747151019753,
+    "total_value_usd": 1001.1747151019753,
+    "pnl_usd": 7.72,
+    "pnl_pct": 0.78
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 592.553575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.7336862809423511
+      "unrealized_pnl": 1.376081117840972
     },
     {
       "asset": "SPY",
@@ -22,7 +22,7 @@
       "entry": 742.371,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.6303352015520585
+      "unrealized_pnl": -1.98062621254581
     },
     {
       "asset": "NVDA",
@@ -30,15 +30,7 @@
       "entry": 209.36462999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.8330769230769106
-    },
-    {
-      "asset": "AAPL",
-      "size": 0.32866627226713996,
-      "entry": 304.1970225,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -4.242102971143096
+      "unrealized_pnl": -3.2798041089345324
     },
     {
       "asset": "MSFT",
@@ -46,7 +38,7 @@
       "entry": 412.22601,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.407194157325173
+      "unrealized_pnl": -2.757803173678837
     },
     {
       "asset": "AMZN",
@@ -54,7 +46,7 @@
       "entry": 244.46217,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.479738883090836
+      "unrealized_pnl": -1.0936501115272041
     },
     {
       "asset": "GOOG",
@@ -62,7 +54,7 @@
       "entry": 362.028895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.8790190773308164
+      "unrealized_pnl": 1.0515709119019216
     },
     {
       "asset": "META",
@@ -70,21 +62,13 @@
       "entry": 588.40565,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.03748089009683905
-    },
-    {
-      "asset": "TSLA",
-      "size": -0.24226860320036825,
-      "entry": 412.49365,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 4.658498176928765
+      "unrealized_pnl": 0.6872175980975069
     }
   ],
   "last_decision": {
-    "at": "2026-06-09T16:02:43Z",
+    "at": "2026-06-09T17:04:31Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is below EMA20, and RSI14 is below 30, indicating a potential downtrend."
+    "rationale": "hold-all: empty response"
   }
 }
