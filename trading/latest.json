@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-09T19:06:41Z",
+  "updated_at": "2026-06-09T20:08:29Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1002.9669500876826,
-    "total_value_usd": 1002.9669500876826,
-    "pnl_usd": 9.51,
-    "pnl_pct": 0.96
+    "balance_usd": 1005.7647106498737,
+    "total_value_usd": 1005.7647106498737,
+    "pnl_usd": 12.31,
+    "pnl_pct": 1.24
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 592.553575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.28275029739388946
+      "unrealized_pnl": 1.2937874001729104
     },
     {
       "asset": "SPY",
@@ -22,7 +22,7 @@
       "entry": 742.371,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7593231299849061
+      "unrealized_pnl": -0.7141894804914759
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 209.36462999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.110668896321063
+      "unrealized_pnl": -0.250659340659328
     },
     {
       "asset": "MSFT",
@@ -38,7 +38,7 @@
       "entry": 412.22601,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.012910661425721
+      "unrealized_pnl": -2.2118721793565195
     },
     {
       "asset": "AMZN",
@@ -46,7 +46,7 @@
       "entry": 244.46217,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.39406143205026917
+      "unrealized_pnl": -0.12776311212064606
     },
     {
       "asset": "GOOG",
@@ -54,7 +54,7 @@
       "entry": 362.028895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.5800792358024401
+      "unrealized_pnl": -0.00030507164352046345
     },
     {
       "asset": "META",
@@ -62,13 +62,13 @@
       "entry": 588.40565,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.418608799048746
+      "unrealized_pnl": 0.603983353151013
     }
   ],
   "last_decision": {
-    "at": "2026-06-09T19:06:41Z",
+    "at": "2026-06-09T20:08:29Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "intraday RSI14 is 66.58, indicating a potential buy signal"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
