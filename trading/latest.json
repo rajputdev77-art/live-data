@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-09T20:08:29Z",
+  "updated_at": "2026-06-09T21:08:48Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1005.7647106498737,
-    "total_value_usd": 1005.7647106498737,
-    "pnl_usd": 12.31,
-    "pnl_pct": 1.24
+    "balance_usd": 1005.3290003364955,
+    "total_value_usd": 1005.3290003364955,
+    "pnl_usd": 11.87,
+    "pnl_pct": 1.19
   },
   "open_positions": [
     {
@@ -22,7 +22,7 @@
       "entry": 742.371,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7141894804914759
+      "unrealized_pnl": -0.8017622332399253
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 209.36462999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.250659340659328
+      "unrealized_pnl": -0.7953320592450971
     },
     {
       "asset": "MSFT",
@@ -38,7 +38,7 @@
       "entry": 412.22601,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.2118721793565195
+      "unrealized_pnl": -2.0153370214004847
     },
     {
       "asset": "AMZN",
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-09T20:08:29Z",
+    "at": "2026-06-09T21:08:48Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "neutral signal"
   }
 }
