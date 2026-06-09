@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-09T11:57:18Z",
+  "updated_at": "2026-06-09T12:59:06Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1004.9459027947624,
-    "total_value_usd": 1004.9459027947624,
-    "pnl_usd": 11.49,
-    "pnl_pct": 1.16
+    "balance_usd": 1004.2650447777604,
+    "total_value_usd": 1004.2650447777604,
+    "pnl_usd": 10.81,
+    "pnl_pct": 1.09
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 310.73528999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.2254842917183093
+      "unrealized_pnl": -3.441261815429688
     },
     {
       "asset": "META",
@@ -30,7 +30,7 @@
       "entry": 742.371,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4225048501832247
+      "unrealized_pnl": 0.04567255874111547
     },
     {
       "asset": "QQQ",
@@ -38,7 +38,7 @@
       "entry": 720.0398399999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6264536741213975
+      "unrealized_pnl": 0.23477705236839916
     },
     {
       "asset": "NVDA",
@@ -46,7 +46,7 @@
       "entry": 209.36462999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.3366602962255042
+      "unrealized_pnl": -0.2219923554706026
     },
     {
       "asset": "AAPL",
@@ -54,7 +54,7 @@
       "entry": 304.1970225,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.1427800236639636
+      "unrealized_pnl": -1.3629864260829525
     },
     {
       "asset": "MSFT",
@@ -62,7 +62,7 @@
       "entry": 412.22601,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.11307080118405953
+      "unrealized_pnl": -0.33629591886252214
     },
     {
       "asset": "AMZN",
@@ -94,7 +94,7 @@
       "entry": 412.49365,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.8585151357309883
+      "unrealized_pnl": -0.6072099136312424
     },
     {
       "asset": "AVGO",
@@ -106,7 +106,7 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-09T11:57:18Z",
+    "at": "2026-06-09T12:59:06Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
