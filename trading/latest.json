@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-10T15:31:57Z",
+  "updated_at": "2026-06-10T16:33:47Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1002.2551120480152,
-    "total_value_usd": 1002.2551120480152,
-    "pnl_usd": 8.8,
-    "pnl_pct": 0.89
+    "balance_usd": 1002.9384708754028,
+    "total_value_usd": 1002.9384708754028,
+    "pnl_usd": 9.48,
+    "pnl_pct": 0.95
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 742.371,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.3851314938564276
+      "unrealized_pnl": -1.6283142918732503
     },
     {
       "asset": "NVDA",
@@ -22,7 +22,7 @@
       "entry": 209.36462999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.8951887243191448
+      "unrealized_pnl": -3.181858576206385
     },
     {
       "asset": "AMZN",
@@ -30,7 +30,7 @@
       "entry": 244.46217,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.9572185728610225
+      "unrealized_pnl": -2.221200401088665
     },
     {
       "asset": "GOOG",
@@ -38,7 +38,7 @@
       "entry": 362.028895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5049266999806711
+      "unrealized_pnl": 1.6423883934733976
     },
     {
       "asset": "META",
@@ -46,13 +46,13 @@
       "entry": 588.40565,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.6741379310344966
+      "unrealized_pnl": 2.013869543060996
     }
   ],
   "last_decision": {
-    "at": "2026-06-10T15:31:57Z",
+    "at": "2026-06-10T16:33:47Z",
     "asset": "SPY",
-    "action": "sell",
-    "rationale": "macd is negative and current price is below ema20"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
