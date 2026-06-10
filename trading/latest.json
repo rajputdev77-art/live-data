@@ -1,28 +1,20 @@
 {
-  "updated_at": "2026-06-10T18:37:26Z",
+  "updated_at": "2026-06-10T19:37:46Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1003.257653059864,
-    "total_value_usd": 1003.257653059864,
-    "pnl_usd": 9.8,
-    "pnl_pct": 0.99
+    "balance_usd": 1002.5531377490297,
+    "total_value_usd": 1002.5531377490297,
+    "pnl_usd": 9.09,
+    "pnl_pct": 0.92
   },
   "open_positions": [
-    {
-      "asset": "SPY",
-      "size": 0.13472731192067255,
-      "entry": 742.371,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.8229952575986135
-    },
     {
       "asset": "NVDA",
       "size": 0.47778308647873863,
       "entry": 209.36462999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.466139512661234
+      "unrealized_pnl": -3.986923076923061
     },
     {
       "asset": "AMZN",
@@ -30,7 +22,7 @@
       "entry": 244.46217,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.3255653099228457
+      "unrealized_pnl": -2.5261096445453965
     },
     {
       "asset": "GOOG",
@@ -38,7 +30,7 @@
       "entry": 362.028895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.166945970569551
+      "unrealized_pnl": 2.078599431269147
     },
     {
       "asset": "META",
@@ -46,13 +38,13 @@
       "entry": 588.40565,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.39182096144046
+      "unrealized_pnl": 2.691634109053863
     }
   ],
   "last_decision": {
-    "at": "2026-06-10T18:37:26Z",
+    "at": "2026-06-10T19:37:46Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "Current price is close to the EMA20, and RSI14 is below 40, indicating a potential buy signal, but given the overall market conditions and risk limits, holding is the preferred action."
   }
 }
