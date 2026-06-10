@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-10T11:28:00Z",
+  "updated_at": "2026-06-10T12:28:20Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1005.3290003364955,
-    "total_value_usd": 1005.3290003364955,
-    "pnl_usd": 11.87,
-    "pnl_pct": 1.19
+    "balance_usd": 1005.6780853444428,
+    "total_value_usd": 1005.6780853444428,
+    "pnl_usd": 12.22,
+    "pnl_pct": 1.23
   },
   "open_positions": [
     {
@@ -22,7 +22,7 @@
       "entry": 742.371,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.8017622332399253
+      "unrealized_pnl": -1.4686624272472453
     },
     {
       "asset": "NVDA",
@@ -54,7 +54,7 @@
       "entry": 362.028895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.00030507164352046345
+      "unrealized_pnl": 1.015680130311133
     },
     {
       "asset": "META",
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-10T11:28:00Z",
+    "at": "2026-06-10T12:28:20Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "action": "buy",
+    "rationale": "SPY is below ema20 and rsi14 is below 50"
   }
 }
