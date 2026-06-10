@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-06-10T05:07:48Z",
+  "updated_at": "2026-06-10T13:00:52Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 3,
-    "video_count": 81,
+    "video_count": 82,
     "view_count": 1528
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-06-10T05:00:03Z",
-    "finished_at": "2026-06-10T05:07:48Z",
+    "pipeline": "shorts",
+    "started_at": "2026-06-10T13:00:02Z",
+    "finished_at": "2026-06-10T13:00:52Z",
     "status": "success",
-    "duration_seconds": 465.2,
-    "video_url": "https://www.youtube.com/watch?v=ebSToG8d_1E",
-    "video_title": "AI #5: Can AI Be Smarter Than You?",
+    "duration_seconds": 50.2,
+    "video_url": "https://www.youtube.com/watch?v=W9WbpUxVmyo",
+    "video_title": "3 Heart Attacks #Shorts",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-10T10:00:00Z",
+  "next_run_at": "2026-06-11T05:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 96,
-    "runs_succeeded": 68,
-    "videos_published": 68
+    "runs_attempted": 97,
+    "runs_succeeded": 69,
+    "videos_published": 69
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -80,7 +80,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-10T10:00:00Z",
+      "next_run_at": "2026-06-11T10:00:00Z",
       "totals": {
         "runs_attempted": 8,
         "runs_succeeded": 5,
@@ -109,26 +109,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-06-09T13:00:04Z",
-        "finished_at": "2026-06-09T13:12:26Z",
-        "status": "failure",
-        "duration_seconds": 741.5,
-        "video_url": null,
-        "video_title": null,
-        "error": "RuntimeError: YouTube OAuth token expired. Run 'python reauth.py' to fix.",
+        "started_at": "2026-06-10T13:00:02Z",
+        "finished_at": "2026-06-10T13:00:52Z",
+        "status": "success",
+        "duration_seconds": 50.2,
+        "video_url": "https://www.youtube.com/watch?v=W9WbpUxVmyo",
+        "video_title": "3 Heart Attacks #Shorts",
+        "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-10T13:00:00Z",
+      "next_run_at": "2026-06-11T13:00:00Z",
       "totals": {
-        "runs_attempted": 7,
-        "runs_succeeded": 4,
-        "videos_published": 4
+        "runs_attempted": 8,
+        "runs_succeeded": 5,
+        "videos_published": 5
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-10T05:07:48Z"
+    "checked_at": "2026-06-10T13:00:52Z"
   }
 }
