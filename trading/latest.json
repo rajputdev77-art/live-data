@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-10T20:39:32Z",
+  "updated_at": "2026-06-10T21:39:53Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1002.7141471078728,
-    "total_value_usd": 1002.7141471078728,
-    "pnl_usd": 9.26,
-    "pnl_pct": 0.93
+    "balance_usd": 1002.5517008584701,
+    "total_value_usd": 1002.5517008584701,
+    "pnl_usd": 9.09,
+    "pnl_pct": 0.92
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 209.36462999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -4.173258480649776
+      "unrealized_pnl": -4.335704730052549
     },
     {
       "asset": "AMZN",
@@ -42,9 +42,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-10T20:39:32Z",
+    "at": "2026-06-10T21:39:53Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "action": "sell",
+    "rationale": "intraday ema20 is higher than current price"
   }
 }
