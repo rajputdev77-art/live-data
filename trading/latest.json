@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-10T13:30:07Z",
+  "updated_at": "2026-06-10T14:31:05Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1003.5990971868638,
-    "total_value_usd": 1003.5990971868638,
-    "pnl_usd": 10.14,
-    "pnl_pct": 1.02
+    "balance_usd": 1002.0210282398554,
+    "total_value_usd": 1002.0210282398554,
+    "pnl_usd": 8.56,
+    "pnl_pct": 0.86
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 592.553575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.2937874001729104
+      "unrealized_pnl": 1.5289123077959355
     },
     {
       "asset": "SPY",
@@ -22,7 +22,7 @@
       "entry": 742.371,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2921696486311716
+      "unrealized_pnl": -0.7168840267299023
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 209.36462999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.0996798853320486
+      "unrealized_pnl": -1.5573960821786847
     },
     {
       "asset": "AMZN",
@@ -38,7 +38,7 @@
       "entry": 244.46217,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.12776311212064606
+      "unrealized_pnl": -1.4231158041213796
     },
     {
       "asset": "GOOG",
@@ -46,7 +46,7 @@
       "entry": 362.028895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.015680130311133
+      "unrealized_pnl": -0.857542585792776
     },
     {
       "asset": "META",
@@ -54,13 +54,13 @@
       "entry": 588.40565,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.603983353151013
+      "unrealized_pnl": 0.8417954815695585
     }
   ],
   "last_decision": {
-    "at": "2026-06-10T13:30:07Z",
+    "at": "2026-06-10T14:31:05Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "Current price is below the EMA20, and the MACD is above the signal line, indicating a potential buy signal, but the recent trading history and risk management limits suggest holding the current position."
   }
 }
