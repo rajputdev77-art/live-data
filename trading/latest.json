@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-10T12:28:20Z",
+  "updated_at": "2026-06-10T13:30:07Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1005.6780853444428,
-    "total_value_usd": 1005.6780853444428,
-    "pnl_usd": 12.22,
-    "pnl_pct": 1.23
+    "balance_usd": 1003.5990971868638,
+    "total_value_usd": 1003.5990971868638,
+    "pnl_usd": 10.14,
+    "pnl_pct": 1.02
   },
   "open_positions": [
     {
@@ -22,7 +22,7 @@
       "entry": 742.371,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.4686624272472453
+      "unrealized_pnl": -1.2921696486311716
     },
     {
       "asset": "NVDA",
@@ -30,15 +30,7 @@
       "entry": 209.36462999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7953320592450971
-    },
-    {
-      "asset": "MSFT",
-      "size": 0.24263599747658562,
-      "entry": 412.22601,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -2.0153370214004847
+      "unrealized_pnl": -2.0996798853320486
     },
     {
       "asset": "AMZN",
@@ -66,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-10T12:28:20Z",
+    "at": "2026-06-10T13:30:07Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY is below ema20 and rsi14 is below 50"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
