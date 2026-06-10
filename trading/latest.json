@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-10T19:37:46Z",
+  "updated_at": "2026-06-10T20:39:32Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1002.5531377490297,
-    "total_value_usd": 1002.5531377490297,
-    "pnl_usd": 9.09,
-    "pnl_pct": 0.92
+    "balance_usd": 1002.7141471078728,
+    "total_value_usd": 1002.7141471078728,
+    "pnl_usd": 9.26,
+    "pnl_pct": 0.93
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 209.36462999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.986923076923061
+      "unrealized_pnl": -4.173258480649776
     },
     {
       "asset": "AMZN",
@@ -22,7 +22,7 @@
       "entry": 244.46217,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.5261096445453965
+      "unrealized_pnl": -2.7102830130763023
     },
     {
       "asset": "GOOG",
@@ -30,7 +30,7 @@
       "entry": 362.028895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.078599431269147
+      "unrealized_pnl": 2.35192153722978
     },
     {
       "asset": "META",
@@ -38,13 +38,13 @@
       "entry": 588.40565,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.691634109053863
+      "unrealized_pnl": 2.949830134193999
     }
   ],
   "last_decision": {
-    "at": "2026-06-10T19:37:46Z",
+    "at": "2026-06-10T20:39:32Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is close to the EMA20, and RSI14 is below 40, indicating a potential buy signal, but given the overall market conditions and risk limits, holding is the preferred action."
+    "rationale": "hold-all: empty response"
   }
 }
