@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T21:08:36Z",
+  "updated_at": "2026-06-11T22:10:23Z",
   "mode": "paper",
   "account": {
     "balance_usd": 999.6495465536556,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-11T21:08:36Z",
+    "at": "2026-06-11T22:10:23Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Recent trading history and risk management limits suggest minimizing churn."
+    "rationale": "hold-all: empty response"
   }
 }
