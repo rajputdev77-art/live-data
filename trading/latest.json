@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-11T20:08:15Z",
+  "updated_at": "2026-06-11T21:08:36Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 999.6523062020764,
-    "total_value_usd": 999.6523062020764,
+    "balance_usd": 999.6495465536556,
+    "total_value_usd": 999.6495465536556,
     "pnl_usd": 6.19,
     "pnl_pct": 0.62
   },
@@ -22,7 +22,7 @@
       "entry": 724.3676350000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.8989644419300884
+      "unrealized_pnl": -1.9017240903508772
     },
     {
       "asset": "NVDA",
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-11T20:08:15Z",
+    "at": "2026-06-11T21:08:36Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "Recent trading history and risk management limits suggest minimizing churn."
   }
 }
