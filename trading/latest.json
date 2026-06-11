@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-11T15:01:07Z",
+  "updated_at": "2026-06-11T16:02:57Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1008.3742830545177,
-    "total_value_usd": 1008.3742830545177,
-    "pnl_usd": 14.92,
-    "pnl_pct": 1.5
+    "balance_usd": 1005.2156030571292,
+    "total_value_usd": 1005.2156030571292,
+    "pnl_usd": 11.76,
+    "pnl_pct": 1.18
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 244.46217,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.6700309001984905
+      "unrealized_pnl": -2.9415229091206667
     },
     {
       "asset": "SPY",
@@ -22,7 +22,7 @@
       "entry": 724.3676350000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.1590061126212407
+      "unrealized_pnl": -0.5853717936334841
     },
     {
       "asset": "QQQ",
@@ -30,7 +30,7 @@
       "entry": 691.41412,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7106337458077969
+      "unrealized_pnl": -1.6134034925407688
     },
     {
       "asset": "NVDA",
@@ -38,7 +38,7 @@
       "entry": 200.189855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.12225023715612421
+      "unrealized_pnl": -0.6715986819112298
     },
     {
       "asset": "AMZN",
@@ -46,7 +46,7 @@
       "entry": 237.72108000000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9359569458459571
+      "unrealized_pnl": 0.1875546585940226
     },
     {
       "asset": "AVGO",
@@ -54,13 +54,13 @@
       "entry": 371.93394,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.46115769106738963
+      "unrealized_pnl": -1.4769590454692034
     }
   ],
   "last_decision": {
-    "at": "2026-06-11T15:01:07Z",
+    "at": "2026-06-11T16:02:57Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "intraday RSI14 is 40.71, indicating a potential buy opportunity"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
