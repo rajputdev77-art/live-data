@@ -1,177 +1,113 @@
 {
-  "updated_at": "2026-06-11T06:41:53Z",
+  "updated_at": "2026-06-11T06:52:19Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1282.8901315074945,
-    "total_value_usd": 1282.8901315074945,
-    "pnl_usd": 282.89,
-    "pnl_pct": 28.29
+    "balance_usd": 1002.1517008584701,
+    "total_value_usd": 1002.1517008584701,
+    "pnl_usd": 8.69,
+    "pnl_pct": 0.87
   },
   "open_positions": [
     {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 15.644174,
+      "asset": "NVDA",
+      "size": 0.47778308647873863,
+      "entry": 209.36462999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 4.370476830087306
+      "unrealized_pnl": -4.335704730052549
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.14306675,
+      "asset": "AMZN",
+      "size": 0.4092741522909121,
+      "entry": 244.46217,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -11.084268924493907
+      "unrealized_pnl": -2.7102830130763023
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.1725815,
+      "asset": "GOOG",
+      "size": -0.27608293531376826,
+      "entry": 362.028895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -11.140902811090857
+      "unrealized_pnl": 2.35192153722978
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 18.80389725,
+      "asset": "META",
+      "size": -0.16986580601324952,
+      "entry": 588.40565,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -10.427702676772519
+      "unrealized_pnl": 2.949830134193999
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.150570499999997,
+      "asset": "SPY",
+      "size": -0.13798242103955954,
+      "entry": 724.3676350000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -11.092910870190918
+      "unrealized_pnl": -0.04999999999999369
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.347168749999998,
+      "asset": "QQQ",
+      "size": -0.14455880652249337,
+      "entry": 691.41412,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -11.47015014870958
+      "unrealized_pnl": -0.04999999999999503
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.3246575,
+      "asset": "NVDA",
+      "size": -0.4992760497278946,
+      "entry": 200.189855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -11.426954811474625
+      "unrealized_pnl": -0.04999999999999886
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 20.8874385,
+      "asset": "MSFT",
+      "size": -0.25164829634103375,
+      "entry": 397.18131,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -14.425671111963922
+      "unrealized_pnl": -0.04999999999999978
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 20.18258625,
+      "asset": "AMZN",
+      "size": -0.42045072317524385,
+      "entry": 237.72108000000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -13.073177108318143
+      "unrealized_pnl": -0.04999999999998923
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 20.518254,
+      "asset": "GOOG",
+      "size": -0.28287742920992337,
+      "entry": 353.33324500000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -13.723983498033196
+      "unrealized_pnl": -0.04999999999998794
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 20.341665749999997,
+      "asset": "META",
+      "size": -0.17511908097506304,
+      "entry": 570.75448,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -13.385140074834498
+      "unrealized_pnl": -0.050000000000003424
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.23111075,
+      "asset": "AVGO",
+      "size": -0.26873051703751477,
+      "entry": 371.93394,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -11.254170104576417
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 16.412289750000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 5.845322364002693
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 16.059966000000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 5.169271802743938
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 16.059966000000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 5.1625558860213046
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 16.059966000000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 5.1625558860213046
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 16.059966000000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 5.1625558860213046
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 15.632180000000002,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 4.341705842847552
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 15.62968125,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 4.336911158015927
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 15.62968125,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 4.336911158015927
+      "unrealized_pnl": -0.04999999999999937
     }
   ],
   "last_decision": {
-    "at": "2026-06-11T06:41:53Z",
-    "asset": "BTC",
+    "at": "2026-06-11T06:52:19Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
