@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-11T17:03:19Z",
+  "updated_at": "2026-06-11T18:04:40Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1006.694700214896,
-    "total_value_usd": 1006.694700214896,
-    "pnl_usd": 13.24,
-    "pnl_pct": 1.33
+    "balance_usd": 1003.0423898915586,
+    "total_value_usd": 1003.0423898915586,
+    "pnl_usd": 9.58,
+    "pnl_pct": 0.96
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 244.46217,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.422420038062493
+      "unrealized_pnl": -2.558851576728663
     },
     {
       "asset": "SPY",
@@ -22,15 +22,7 @@
       "entry": 724.3676350000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.2887095883984342
-    },
-    {
-      "asset": "QQQ",
-      "size": -0.14455880652249337,
-      "entry": 691.41412,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.186232219266795
+      "unrealized_pnl": -1.2739040746208874
     },
     {
       "asset": "NVDA",
@@ -38,7 +30,7 @@
       "entry": 200.189855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.07995656298367367
+      "unrealized_pnl": -1.018595536472113
     },
     {
       "asset": "AMZN",
@@ -46,21 +38,13 @@
       "entry": 237.72108000000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.6815842583249389
-    },
-    {
-      "asset": "AVGO",
-      "size": -0.26873051703751477,
-      "entry": 371.93394,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.3264699559281945
+      "unrealized_pnl": -0.20556676757483136
     }
   ],
   "last_decision": {
-    "at": "2026-06-11T17:03:19Z",
+    "at": "2026-06-11T18:04:40Z",
     "asset": "SPY",
-    "action": "sell",
-    "rationale": "macd is negative"
+    "action": "hold",
+    "rationale": "The current price is above the ema20, and the macd is in a positive trend. However, the rsi14 is above 60, indicating a potential overbought condition. Therefore, holding the current position is the best course of action."
   }
 }
