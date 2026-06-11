@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T23:42:33Z",
+  "updated_at": "2026-06-11T00:44:21Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1002.1517008584701,
@@ -106,9 +106,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-10T23:42:33Z",
+    "at": "2026-06-11T00:44:21Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is below the ema20, and RSI14 is below 30, indicating a potential buy signal, but given the recent trading history and risk limits, it's prudent to hold."
+    "rationale": "hold-all: empty response"
   }
 }
