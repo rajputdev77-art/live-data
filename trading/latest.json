@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-11T19:06:28Z",
+  "updated_at": "2026-06-11T20:08:15Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1001.7978957309424,
-    "total_value_usd": 1001.7978957309424,
-    "pnl_usd": 8.34,
-    "pnl_pct": 0.84
+    "balance_usd": 999.6523062020764,
+    "total_value_usd": 999.6523062020764,
+    "pnl_usd": 6.19,
+    "pnl_pct": 0.62
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 244.46217,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.6870976323490219
+      "unrealized_pnl": -1.2450815478748434
     },
     {
       "asset": "SPY",
@@ -22,7 +22,7 @@
       "entry": 724.3676350000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.664394326162831
+      "unrealized_pnl": -1.8989644419300884
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 200.189855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2133131958659995
+      "unrealized_pnl": -2.331691547256488
     },
     {
       "asset": "AMZN",
@@ -38,7 +38,7 @@
       "entry": 237.72108000000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.101126807938099
+      "unrealized_pnl": -1.5552135889673555
     },
     {
       "asset": "NVDA",
@@ -46,7 +46,7 @@
       "entry": 202.128885,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.12143687255823345
+      "unrealized_pnl": -0.6753165026457684
     },
     {
       "asset": "AMZN",
@@ -54,11 +54,11 @@
       "entry": 237.890995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.5140432811384912
+      "unrealized_pnl": -0.7407340162041862
     }
   ],
   "last_decision": {
-    "at": "2026-06-11T19:06:28Z",
+    "at": "2026-06-11T20:08:15Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
