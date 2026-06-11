@@ -1,178 +1,114 @@
 {
-  "updated_at": "2026-06-11T02:39:39Z",
+  "updated_at": "2026-06-11T02:46:31Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1366.7636367363154,
-    "total_value_usd": 1366.7636367363154,
-    "pnl_usd": 366.76,
-    "pnl_pct": 36.68
+    "balance_usd": 1002.1517008584701,
+    "total_value_usd": 1002.1517008584701,
+    "pnl_usd": 8.69,
+    "pnl_pct": 0.87
   },
   "open_positions": [
     {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 15.644174,
+      "asset": "NVDA",
+      "size": 0.47778308647873863,
+      "entry": 209.36462999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 4.996975918641467
+      "unrealized_pnl": -4.335704730052549
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.14306675,
+      "asset": "AMZN",
+      "size": 0.4092741522909121,
+      "entry": 244.46217,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -11.710768013048067
+      "unrealized_pnl": -2.7102830130763023
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.1725815,
+      "asset": "GOOG",
+      "size": -0.27608293531376826,
+      "entry": 362.028895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -11.767401899645018
+      "unrealized_pnl": 2.35192153722978
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 18.80389725,
+      "asset": "META",
+      "size": -0.16986580601324952,
+      "entry": 588.40565,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -11.060917682049311
+      "unrealized_pnl": 2.949830134193999
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.150570499999997,
+      "asset": "SPY",
+      "size": -0.13798242103955954,
+      "entry": 724.3676350000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -11.72612587546771
+      "unrealized_pnl": -0.04999999999999369
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.347168749999998,
+      "asset": "QQQ",
+      "size": -0.14455880652249337,
+      "entry": 691.41412,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -12.103365153986372
+      "unrealized_pnl": -0.04999999999999503
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.3246575,
+      "asset": "NVDA",
+      "size": -0.4992760497278946,
+      "entry": 200.189855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -12.060169816751417
+      "unrealized_pnl": -0.04999999999999886
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 20.8874385,
+      "asset": "MSFT",
+      "size": -0.25164829634103375,
+      "entry": 397.18131,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -15.058886117240714
+      "unrealized_pnl": -0.04999999999999978
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 20.18258625,
+      "asset": "AMZN",
+      "size": -0.42045072317524385,
+      "entry": 237.72108000000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -13.706392113594935
+      "unrealized_pnl": -0.04999999999998923
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 20.518254,
+      "asset": "GOOG",
+      "size": -0.28287742920992337,
+      "entry": 353.33324500000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -14.350482586587352
+      "unrealized_pnl": -0.04999999999998794
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 20.341665749999997,
+      "asset": "META",
+      "size": -0.17511908097506304,
+      "entry": 570.75448,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -14.011639163388654
+      "unrealized_pnl": -0.050000000000003424
     },
     {
-      "asset": "VVV",
-      "size": 1.9188333493236114,
-      "entry": 19.23111075,
+      "asset": "AVGO",
+      "size": -0.26873051703751477,
+      "entry": 371.93394,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -11.880669193130576
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 16.412289750000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 6.471821452556851
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 16.059966000000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 5.795770891298096
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 16.059966000000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 5.795770891298096
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 16.059966000000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 5.795770891298096
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 16.059966000000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 5.795770891298096
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 15.632180000000002,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 4.974920848124343
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 15.62968125,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 4.970126163292719
-    },
-    {
-      "asset": "VVV",
-      "size": -1.9188333493236114,
-      "entry": 15.62968125,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 4.970126163292719
+      "unrealized_pnl": -0.04999999999999937
     }
   ],
   "last_decision": {
-    "at": "2026-06-11T02:39:39Z",
-    "asset": "BTC",
+    "at": "2026-06-11T02:46:31Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "The current price is close to the stop-loss level, and the MACD is below the signal line, indicating a potential sell signal. However, the RSI is below 30, which could indicate overselling. Therefore, holding the current position is the best course of action."
   }
 }
