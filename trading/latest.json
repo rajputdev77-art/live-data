@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T04:16:42Z",
+  "updated_at": "2026-06-12T05:18:29Z",
   "mode": "paper",
   "account": {
     "balance_usd": 999.6495465536556,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-12T04:16:42Z",
+    "at": "2026-06-12T05:18:29Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "Buy signal based on EMA20 and MACD"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
