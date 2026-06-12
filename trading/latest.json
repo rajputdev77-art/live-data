@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-12T15:32:13Z",
+  "updated_at": "2026-06-12T16:32:38Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1001.8192946507841,
-    "total_value_usd": 1001.8192946507841,
-    "pnl_usd": 8.36,
-    "pnl_pct": 0.84
+    "balance_usd": 1001.3424948350115,
+    "total_value_usd": 1001.3424948350115,
+    "pnl_usd": 7.88,
+    "pnl_pct": 0.79
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 244.46217,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.7593959113512136
+      "unrealized_pnl": -3.3507970614115785
     },
     {
       "asset": "AMZN",
@@ -22,7 +22,7 @@
       "entry": 237.72108000000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0004540867810419475
+      "unrealized_pnl": 0.6080053817692664
     },
     {
       "asset": "AMZN",
@@ -30,7 +30,7 @@
       "entry": 237.890995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.03589165022459277
+      "unrealized_pnl": 0.3391954577893451
     },
     {
       "asset": "SPY",
@@ -38,7 +38,7 @@
       "entry": 740.2999649999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.25590814436196685
+      "unrealized_pnl": 0.0175810988059995
     },
     {
       "asset": "QQQ",
@@ -46,7 +46,7 @@
       "entry": 718.79922,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.33868695446382385
+      "unrealized_pnl": 0.07801289101109293
     },
     {
       "asset": "AAPL",
@@ -54,7 +54,7 @@
       "entry": 291.8190175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.06033506831490025
+      "unrealized_pnl": 0.022190699585656823
     },
     {
       "asset": "MSFT",
@@ -62,7 +62,7 @@
       "entry": 384.10785000000004,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.24832314296864594
+      "unrealized_pnl": -0.18926239104982243
     },
     {
       "asset": "AMZN",
@@ -70,7 +70,7 @@
       "entry": 236.49169500000002,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.10468825294838471
+      "unrealized_pnl": 0.01831973623029257
     },
     {
       "asset": "GOOG",
@@ -78,7 +78,7 @@
       "entry": 360.60021,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.4119616030184895
+      "unrealized_pnl": -0.18521688468421227
     },
     {
       "asset": "META",
@@ -86,13 +86,13 @@
       "entry": 565.587065,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.22498754570989413
+      "unrealized_pnl": -0.18965622626176934
     }
   ],
   "last_decision": {
-    "at": "2026-06-12T15:32:13Z",
+    "at": "2026-06-12T16:32:38Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "Current price is above EMA20, and MACD is positive, indicating a strong trend."
   }
 }
