@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-12T20:35:35Z",
+  "updated_at": "2026-06-12T21:37:22Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1000.7371507010776,
-    "total_value_usd": 1000.7371507010776,
-    "pnl_usd": 7.28,
-    "pnl_pct": 0.73
+    "balance_usd": 1000.7974853884066,
+    "total_value_usd": 1000.7974853884066,
+    "pnl_usd": 7.34,
+    "pnl_pct": 0.74
   },
   "open_positions": [
     {
@@ -46,7 +46,7 @@
       "entry": 718.79922,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.2381064413291966
+      "unrealized_pnl": 0.22975373435607807
     },
     {
       "asset": "AAPL",
@@ -62,7 +62,7 @@
       "entry": 384.10785000000004,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.39714583062312825
+      "unrealized_pnl": -0.3284584363210602
     },
     {
       "asset": "AMZN",
@@ -90,9 +90,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-12T20:35:35Z",
+    "at": "2026-06-12T21:37:22Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is above EMA20, and RSI14 is above 50."
+    "rationale": "hold-all: empty response"
   }
 }
