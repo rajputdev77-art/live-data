@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-12T11:26:19Z",
+  "updated_at": "2026-06-12T12:28:06Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 999.6495465536556,
-    "total_value_usd": 999.6495465536556,
-    "pnl_usd": 6.19,
-    "pnl_pct": 0.62
+    "balance_usd": 999.5012706440065,
+    "total_value_usd": 999.5012706440065,
+    "pnl_usd": 6.04,
+    "pnl_pct": 0.61
   },
   "open_positions": [
     {
@@ -15,14 +15,6 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": -1.2450815478748434
-    },
-    {
-      "asset": "SPY",
-      "size": -0.13798242103955954,
-      "entry": 724.3676350000001,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.9017240903508772
     },
     {
       "asset": "NVDA",
@@ -58,9 +50,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-12T11:26:19Z",
+    "at": "2026-06-12T12:28:06Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY's current price is above the ema20, indicating a potential buy signal"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
