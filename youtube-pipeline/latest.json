@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T05:09:38Z",
+  "updated_at": "2026-06-12T10:11:32Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 1531
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-06-12T05:00:16Z",
-    "finished_at": "2026-06-12T05:09:38Z",
+    "pipeline": "news",
+    "started_at": "2026-06-12T10:00:27Z",
+    "finished_at": "2026-06-12T10:11:32Z",
     "status": "success",
-    "duration_seconds": 561.8,
-    "video_url": "https://www.youtube.com/watch?v=9yNIonLqiXk",
-    "video_title": "AI #7: Why AI is Exploding Right Now",
+    "duration_seconds": 664.9,
+    "video_url": "https://www.youtube.com/watch?v=MtyFjg5aIbM",
+    "video_title": "CEO Silent!",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-12T10:00:00Z",
+  "next_run_at": "2026-06-12T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 101,
-    "runs_succeeded": 73,
-    "videos_published": 73
+    "runs_attempted": 102,
+    "runs_succeeded": 74,
+    "videos_published": 74
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -71,20 +71,20 @@
     "news": {
       "last_run": {
         "pipeline": "news",
-        "started_at": "2026-06-11T10:00:08Z",
-        "finished_at": "2026-06-11T10:09:21Z",
+        "started_at": "2026-06-12T10:00:27Z",
+        "finished_at": "2026-06-12T10:11:32Z",
         "status": "success",
-        "duration_seconds": 552.8,
-        "video_url": "https://www.youtube.com/watch?v=Gt2QILEgVK0",
-        "video_title": "Heart Alert!",
+        "duration_seconds": 664.9,
+        "video_url": "https://www.youtube.com/watch?v=MtyFjg5aIbM",
+        "video_title": "CEO Silent!",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-12T10:00:00Z",
+      "next_run_at": "2026-06-13T11:30:00Z",
       "totals": {
-        "runs_attempted": 9,
-        "runs_succeeded": 6,
-        "videos_published": 6
+        "runs_attempted": 10,
+        "runs_succeeded": 7,
+        "videos_published": 7
       }
     },
     "teaching": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-12T05:09:38Z"
+    "checked_at": "2026-06-12T10:11:32Z"
   }
 }
