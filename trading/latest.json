@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T22:05:39Z",
+  "updated_at": "2026-06-13T23:07:26Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1000.7974853884066,
@@ -90,9 +90,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-13T22:05:39Z",
+    "at": "2026-06-13T23:07:26Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near EMA20 and EMA50, RSI14 is 51.03, indicating a neutral trend."
+    "rationale": "hold-all: empty response"
   }
 }
