@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T00:35:31Z",
+  "updated_at": "2026-06-15T01:35:50Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1000.7974853884066,
@@ -90,9 +90,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-15T00:35:31Z",
+    "at": "2026-06-15T01:35:50Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price near long-term EMA, minimizing churn."
+    "rationale": "Current price is above ema20 and ema50, but rsi14 is above 50."
   }
 }
