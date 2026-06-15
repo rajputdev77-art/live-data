@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-15T04:39:43Z",
+  "updated_at": "2026-06-15T05:28:06Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1000.7974853884066,
-    "total_value_usd": 1000.7974853884066,
-    "pnl_usd": 7.34,
-    "pnl_pct": 0.74
+    "balance_usd": 1004.1741221332272,
+    "total_value_usd": 1004.1741221332272,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 244.46217,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.415605623426846
+      "unrealized_pnl": 0.0
     },
     {
       "asset": "AMZN",
@@ -22,7 +22,7 @@
       "entry": 237.72108000000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.35272452068616433
+      "unrealized_pnl": 0.0
     },
     {
       "asset": "AMZN",
@@ -30,7 +30,7 @@
       "entry": 237.890995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.14042336593761776
+      "unrealized_pnl": 0.0
     },
     {
       "asset": "SPY",
@@ -38,7 +38,7 @@
       "entry": 740.2999649999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.09262876421511161
+      "unrealized_pnl": 0.0
     },
     {
       "asset": "QQQ",
@@ -46,7 +46,7 @@
       "entry": 718.79922,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.22975373435607807
+      "unrealized_pnl": 0.0
     },
     {
       "asset": "AAPL",
@@ -54,7 +54,7 @@
       "entry": 291.8190175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0502700065061804
+      "unrealized_pnl": 0.0
     },
     {
       "asset": "MSFT",
@@ -62,7 +62,7 @@
       "entry": 384.10785000000004,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.3284584363210602
+      "unrealized_pnl": 0.0
     },
     {
       "asset": "AMZN",
@@ -70,7 +70,7 @@
       "entry": 236.49169500000002,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.17485775880288973
+      "unrealized_pnl": 0.0
     },
     {
       "asset": "GOOG",
@@ -78,7 +78,7 @@
       "entry": 360.60021,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.28994853583764696
+      "unrealized_pnl": 0.0
     },
     {
       "asset": "META",
@@ -86,11 +86,11 @@
       "entry": 565.587065,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.04727100888582338
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-06-15T04:39:43Z",
+    "at": "2026-06-15T05:28:06Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
