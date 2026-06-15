@@ -1,33 +1,17 @@
 {
-  "updated_at": "2026-06-15T12:49:28Z",
+  "updated_at": "2026-06-15T13:51:14Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1004.7903661950709,
-    "total_value_usd": 1004.7903661950709,
-    "pnl_usd": 0.62,
-    "pnl_pct": 0.06
+    "balance_usd": 999.8207044631972,
+    "total_value_usd": 999.8207044631972,
+    "pnl_usd": -4.35,
+    "pnl_pct": -0.43
   },
   "open_positions": [
     {
       "asset": "AMZN",
       "size": 0.4092741522909121,
       "entry": 244.46217,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AMZN",
-      "size": -0.42045072317524385,
-      "entry": 237.72108000000003,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AMZN",
-      "size": -0.2098988287645355,
-      "entry": 237.890995,
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
@@ -49,18 +33,34 @@
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "META",
-      "size": -0.03533131944812479,
-      "entry": 565.587065,
+      "asset": "SPY",
+      "size": 0.1331451548478151,
+      "entry": 751.4355299999999,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "QQQ",
+      "size": 0.1358492616592629,
+      "entry": 736.4780549999999,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "TSLA",
+      "size": 0.2427596921807103,
+      "entry": 412.135965,
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-06-15T12:49:28Z",
+    "at": "2026-06-15T13:51:14Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY's current price is above its long-term ema20, indicating a potential buy opportunity."
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
