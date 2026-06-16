@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-06-16T08:42:29Z",
+  "updated_at": "2026-06-16T13:01:00Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 3,
-    "video_count": 98,
+    "video_count": 99,
     "view_count": 2025
   },
   "last_run": {
-    "pipeline": "news",
-    "started_at": "2026-06-16T08:30:12Z",
-    "finished_at": "2026-06-16T08:42:29Z",
+    "pipeline": "shorts",
+    "started_at": "2026-06-16T13:00:03Z",
+    "finished_at": "2026-06-16T13:01:00Z",
     "status": "success",
-    "duration_seconds": 736.9,
-    "video_url": "https://www.youtube.com/watch?v=5k0MV1OLk3k",
-    "video_title": "Crash Chaos",
+    "duration_seconds": 57.1,
+    "video_url": "https://www.youtube.com/watch?v=I9Dtrybnrcc",
+    "video_title": "3 Heart Attacks #Shorts",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-16T13:00:00Z",
+  "next_run_at": "2026-06-17T05:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 114,
-    "runs_succeeded": 86,
-    "videos_published": 86
+    "runs_attempted": 115,
+    "runs_succeeded": 87,
+    "videos_published": 87
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -109,26 +109,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-06-15T13:00:29Z",
-        "finished_at": "2026-06-15T13:01:27Z",
+        "started_at": "2026-06-16T13:00:03Z",
+        "finished_at": "2026-06-16T13:01:00Z",
         "status": "success",
-        "duration_seconds": 58.1,
-        "video_url": "https://www.youtube.com/watch?v=ufKEUp6wBnY",
+        "duration_seconds": 57.1,
+        "video_url": "https://www.youtube.com/watch?v=I9Dtrybnrcc",
         "video_title": "3 Heart Attacks #Shorts",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-16T13:00:00Z",
+      "next_run_at": "2026-06-17T13:00:00Z",
       "totals": {
-        "runs_attempted": 13,
-        "runs_succeeded": 10,
-        "videos_published": 10
+        "runs_attempted": 14,
+        "runs_succeeded": 11,
+        "videos_published": 11
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-16T08:42:29Z"
+    "checked_at": "2026-06-16T13:01:00Z"
   }
 }
