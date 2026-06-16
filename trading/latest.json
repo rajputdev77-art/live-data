@@ -1,58 +1,17 @@
 {
-  "updated_at": "2026-06-16T22:28:22Z",
+  "updated_at": "2026-06-16T22:58:21Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1000.6301430482741,
-    "total_value_usd": 1000.6301430482741,
-    "pnl_usd": -3.54,
-    "pnl_pct": -0.35
+    "balance_usd": 1000.0,
+    "total_value_usd": 1000.0,
+    "pnl_usd": 2171.37,
+    "pnl_pct": -185.37
   },
-  "open_positions": [
-    {
-      "asset": "AMZN",
-      "size": 0.4092741522909121,
-      "entry": 244.46217,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "GOOG",
-      "size": 0.13871741874627197,
-      "entry": 360.60021,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "SPY",
-      "size": 0.1331451548478151,
-      "entry": 751.4355299999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.1358492616592629,
-      "entry": 736.4780549999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "TSLA",
-      "size": 0.2427596921807103,
-      "entry": 412.135965,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    }
-  ],
+  "open_positions": [],
   "last_decision": {
-    "at": "2026-06-16T22:28:22Z",
-    "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY's current price is below its ema20, indicating a potential buy opportunity."
+    "at": "2026-06-16T22:58:21Z",
+    "asset": "BTC",
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
