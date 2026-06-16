@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T05:15:19Z",
+  "updated_at": "2026-06-16T08:42:29Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 2025
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-06-16T05:00:27Z",
-    "finished_at": "2026-06-16T05:15:19Z",
+    "pipeline": "news",
+    "started_at": "2026-06-16T08:30:12Z",
+    "finished_at": "2026-06-16T08:42:29Z",
     "status": "success",
-    "duration_seconds": 891.8,
-    "video_url": "https://www.youtube.com/watch?v=CmKH0G07ZaQ",
-    "video_title": "AI #11: Can Computers See Like You?",
+    "duration_seconds": 736.9,
+    "video_url": "https://www.youtube.com/watch?v=5k0MV1OLk3k",
+    "video_title": "Crash Chaos",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-16T08:30:00Z",
+  "next_run_at": "2026-06-16T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 113,
-    "runs_succeeded": 85,
-    "videos_published": 85
+    "runs_attempted": 114,
+    "runs_succeeded": 86,
+    "videos_published": 86
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -71,20 +71,20 @@
     "news": {
       "last_run": {
         "pipeline": "news",
-        "started_at": "2026-06-15T08:30:07Z",
-        "finished_at": "2026-06-15T08:40:36Z",
+        "started_at": "2026-06-16T08:30:12Z",
+        "finished_at": "2026-06-16T08:42:29Z",
         "status": "success",
-        "duration_seconds": 628.6,
-        "video_url": "https://www.youtube.com/watch?v=D17H53ve2gs",
-        "video_title": "Blackson's $30k Scandal",
+        "duration_seconds": 736.9,
+        "video_url": "https://www.youtube.com/watch?v=5k0MV1OLk3k",
+        "video_title": "Crash Chaos",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-16T08:30:00Z",
+      "next_run_at": "2026-06-17T10:00:00Z",
       "totals": {
-        "runs_attempted": 13,
-        "runs_succeeded": 10,
-        "videos_published": 10
+        "runs_attempted": 14,
+        "runs_succeeded": 11,
+        "videos_published": 11
       }
     },
     "teaching": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-16T05:15:19Z"
+    "checked_at": "2026-06-16T08:42:29Z"
   }
 }
