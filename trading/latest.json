@@ -1,50 +1,17 @@
 {
-  "updated_at": "2026-06-17T02:33:30Z",
+  "updated_at": "2026-06-17T03:00:07Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1007.9616498370947,
-    "total_value_usd": 1007.9616498370947,
-    "pnl_usd": 3.79,
-    "pnl_pct": 0.38
+    "balance_usd": 1000.0,
+    "total_value_usd": 1000.0,
+    "pnl_usd": 2171.37,
+    "pnl_pct": -185.37
   },
-  "open_positions": [
-    {
-      "asset": "AMZN",
-      "size": 0.4092741522909121,
-      "entry": 244.46217,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "SPY",
-      "size": 0.1331451548478151,
-      "entry": 751.4355299999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.1358492616592629,
-      "entry": 736.4780549999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "TSLA",
-      "size": 0.12381447638857936,
-      "entry": 404.03191499999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    }
-  ],
+  "open_positions": [],
   "last_decision": {
-    "at": "2026-06-17T02:33:30Z",
-    "asset": "SPY",
+    "at": "2026-06-17T03:00:07Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "Maintain existing position, monitoring for potential breakout above EMA20."
+    "rationale": "hold-all: empty response"
   }
 }
