@@ -1,21 +1,13 @@
 {
-  "updated_at": "2026-06-17T09:41:31Z",
+  "updated_at": "2026-06-17T10:43:17Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1007.9616498370947,
-    "total_value_usd": 1007.9616498370947,
-    "pnl_usd": 3.79,
-    "pnl_pct": 0.38
+    "balance_usd": 1014.320882038785,
+    "total_value_usd": 1014.320882038785,
+    "pnl_usd": 10.15,
+    "pnl_pct": 1.01
   },
   "open_positions": [
-    {
-      "asset": "AMZN",
-      "size": 0.4092741522909121,
-      "entry": 244.46217,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
     {
       "asset": "SPY",
       "size": 0.1331451548478151,
@@ -39,12 +31,60 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "NVDA",
+      "size": 0.4825323296660876,
+      "entry": 207.34362,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AAPL",
+      "size": -0.3341575887188398,
+      "entry": 299.11037,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "MSFT",
+      "size": -0.2542782312406235,
+      "entry": 393.073365,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "GOOG",
+      "size": 0.26993467580845437,
+      "entry": 370.64522999999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "META",
+      "size": -0.16661668166216803,
+      "entry": 599.87991,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.26506918305677785,
+      "entry": 377.44863,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-06-17T09:41:31Z",
+    "at": "2026-06-17T10:43:17Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY is below ema20, indicating a potential buy opportunity"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
