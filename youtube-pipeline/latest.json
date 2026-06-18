@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T05:08:26Z",
+  "updated_at": "2026-06-18T10:09:47Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 2031
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-06-18T05:00:10Z",
-    "finished_at": "2026-06-18T05:08:26Z",
+    "pipeline": "news",
+    "started_at": "2026-06-18T10:00:18Z",
+    "finished_at": "2026-06-18T10:09:47Z",
     "status": "success",
-    "duration_seconds": 495.5,
-    "video_url": "https://www.youtube.com/watch?v=sCGQ5NNRKI8",
-    "video_title": "AI #13: Can You Add Invisible Arrows?",
+    "duration_seconds": 569.4,
+    "video_url": "https://www.youtube.com/watch?v=Iw4xuBEfBuU",
+    "video_title": "Toy Story 5 SHOCKS",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-18T10:00:00Z",
+  "next_run_at": "2026-06-18T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 119,
-    "runs_succeeded": 91,
-    "videos_published": 91
+    "runs_attempted": 120,
+    "runs_succeeded": 92,
+    "videos_published": 92
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -71,20 +71,20 @@
     "news": {
       "last_run": {
         "pipeline": "news",
-        "started_at": "2026-06-17T10:00:05Z",
-        "finished_at": "2026-06-17T10:09:12Z",
+        "started_at": "2026-06-18T10:00:18Z",
+        "finished_at": "2026-06-18T10:09:47Z",
         "status": "success",
-        "duration_seconds": 547.1,
-        "video_url": "https://www.youtube.com/watch?v=ES4h5vmeEnc",
-        "video_title": "Murder Unfolds",
+        "duration_seconds": 569.4,
+        "video_url": "https://www.youtube.com/watch?v=Iw4xuBEfBuU",
+        "video_title": "Toy Story 5 SHOCKS",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-18T10:00:00Z",
+      "next_run_at": "2026-06-19T10:00:00Z",
       "totals": {
-        "runs_attempted": 15,
-        "runs_succeeded": 12,
-        "videos_published": 12
+        "runs_attempted": 16,
+        "runs_succeeded": 13,
+        "videos_published": 13
       }
     },
     "teaching": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-18T05:08:26Z"
+    "checked_at": "2026-06-18T10:09:47Z"
   }
 }
