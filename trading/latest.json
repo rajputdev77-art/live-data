@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T11:19:26Z",
+  "updated_at": "2026-06-18T12:19:44Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1017.6451541673481,
@@ -74,9 +74,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-18T11:19:26Z",
+    "at": "2026-06-18T12:19:44Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "Current price is above EMA20, but MACD is below signal line"
   }
 }
