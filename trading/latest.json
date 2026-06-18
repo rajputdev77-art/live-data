@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-18T12:19:44Z",
+  "updated_at": "2026-06-18T13:21:30Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1017.6451541673481,
-    "total_value_usd": 1017.6451541673481,
-    "pnl_usd": 13.47,
-    "pnl_pct": 1.34
+    "balance_usd": 1023.6228273900592,
+    "total_value_usd": 1023.6228273900592,
+    "pnl_usd": 19.45,
+    "pnl_pct": 1.94
   },
   "open_positions": [
     {
@@ -63,20 +63,12 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.26506918305677785,
-      "entry": 377.44863,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-06-18T12:19:44Z",
+    "at": "2026-06-18T13:21:30Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is above EMA20, but MACD is below signal line"
+    "rationale": "hold-all: empty response"
   }
 }
