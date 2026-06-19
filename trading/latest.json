@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T01:36:53Z",
+  "updated_at": "2026-06-19T02:37:11Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1021.8854731816052,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-19T01:36:53Z",
+    "at": "2026-06-19T02:37:11Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "Bullish trend and macd"
+    "action": "buy",
+    "rationale": "Current price above ema20 and rsi14 above 60"
   }
 }
