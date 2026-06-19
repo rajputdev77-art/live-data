@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-06-18T13:01:01Z",
+  "updated_at": "2026-06-19T05:09:25Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 4,
-    "video_count": 105,
-    "view_count": 2031
+    "video_count": 107,
+    "view_count": 2055
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-06-18T13:00:03Z",
-    "finished_at": "2026-06-18T13:01:01Z",
+    "pipeline": "teaching",
+    "started_at": "2026-06-19T05:00:02Z",
+    "finished_at": "2026-06-19T05:09:25Z",
     "status": "success",
-    "duration_seconds": 57.7,
-    "video_url": "https://www.youtube.com/watch?v=m_tNYe6wVIg",
-    "video_title": "3 Heart Attacks #Shorts",
+    "duration_seconds": 562.9,
+    "video_url": "https://www.youtube.com/watch?v=SrRTOUv3ULA",
+    "video_title": "AI #14: Can You Guess The Matrix?",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-19T05:00:00Z",
+  "next_run_at": "2026-06-19T10:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 121,
-    "runs_succeeded": 93,
-    "videos_published": 93
+    "runs_attempted": 122,
+    "runs_succeeded": 94,
+    "videos_published": 94
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -90,20 +90,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-06-18T05:00:10Z",
-        "finished_at": "2026-06-18T05:08:26Z",
+        "started_at": "2026-06-19T05:00:02Z",
+        "finished_at": "2026-06-19T05:09:25Z",
         "status": "success",
-        "duration_seconds": 495.5,
-        "video_url": "https://www.youtube.com/watch?v=sCGQ5NNRKI8",
-        "video_title": "AI #13: Can You Add Invisible Arrows?",
+        "duration_seconds": 562.9,
+        "video_url": "https://www.youtube.com/watch?v=SrRTOUv3ULA",
+        "video_title": "AI #14: Can You Guess The Matrix?",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-19T05:00:00Z",
+      "next_run_at": "2026-06-20T06:00:00Z",
       "totals": {
-        "runs_attempted": 16,
-        "runs_succeeded": 13,
-        "videos_published": 13
+        "runs_attempted": 17,
+        "runs_succeeded": 14,
+        "videos_published": 14
       }
     },
     "shorts": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-18T13:01:01Z"
+    "checked_at": "2026-06-19T05:09:25Z"
   }
 }
