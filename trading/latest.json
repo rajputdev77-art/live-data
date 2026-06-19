@@ -1,66 +1,17 @@
 {
-  "updated_at": "2026-06-19T02:37:11Z",
+  "updated_at": "2026-06-19T03:11:48Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1021.8854731816052,
-    "total_value_usd": 1021.8854731816052,
-    "pnl_usd": 17.71,
-    "pnl_pct": 1.76
+    "balance_usd": 1000.0,
+    "total_value_usd": 1000.0,
+    "pnl_usd": 2171.37,
+    "pnl_pct": -185.37
   },
-  "open_positions": [
-    {
-      "asset": "SPY",
-      "size": 0.1331451548478151,
-      "entry": 751.4355299999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.1358492616592629,
-      "entry": 736.4780549999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "NVDA",
-      "size": 0.4825323296660876,
-      "entry": 207.34362,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AAPL",
-      "size": -0.3341575887188398,
-      "entry": 299.11037,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "GOOG",
-      "size": 0.26993467580845437,
-      "entry": 370.64522999999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "META",
-      "size": -0.16661668166216803,
-      "entry": 599.87991,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    }
-  ],
+  "open_positions": [],
   "last_decision": {
-    "at": "2026-06-19T02:37:11Z",
-    "asset": "SPY",
-    "action": "buy",
-    "rationale": "Current price above ema20 and rsi14 above 60"
+    "at": "2026-06-19T03:11:48Z",
+    "asset": "BTC",
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
