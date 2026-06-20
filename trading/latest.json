@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T10:12:16Z",
+  "updated_at": "2026-06-20T11:14:01Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1021.8854731816052,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-20T10:12:16Z",
+    "at": "2026-06-20T11:14:01Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the long-term ema20, and the rsi14 is around 53.88, indicating a neutral trend."
+    "rationale": "hold-all: empty response"
   }
 }
