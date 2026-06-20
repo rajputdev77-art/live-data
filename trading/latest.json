@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T04:06:06Z",
+  "updated_at": "2026-06-20T05:06:24Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1021.8854731816052,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-20T04:06:06Z",
+    "at": "2026-06-20T05:06:24Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is above EMA20, indicating a potential for further upside."
+    "rationale": "Current price is near the long-term moving average, and the position is already open."
   }
 }
