@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T16:19:52Z",
+  "updated_at": "2026-06-20T17:21:37Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1021.8854731816052,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-20T16:19:52Z",
+    "at": "2026-06-20T17:21:37Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "The current price is close to the entry price, and the long-term metrics indicate a neutral trend."
+    "rationale": "hold-all: empty response"
   }
 }
