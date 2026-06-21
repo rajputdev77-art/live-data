@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T17:45:20Z",
+  "updated_at": "2026-06-21T18:47:05Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1021.8854731816052,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-21T17:45:20Z",
+    "at": "2026-06-21T18:47:05Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "SPY is currently in a neutral trend, and the allocation is set to 0 to minimize churn."
+    "rationale": "hold-all: empty response"
   }
 }
