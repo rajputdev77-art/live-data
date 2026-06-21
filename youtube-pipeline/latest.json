@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T06:08:56Z",
+  "updated_at": "2026-06-21T11:40:17Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 2069
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-06-21T06:00:13Z",
-    "finished_at": "2026-06-21T06:08:56Z",
+    "pipeline": "news",
+    "started_at": "2026-06-21T11:30:13Z",
+    "finished_at": "2026-06-21T11:40:17Z",
     "status": "success",
-    "duration_seconds": 523.2,
-    "video_url": "https://www.youtube.com/watch?v=U1L-3ZZsC_w",
-    "video_title": "AI #16: Can You Find The Secret Speed?",
+    "duration_seconds": 604.0,
+    "video_url": "https://www.youtube.com/watch?v=NuIHmUkfjA0",
+    "video_title": "Golf Chaos",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-21T11:30:00Z",
+  "next_run_at": "2026-06-21T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 128,
-    "runs_succeeded": 100,
-    "videos_published": 100
+    "runs_attempted": 129,
+    "runs_succeeded": 101,
+    "videos_published": 101
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -71,20 +71,20 @@
     "news": {
       "last_run": {
         "pipeline": "news",
-        "started_at": "2026-06-20T11:30:29Z",
-        "finished_at": "2026-06-20T11:41:38Z",
+        "started_at": "2026-06-21T11:30:13Z",
+        "finished_at": "2026-06-21T11:40:17Z",
         "status": "success",
-        "duration_seconds": 668.9,
-        "video_url": "https://www.youtube.com/watch?v=dGRoWFmJxmQ",
-        "video_title": "Life Beyond!",
+        "duration_seconds": 604.0,
+        "video_url": "https://www.youtube.com/watch?v=NuIHmUkfjA0",
+        "video_title": "Golf Chaos",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-21T11:30:00Z",
+      "next_run_at": "2026-06-22T08:30:00Z",
       "totals": {
-        "runs_attempted": 18,
-        "runs_succeeded": 15,
-        "videos_published": 15
+        "runs_attempted": 19,
+        "runs_succeeded": 16,
+        "videos_published": 16
       }
     },
     "teaching": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-21T06:08:56Z"
+    "checked_at": "2026-06-21T11:40:17Z"
   }
 }
