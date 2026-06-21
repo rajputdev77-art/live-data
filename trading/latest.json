@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T00:28:04Z",
+  "updated_at": "2026-06-21T01:29:49Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1021.8854731816052,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-21T00:28:04Z",
+    "at": "2026-06-21T01:29:49Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "The current price is above the EMA20, and the RSI14 is above 50, indicating a bullish trend."
+    "rationale": "hold-all: empty response"
   }
 }
