@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T09:35:41Z",
+  "updated_at": "2026-06-21T10:35:59Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1021.8854731816052,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-21T09:35:41Z",
+    "at": "2026-06-21T10:35:59Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the entry price, and the long-term trend is slightly bullish."
+    "rationale": "Current price is near the long-term EMA20, suggesting a hold to avoid churn."
   }
 }
