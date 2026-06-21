@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T06:34:14Z",
+  "updated_at": "2026-06-21T07:34:34Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1021.8854731816052,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-21T06:34:14Z",
+    "at": "2026-06-21T07:34:34Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the entry price, and the long-term EMA20 and EMA50 indicate a neutral trend."
+    "rationale": "Current price is near the entry price, and the long-term trend is slightly bullish."
   }
 }
