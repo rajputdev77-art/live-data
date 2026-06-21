@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T21:50:53Z",
+  "updated_at": "2026-06-21T22:52:38Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1021.8854731816052,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-21T21:50:53Z",
+    "at": "2026-06-21T22:52:38Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the long-term EMA, and the position is already open."
+    "rationale": "hold-all: empty response"
   }
 }
