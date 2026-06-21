@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T02:30:09Z",
+  "updated_at": "2026-06-21T03:31:54Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1021.8854731816052,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-21T02:30:09Z",
+    "at": "2026-06-21T03:31:54Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the recent highs, and the long-term EMA20 and EMA50 indicate a bullish trend."
+    "rationale": "hold-all: empty response"
   }
 }
