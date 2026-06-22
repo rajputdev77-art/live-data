@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-22T14:08:51Z",
+  "updated_at": "2026-06-22T15:10:37Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1021.8854731816052,
-    "total_value_usd": 1021.8854731816052,
-    "pnl_usd": 17.71,
-    "pnl_pct": 1.76
+    "balance_usd": 1016.3126097145642,
+    "total_value_usd": 1016.3126097145642,
+    "pnl_usd": 12.14,
+    "pnl_pct": 1.21
   },
   "open_positions": [
     {
@@ -41,14 +41,6 @@
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "GOOG",
-      "size": 0.26993467580845437,
-      "entry": 370.64522999999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
       "asset": "META",
       "size": -0.16661668166216803,
       "entry": 599.87991,
@@ -58,9 +50,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-22T14:08:51Z",
+    "at": "2026-06-22T15:10:37Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "The current price is above the EMA20 and the RSI7 is above 60, indicating a strong uptrend. The position is already open, so the decision is to hold."
+    "rationale": "hold-all: empty response"
   }
 }
