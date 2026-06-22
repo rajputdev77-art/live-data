@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T05:09:16Z",
+  "updated_at": "2026-06-22T08:40:23Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 2069
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-06-22T05:00:02Z",
-    "finished_at": "2026-06-22T05:09:15Z",
+    "pipeline": "news",
+    "started_at": "2026-06-22T08:30:22Z",
+    "finished_at": "2026-06-22T08:40:23Z",
     "status": "success",
-    "duration_seconds": 553.8,
-    "video_url": "https://www.youtube.com/watch?v=HyUvZXvIR_g",
-    "video_title": "AI #17: How Tiny Changes Add Up Fast",
+    "duration_seconds": 600.4,
+    "video_url": "https://www.youtube.com/watch?v=LPrtk4cLD4U",
+    "video_title": "Taylor Exposed",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-22T08:30:00Z",
+  "next_run_at": "2026-06-22T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 131,
-    "runs_succeeded": 103,
-    "videos_published": 103
+    "runs_attempted": 132,
+    "runs_succeeded": 104,
+    "videos_published": 104
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -71,20 +71,20 @@
     "news": {
       "last_run": {
         "pipeline": "news",
-        "started_at": "2026-06-21T11:30:13Z",
-        "finished_at": "2026-06-21T11:40:17Z",
+        "started_at": "2026-06-22T08:30:22Z",
+        "finished_at": "2026-06-22T08:40:23Z",
         "status": "success",
-        "duration_seconds": 604.0,
-        "video_url": "https://www.youtube.com/watch?v=NuIHmUkfjA0",
-        "video_title": "Golf Chaos",
+        "duration_seconds": 600.4,
+        "video_url": "https://www.youtube.com/watch?v=LPrtk4cLD4U",
+        "video_title": "Taylor Exposed",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-22T08:30:00Z",
+      "next_run_at": "2026-06-23T08:30:00Z",
       "totals": {
-        "runs_attempted": 19,
-        "runs_succeeded": 16,
-        "videos_published": 16
+        "runs_attempted": 20,
+        "runs_succeeded": 17,
+        "videos_published": 17
       }
     },
     "teaching": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-22T05:09:15Z"
+    "checked_at": "2026-06-22T08:40:23Z"
   }
 }
