@@ -1,33 +1,57 @@
 {
-  "updated_at": "2026-06-23T11:54:46Z",
+  "updated_at": "2026-06-23T12:36:32Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1001.9887286100317,
-    "total_value_usd": 1001.9887286100317,
-    "pnl_usd": 2173.36,
-    "pnl_pct": -185.54
+    "balance_usd": 1016.3126097145642,
+    "total_value_usd": 1016.3126097145642,
+    "pnl_usd": 12.14,
+    "pnl_pct": 1.21
   },
   "open_positions": [
     {
-      "asset": "WLD",
-      "size": -32.6455993732045,
-      "entry": 0.61225372,
+      "asset": "SPY",
+      "size": 0.1331451548478151,
+      "entry": 751.4355299999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.4600326455993742
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "PUMP",
-      "size": -7523.939808481532,
-      "entry": 0.0014622685000000002,
+      "asset": "QQQ",
+      "size": 0.1358492616592629,
+      "entry": 736.4780549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5286959644322863
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "NVDA",
+      "size": 0.4825323296660876,
+      "entry": 207.34362,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AAPL",
+      "size": -0.3341575887188398,
+      "entry": 299.11037,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "META",
+      "size": -0.16661668166216803,
+      "entry": 599.87991,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-06-23T11:54:46Z",
-    "asset": "BTC",
+    "at": "2026-06-23T12:36:32Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
