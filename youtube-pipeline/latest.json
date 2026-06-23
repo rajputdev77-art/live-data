@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-06-22T13:02:02Z",
+  "updated_at": "2026-06-23T05:10:42Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 4,
-    "video_count": 117,
+    "video_count": 119,
     "view_count": 2085
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-06-22T13:00:26Z",
-    "finished_at": "2026-06-22T13:02:02Z",
+    "pipeline": "teaching",
+    "started_at": "2026-06-23T05:00:21Z",
+    "finished_at": "2026-06-23T05:10:42Z",
     "status": "success",
-    "duration_seconds": 95.8,
-    "video_url": "https://www.youtube.com/watch?v=UC-HPWyyaRM",
-    "video_title": "3 Heart Attacks #Shorts",
+    "duration_seconds": 620.5,
+    "video_url": "https://www.youtube.com/watch?v=TB5fWOEBbng",
+    "video_title": "AI #18: How Likely Is It To Rain?",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-23T05:00:00Z",
+  "next_run_at": "2026-06-23T08:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 133,
-    "runs_succeeded": 105,
-    "videos_published": 105
+    "runs_attempted": 134,
+    "runs_succeeded": 106,
+    "videos_published": 106
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -90,20 +90,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-06-22T05:00:02Z",
-        "finished_at": "2026-06-22T05:09:15Z",
+        "started_at": "2026-06-23T05:00:21Z",
+        "finished_at": "2026-06-23T05:10:42Z",
         "status": "success",
-        "duration_seconds": 553.8,
-        "video_url": "https://www.youtube.com/watch?v=HyUvZXvIR_g",
-        "video_title": "AI #17: How Tiny Changes Add Up Fast",
+        "duration_seconds": 620.5,
+        "video_url": "https://www.youtube.com/watch?v=TB5fWOEBbng",
+        "video_title": "AI #18: How Likely Is It To Rain?",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-23T05:00:00Z",
+      "next_run_at": "2026-06-24T05:00:00Z",
       "totals": {
-        "runs_attempted": 20,
-        "runs_succeeded": 17,
-        "videos_published": 17
+        "runs_attempted": 21,
+        "runs_succeeded": 18,
+        "videos_published": 18
       }
     },
     "shorts": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-22T13:02:02Z"
+    "checked_at": "2026-06-23T05:10:42Z"
   }
 }
