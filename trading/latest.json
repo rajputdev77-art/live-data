@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T20:45:25Z",
+  "updated_at": "2026-06-23T21:47:11Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1021.2869054719046,
@@ -31,12 +31,20 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AMZN",
+      "size": 0.4271131422713877,
+      "entry": 234.247065,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-06-23T20:45:25Z",
+    "at": "2026-06-23T21:47:11Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "The current price is below the ema20, and the macd is negative, indicating a potential downtrend. However, the rsi14 is above 30, suggesting that the asset is not oversold. Therefore, the decision is to hold."
+    "rationale": "hold-all: empty response"
   }
 }
