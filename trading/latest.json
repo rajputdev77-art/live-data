@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-23T18:43:19Z",
+  "updated_at": "2026-06-23T19:45:05Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1011.3099135694753,
-    "total_value_usd": 1011.3099135694753,
-    "pnl_usd": 7.14,
-    "pnl_pct": 0.71
+    "balance_usd": 1021.2869054719046,
+    "total_value_usd": 1021.2869054719046,
+    "pnl_usd": 17.11,
+    "pnl_pct": 1.7
   },
   "open_positions": [
     {
@@ -25,14 +25,6 @@
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "META",
-      "size": -0.16661668166216803,
-      "entry": 599.87991,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
       "asset": "MSFT",
       "size": 0.268067767531632,
       "entry": 373.916865,
@@ -42,9 +34,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-23T18:43:19Z",
+    "at": "2026-06-23T19:45:05Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY's current price is below its EMA20, and its RSI14 is below 30, indicating a potential buy."
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
