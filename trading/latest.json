@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T09:33:39Z",
+  "updated_at": "2026-06-23T10:33:58Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1016.3126097145642,
@@ -50,9 +50,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-23T09:33:39Z",
+    "at": "2026-06-23T10:33:58Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "action": "buy",
+    "rationale": "current price is below ema20"
   }
 }
