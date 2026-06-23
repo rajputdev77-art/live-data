@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T05:10:42Z",
+  "updated_at": "2026-06-23T08:40:26Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 2085
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-06-23T05:00:21Z",
-    "finished_at": "2026-06-23T05:10:42Z",
+    "pipeline": "news",
+    "started_at": "2026-06-23T08:30:29Z",
+    "finished_at": "2026-06-23T08:40:26Z",
     "status": "success",
-    "duration_seconds": 620.5,
-    "video_url": "https://www.youtube.com/watch?v=TB5fWOEBbng",
-    "video_title": "AI #18: How Likely Is It To Rain?",
+    "duration_seconds": 597.7,
+    "video_url": "https://www.youtube.com/watch?v=neXHfKPEJCo",
+    "video_title": "School Tragedy Unfolds",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-23T08:30:00Z",
+  "next_run_at": "2026-06-23T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 134,
-    "runs_succeeded": 106,
-    "videos_published": 106
+    "runs_attempted": 135,
+    "runs_succeeded": 107,
+    "videos_published": 107
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -71,20 +71,20 @@
     "news": {
       "last_run": {
         "pipeline": "news",
-        "started_at": "2026-06-22T08:30:22Z",
-        "finished_at": "2026-06-22T08:40:23Z",
+        "started_at": "2026-06-23T08:30:29Z",
+        "finished_at": "2026-06-23T08:40:26Z",
         "status": "success",
-        "duration_seconds": 600.4,
-        "video_url": "https://www.youtube.com/watch?v=LPrtk4cLD4U",
-        "video_title": "Taylor Exposed",
+        "duration_seconds": 597.7,
+        "video_url": "https://www.youtube.com/watch?v=neXHfKPEJCo",
+        "video_title": "School Tragedy Unfolds",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-23T08:30:00Z",
+      "next_run_at": "2026-06-24T10:00:00Z",
       "totals": {
-        "runs_attempted": 20,
-        "runs_succeeded": 17,
-        "videos_published": 17
+        "runs_attempted": 21,
+        "runs_succeeded": 18,
+        "videos_published": 18
       }
     },
     "teaching": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-23T05:10:42Z"
+    "checked_at": "2026-06-23T08:40:26Z"
   }
 }
