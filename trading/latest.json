@@ -1,29 +1,13 @@
 {
-  "updated_at": "2026-06-24T01:51:20Z",
+  "updated_at": "2026-06-24T02:53:06Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1021.2869054719046,
-    "total_value_usd": 1021.2869054719046,
-    "pnl_usd": 17.11,
-    "pnl_pct": 1.7
+    "balance_usd": 1028.954569860508,
+    "total_value_usd": 1028.954569860508,
+    "pnl_usd": 24.78,
+    "pnl_pct": 2.47
   },
   "open_positions": [
-    {
-      "asset": "NVDA",
-      "size": 0.4825323296660876,
-      "entry": 207.34362,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AAPL",
-      "size": -0.3341575887188398,
-      "entry": 299.11037,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
     {
       "asset": "MSFT",
       "size": 0.268067767531632,
@@ -39,12 +23,36 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "META",
+      "size": -0.17780306532484622,
+      "entry": 562.13879,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AVGO",
+      "size": -0.26306789782442846,
+      "entry": 379.939935,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-06-24T01:51:20Z",
+    "at": "2026-06-24T02:53:06Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "Current price is below ema20, indicating a potential buy opportunity."
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
