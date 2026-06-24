@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T05:09:50Z",
+  "updated_at": "2026-06-24T10:10:06Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 2085
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-06-24T05:00:17Z",
-    "finished_at": "2026-06-24T05:09:50Z",
+    "pipeline": "news",
+    "started_at": "2026-06-24T10:00:02Z",
+    "finished_at": "2026-06-24T10:10:06Z",
     "status": "success",
-    "duration_seconds": 572.8,
-    "video_url": "https://www.youtube.com/watch?v=hrIw_r-wwhU",
-    "video_title": "AI #19: What's Hiding in a Bell Curve?",
+    "duration_seconds": 603.5,
+    "video_url": "https://www.youtube.com/watch?v=782Av_M6KmQ",
+    "video_title": "CA Horror",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-24T10:00:00Z",
+  "next_run_at": "2026-06-24T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 137,
-    "runs_succeeded": 109,
-    "videos_published": 109
+    "runs_attempted": 138,
+    "runs_succeeded": 110,
+    "videos_published": 110
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -71,20 +71,20 @@
     "news": {
       "last_run": {
         "pipeline": "news",
-        "started_at": "2026-06-23T08:30:29Z",
-        "finished_at": "2026-06-23T08:40:26Z",
+        "started_at": "2026-06-24T10:00:02Z",
+        "finished_at": "2026-06-24T10:10:06Z",
         "status": "success",
-        "duration_seconds": 597.7,
-        "video_url": "https://www.youtube.com/watch?v=neXHfKPEJCo",
-        "video_title": "School Tragedy Unfolds",
+        "duration_seconds": 603.5,
+        "video_url": "https://www.youtube.com/watch?v=782Av_M6KmQ",
+        "video_title": "CA Horror",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-24T10:00:00Z",
+      "next_run_at": "2026-06-25T10:00:00Z",
       "totals": {
-        "runs_attempted": 21,
-        "runs_succeeded": 18,
-        "videos_published": 18
+        "runs_attempted": 22,
+        "runs_succeeded": 19,
+        "videos_published": 19
       }
     },
     "teaching": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-24T05:09:50Z"
+    "checked_at": "2026-06-24T10:10:06Z"
   }
 }
