@@ -1,58 +1,34 @@
 {
-  "updated_at": "2026-06-24T03:53:25Z",
+  "updated_at": "2026-06-24T04:01:53Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1028.954569860508,
-    "total_value_usd": 1028.954569860508,
-    "pnl_usd": 24.78,
-    "pnl_pct": 2.47
+    "balance_usd": 1003.3884502605217,
+    "total_value_usd": 1003.3884502605217,
+    "pnl_usd": 2174.76,
+    "pnl_pct": -185.66
   },
   "open_positions": [
     {
-      "asset": "MSFT",
-      "size": 0.268067767531632,
-      "entry": 373.916865,
+      "asset": "WLD",
+      "size": -32.6455993732045,
+      "entry": 0.61225372,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 3.077948550535387
     },
     {
-      "asset": "AMZN",
-      "size": 0.4271131422713877,
-      "entry": 234.247065,
+      "asset": "PUMP",
+      "size": -7523.939808481532,
+      "entry": 0.0014622685000000002,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "META",
-      "size": -0.17780306532484622,
-      "entry": 562.13879,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AVGO",
-      "size": -0.26306789782442846,
-      "entry": 379.939935,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.3105017099863223
     }
   ],
   "last_decision": {
-    "at": "2026-06-24T03:53:25Z",
-    "asset": "SPY",
+    "at": "2026-06-24T04:01:53Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "Current price is near the EMA20, and RSI14 is below 50, indicating a potential buy signal, but given the current position, holding is the best course of action."
+    "rationale": "hold-all: empty response"
   }
 }
