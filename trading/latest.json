@@ -1,58 +1,34 @@
 {
-  "updated_at": "2026-06-25T03:23:52Z",
+  "updated_at": "2026-06-25T04:10:11Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1028.954569860508,
-    "total_value_usd": 1028.954569860508,
-    "pnl_usd": 24.78,
-    "pnl_pct": 2.47
+    "balance_usd": 1004.6488985493564,
+    "total_value_usd": 1004.6488985493564,
+    "pnl_usd": 2176.02,
+    "pnl_pct": -185.77
   },
   "open_positions": [
     {
-      "asset": "MSFT",
-      "size": 0.268067767531632,
-      "entry": 373.916865,
+      "asset": "WLD",
+      "size": -32.6455993732045,
+      "entry": 0.61225372,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 3.224853747714809
     },
     {
-      "asset": "AMZN",
-      "size": 0.4271131422713877,
-      "entry": 234.247065,
+      "asset": "PUMP",
+      "size": -7523.939808481532,
+      "entry": 0.0014622685000000002,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "META",
-      "size": -0.17780306532484622,
-      "entry": 562.13879,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AVGO",
-      "size": -0.26306789782442846,
-      "entry": 379.939935,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 1.4240448016415883
     }
   ],
   "last_decision": {
-    "at": "2026-06-25T03:23:52Z",
-    "asset": "SPY",
+    "at": "2026-06-25T04:10:11Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "High RSI14 value indicates overbought conditions, suggesting a potential sell or hold."
+    "rationale": "hold-all: empty response"
   }
 }
