@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-06-25T05:15:47Z",
+  "updated_at": "2026-06-25T10:08:46Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 4,
     "video_count": 125,
-    "view_count": 2097
+    "view_count": 2102
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-06-25T05:00:26Z",
-    "finished_at": "2026-06-25T05:15:47Z",
+    "pipeline": "news",
+    "started_at": "2026-06-25T10:00:11Z",
+    "finished_at": "2026-06-25T10:08:45Z",
     "status": "success",
-    "duration_seconds": 921.1,
-    "video_url": "https://www.youtube.com/watch?v=Wb9fSrmqImY",
-    "video_title": "AI #20: Numbers Too Big To Handle?",
+    "duration_seconds": 514.0,
+    "video_url": "https://www.youtube.com/watch?v=ukOg4h6x4bM",
+    "video_title": "NBA Draft SHOCKERS!",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-25T10:00:00Z",
+  "next_run_at": "2026-06-25T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 140,
-    "runs_succeeded": 112,
-    "videos_published": 112
+    "runs_attempted": 141,
+    "runs_succeeded": 113,
+    "videos_published": 113
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -71,20 +71,20 @@
     "news": {
       "last_run": {
         "pipeline": "news",
-        "started_at": "2026-06-24T10:00:02Z",
-        "finished_at": "2026-06-24T10:10:06Z",
+        "started_at": "2026-06-25T10:00:11Z",
+        "finished_at": "2026-06-25T10:08:45Z",
         "status": "success",
-        "duration_seconds": 603.5,
-        "video_url": "https://www.youtube.com/watch?v=782Av_M6KmQ",
-        "video_title": "CA Horror",
+        "duration_seconds": 514.0,
+        "video_url": "https://www.youtube.com/watch?v=ukOg4h6x4bM",
+        "video_title": "NBA Draft SHOCKERS!",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-25T10:00:00Z",
+      "next_run_at": "2026-06-26T10:00:00Z",
       "totals": {
-        "runs_attempted": 22,
-        "runs_succeeded": 19,
-        "videos_published": 19
+        "runs_attempted": 23,
+        "runs_succeeded": 20,
+        "videos_published": 20
       }
     },
     "teaching": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-25T05:15:47Z"
+    "checked_at": "2026-06-25T10:08:45Z"
   }
 }
