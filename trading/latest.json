@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T01:50:43Z",
+  "updated_at": "2026-06-28T02:51:00Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1028.954569860508,
@@ -50,9 +50,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-28T01:50:43Z",
+    "at": "2026-06-28T02:51:00Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "Current price is below the long-term EMA20, but the position is already open with a stop-loss in place."
   }
 }
