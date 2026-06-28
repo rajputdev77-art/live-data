@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T17:08:51Z",
+  "updated_at": "2026-06-28T18:10:36Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1028.954569860508,
@@ -50,9 +50,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-06-28T17:08:51Z",
+    "at": "2026-06-28T18:10:36Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is below EMA20, indicating a potential downtrend. Holding to avoid churn and waiting for a clearer trend."
+    "rationale": "hold-all: empty response"
   }
 }
