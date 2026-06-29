@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-06-29T08:41:11Z",
+  "updated_at": "2026-06-29T13:01:07Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 4,
-    "video_count": 137,
+    "video_count": 138,
     "view_count": 2136
   },
   "last_run": {
-    "pipeline": "news",
-    "started_at": "2026-06-29T08:30:26Z",
-    "finished_at": "2026-06-29T08:41:11Z",
+    "pipeline": "shorts",
+    "started_at": "2026-06-29T13:00:14Z",
+    "finished_at": "2026-06-29T13:01:07Z",
     "status": "success",
-    "duration_seconds": 644.5,
-    "video_url": "https://www.youtube.com/watch?v=cKYqAndXeTo",
-    "video_title": "NHL Draft SHOCKS!",
+    "duration_seconds": 52.9,
+    "video_url": "https://www.youtube.com/watch?v=9h3xk9I7FT4",
+    "video_title": "3 Heart Attacks #Shorts",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-06-29T13:00:00Z",
+  "next_run_at": "2026-06-30T05:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 153,
-    "runs_succeeded": 125,
-    "videos_published": 125
+    "runs_attempted": 154,
+    "runs_succeeded": 126,
+    "videos_published": 126
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -109,26 +109,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-06-28T13:00:11Z",
-        "finished_at": "2026-06-28T13:01:08Z",
+        "started_at": "2026-06-29T13:00:14Z",
+        "finished_at": "2026-06-29T13:01:07Z",
         "status": "success",
-        "duration_seconds": 56.9,
-        "video_url": "https://www.youtube.com/watch?v=FKc1pEXft9Q",
+        "duration_seconds": 52.9,
+        "video_url": "https://www.youtube.com/watch?v=9h3xk9I7FT4",
         "video_title": "3 Heart Attacks #Shorts",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-06-29T13:00:00Z",
+      "next_run_at": "2026-06-30T13:00:00Z",
       "totals": {
-        "runs_attempted": 26,
-        "runs_succeeded": 23,
-        "videos_published": 23
+        "runs_attempted": 27,
+        "runs_succeeded": 24,
+        "videos_published": 24
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-06-29T08:41:11Z"
+    "checked_at": "2026-06-29T13:01:07Z"
   }
 }
