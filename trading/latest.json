@@ -1,58 +1,26 @@
 {
-  "updated_at": "2026-07-01T08:19:40Z",
+  "updated_at": "2026-07-01T09:10:31Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1028.954569860508,
-    "total_value_usd": 1028.954569860508,
-    "pnl_usd": 24.78,
-    "pnl_pct": 2.47
+    "balance_usd": 1006.5716917514976,
+    "total_value_usd": 1006.5716917514976,
+    "pnl_usd": 2177.94,
+    "pnl_pct": -185.93
   },
   "open_positions": [
     {
-      "asset": "MSFT",
-      "size": 0.268067767531632,
-      "entry": 373.916865,
+      "asset": "PUMP",
+      "size": -7523.939808481532,
+      "entry": 0.0014622685000000002,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AMZN",
-      "size": 0.4271131422713877,
-      "entry": 234.247065,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "META",
-      "size": -0.17780306532484622,
-      "entry": 562.13879,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AVGO",
-      "size": -0.26306789782442846,
-      "entry": 379.939935,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.29545383036935885
     }
   ],
   "last_decision": {
-    "at": "2026-07-01T08:19:40Z",
-    "asset": "SPY",
+    "at": "2026-07-01T09:10:31Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "BTC is currently in a neutral trend, and given the account's risk management limits and current balance, it's best to hold and monitor the market conditions before making any trades."
   }
 }
