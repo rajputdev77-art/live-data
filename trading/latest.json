@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T07:17:54Z",
+  "updated_at": "2026-07-01T08:19:40Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1028.954569860508,
@@ -50,9 +50,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-01T07:17:54Z",
+    "at": "2026-07-01T08:19:40Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "Buy signal generated due to price below ema20 and rsi14 below 50"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
