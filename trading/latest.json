@@ -1,90 +1,34 @@
 {
-  "updated_at": "2026-07-02T00:39:17Z",
+  "updated_at": "2026-07-02T01:17:35Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1033.6550277335473,
-    "total_value_usd": 1033.6550277335473,
-    "pnl_usd": 29.48,
-    "pnl_pct": 2.94
+    "balance_usd": 1006.9721909492218,
+    "total_value_usd": 1006.9721909492218,
+    "pnl_usd": 2178.34,
+    "pnl_pct": -185.97
   },
   "open_positions": [
     {
-      "asset": "MSFT",
-      "size": 0.268067767531632,
-      "entry": 373.916865,
+      "asset": "PUMP",
+      "size": -7523.939808481532,
+      "entry": 0.0014622685000000002,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.42336080711354557
     },
     {
-      "asset": "AMZN",
-      "size": 0.4271131422713877,
-      "entry": 234.247065,
+      "asset": "HYPE",
+      "size": -0.17198114461269062,
+      "entry": 63.94351225,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "QQQ",
-      "size": -0.13704637649380552,
-      "entry": 729.31516,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "NVDA",
-      "size": -0.5071251077640854,
-      "entry": 197.04143,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AAPL",
-      "size": 0.33867881394679356,
-      "entry": 295.1725125,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "GOOG",
-      "size": 0.28145229383619474,
-      "entry": 355.44263249999995,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "META",
-      "size": 0.16177434097177848,
-      "entry": 618.5991449999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "TSLA",
-      "size": 0.2336366716119762,
-      "entry": 428.304045,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.27259222098013586
     }
   ],
   "last_decision": {
-    "at": "2026-07-02T00:39:17Z",
-    "asset": "SPY",
+    "at": "2026-07-02T01:17:35Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "RSI14 is 30.37, indicating a potential buy signal, but the current price is above the EMA20, suggesting a hold."
+    "rationale": "hold-all: empty response"
   }
 }
