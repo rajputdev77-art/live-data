@@ -1,26 +1,66 @@
 {
-  "updated_at": "2026-07-02T21:26:29Z",
+  "updated_at": "2026-07-02T22:06:30Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1005.6358335802313,
-    "total_value_usd": 1005.6358335802313,
-    "pnl_usd": 2177.01,
-    "pnl_pct": -185.85
+    "balance_usd": 1026.0285326724402,
+    "total_value_usd": 1026.0285326724402,
+    "pnl_usd": 21.85,
+    "pnl_pct": 2.18
   },
   "open_positions": [
     {
-      "asset": "HYPE",
-      "size": -0.17198114461269062,
-      "entry": 63.94351225,
+      "asset": "MSFT",
+      "size": 0.268067767531632,
+      "entry": 373.916865,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.35651480601308544
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AMZN",
+      "size": 0.4271131422713877,
+      "entry": 234.247065,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "NVDA",
+      "size": -0.5071251077640854,
+      "entry": 197.04143,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AAPL",
+      "size": 0.33867881394679356,
+      "entry": 295.1725125,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "GOOG",
+      "size": 0.28145229383619474,
+      "entry": 355.44263249999995,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-02T21:26:29Z",
-    "asset": "BTC",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "at": "2026-07-02T22:06:30Z",
+    "asset": "SPY",
+    "action": "buy",
+    "rationale": "SPY is above ema20 and macd is positive"
   }
 }
