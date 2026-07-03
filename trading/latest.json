@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T19:33:14Z",
+  "updated_at": "2026-07-03T20:35:00Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1026.0285326724402,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-03T19:33:14Z",
+    "at": "2026-07-03T20:35:00Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is above long-term ema20 and ema50"
+    "rationale": "hold-all: empty response"
   }
 }
