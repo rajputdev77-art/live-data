@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T11:38:29Z",
+  "updated_at": "2026-07-06T12:40:15Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1026.0285326724402,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-06T11:38:29Z",
+    "at": "2026-07-06T12:40:15Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is above EMA20, and RSI14 is neutral."
+    "rationale": "hold-all: empty response"
   }
 }
