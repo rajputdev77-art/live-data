@@ -1,26 +1,58 @@
 {
-  "updated_at": "2026-07-07T02:08:28Z",
+  "updated_at": "2026-07-07T02:59:16Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1004.7716283285525,
-    "total_value_usd": 1004.7716283285525,
-    "pnl_usd": 2176.14,
-    "pnl_pct": -185.78
+    "balance_usd": 1031.050288552751,
+    "total_value_usd": 1031.050288552751,
+    "pnl_usd": 26.88,
+    "pnl_pct": 2.68
   },
   "open_positions": [
     {
-      "asset": "HYPE",
-      "size": -0.17198114461269062,
-      "entry": 63.94351225,
+      "asset": "MSFT",
+      "size": 0.268067767531632,
+      "entry": 373.916865,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2207200576918569
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AMZN",
+      "size": 0.4271131422713877,
+      "entry": 234.247065,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "NVDA",
+      "size": -0.5071251077640854,
+      "entry": 197.04143,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "GOOG",
+      "size": 0.28145229383619474,
+      "entry": 355.44263249999995,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-07T02:08:28Z",
-    "asset": "BTC",
-    "action": "buy",
-    "rationale": "BTC is trending upwards, and the current price is near the lower end of the recent range, making it a good buy opportunity."
+    "at": "2026-07-07T02:59:16Z",
+    "asset": "SPY",
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
