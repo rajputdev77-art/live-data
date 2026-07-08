@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T05:11:47Z",
+  "updated_at": "2026-07-08T10:06:43Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 2155
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-07-08T05:00:12Z",
-    "finished_at": "2026-07-08T05:11:47Z",
+    "pipeline": "news",
+    "started_at": "2026-07-08T10:00:06Z",
+    "finished_at": "2026-07-08T10:06:43Z",
     "status": "success",
-    "duration_seconds": 695.0,
-    "video_url": "https://www.youtube.com/watch?v=nde559QN_Ms",
-    "video_title": "AI #33: What If Your Phone Had Favorites?",
+    "duration_seconds": 396.3,
+    "video_url": "https://www.youtube.com/watch?v=vrUGFywbKVs",
+    "video_title": "Wheels on the Big Red Bus",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-07-08T10:00:00Z",
+  "next_run_at": "2026-07-08T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 180,
-    "runs_succeeded": 152,
-    "videos_published": 152
+    "runs_attempted": 181,
+    "runs_succeeded": 153,
+    "videos_published": 153
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -71,20 +71,20 @@
     "news": {
       "last_run": {
         "pipeline": "news",
-        "started_at": "2026-07-07T08:30:25Z",
-        "finished_at": "2026-07-07T08:39:00Z",
+        "started_at": "2026-07-08T10:00:06Z",
+        "finished_at": "2026-07-08T10:06:43Z",
         "status": "success",
-        "duration_seconds": 515.5,
-        "video_url": "https://www.youtube.com/watch?v=ALPSjqxND-w",
-        "video_title": "Days of the Week Song",
+        "duration_seconds": 396.3,
+        "video_url": "https://www.youtube.com/watch?v=vrUGFywbKVs",
+        "video_title": "Wheels on the Big Red Bus",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-07-08T10:00:00Z",
+      "next_run_at": "2026-07-09T10:00:00Z",
       "totals": {
-        "runs_attempted": 36,
-        "runs_succeeded": 33,
-        "videos_published": 33
+        "runs_attempted": 37,
+        "runs_succeeded": 34,
+        "videos_published": 34
       }
     },
     "teaching": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-07-08T05:11:47Z"
+    "checked_at": "2026-07-08T10:06:43Z"
   }
 }
