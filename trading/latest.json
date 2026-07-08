@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-08T16:50:03Z",
+  "updated_at": "2026-07-08T17:51:53Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1031.050288552751,
-    "total_value_usd": 1031.050288552751,
-    "pnl_usd": 26.88,
-    "pnl_pct": 2.68
+    "balance_usd": 1028.9749449754904,
+    "total_value_usd": 1028.9749449754904,
+    "pnl_usd": 24.8,
+    "pnl_pct": 2.47
   },
   "open_positions": [
     {
@@ -33,14 +33,6 @@
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "NVDA",
-      "size": -0.5071251077640854,
-      "entry": 197.04143,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
       "asset": "GOOG",
       "size": 0.28145229383619474,
       "entry": 355.44263249999995,
@@ -50,9 +42,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-08T16:50:03Z",
+    "at": "2026-07-08T17:51:53Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "The current price is above the EMA20 and the RSI14 is above 60, indicating a strong uptrend. The MACD is above the signal line, indicating a buy signal."
+    "rationale": "hold-all: empty response"
   }
 }
