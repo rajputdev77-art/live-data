@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-09T19:24:57Z",
+  "updated_at": "2026-07-09T20:26:44Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1027.9499449754903,
-    "total_value_usd": 1027.9499449754903,
-    "pnl_usd": 23.78,
-    "pnl_pct": 2.37
+    "balance_usd": 1026.5251290199926,
+    "total_value_usd": 1026.5251290199926,
+    "pnl_usd": 22.35,
+    "pnl_pct": 2.23
   },
   "open_positions": [
     {
@@ -47,18 +47,10 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "META",
-      "size": -0.08290292896048017,
-      "entry": 602.8134425000001,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-09T19:24:57Z",
+    "at": "2026-07-09T20:26:44Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
