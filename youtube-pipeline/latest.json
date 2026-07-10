@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T05:08:18Z",
+  "updated_at": "2026-07-10T10:11:22Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 2156
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-07-10T05:00:20Z",
-    "finished_at": "2026-07-10T05:08:18Z",
+    "pipeline": "news",
+    "started_at": "2026-07-10T10:00:10Z",
+    "finished_at": "2026-07-10T10:11:22Z",
     "status": "success",
-    "duration_seconds": 477.4,
-    "video_url": "https://www.youtube.com/watch?v=lAmqlXZ6bNM",
-    "video_title": "AI #35: Can Computers Think in Layers?",
+    "duration_seconds": 671.5,
+    "video_url": "https://www.youtube.com/watch?v=TVhjoOTytuU",
+    "video_title": "Shapes Are Fun",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-07-10T10:00:00Z",
+  "next_run_at": "2026-07-10T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 186,
-    "runs_succeeded": 158,
-    "videos_published": 158
+    "runs_attempted": 187,
+    "runs_succeeded": 159,
+    "videos_published": 159
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -71,20 +71,20 @@
     "news": {
       "last_run": {
         "pipeline": "news",
-        "started_at": "2026-07-09T10:00:19Z",
-        "finished_at": "2026-07-09T10:07:04Z",
+        "started_at": "2026-07-10T10:00:10Z",
+        "finished_at": "2026-07-10T10:11:22Z",
         "status": "success",
-        "duration_seconds": 405.1,
-        "video_url": "https://www.youtube.com/watch?v=44UFsSv22LY",
-        "video_title": "The Fox and Grapes Story",
+        "duration_seconds": 671.5,
+        "video_url": "https://www.youtube.com/watch?v=TVhjoOTytuU",
+        "video_title": "Shapes Are Fun",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-07-10T10:00:00Z",
+      "next_run_at": "2026-07-11T11:30:00Z",
       "totals": {
-        "runs_attempted": 38,
-        "runs_succeeded": 35,
-        "videos_published": 35
+        "runs_attempted": 39,
+        "runs_succeeded": 36,
+        "videos_published": 36
       }
     },
     "teaching": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-07-10T05:08:18Z"
+    "checked_at": "2026-07-10T10:11:22Z"
   }
 }
