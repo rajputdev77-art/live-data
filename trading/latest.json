@@ -1,66 +1,50 @@
 {
-  "updated_at": "2026-07-11T10:12:48Z",
+  "updated_at": "2026-07-11T10:46:21Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1026.5251290199926,
-    "total_value_usd": 1026.5251290199926,
-    "pnl_usd": 22.35,
-    "pnl_pct": 2.23
+    "balance_usd": 1010.2397614296602,
+    "total_value_usd": 1010.2397614296602,
+    "pnl_usd": 2181.61,
+    "pnl_pct": -186.24
   },
   "open_positions": [
     {
-      "asset": "MSFT",
-      "size": 0.268067767531632,
-      "entry": 373.916865,
+      "asset": "SOL",
+      "size": 0.6494982625921476,
+      "entry": 77.05901025,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.5842170298444457
     },
     {
-      "asset": "AMZN",
-      "size": 0.4271131422713877,
-      "entry": 234.247065,
+      "asset": "WLD",
+      "size": 131.84610922131688,
+      "entry": 0.379519665,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 2.493254093821691
     },
     {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
+      "asset": "NEAR",
+      "size": 26.744403733518762,
+      "entry": 1.870784925,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.5754078521569405
     },
     {
-      "asset": "GOOG",
-      "size": 0.28145229383619474,
-      "entry": 355.44263249999995,
+      "asset": "ONDO",
+      "size": 157.75358889414733,
+      "entry": 0.31722353249999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AAPL",
-      "size": -0.15957616570389047,
-      "entry": 313.173335,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "TSLA",
-      "size": -0.12272046731953955,
-      "entry": 407.226285,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 2.186696245464593
     }
   ],
   "last_decision": {
-    "at": "2026-07-11T10:12:48Z",
-    "asset": "SPY",
-    "action": "buy",
-    "rationale": "Current price above ema20"
+    "at": "2026-07-11T10:46:21Z",
+    "asset": "BTC",
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
