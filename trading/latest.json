@@ -1,49 +1,57 @@
 {
-  "updated_at": "2026-07-11T02:42:50Z",
+  "updated_at": "2026-07-11T03:05:40Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1008.2540028961902,
-    "total_value_usd": 1008.2540028961902,
-    "pnl_usd": 2179.63,
-    "pnl_pct": -186.07
+    "balance_usd": 1026.5251290199926,
+    "total_value_usd": 1026.5251290199926,
+    "pnl_usd": 22.35,
+    "pnl_pct": 2.23
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": 0.6494982625921476,
-      "entry": 77.05901025,
+      "asset": "MSFT",
+      "size": 0.268067767531632,
+      "entry": 373.916865,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.38612005975383623
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "WLD",
-      "size": 131.84610922131688,
-      "entry": 0.379519665,
+      "asset": "AMZN",
+      "size": 0.4271131422713877,
+      "entry": 234.247065,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.759477757561375
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "NEAR",
-      "size": 26.744403733518762,
-      "entry": 1.870784925,
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9805855687197497
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "ONDO",
-      "size": 157.75358889414733,
-      "entry": 0.31722353249999996,
+      "asset": "GOOG",
+      "size": 0.28145229383619474,
+      "entry": 355.44263249999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.7276333017826206
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AAPL",
+      "size": -0.15957616570389047,
+      "entry": 313.173335,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-11T02:42:50Z",
-    "asset": "BTC",
+    "at": "2026-07-11T03:05:40Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
