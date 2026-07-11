@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T11:39:01Z",
+  "updated_at": "2026-07-11T13:01:28Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 2159
   },
   "last_run": {
-    "pipeline": "news",
-    "started_at": "2026-07-11T11:30:20Z",
-    "finished_at": "2026-07-11T11:39:01Z",
+    "pipeline": "shorts",
+    "started_at": "2026-07-11T13:00:27Z",
+    "finished_at": "2026-07-11T13:01:28Z",
     "status": "success",
-    "duration_seconds": 521.1,
-    "video_url": "https://www.youtube.com/watch?v=Y6dnmZBL8tI",
-    "video_title": "Five Little Monkeys Jumping Fun",
+    "duration_seconds": 61.1,
+    "video_url": "https://www.youtube.com/watch?v=hjNPXNRZKp4",
+    "video_title": "3 Heart Attacks #Shorts",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-07-11T13:00:00Z",
+  "next_run_at": "2026-07-12T06:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 190,
-    "runs_succeeded": 162,
-    "videos_published": 162
+    "runs_attempted": 191,
+    "runs_succeeded": 163,
+    "videos_published": 163
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -109,26 +109,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-07-10T13:00:18Z",
-        "finished_at": "2026-07-10T13:01:10Z",
+        "started_at": "2026-07-11T13:00:27Z",
+        "finished_at": "2026-07-11T13:01:28Z",
         "status": "success",
-        "duration_seconds": 52.4,
-        "video_url": "https://www.youtube.com/watch?v=NHaJlhii95Y",
+        "duration_seconds": 61.1,
+        "video_url": "https://www.youtube.com/watch?v=hjNPXNRZKp4",
         "video_title": "3 Heart Attacks #Shorts",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-07-11T13:00:00Z",
+      "next_run_at": "2026-07-12T13:00:00Z",
       "totals": {
-        "runs_attempted": 38,
-        "runs_succeeded": 35,
-        "videos_published": 35
+        "runs_attempted": 39,
+        "runs_succeeded": 36,
+        "videos_published": 36
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-07-11T11:39:01Z"
+    "checked_at": "2026-07-11T13:01:28Z"
   }
 }
