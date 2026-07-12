@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T15:43:43Z",
+  "updated_at": "2026-07-12T16:44:02Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1026.5251290199926,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-12T15:43:43Z",
+    "at": "2026-07-12T16:44:02Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Recent price stability near long-term EMA"
+    "rationale": "Current price is near the long-term EMA20 and EMA50, and RSI14 is 62.71, which is neutral."
   }
 }
