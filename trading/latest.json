@@ -1,49 +1,65 @@
 {
-  "updated_at": "2026-07-13T23:11:59Z",
+  "updated_at": "2026-07-13T23:16:50Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1007.997292962438,
-    "total_value_usd": 1007.997292962438,
-    "pnl_usd": 2179.37,
-    "pnl_pct": -186.05
+    "balance_usd": 1026.5251290199926,
+    "total_value_usd": 1026.5251290199926,
+    "pnl_usd": 22.35,
+    "pnl_pct": 2.23
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "MSFT",
+      "size": 0.268067767531632,
+      "entry": 373.916865,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.10032810423470061
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "NEAR",
-      "size": -7.92100121455352,
-      "entry": 1.8919535500000002,
+      "asset": "AMZN",
+      "size": 0.4271131422713877,
+      "entry": 234.247065,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.007157020647412275
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "JUP",
-      "size": -52.56995388181319,
-      "entry": 0.2090304325,
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.19821146263948983
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "ONDO",
-      "size": -48.05459001425619,
-      "entry": 0.3119689375,
+      "asset": "GOOG",
+      "size": 0.28145229383619474,
+      "entry": 355.44263249999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.16069154559579704
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AAPL",
+      "size": -0.15957616570389047,
+      "entry": 313.173335,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "TSLA",
+      "size": -0.12272046731953955,
+      "entry": 407.226285,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-13T23:11:59Z",
-    "asset": "BTC",
+    "at": "2026-07-13T23:16:50Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
