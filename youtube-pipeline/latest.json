@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T05:10:00Z",
+  "updated_at": "2026-07-13T08:39:44Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 2161
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-07-13T05:00:19Z",
-    "finished_at": "2026-07-13T05:10:00Z",
+    "pipeline": "news",
+    "started_at": "2026-07-13T08:30:07Z",
+    "finished_at": "2026-07-13T08:39:44Z",
     "status": "success",
-    "duration_seconds": 580.9,
-    "video_url": "https://www.youtube.com/watch?v=gCgXSO8VCX4",
-    "video_title": "AI #38: How Wrong Is Your AI?",
+    "duration_seconds": 576.6,
+    "video_url": "https://www.youtube.com/watch?v=gP3nQI8-xAs",
+    "video_title": "Ocean Friends Learn M to R",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-07-13T08:30:00Z",
+  "next_run_at": "2026-07-13T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 195,
-    "runs_succeeded": 167,
-    "videos_published": 167
+    "runs_attempted": 196,
+    "runs_succeeded": 168,
+    "videos_published": 168
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -71,20 +71,20 @@
     "news": {
       "last_run": {
         "pipeline": "news",
-        "started_at": "2026-07-12T11:30:07Z",
-        "finished_at": "2026-07-12T11:37:31Z",
+        "started_at": "2026-07-13T08:30:07Z",
+        "finished_at": "2026-07-13T08:39:44Z",
         "status": "success",
-        "duration_seconds": 444.7,
-        "video_url": "https://www.youtube.com/watch?v=v8S-U7l0Zcs",
-        "video_title": "Puppy Loses Bone in River",
+        "duration_seconds": 576.6,
+        "video_url": "https://www.youtube.com/watch?v=gP3nQI8-xAs",
+        "video_title": "Ocean Friends Learn M to R",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-07-13T08:30:00Z",
+      "next_run_at": "2026-07-14T08:30:00Z",
       "totals": {
-        "runs_attempted": 41,
-        "runs_succeeded": 38,
-        "videos_published": 38
+        "runs_attempted": 42,
+        "runs_succeeded": 39,
+        "videos_published": 39
       }
     },
     "teaching": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-07-13T05:10:00Z"
+    "checked_at": "2026-07-13T08:39:44Z"
   }
 }
