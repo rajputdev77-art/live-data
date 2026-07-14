@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-07-13T13:01:08Z",
+  "updated_at": "2026-07-14T05:09:55Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 4,
-    "video_count": 170,
-    "view_count": 2161
+    "video_count": 171,
+    "view_count": 2162
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-07-13T13:00:04Z",
-    "finished_at": "2026-07-13T13:01:08Z",
+    "pipeline": "teaching",
+    "started_at": "2026-07-14T05:00:06Z",
+    "finished_at": "2026-07-14T05:09:54Z",
     "status": "success",
-    "duration_seconds": 64.2,
-    "video_url": "https://www.youtube.com/watch?v=WpB0KyV3sHI",
-    "video_title": "3 Heart Attacks #Shorts",
+    "duration_seconds": 588.6,
+    "video_url": "https://www.youtube.com/watch?v=SEwHjKIHX2g",
+    "video_title": "AI #39: Can Machines Learn From Mistakes?",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-07-14T05:00:00Z",
+  "next_run_at": "2026-07-14T08:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 197,
-    "runs_succeeded": 169,
-    "videos_published": 169
+    "runs_attempted": 198,
+    "runs_succeeded": 170,
+    "videos_published": 170
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -90,20 +90,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-07-13T05:00:19Z",
-        "finished_at": "2026-07-13T05:10:00Z",
+        "started_at": "2026-07-14T05:00:06Z",
+        "finished_at": "2026-07-14T05:09:54Z",
         "status": "success",
-        "duration_seconds": 580.9,
-        "video_url": "https://www.youtube.com/watch?v=gCgXSO8VCX4",
-        "video_title": "AI #38: How Wrong Is Your AI?",
+        "duration_seconds": 588.6,
+        "video_url": "https://www.youtube.com/watch?v=SEwHjKIHX2g",
+        "video_title": "AI #39: Can Machines Learn From Mistakes?",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-07-14T05:00:00Z",
+      "next_run_at": "2026-07-15T05:00:00Z",
       "totals": {
-        "runs_attempted": 41,
-        "runs_succeeded": 38,
-        "videos_published": 38
+        "runs_attempted": 42,
+        "runs_succeeded": 39,
+        "videos_published": 39
       }
     },
     "shorts": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-07-13T13:01:08Z"
+    "checked_at": "2026-07-14T05:09:54Z"
   }
 }
