@@ -1,50 +1,66 @@
 {
-  "updated_at": "2026-07-14T03:12:19Z",
+  "updated_at": "2026-07-14T03:22:27Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1007.6809811809047,
-    "total_value_usd": 1007.6809811809047,
-    "pnl_usd": 2179.05,
-    "pnl_pct": -186.03
+    "balance_usd": 1026.5251290199926,
+    "total_value_usd": 1026.5251290199926,
+    "pnl_usd": 22.35,
+    "pnl_pct": 2.23
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "MSFT",
+      "size": 0.268067767531632,
+      "entry": 373.916865,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.04529902029531572
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "NEAR",
-      "size": -7.92100121455352,
-      "entry": 1.8919535500000002,
+      "asset": "AMZN",
+      "size": 0.4271131422713877,
+      "entry": 234.247065,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4732517030152595
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "JUP",
-      "size": -52.56995388181319,
-      "entry": 0.2090304325,
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.2988829243231621
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "ONDO",
-      "size": -48.05459001425619,
-      "entry": 0.3119689375,
+      "asset": "GOOG",
+      "size": 0.28145229383619474,
+      "entry": 355.44263249999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.2791461099809383
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AAPL",
+      "size": -0.15957616570389047,
+      "entry": 313.173335,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "TSLA",
+      "size": -0.12272046731953955,
+      "entry": 407.226285,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-14T03:12:19Z",
-    "asset": "BTC",
+    "at": "2026-07-14T03:22:27Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "The current price of BTC is 62433.5, and the intraday metrics show a bearish trend. The long-term metrics are also bearish, and the open interest is high. Given the current market conditions and risk management limits, it's best to hold the current position."
+    "rationale": "hold-all: empty response"
   }
 }
