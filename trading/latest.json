@@ -1,33 +1,65 @@
 {
-  "updated_at": "2026-07-14T23:18:48Z",
+  "updated_at": "2026-07-14T23:50:58Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1005.5415461175697,
-    "total_value_usd": 1005.5415461175697,
-    "pnl_usd": 2176.91,
-    "pnl_pct": -185.84
+    "balance_usd": 1026.5251290199926,
+    "total_value_usd": 1026.5251290199926,
+    "pnl_usd": 22.35,
+    "pnl_pct": 2.23
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "MSFT",
+      "size": 0.268067767531632,
+      "entry": 373.916865,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7833428165007104
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "JUP",
-      "size": -52.56995388181319,
-      "entry": 0.2090304325,
+      "asset": "AMZN",
+      "size": 0.4271131422713877,
+      "entry": 234.247065,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.1332420965853426
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "GOOG",
+      "size": 0.28145229383619474,
+      "entry": 355.44263249999995,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AAPL",
+      "size": -0.15957616570389047,
+      "entry": 313.173335,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "TSLA",
+      "size": -0.12272046731953955,
+      "entry": 407.226285,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-14T23:18:48Z",
-    "asset": "BTC",
+    "at": "2026-07-14T23:50:58Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
