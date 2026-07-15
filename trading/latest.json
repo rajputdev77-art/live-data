@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-15T13:08:12Z",
+  "updated_at": "2026-07-15T14:08:39Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1026.5251290199926,
-    "total_value_usd": 1026.5251290199926,
-    "pnl_usd": 22.35,
-    "pnl_pct": 2.23
+    "balance_usd": 1025.176221318847,
+    "total_value_usd": 1025.176221318847,
+    "pnl_usd": 21.0,
+    "pnl_pct": 2.09
   },
   "open_positions": [
     {
@@ -41,14 +41,6 @@
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "AAPL",
-      "size": -0.15957616570389047,
-      "entry": 313.173335,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
       "asset": "TSLA",
       "size": -0.12272046731953955,
       "entry": 407.226285,
@@ -58,9 +50,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-15T13:08:12Z",
+    "at": "2026-07-15T14:08:39Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "SPY is currently in an uptrend, with its price above the EMA20 and RSI14 indicating a strong bullish momentum."
   }
 }
