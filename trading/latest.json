@@ -1,34 +1,50 @@
 {
-  "updated_at": "2026-07-15T15:25:51Z",
+  "updated_at": "2026-07-15T16:10:49Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1005.6319954598863,
-    "total_value_usd": 1005.6319954598863,
-    "pnl_usd": 2177.0,
-    "pnl_pct": -185.85
+    "balance_usd": 1029.2734257939385,
+    "total_value_usd": 1029.2734257939385,
+    "pnl_usd": 25.1,
+    "pnl_pct": 2.5
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "MSFT",
+      "size": 0.268067767531632,
+      "entry": 373.916865,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.8143300676510452
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "JUP",
-      "size": -52.56995388181319,
-      "entry": 0.2090304325,
+      "asset": "AMZN",
+      "size": 0.4271131422713877,
+      "entry": 234.247065,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.011805503118353806
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "TSLA",
+      "size": -0.12272046731953955,
+      "entry": 407.226285,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-15T15:25:51Z",
-    "asset": "BTC",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "at": "2026-07-15T16:10:49Z",
+    "asset": "SPY",
+    "action": "buy",
+    "rationale": "SPY is below ema20, indicating a potential buy signal"
   }
 }
