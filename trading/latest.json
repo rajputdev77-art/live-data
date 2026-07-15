@@ -1,29 +1,13 @@
 {
-  "updated_at": "2026-07-15T16:10:49Z",
+  "updated_at": "2026-07-15T17:11:11Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1029.2734257939385,
-    "total_value_usd": 1029.2734257939385,
-    "pnl_usd": 25.1,
-    "pnl_pct": 2.5
+    "balance_usd": 1054.95306223169,
+    "total_value_usd": 1054.95306223169,
+    "pnl_usd": 50.78,
+    "pnl_pct": 5.06
   },
   "open_positions": [
-    {
-      "asset": "MSFT",
-      "size": 0.268067767531632,
-      "entry": 373.916865,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AMZN",
-      "size": 0.4271131422713877,
-      "entry": 234.247065,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
     {
       "asset": "SPY",
       "size": 0.13631035140808592,
@@ -33,18 +17,50 @@
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "TSLA",
-      "size": -0.12272046731953955,
-      "entry": 407.226285,
+      "asset": "QQQ",
+      "size": 0.1402406529604802,
+      "entry": 713.5065749999999,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "NVDA",
+      "size": 0.48242757556021904,
+      "entry": 207.5287125,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "GOOG",
+      "size": -0.2695926455126304,
+      "entry": 371.124345,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "META",
+      "size": -0.1461657080632313,
+      "entry": 683.8129225,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.25724134382878017,
+      "entry": 389.00440499999996,
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-15T16:10:49Z",
+    "at": "2026-07-15T17:11:11Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY is below ema20, indicating a potential buy signal"
+    "action": "hold",
+    "rationale": "The current price is above the EMA20, and the RSI14 is above 50, indicating a bullish trend. However, the MACD is below 0, suggesting a potential reversal. Therefore, holding the current position and trailing the stop-loss is the best course of action."
   }
 }
