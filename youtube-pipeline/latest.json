@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T05:09:14Z",
+  "updated_at": "2026-07-16T10:09:28Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -8,17 +8,17 @@
     "view_count": 2162
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-07-16T05:00:25Z",
-    "finished_at": "2026-07-16T05:09:14Z",
+    "pipeline": "news",
+    "started_at": "2026-07-16T10:00:06Z",
+    "finished_at": "2026-07-16T10:09:27Z",
     "status": "success",
-    "duration_seconds": 528.4,
-    "video_url": "https://www.youtube.com/watch?v=NRM4u-jhp3E",
-    "video_title": "AI #41: Deeper Networks Are Smarter Networks",
+    "duration_seconds": 561.4,
+    "video_url": "https://www.youtube.com/watch?v=tzqN6OqO_U0",
+    "video_title": "Counting Bees 11 to 20",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-07-16T10:00:00Z",
+  "next_run_at": "2026-07-16T13:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 204,
-    "runs_succeeded": 176,
-    "videos_published": 176
+    "runs_attempted": 205,
+    "runs_succeeded": 177,
+    "videos_published": 177
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -71,20 +71,20 @@
     "news": {
       "last_run": {
         "pipeline": "news",
-        "started_at": "2026-07-15T10:00:29Z",
-        "finished_at": "2026-07-15T10:07:00Z",
+        "started_at": "2026-07-16T10:00:06Z",
+        "finished_at": "2026-07-16T10:09:27Z",
         "status": "success",
-        "duration_seconds": 390.5,
-        "video_url": "https://www.youtube.com/watch?v=PrgNgExk7r0",
-        "video_title": "Little Cloud Makes Rain",
+        "duration_seconds": 561.4,
+        "video_url": "https://www.youtube.com/watch?v=tzqN6OqO_U0",
+        "video_title": "Counting Bees 11 to 20",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-07-16T10:00:00Z",
+      "next_run_at": "2026-07-17T10:00:00Z",
       "totals": {
-        "runs_attempted": 44,
-        "runs_succeeded": 41,
-        "videos_published": 41
+        "runs_attempted": 45,
+        "runs_succeeded": 42,
+        "videos_published": 42
       }
     },
     "teaching": {
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-07-16T05:09:14Z"
+    "checked_at": "2026-07-16T10:09:27Z"
   }
 }
