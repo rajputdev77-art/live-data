@@ -1,42 +1,66 @@
 {
-  "updated_at": "2026-07-16T23:37:11Z",
+  "updated_at": "2026-07-16T23:50:50Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1008.8385940819372,
-    "total_value_usd": 1008.8385940819372,
-    "pnl_usd": 2180.21,
-    "pnl_pct": -186.12
+    "balance_usd": 1054.95306223169,
+    "total_value_usd": 1054.95306223169,
+    "pnl_usd": 50.78,
+    "pnl_pct": 5.06
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.08719819151991193
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "JUP",
-      "size": -52.56995388181319,
-      "entry": 0.2090304325,
+      "asset": "QQQ",
+      "size": 0.1402406529604802,
+      "entry": 713.5065749999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.6340163803197207
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "HYPE",
-      "size": -0.3807261208576998,
-      "entry": 65.61067825,
+      "asset": "NVDA",
+      "size": 0.48242757556021904,
+      "entry": 207.5287125,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.8336448624817279
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "GOOG",
+      "size": -0.2695926455126304,
+      "entry": 371.124345,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "META",
+      "size": -0.1461657080632313,
+      "entry": 683.8129225,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.25724134382878017,
+      "entry": 389.00440499999996,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-16T23:37:11Z",
-    "asset": "BTC",
+    "at": "2026-07-16T23:50:50Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is below EMA20, and RSI14 is below 30, indicating a potential buy opportunity, but considering the overall market conditions and risk management limits, it's best to hold for now."
+    "rationale": "hold-all: empty response"
   }
 }
