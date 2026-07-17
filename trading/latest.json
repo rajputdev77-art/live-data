@@ -1,34 +1,42 @@
 {
-  "updated_at": "2026-07-17T23:25:08Z",
+  "updated_at": "2026-07-17T23:44:24Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1058.638973393399,
-    "total_value_usd": 1058.638973393399,
-    "pnl_usd": 54.46,
-    "pnl_pct": 5.42
+    "balance_usd": 1010.4650390359684,
+    "total_value_usd": 1010.4650390359684,
+    "pnl_usd": 2181.84,
+    "pnl_pct": -186.26
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.049799784959162735
     },
     {
-      "asset": "NVDA",
-      "size": 0.48242757556021904,
-      "entry": 207.5287125,
+      "asset": "HYPE",
+      "size": -0.3807261208576998,
+      "entry": 65.61067825,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 2.258535213358921
+    },
+    {
+      "asset": "ZRO",
+      "size": -13.753266400770183,
+      "entry": 0.7989503250000001,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.27204407921881507
     }
   ],
   "last_decision": {
-    "at": "2026-07-17T23:25:08Z",
-    "asset": "SPY",
+    "at": "2026-07-17T23:44:24Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "No open position, and current trends do not suggest a strong entry point."
   }
 }
