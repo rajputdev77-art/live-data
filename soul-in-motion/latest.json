@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-07-16T07:20:13Z",
+  "updated_at": "2026-07-17T12:22:42Z",
   "totals": {
-    "blogs": 114,
-    "videos": 33,
-    "reels": 43,
-    "shorts": 42,
+    "blogs": 117,
+    "videos": 34,
+    "reels": 44,
+    "shorts": 43,
     "platforms_active": 9
   },
   "streak_days": 7,
-  "last_publish_at": "2026-07-16T07:20:13Z",
+  "last_publish_at": "2026-07-17T12:22:42Z",
   "today": {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "entries_processed": 1,
     "published": [
       {
         "platform": "linkedin",
         "url": null,
-        "at": "2026-07-16T07:20:13Z",
-        "entry_ts": "12:33 PM"
+        "at": "2026-07-17T12:22:42Z",
+        "entry_ts": "5:37 PM"
       },
       {
         "platform": "wordpress",
         "url": null,
-        "at": "2026-07-16T07:20:13Z",
-        "entry_ts": "12:33 PM"
+        "at": "2026-07-17T12:22:42Z",
+        "entry_ts": "5:37 PM"
       },
       {
         "platform": "blogger",
         "url": null,
-        "at": "2026-07-16T07:20:13Z",
-        "entry_ts": "12:33 PM"
+        "at": "2026-07-17T12:22:42Z",
+        "entry_ts": "5:37 PM"
       },
       {
         "platform": "devto",
         "url": null,
-        "at": "2026-07-16T07:20:13Z",
-        "entry_ts": "12:33 PM"
+        "at": "2026-07-17T12:22:42Z",
+        "entry_ts": "5:37 PM"
       },
       {
         "platform": "instagram",
         "url": null,
-        "at": "2026-07-16T07:20:13Z",
-        "entry_ts": "12:33 PM"
+        "at": "2026-07-17T12:22:42Z",
+        "entry_ts": "5:37 PM"
       },
       {
         "platform": "youtube_short",
         "url": null,
-        "at": "2026-07-16T07:20:13Z",
-        "entry_ts": "12:33 PM"
+        "at": "2026-07-17T12:22:42Z",
+        "entry_ts": "5:37 PM"
       },
       {
         "platform": "youtube",
         "url": null,
-        "at": "2026-07-16T07:20:13Z",
-        "entry_ts": "12:33 PM"
+        "at": "2026-07-17T12:22:42Z",
+        "entry_ts": "5:37 PM"
       }
     ]
   },
@@ -67,5 +67,5 @@
     "source": "output/ folder counts + state/publish_tracker.json",
     "notes": "Counts represent content the engine has generated. Each blog typically reaches 4\u20135 platforms (Dev.to, Hashnode, WordPress, Blogger, Medium queue). Each reel is uploaded to Instagram + YouTube. publish_tracker.json began tracking partway through; older publishes are reflected only in counters, not history."
   },
-  "last_publish_at_date_cache": "2026-07-16"
+  "last_publish_at_date_cache": "2026-07-17"
 }
