@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-07-16T10:09:28Z",
+  "updated_at": "2026-07-17T05:09:30Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 4,
-    "video_count": 175,
-    "view_count": 2162
+    "video_count": 177,
+    "view_count": 2165
   },
   "last_run": {
-    "pipeline": "news",
-    "started_at": "2026-07-16T10:00:06Z",
-    "finished_at": "2026-07-16T10:09:27Z",
+    "pipeline": "teaching",
+    "started_at": "2026-07-17T05:00:23Z",
+    "finished_at": "2026-07-17T05:09:30Z",
     "status": "success",
-    "duration_seconds": 561.4,
-    "video_url": "https://www.youtube.com/watch?v=tzqN6OqO_U0",
-    "video_title": "Counting Bees 11 to 20",
+    "duration_seconds": 546.9,
+    "video_url": "https://www.youtube.com/watch?v=QZ7_ifbWKik",
+    "video_title": "AI #42: What Happens When AI Forgets Fast?",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-07-16T13:00:00Z",
+  "next_run_at": "2026-07-17T10:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 205,
-    "runs_succeeded": 177,
-    "videos_published": 177
+    "runs_attempted": 206,
+    "runs_succeeded": 178,
+    "videos_published": 178
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -90,20 +90,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-07-16T05:00:25Z",
-        "finished_at": "2026-07-16T05:09:14Z",
+        "started_at": "2026-07-17T05:00:23Z",
+        "finished_at": "2026-07-17T05:09:30Z",
         "status": "success",
-        "duration_seconds": 528.4,
-        "video_url": "https://www.youtube.com/watch?v=NRM4u-jhp3E",
-        "video_title": "AI #41: Deeper Networks Are Smarter Networks",
+        "duration_seconds": 546.9,
+        "video_url": "https://www.youtube.com/watch?v=QZ7_ifbWKik",
+        "video_title": "AI #42: What Happens When AI Forgets Fast?",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-07-17T05:00:00Z",
+      "next_run_at": "2026-07-18T06:00:00Z",
       "totals": {
-        "runs_attempted": 44,
-        "runs_succeeded": 41,
-        "videos_published": 41
+        "runs_attempted": 45,
+        "runs_succeeded": 42,
+        "videos_published": 42
       }
     },
     "shorts": {
@@ -118,7 +118,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-07-16T13:00:00Z",
+      "next_run_at": "2026-07-17T13:00:00Z",
       "totals": {
         "runs_attempted": 43,
         "runs_succeeded": 40,
@@ -129,6 +129,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-07-16T10:09:27Z"
+    "checked_at": "2026-07-17T05:09:30Z"
   }
 }
