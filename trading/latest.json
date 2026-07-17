@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T04:56:47Z",
+  "updated_at": "2026-07-17T05:58:33Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1054.95306223169,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-17T04:56:47Z",
+    "at": "2026-07-17T05:58:33Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY is above ema20 and rsi14 is above 50"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
