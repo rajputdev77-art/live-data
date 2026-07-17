@@ -1,65 +1,41 @@
 {
-  "updated_at": "2026-07-17T02:54:41Z",
+  "updated_at": "2026-07-17T03:38:57Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1054.95306223169,
-    "total_value_usd": 1054.95306223169,
-    "pnl_usd": 50.78,
-    "pnl_pct": 5.06
+    "balance_usd": 1009.0141903480949,
+    "total_value_usd": 1009.0141903480949,
+    "pnl_usd": 2180.39,
+    "pnl_pct": -186.14
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.13528185709801585
     },
     {
-      "asset": "QQQ",
-      "size": 0.1402406529604802,
-      "entry": 713.5065749999999,
+      "asset": "JUP",
+      "size": -52.56995388181319,
+      "entry": 0.2090304325,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.6802779397357174
     },
     {
-      "asset": "NVDA",
-      "size": 0.48242757556021904,
-      "entry": 207.5287125,
+      "asset": "HYPE",
+      "size": -0.3807261208576998,
+      "entry": 65.61067825,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "GOOG",
-      "size": -0.2695926455126304,
-      "entry": 371.124345,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "META",
-      "size": -0.1461657080632313,
-      "entry": 683.8129225,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.25724134382878017,
-      "entry": 389.00440499999996,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 2.0110632348014166
     }
   ],
   "last_decision": {
-    "at": "2026-07-17T02:54:41Z",
-    "asset": "SPY",
+    "at": "2026-07-17T03:38:57Z",
+    "asset": "BTC",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
