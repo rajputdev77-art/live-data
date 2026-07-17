@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-07-17T10:06:27Z",
+  "updated_at": "2026-07-17T13:01:26Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 4,
-    "video_count": 177,
+    "video_count": 178,
     "view_count": 2165
   },
   "last_run": {
-    "pipeline": "news",
-    "started_at": "2026-07-17T10:00:23Z",
-    "finished_at": "2026-07-17T10:06:26Z",
+    "pipeline": "shorts",
+    "started_at": "2026-07-17T13:00:23Z",
+    "finished_at": "2026-07-17T13:01:26Z",
     "status": "success",
-    "duration_seconds": 363.2,
-    "video_url": "https://www.youtube.com/watch?v=gxe1NL3FAPU",
-    "video_title": "Old MacDonald's Happy Farm",
+    "duration_seconds": 62.9,
+    "video_url": "https://www.youtube.com/watch?v=bapfMC2IIWM",
+    "video_title": "3 Heart Attacks #Shorts",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-07-17T13:00:00Z",
+  "next_run_at": "2026-07-18T06:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 207,
-    "runs_succeeded": 179,
-    "videos_published": 179
+    "runs_attempted": 208,
+    "runs_succeeded": 180,
+    "videos_published": 180
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -109,26 +109,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-07-15T13:00:15Z",
-        "finished_at": "2026-07-15T13:01:12Z",
+        "started_at": "2026-07-17T13:00:23Z",
+        "finished_at": "2026-07-17T13:01:26Z",
         "status": "success",
-        "duration_seconds": 57.7,
-        "video_url": "https://www.youtube.com/watch?v=GSERkHKEn9w",
+        "duration_seconds": 62.9,
+        "video_url": "https://www.youtube.com/watch?v=bapfMC2IIWM",
         "video_title": "3 Heart Attacks #Shorts",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-07-17T13:00:00Z",
+      "next_run_at": "2026-07-18T13:00:00Z",
       "totals": {
-        "runs_attempted": 43,
-        "runs_succeeded": 40,
-        "videos_published": 40
+        "runs_attempted": 44,
+        "runs_succeeded": 41,
+        "videos_published": 41
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-07-17T10:06:26Z"
+    "checked_at": "2026-07-17T13:01:26Z"
   }
 }
