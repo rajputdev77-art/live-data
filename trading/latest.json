@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-17T12:09:16Z",
+  "updated_at": "2026-07-17T13:11:03Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1052.8904342620942,
-    "total_value_usd": 1052.8904342620942,
-    "pnl_usd": 48.72,
-    "pnl_pct": 4.85
+    "balance_usd": 1058.638973393399,
+    "total_value_usd": 1058.638973393399,
+    "pnl_usd": 54.46,
+    "pnl_pct": 5.42
   },
   "open_positions": [
     {
@@ -23,34 +23,10 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "GOOG",
-      "size": -0.2695926455126304,
-      "entry": 371.124345,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "META",
-      "size": -0.1461657080632313,
-      "entry": 683.8129225,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.25724134382878017,
-      "entry": 389.00440499999996,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-17T12:09:16Z",
+    "at": "2026-07-17T13:11:03Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
