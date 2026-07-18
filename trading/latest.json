@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T02:28:59Z",
+  "updated_at": "2026-07-18T03:30:44Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1058.638973393399,
@@ -26,9 +26,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-18T02:28:59Z",
+    "at": "2026-07-18T03:30:44Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the EMA20, and the MACD is negative, indicating a potential downtrend."
+    "rationale": "hold-all: empty response"
   }
 }
