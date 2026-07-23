@@ -1,34 +1,42 @@
 {
-  "updated_at": "2026-07-23T17:41:07Z",
+  "updated_at": "2026-07-23T18:11:19Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1058.638973393399,
-    "total_value_usd": 1058.638973393399,
+    "balance_usd": 1010.5506854319061,
+    "total_value_usd": 1010.5506854319061,
     "pnl_usd": 0.0,
     "pnl_pct": 0.0
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.22931213645075732
     },
     {
-      "asset": "NVDA",
-      "size": 0.48242757556021904,
-      "entry": 207.5287125,
+      "asset": "HYPE",
+      "size": -0.3807261208576998,
+      "entry": 65.61067825,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 2.7530984443530726
+    },
+    {
+      "asset": "ZRO",
+      "size": -13.753266400770183,
+      "entry": 0.7989503250000001,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.04263959565396955
     }
   ],
   "last_decision": {
-    "at": "2026-07-23T17:41:07Z",
-    "asset": "SPY",
+    "at": "2026-07-23T18:11:19Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "SPY is currently above its EMA20, indicating a potential buy signal, but given the recent MACD crossover and RSI below 50, it's prudent to hold the current position and adjust the stop-loss."
+    "rationale": "No clear trend or edge identified."
   }
 }
