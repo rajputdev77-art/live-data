@@ -1,42 +1,50 @@
 {
-  "updated_at": "2026-07-23T22:11:38Z",
+  "updated_at": "2026-07-23T22:13:20Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1010.9386350307068,
-    "total_value_usd": 1010.9386350307068,
-    "pnl_usd": 0.39,
-    "pnl_pct": 0.04
+    "balance_usd": 1058.638973393399,
+    "total_value_usd": 1058.638973393399,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.3059788699002945
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "HYPE",
-      "size": -0.3807261208576998,
-      "entry": 65.61067825,
+      "asset": "NVDA",
+      "size": 0.48242757556021904,
+      "entry": 207.5287125,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.177417706048979
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "ZRO",
-      "size": -13.753266400770183,
-      "entry": 0.7989503250000001,
+      "asset": "GOOG",
+      "size": -0.3139027529271432,
+      "entry": 318.41071500000004,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.08293666620822603
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "TSLA",
+      "size": 0.30953044231900206,
+      "entry": 323.23153499999995,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-23T22:11:38Z",
-    "asset": "BTC",
+    "at": "2026-07-23T22:13:20Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the EMA20, and RSI14 is within a neutral range, suggesting no strong trend."
+    "rationale": "Current price is above the intraday EMA20, and the long-term EMA20 is higher than the current price, indicating a potential buy signal, but the recent trading history and risk limits suggest holding the current position."
   }
 }
