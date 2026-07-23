@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-18T07:46:27Z",
+  "updated_at": "2026-07-23T17:40:28Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1010.1325844608592,
-    "total_value_usd": 1010.1325844608592,
-    "pnl_usd": 2181.5,
-    "pnl_pct": -186.24
+    "balance_usd": 1010.3848591587473,
+    "total_value_usd": 1010.3848591587473,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.04338862954874837
+      "unrealized_pnl": -0.2998348459653115
     },
     {
       "asset": "HYPE",
@@ -22,7 +22,7 @@
       "entry": 65.61067825,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.4275776110197405
+      "unrealized_pnl": 2.764520227978804
     },
     {
       "asset": "ZRO",
@@ -30,13 +30,13 @@
       "entry": 0.7989503250000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.23586404896162805
+      "unrealized_pnl": -0.06408575161600845
     }
   ],
   "last_decision": {
-    "at": "2026-07-18T07:46:27Z",
+    "at": "2026-07-23T17:40:28Z",
     "asset": "BTC",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "Current price is near the ema20, and the macd is slightly negative, indicating a potential downtrend."
   }
 }
