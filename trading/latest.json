@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T23:13:39Z",
+  "updated_at": "2026-07-24T00:13:58Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1058.638973393399,
@@ -42,9 +42,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-23T23:13:39Z",
+    "at": "2026-07-24T00:13:58Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is above ema20, but rsi14 is above 60, and macd is below zero."
+    "rationale": "Current price is above the entry price, and the RSI14 is above 60, indicating a potential overbought condition."
   }
 }
