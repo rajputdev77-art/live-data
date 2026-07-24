@@ -1,58 +1,50 @@
 {
-  "updated_at": "2026-07-24T22:20:58Z",
+  "updated_at": "2026-07-24T22:41:09Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1010.4713921671932,
-    "total_value_usd": 1010.4713921671932,
-    "pnl_usd": -0.08,
-    "pnl_pct": -0.01
+    "balance_usd": 1063.8293237818598,
+    "total_value_usd": 1063.8293237818598,
+    "pnl_usd": 5.19,
+    "pnl_pct": 0.49
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.2766348780210918
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "HYPE",
-      "size": -0.3807261208576998,
-      "entry": 65.61067825,
+      "asset": "NVDA",
+      "size": 0.48242757556021904,
+      "entry": 207.5287125,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.3584529765168165
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "ZRO",
-      "size": -13.753266400770183,
-      "entry": 0.7989503250000001,
+      "asset": "GOOG",
+      "size": -0.3139027529271432,
+      "entry": 318.41071500000004,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7047129005638829
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "kBONK",
-      "size": 3716.2162162162163,
-      "entry": 0.00296148,
+      "asset": "MSFT",
+      "size": 0.2600306836206672,
+      "entry": 384.8073075,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.17272972972972894
-    },
-    {
-      "asset": "kPEPE",
-      "size": 3955.4117224020138,
-      "entry": 0.0027823904999999998,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.2705125854009347
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-24T22:20:58Z",
-    "asset": "BTC",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "at": "2026-07-24T22:41:09Z",
+    "asset": "SPY",
+    "action": "buy",
+    "rationale": "Buy signal from ema20 and macd"
   }
 }
