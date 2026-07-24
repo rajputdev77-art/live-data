@@ -1,57 +1,49 @@
 {
-  "updated_at": "2026-07-24T10:15:42Z",
+  "updated_at": "2026-07-24T10:26:50Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1009.908794258674,
-    "total_value_usd": 1009.908794258674,
-    "pnl_usd": -0.64,
-    "pnl_pct": -0.06
+    "balance_usd": 1058.638973393399,
+    "total_value_usd": 1058.638973393399,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.16172787316597512
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "HYPE",
-      "size": -0.3807261208576998,
-      "entry": 65.61067825,
+      "asset": "NVDA",
+      "size": 0.48242757556021904,
+      "entry": 207.5287125,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.7211174502010245
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "ZRO",
-      "size": -13.753266400770183,
-      "entry": 0.7989503250000001,
+      "asset": "GOOG",
+      "size": -0.3139027529271432,
+      "entry": 318.41071500000004,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4586669646541049
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "kBONK",
-      "size": 3716.2162162162163,
-      "entry": 0.00296148,
+      "asset": "TSLA",
+      "size": 0.30953044231900206,
+      "entry": 323.23153499999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.1430000000000001
-    },
-    {
-      "asset": "kPEPE",
-      "size": 3955.4117224020138,
-      "entry": 0.0027823904999999998,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.033187882056813243
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-24T10:15:42Z",
-    "asset": "BTC",
+    "at": "2026-07-24T10:26:50Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
