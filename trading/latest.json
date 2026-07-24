@@ -1,42 +1,50 @@
 {
-  "updated_at": "2026-07-24T02:12:10Z",
+  "updated_at": "2026-07-24T02:14:35Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1010.5199969509976,
-    "total_value_usd": 1010.5199969509976,
-    "pnl_usd": -0.03,
-    "pnl_pct": -0.0
+    "balance_usd": 1058.638973393399,
+    "total_value_usd": 1058.638973393399,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.2691147262904119
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "HYPE",
-      "size": -0.3807261208576998,
-      "entry": 65.61067825,
+      "asset": "NVDA",
+      "size": 0.48242757556021904,
+      "entry": 207.5287125,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.889017669499271
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "ZRO",
-      "size": -13.753266400770183,
-      "entry": 0.7989503250000001,
+      "asset": "GOOG",
+      "size": -0.3139027529271432,
+      "entry": 318.41071500000004,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.08416552056113162
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "TSLA",
+      "size": 0.30953044231900206,
+      "entry": 323.23153499999995,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-24T02:12:10Z",
-    "asset": "BTC",
+    "at": "2026-07-24T02:14:35Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "No existing position and current market conditions do not favor a new entry."
+    "rationale": "overbought condition"
   }
 }
