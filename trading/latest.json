@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T10:57:33Z",
+  "updated_at": "2026-07-25T11:57:52Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1063.8293237818598,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-25T10:57:33Z",
+    "at": "2026-07-25T11:57:52Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "Current price is above entry price, and RSI14 is below 50."
   }
 }
