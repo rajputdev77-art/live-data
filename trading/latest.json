@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T11:24:03Z",
+  "updated_at": "2026-07-26T12:25:49Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1063.8293237818598,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-26T11:24:03Z",
+    "at": "2026-07-26T12:25:49Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "Buy signal based on long-term ema20 and ema50"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
