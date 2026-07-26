@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T09:21:59Z",
+  "updated_at": "2026-07-26T10:23:44Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1063.8293237818598,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-26T09:21:59Z",
+    "at": "2026-07-26T10:23:44Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is below EMA20, but RSI14 is not oversold."
+    "rationale": "hold-all: empty response"
   }
 }
