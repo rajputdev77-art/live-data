@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T19:59:26Z",
+  "updated_at": "2026-07-27T21:01:12Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1064.920812538158,
@@ -31,12 +31,28 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "NVDA",
+      "size": -0.2543752543752544,
+      "entry": 196.54167999999999,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "META",
+      "size": -0.08421832759245067,
+      "entry": 593.4481275,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-27T19:59:26Z",
+    "at": "2026-07-27T21:01:12Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is above the intraday ema20, and the MACD is positive, indicating a potential continuation of the uptrend."
+    "rationale": "hold-all: empty response"
   }
 }
