@@ -1,58 +1,58 @@
 {
-  "updated_at": "2026-07-27T22:01:32Z",
+  "updated_at": "2026-07-27T22:52:30Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1064.920812538158,
-    "total_value_usd": 1064.920812538158,
-    "pnl_usd": 6.28,
-    "pnl_pct": 0.59
+    "balance_usd": 1010.2922233122605,
+    "total_value_usd": 1010.2922233122605,
+    "pnl_usd": -0.26,
+    "pnl_pct": -0.03
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.09471834325058805
     },
     {
-      "asset": "GOOG",
-      "size": -0.3139027529271432,
-      "entry": 318.41071500000004,
+      "asset": "HYPE",
+      "size": -0.3807261208576998,
+      "entry": 65.61067825,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 3.581939209460285
     },
     {
-      "asset": "AAPL",
-      "size": 0.29986805805445604,
-      "entry": 333.64674,
+      "asset": "ZRO",
+      "size": -13.753266400770183,
+      "entry": 0.7989503250000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -1.4524779947737583
     },
     {
-      "asset": "NVDA",
-      "size": -0.2543752543752544,
-      "entry": 196.54167999999999,
+      "asset": "kBONK",
+      "size": 3716.2162162162163,
+      "entry": 0.00296148,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.18759459459459416
     },
     {
-      "asset": "META",
-      "size": -0.08421832759245067,
-      "entry": 593.4481275,
+      "asset": "kPEPE",
+      "size": 3955.4117224020138,
+      "entry": 0.0027823904999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.27137882056814105
     }
   ],
   "last_decision": {
-    "at": "2026-07-27T22:01:32Z",
-    "asset": "SPY",
+    "at": "2026-07-27T22:52:30Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "Current price is above ema20 but macd is below signal line"
+    "rationale": "hold-all: empty response"
   }
 }
