@@ -1,50 +1,58 @@
 {
-  "updated_at": "2026-07-28T14:21:52Z",
+  "updated_at": "2026-07-28T14:59:33Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1067.5199030882065,
-    "total_value_usd": 1067.5199030882065,
-    "pnl_usd": 8.88,
-    "pnl_pct": 0.84
+    "balance_usd": 1011.6359375930718,
+    "total_value_usd": 1011.6359375930718,
+    "pnl_usd": 1.09,
+    "pnl_pct": 0.11
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.3805490219648862
     },
     {
-      "asset": "MSFT",
-      "size": -0.2569703199280483,
-      "entry": 388.955425,
+      "asset": "HYPE",
+      "size": -0.3807261208576998,
+      "entry": 65.61067825,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 4.048138344450538
     },
     {
-      "asset": "GOOG",
-      "size": 0.30635377734207464,
-      "entry": 326.58321,
+      "asset": "ZRO",
+      "size": -13.753266400770183,
+      "entry": 0.7989503250000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.6685418099298571
     },
     {
-      "asset": "TSLA",
-      "size": -0.3233525189161224,
-      "entry": 309.10537,
+      "asset": "kBONK",
+      "size": 3716.2162162162163,
+      "entry": 0.00296148,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.1504324324324319
+    },
+    {
+      "asset": "kPEPE",
+      "size": 3955.4117224020138,
+      "entry": 0.0027823904999999998,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0419649406688247
     }
   ],
   "last_decision": {
-    "at": "2026-07-28T14:21:52Z",
-    "asset": "SPY",
+    "at": "2026-07-28T14:59:33Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "The asset is currently in a neutral trend, and the recent price movements do not indicate a strong buy or sell signal."
+    "rationale": "hold-all: empty response"
   }
 }
