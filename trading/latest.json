@@ -1,25 +1,17 @@
 {
-  "updated_at": "2026-07-28T20:29:53Z",
+  "updated_at": "2026-07-28T21:31:41Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1069.8211815155482,
-    "total_value_usd": 1069.8211815155482,
-    "pnl_usd": 11.18,
-    "pnl_pct": 1.06
+    "balance_usd": 1073.6945011650796,
+    "total_value_usd": 1073.6945011650796,
+    "pnl_usd": 15.06,
+    "pnl_pct": 1.42
   },
   "open_positions": [
     {
       "asset": "SPY",
       "size": 0.13631035140808592,
       "entry": 733.98681,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "GOOG",
-      "size": 0.30635377734207464,
-      "entry": 326.58321,
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
@@ -58,9 +50,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-28T20:29:53Z",
+    "at": "2026-07-28T21:31:41Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY is above ema20 and rsi14 is below 50"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
