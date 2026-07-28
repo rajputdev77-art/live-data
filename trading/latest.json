@@ -1,57 +1,49 @@
 {
-  "updated_at": "2026-07-28T02:54:16Z",
+  "updated_at": "2026-07-28T03:07:30Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1011.4044782594269,
-    "total_value_usd": 1011.4044782594269,
-    "pnl_usd": 0.85,
-    "pnl_pct": 0.08
+    "balance_usd": 1064.4559586598896,
+    "total_value_usd": 1064.4559586598896,
+    "pnl_usd": 5.82,
+    "pnl_pct": 0.55
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.42569424131321815
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "HYPE",
-      "size": -0.3807261208576998,
-      "entry": 65.61067825,
+      "asset": "AAPL",
+      "size": 0.29986805805445604,
+      "entry": 333.64674,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.785246957998296
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "ZRO",
-      "size": -13.753266400770183,
-      "entry": 0.7989503250000001,
+      "asset": "NVDA",
+      "size": -0.2543752543752544,
+      "entry": 196.54167999999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7996104387291975
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "kBONK",
-      "size": 3716.2162162162163,
-      "entry": 0.00296148,
+      "asset": "META",
+      "size": -0.08421832759245067,
+      "entry": 593.4481275,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.06867567567567558
-    },
-    {
-      "asset": "kPEPE",
-      "size": 3955.4117224020138,
-      "entry": 0.0027823904999999998,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.07756364617044241
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-28T02:54:16Z",
-    "asset": "BTC",
+    "at": "2026-07-28T03:07:30Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
