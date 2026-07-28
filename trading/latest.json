@@ -1,50 +1,58 @@
 {
-  "updated_at": "2026-07-28T06:11:23Z",
+  "updated_at": "2026-07-28T06:56:02Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1064.4559586598896,
-    "total_value_usd": 1064.4559586598896,
-    "pnl_usd": 5.82,
-    "pnl_pct": 0.55
+    "balance_usd": 1011.3598734596111,
+    "total_value_usd": 1011.3598734596111,
+    "pnl_usd": 0.81,
+    "pnl_pct": 0.08
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.37654204983337725
     },
     {
-      "asset": "AAPL",
-      "size": 0.29986805805445604,
-      "entry": 333.64674,
+      "asset": "HYPE",
+      "size": -0.3807261208576998,
+      "entry": 65.61067825,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 3.829030461896932
     },
     {
-      "asset": "NVDA",
-      "size": -0.2543752543752544,
-      "entry": 196.54167999999999,
+      "asset": "ZRO",
+      "size": -13.753266400770183,
+      "entry": 0.7989503250000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -1.0761886260486853
     },
     {
-      "asset": "META",
-      "size": -0.08421832759245067,
-      "entry": 593.4481275,
+      "asset": "kBONK",
+      "size": 3716.2162162162163,
+      "entry": 0.00296148,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.05395945945945972
+    },
+    {
+      "asset": "kPEPE",
+      "size": 3955.4117224020138,
+      "entry": 0.0027823904999999998,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.1922705861201023
     }
   ],
   "last_decision": {
-    "at": "2026-07-28T06:11:23Z",
-    "asset": "SPY",
+    "at": "2026-07-28T06:56:02Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "SPY is currently above its EMA20 and has a positive MACD, indicating a potential upward trend. However, the RSI14 is above 50, indicating a potential overbought condition. Therefore, holding the current position is the best course of action."
+    "rationale": "hold-all: empty response"
   }
 }
