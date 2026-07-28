@@ -1,25 +1,17 @@
 {
-  "updated_at": "2026-07-28T13:20:56Z",
+  "updated_at": "2026-07-28T14:21:52Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1069.5699030882065,
-    "total_value_usd": 1069.5699030882065,
-    "pnl_usd": 10.93,
-    "pnl_pct": 1.03
+    "balance_usd": 1067.5199030882065,
+    "total_value_usd": 1067.5199030882065,
+    "pnl_usd": 8.88,
+    "pnl_pct": 0.84
   },
   "open_positions": [
     {
       "asset": "SPY",
       "size": 0.13631035140808592,
       "entry": 733.98681,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.14661681694890405,
-      "entry": 682.3910249999999,
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
@@ -50,9 +42,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-28T13:20:56Z",
+    "at": "2026-07-28T14:21:52Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "The asset is currently in a neutral trend, and the recent price movements do not indicate a strong buy or sell signal."
   }
 }
