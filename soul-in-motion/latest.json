@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-07-28T12:09:44Z",
+  "updated_at": "2026-07-29T16:59:47Z",
   "totals": {
-    "blogs": 129,
+    "blogs": 132,
     "videos": 35,
-    "reels": 48,
-    "shorts": 47,
+    "reels": 49,
+    "shorts": 48,
     "platforms_active": 9
   },
   "streak_days": 7,
-  "last_publish_at": "2026-07-28T12:09:44Z",
+  "last_publish_at": "2026-07-29T16:59:47Z",
   "today": {
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "entries_processed": 1,
     "published": [
       {
         "platform": "linkedin",
         "url": null,
-        "at": "2026-07-28T12:09:44Z",
-        "entry_ts": "5:29 PM"
+        "at": "2026-07-29T16:59:47Z",
+        "entry_ts": "10:13 PM"
       },
       {
         "platform": "wordpress",
         "url": null,
-        "at": "2026-07-28T12:09:44Z",
-        "entry_ts": "5:29 PM"
+        "at": "2026-07-29T16:59:47Z",
+        "entry_ts": "10:13 PM"
       },
       {
         "platform": "blogger",
         "url": null,
-        "at": "2026-07-28T12:09:44Z",
-        "entry_ts": "5:29 PM"
+        "at": "2026-07-29T16:59:47Z",
+        "entry_ts": "10:13 PM"
       },
       {
         "platform": "devto",
         "url": null,
-        "at": "2026-07-28T12:09:44Z",
-        "entry_ts": "5:29 PM"
+        "at": "2026-07-29T16:59:47Z",
+        "entry_ts": "10:13 PM"
       },
       {
         "platform": "instagram",
         "url": null,
-        "at": "2026-07-28T12:09:44Z",
-        "entry_ts": "5:29 PM"
+        "at": "2026-07-29T16:59:47Z",
+        "entry_ts": "10:13 PM"
       },
       {
         "platform": "youtube_short",
         "url": null,
-        "at": "2026-07-28T12:09:44Z",
-        "entry_ts": "5:29 PM"
+        "at": "2026-07-29T16:59:47Z",
+        "entry_ts": "10:13 PM"
       }
     ]
   },
@@ -61,5 +61,5 @@
     "source": "output/ folder counts + state/publish_tracker.json",
     "notes": "Counts represent content the engine has generated. Each blog typically reaches 4\u20135 platforms (Dev.to, Hashnode, WordPress, Blogger, Medium queue). Each reel is uploaded to Instagram + YouTube. publish_tracker.json began tracking partway through; older publishes are reflected only in counters, not history."
   },
-  "last_publish_at_date_cache": "2026-07-28"
+  "last_publish_at_date_cache": "2026-07-29"
 }
