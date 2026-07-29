@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-29T03:38:01Z",
+  "updated_at": "2026-07-29T04:39:47Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1088.6998000150622,
-    "total_value_usd": 1088.6998000150622,
-    "pnl_usd": 30.06,
-    "pnl_pct": 2.84
+    "balance_usd": 1101.4126129383576,
+    "total_value_usd": 1101.4126129383576,
+    "pnl_usd": 42.77,
+    "pnl_pct": 4.04
   },
   "open_positions": [
     {
@@ -15,52 +15,12 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "MSFT",
-      "size": 0.2539489054802174,
-      "entry": 393.97688999999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AMZN",
-      "size": 0.2166941145878478,
-      "entry": 230.85537,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "GOOG",
-      "size": 0.15034202811395928,
-      "entry": 332.7412875,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "TSLA",
-      "size": -0.16296730875786317,
-      "entry": 306.65659500000004,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.13173842019286505,
-      "entry": 379.72977,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-29T03:38:01Z",
+    "at": "2026-07-29T04:39:47Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is above ema20 but macd is negative, so hold the position."
+    "rationale": "hold-all: empty response"
   }
 }
