@@ -1,58 +1,26 @@
 {
-  "updated_at": "2026-07-29T07:06:35Z",
+  "updated_at": "2026-07-29T07:43:38Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1012.0410569720829,
-    "total_value_usd": 1012.0410569720829,
-    "pnl_usd": 1.49,
-    "pnl_pct": 0.15
+    "balance_usd": 1101.4126129383576,
+    "total_value_usd": 1101.4126129383576,
+    "pnl_usd": 42.77,
+    "pnl_pct": 4.04
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.22347571440973812
-    },
-    {
-      "asset": "HYPE",
-      "size": -0.3807261208576998,
-      "entry": 65.61067825,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 3.9310650622867964
-    },
-    {
-      "asset": "ZRO",
-      "size": -13.753266400770183,
-      "entry": 0.7989503250000001,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.052541947462523296
-    },
-    {
-      "asset": "kBONK",
-      "size": 3716.2162162162163,
-      "entry": 0.00296148,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.05381081081081034
-    },
-    {
-      "asset": "kPEPE",
-      "size": 3955.4117224020138,
-      "entry": 0.0027823904999999998,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -0.09647446961524528
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-29T07:06:35Z",
-    "asset": "BTC",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "at": "2026-07-29T07:43:38Z",
+    "asset": "SPY",
+    "action": "buy",
+    "rationale": "SPY's current price is below ema20, indicating a buy opportunity"
   }
 }
