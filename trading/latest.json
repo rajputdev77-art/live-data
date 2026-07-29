@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-29T19:59:26Z",
+  "updated_at": "2026-07-29T20:59:45Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1101.4126129383576,
-    "total_value_usd": 1101.4126129383576,
-    "pnl_usd": 42.77,
-    "pnl_pct": 4.04
+    "balance_usd": 1094.7840455135618,
+    "total_value_usd": 1094.7840455135618,
+    "pnl_usd": 36.15,
+    "pnl_pct": 3.41
   },
   "open_positions": [
     {
@@ -65,14 +65,6 @@
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "META",
-      "size": 0.169857150136735,
-      "entry": 589.024365,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
       "asset": "TSLA",
       "size": 0.3298533801725133,
       "entry": 303.25155,
@@ -90,9 +82,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-29T19:59:26Z",
+    "at": "2026-07-29T20:59:45Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "action": "buy",
+    "rationale": "Current price is below ema20, indicating a buy opportunity."
   }
 }
