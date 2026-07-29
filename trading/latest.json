@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-29T01:35:55Z",
+  "updated_at": "2026-07-29T02:37:42Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1083.1057958685653,
-    "total_value_usd": 1083.1057958685653,
-    "pnl_usd": 24.47,
-    "pnl_pct": 2.31
+    "balance_usd": 1088.6998000150622,
+    "total_value_usd": 1088.6998000150622,
+    "pnl_usd": 30.06,
+    "pnl_pct": 2.84
   },
   "open_positions": [
     {
@@ -17,42 +17,50 @@
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "QQQ",
-      "size": -0.07482341673650185,
-      "entry": 669.0353150000001,
+      "asset": "MSFT",
+      "size": 0.2539489054802174,
+      "entry": 393.97688999999997,
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "AAPL",
-      "size": 0.14813936951884332,
-      "entry": 337.898865,
+      "asset": "AMZN",
+      "size": 0.2166941145878478,
+      "entry": 230.85537,
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "META",
-      "size": -0.08411277841329654,
-      "entry": 593.9728650000001,
+      "asset": "GOOG",
+      "size": 0.15034202811395928,
+      "entry": 332.7412875,
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "NVDA",
-      "size": 0.5062009617818274,
-      "entry": 197.648775,
+      "asset": "TSLA",
+      "size": -0.16296730875786317,
+      "entry": 306.65659500000004,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.13173842019286505,
+      "entry": 379.72977,
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-29T01:35:55Z",
+    "at": "2026-07-29T02:37:42Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "Current price is below ema20"
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
