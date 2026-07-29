@@ -1,34 +1,58 @@
 {
-  "updated_at": "2026-07-29T14:50:52Z",
+  "updated_at": "2026-07-29T15:10:06Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1101.4126129383576,
-    "total_value_usd": 1101.4126129383576,
-    "pnl_usd": 42.77,
-    "pnl_pct": 4.04
+    "balance_usd": 1012.215612652899,
+    "total_value_usd": 1012.215612652899,
+    "pnl_usd": 1.66,
+    "pnl_pct": 0.16
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.38428886262096
     },
     {
-      "asset": "MSFT",
-      "size": -0.2539489054802174,
-      "entry": 393.58311,
+      "asset": "HYPE",
+      "size": -0.3807261208576998,
+      "entry": 65.61067825,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 3.9870318020528774
+    },
+    {
+      "asset": "ZRO",
+      "size": -13.753266400770183,
+      "entry": 0.7989503250000001,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.2716314812267923
+    },
+    {
+      "asset": "kBONK",
+      "size": 3716.2162162162163,
+      "entry": 0.00296148,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.17272972972972894
+    },
+    {
+      "asset": "kPEPE",
+      "size": 3955.4117224020138,
+      "entry": 0.0027823904999999998,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.2388692916217178
     }
   ],
   "last_decision": {
-    "at": "2026-07-29T14:50:52Z",
-    "asset": "SPY",
-    "action": "buy",
-    "rationale": "Current price is below ema20"
+    "at": "2026-07-29T15:10:06Z",
+    "asset": "BTC",
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
