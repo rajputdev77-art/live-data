@@ -1,25 +1,17 @@
 {
-  "updated_at": "2026-07-30T12:19:01Z",
+  "updated_at": "2026-07-30T13:19:20Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1094.7840455135618,
-    "total_value_usd": 1094.7840455135618,
-    "pnl_usd": 36.15,
-    "pnl_pct": 3.41
+    "balance_usd": 1090.6149942666725,
+    "total_value_usd": 1090.6149942666725,
+    "pnl_usd": 31.98,
+    "pnl_pct": 3.02
   },
   "open_positions": [
     {
       "asset": "SPY",
       "size": 0.13631035140808592,
       "entry": 733.98681,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "MSFT",
-      "size": -0.2539489054802174,
-      "entry": 393.58311,
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
@@ -82,9 +74,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-30T12:19:01Z",
+    "at": "2026-07-30T13:19:20Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "SPY is currently above its EMA20, indicating a potential buy signal, but given the recent stability and our existing position, holding is the best course of action."
   }
 }
