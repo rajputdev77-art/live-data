@@ -1,57 +1,89 @@
 {
-  "updated_at": "2026-07-30T03:15:21Z",
+  "updated_at": "2026-07-30T04:09:13Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1013.0942222909229,
-    "total_value_usd": 1013.0942222909229,
-    "pnl_usd": 2.54,
-    "pnl_pct": 0.25
+    "balance_usd": 1094.7840455135618,
+    "total_value_usd": 1094.7840455135618,
+    "pnl_usd": 36.15,
+    "pnl_pct": 3.41
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.2966697386786329
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "HYPE",
-      "size": -0.3807261208576998,
-      "entry": 65.61067825,
+      "asset": "MSFT",
+      "size": -0.2539489054802174,
+      "entry": 393.58311,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 4.504438600298492
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "ZRO",
-      "size": -13.753266400770183,
-      "entry": 0.7989503250000001,
+      "asset": "QQQ",
+      "size": 0.1498172229879547,
+      "entry": 667.743705,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5425708293219657
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "kBONK",
-      "size": 3716.2162162162163,
-      "entry": 0.00296148,
+      "asset": "NVDA",
+      "size": 0.5211862198363475,
+      "entry": 192.0109575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.10955405405405293
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "kPEPE",
-      "size": 3955.4117224020138,
-      "entry": 0.0027823904999999998,
+      "asset": "AAPL",
+      "size": -0.29349612585113877,
+      "entry": 340.43969500000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.12416235167205962
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AMZN",
+      "size": 0.4393480075567857,
+      "entry": 227.7788325,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "GOOG",
+      "size": 0.3010869237948996,
+      "entry": 332.30607,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "TSLA",
+      "size": 0.3298533801725133,
+      "entry": 303.25155,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.26592915647271564,
+      "entry": 376.6232175,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-30T03:15:21Z",
-    "asset": "BTC",
+    "at": "2026-07-30T04:09:13Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
