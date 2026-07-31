@@ -1,58 +1,66 @@
 {
-  "updated_at": "2026-07-31T07:23:22Z",
+  "updated_at": "2026-07-31T07:45:37Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1018.5481551770732,
-    "total_value_usd": 1018.5481551770732,
-    "pnl_usd": 8.0,
-    "pnl_pct": 0.79
+    "balance_usd": 1106.376791229462,
+    "total_value_usd": 1106.376791229462,
+    "pnl_usd": 47.74,
+    "pnl_pct": 4.51
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.3329996193376489
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "BTC",
-      "size": 0.0015452009920190368,
-      "entry": 64764.86625,
+      "asset": "QQQ",
+      "size": 0.1498172229879547,
+      "entry": 667.743705,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2197295125663457
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "WLD",
-      "size": 98.1579033471845,
-      "entry": 0.30585285,
+      "asset": "NVDA",
+      "size": 0.5211862198363475,
+      "entry": 192.0109575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.26867290514674275
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "AVAX",
-      "size": 6.18773590743147,
-      "entry": 6.4688327999999995,
+      "asset": "GOOG",
+      "size": 0.3010869237948996,
+      "entry": 332.30607,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.3900303199059423
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "ARB",
-      "size": 141.0799025266128,
-      "entry": 0.07805901,
+      "asset": "TSLA",
+      "size": 0.3298533801725133,
+      "entry": 303.25155,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.218534179812749
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.26592915647271564,
+      "entry": 376.6232175,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-31T07:23:22Z",
-    "asset": "BTC",
+    "at": "2026-07-31T07:45:37Z",
+    "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is below the EMA20, and RSI14 is below 30, indicating a potential buy signal, but given the current position and risk limits, holding is the best course of action."
+    "rationale": "hold-all: empty response"
   }
 }
