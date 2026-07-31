@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T09:49:10Z",
+  "updated_at": "2026-07-31T10:49:29Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1106.376791229462,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-31T09:49:10Z",
+    "at": "2026-07-31T10:49:29Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "stable recent mid prices"
   }
 }
