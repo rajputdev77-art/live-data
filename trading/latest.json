@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T21:00:14Z",
+  "updated_at": "2026-07-31T22:02:01Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1106.376791229462,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-07-31T21:00:14Z",
+    "at": "2026-07-31T22:02:01Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Current price is near the take-profit level, and the trend is still bullish."
+    "rationale": "hold-all: empty response"
   }
 }
