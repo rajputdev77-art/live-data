@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T05:11:26Z",
+  "updated_at": "2026-07-31T09:41:48Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -72,25 +72,25 @@
       "last_run": {
         "pipeline": "news",
         "status": "success",
-        "started_at": "2026-07-30T09:42:38.507969+00:00",
-        "finished_at": "2026-07-30T09:42:38.507969+00:00",
-        "video_url": "https://www.youtube.com/watch?v=pXnVHv1_wrg",
-        "video_title": "\u0936\u0947\u0930 \u0914\u0930 \u091a\u0942\u0939\u093e | The Lion and the Mouse | Hindi Kahani | KathaVerse (89)",
+        "started_at": "2026-07-31T09:41:47.739549+00:00",
+        "finished_at": "2026-07-31T09:41:47.739549+00:00",
+        "video_url": "https://www.youtube.com/watch?v=ZrrM6a6Jq7I",
+        "video_title": "\u0932\u094b\u092e\u0921\u093c\u0940 \u0914\u0930 \u0905\u0902\u0917\u0942\u0930 | The Fox and the Grapes | Hindi Kahani | KathaVerse",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-07-31T10:00:00Z",
+      "next_run_at": "2026-08-01T09:31:00Z",
       "totals": {
-        "runs_attempted": 4,
-        "runs_succeeded": 4,
-        "videos_published": 4
+        "runs_attempted": 5,
+        "runs_succeeded": 5,
+        "videos_published": 5
       },
       "channel": {
         "id": "UCZzWA24H4iBzTorzWsN-ScQ",
         "title": "CalmSpark ",
-        "subscriber_count": 5,
-        "video_count": 36,
-        "view_count": 27
+        "subscriber_count": 6,
+        "video_count": 37,
+        "view_count": 29
       }
     },
     "teaching": {
