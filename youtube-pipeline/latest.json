@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-07-30T13:01:15Z",
+  "updated_at": "2026-07-31T05:11:26Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 5,
-    "video_count": 193,
-    "view_count": 2183
+    "video_count": 194,
+    "view_count": 2187
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-07-30T13:00:14Z",
-    "finished_at": "2026-07-30T13:01:15Z",
+    "pipeline": "teaching",
+    "started_at": "2026-07-31T05:00:25Z",
+    "finished_at": "2026-07-31T05:11:26Z",
     "status": "success",
-    "duration_seconds": 61.1,
-    "video_url": "https://www.youtube.com/watch?v=7wmK5i31VU8",
-    "video_title": "3 Heart Attacks #Shorts",
+    "duration_seconds": 660.6,
+    "video_url": "https://www.youtube.com/watch?v=VvdAAmJgN24",
+    "video_title": "AI #51: Can Computers Really See Pictures?",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-07-31T05:00:00Z",
+  "next_run_at": "2026-07-31T10:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 223,
-    "runs_succeeded": 195,
-    "videos_published": 195
+    "runs_attempted": 224,
+    "runs_succeeded": 196,
+    "videos_published": 196
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -96,20 +96,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-07-30T05:00:11Z",
-        "finished_at": "2026-07-30T05:10:19Z",
+        "started_at": "2026-07-31T05:00:25Z",
+        "finished_at": "2026-07-31T05:11:26Z",
         "status": "success",
-        "duration_seconds": 608.7,
-        "video_url": "https://www.youtube.com/watch?v=LY6tRTBvpSw",
-        "video_title": "AI #50: When to Stop Training Your AI?",
+        "duration_seconds": 660.6,
+        "video_url": "https://www.youtube.com/watch?v=VvdAAmJgN24",
+        "video_title": "AI #51: Can Computers Really See Pictures?",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-07-31T05:00:00Z",
+      "next_run_at": "2026-08-01T06:00:00Z",
       "totals": {
-        "runs_attempted": 53,
-        "runs_succeeded": 50,
-        "videos_published": 50
+        "runs_attempted": 54,
+        "runs_succeeded": 51,
+        "videos_published": 51
       }
     },
     "shorts": {
@@ -135,6 +135,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-07-30T13:01:15Z"
+    "checked_at": "2026-07-31T05:11:26Z"
   }
 }
