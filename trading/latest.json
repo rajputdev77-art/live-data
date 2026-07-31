@@ -1,66 +1,58 @@
 {
-  "updated_at": "2026-07-31T02:38:13Z",
+  "updated_at": "2026-07-31T03:23:03Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1106.376791229462,
-    "total_value_usd": 1106.376791229462,
-    "pnl_usd": 47.74,
-    "pnl_pct": 4.51
+    "balance_usd": 1019.4996722184387,
+    "total_value_usd": 1019.4996722184387,
+    "pnl_usd": 8.95,
+    "pnl_pct": 0.89
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.1713850767001252
     },
     {
-      "asset": "QQQ",
-      "size": 0.1498172229879547,
-      "entry": 667.743705,
+      "asset": "BTC",
+      "size": 0.0015452009920190368,
+      "entry": 64764.86625,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.6302353341110831
     },
     {
-      "asset": "NVDA",
-      "size": 0.5211862198363475,
-      "entry": 192.0109575,
+      "asset": "WLD",
+      "size": 98.1579033471845,
+      "entry": 0.30585285,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.3913702843307262
     },
     {
-      "asset": "GOOG",
-      "size": 0.3010869237948996,
-      "entry": 332.30607,
+      "asset": "AVAX",
+      "size": 6.18773590743147,
+      "entry": 6.4688327999999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.1400457892457109
     },
     {
-      "asset": "TSLA",
-      "size": 0.3298533801725133,
-      "entry": 303.25155,
+      "asset": "ARB",
+      "size": 141.0799025266128,
+      "entry": 0.07805901,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.26592915647271564,
-      "entry": 376.6232175,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.06757868410927308
     }
   ],
   "last_decision": {
-    "at": "2026-07-31T02:38:13Z",
-    "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY is above ema20 and rsi14 is above 60"
+    "at": "2026-07-31T03:23:03Z",
+    "asset": "BTC",
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
