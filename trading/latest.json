@@ -1,41 +1,65 @@
 {
-  "updated_at": "2026-07-31T11:25:08Z",
+  "updated_at": "2026-07-31T11:51:15Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1020.9474541313566,
-    "total_value_usd": 1020.9474541313566,
-    "pnl_usd": 10.4,
-    "pnl_pct": 1.03
+    "balance_usd": 1106.376791229462,
+    "total_value_usd": 1106.376791229462,
+    "pnl_usd": 47.74,
+    "pnl_pct": 4.51
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "SPY",
+      "size": 0.13631035140808592,
+      "entry": 733.98681,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.3108277068766338
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "BTC",
-      "size": 0.0015452009920190368,
-      "entry": 64764.86625,
+      "asset": "QQQ",
+      "size": 0.1498172229879547,
+      "entry": 667.743705,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.3232579790316212
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "AVAX",
-      "size": 6.18773590743147,
-      "entry": 6.4688327999999995,
+      "asset": "NVDA",
+      "size": 0.5211862198363475,
+      "entry": 192.0109575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0876628921477641
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "GOOG",
+      "size": 0.3010869237948996,
+      "entry": 332.30607,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "TSLA",
+      "size": 0.3298533801725133,
+      "entry": 303.25155,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.26592915647271564,
+      "entry": 376.6232175,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-07-31T11:25:08Z",
-    "asset": "BTC",
+    "at": "2026-07-31T11:51:15Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
