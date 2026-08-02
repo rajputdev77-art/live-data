@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-02T09:51:43Z",
+  "updated_at": "2026-08-02T13:00:40Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 5,
-    "video_count": 198,
+    "video_count": 199,
     "view_count": 2188
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-08-02T06:00:20Z",
-    "finished_at": "2026-08-02T06:10:56Z",
+    "pipeline": "shorts",
+    "started_at": "2026-08-02T13:00:06Z",
+    "finished_at": "2026-08-02T13:00:40Z",
     "status": "success",
-    "duration_seconds": 635.5,
-    "video_url": "https://www.youtube.com/watch?v=JZSLKEZToeQ",
-    "video_title": "AI #53: Can AI See Edges Like You Do?",
+    "duration_seconds": 33.6,
+    "video_url": "https://www.youtube.com/watch?v=hzuu29RmEEk",
+    "video_title": "A Gentle Hand",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-08-02T11:30:00Z",
+  "next_run_at": "2026-08-03T05:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 228,
-    "runs_succeeded": 200,
-    "videos_published": 200
+    "runs_attempted": 229,
+    "runs_succeeded": 201,
+    "videos_published": 201
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-03T09:31:00Z",
+      "next_run_at": "2026-08-03T08:30:00Z",
       "totals": {
         "runs_attempted": 7,
         "runs_succeeded": 7,
@@ -115,26 +115,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-08-01T13:00:19Z",
-        "finished_at": "2026-08-01T13:01:31Z",
+        "started_at": "2026-08-02T13:00:06Z",
+        "finished_at": "2026-08-02T13:00:40Z",
         "status": "success",
-        "duration_seconds": 71.2,
-        "video_url": "https://www.youtube.com/watch?v=jzMNSC1XGDc",
-        "video_title": "3 Heart Attacks #Shorts",
+        "duration_seconds": 33.6,
+        "video_url": "https://www.youtube.com/watch?v=hzuu29RmEEk",
+        "video_title": "A Gentle Hand",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-02T13:00:00Z",
+      "next_run_at": "2026-08-03T13:00:00Z",
       "totals": {
-        "runs_attempted": 53,
-        "runs_succeeded": 50,
-        "videos_published": 50
+        "runs_attempted": 54,
+        "runs_succeeded": 51,
+        "videos_published": 51
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-08-02T06:10:56Z"
+    "checked_at": "2026-08-02T13:00:40Z"
   }
 }
