@@ -1,66 +1,50 @@
 {
-  "updated_at": "2026-08-03T11:14:35Z",
+  "updated_at": "2026-08-03T11:56:03Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1106.376791229462,
-    "total_value_usd": 1106.376791229462,
-    "pnl_usd": 47.74,
-    "pnl_pct": 4.51
+    "balance_usd": 1018.2227284987028,
+    "total_value_usd": 1018.2227284987028,
+    "pnl_usd": 7.67,
+    "pnl_pct": 0.76
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.6188302980519432
     },
     {
-      "asset": "QQQ",
-      "size": 0.1498172229879547,
-      "entry": 667.743705,
+      "asset": "kBONK",
+      "size": -3867.7918424753866,
+      "entry": 0.0028415785,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.10280010548523347
     },
     {
-      "asset": "NVDA",
-      "size": 0.5211862198363475,
-      "entry": 192.0109575,
+      "asset": "AVAX",
+      "size": -2.3331777881474567,
+      "entry": 6.42208735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.04505984601026556
     },
     {
-      "asset": "GOOG",
-      "size": 0.3010869237948996,
-      "entry": 332.30607,
+      "asset": "XRP",
+      "size": -11.186203682125377,
+      "entry": 1.071713875,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "TSLA",
-      "size": 0.3298533801725133,
-      "entry": 303.25155,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.26592915647271564,
-      "entry": 376.6232175,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.06447587974831012
     }
   ],
   "last_decision": {
-    "at": "2026-08-03T11:14:35Z",
-    "asset": "SPY",
+    "at": "2026-08-03T11:56:03Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "Current price is above the entry price, and the long-term ema20 is below the current price, indicating a potential upward trend."
+    "rationale": "hold-all: empty response"
   }
 }
