@@ -1,66 +1,50 @@
 {
-  "updated_at": "2026-08-03T07:10:25Z",
+  "updated_at": "2026-08-03T07:54:16Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1106.376791229462,
-    "total_value_usd": 1106.376791229462,
-    "pnl_usd": 47.74,
-    "pnl_pct": 4.51
+    "balance_usd": 1018.2967171141055,
+    "total_value_usd": 1018.2967171141055,
+    "pnl_usd": 7.75,
+    "pnl_pct": 0.77
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.13631035140808592,
-      "entry": 733.98681,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.6193645610028099
     },
     {
-      "asset": "QQQ",
-      "size": 0.1498172229879547,
-      "entry": 667.743705,
+      "asset": "kBONK",
+      "size": -3867.7918424753866,
+      "entry": 0.0028415785,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.07959335443037974
     },
     {
-      "asset": "NVDA",
-      "size": 0.5211862198363475,
-      "entry": 192.0109575,
+      "asset": "AVAX",
+      "size": -2.3331777881474567,
+      "entry": 6.42208735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.0694991833877749
     },
     {
-      "asset": "GOOG",
-      "size": 0.3010869237948996,
-      "entry": 332.30607,
+      "asset": "XRP",
+      "size": -11.186203682125377,
+      "entry": 1.071713875,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "TSLA",
-      "size": 0.3298533801725133,
-      "entry": 303.25155,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.26592915647271564,
-      "entry": 376.6232175,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.046577953856909
     }
   ],
   "last_decision": {
-    "at": "2026-08-03T07:10:25Z",
-    "asset": "SPY",
+    "at": "2026-08-03T07:54:16Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "Current price is above EMA20 and EMA50, hold to capture potential upside."
+    "rationale": "hold-all: empty response"
   }
 }
