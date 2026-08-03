@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-02T13:00:40Z",
+  "updated_at": "2026-08-03T05:09:16Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 5,
-    "video_count": 199,
+    "video_count": 200,
     "view_count": 2188
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-08-02T13:00:06Z",
-    "finished_at": "2026-08-02T13:00:40Z",
+    "pipeline": "teaching",
+    "started_at": "2026-08-03T05:00:02Z",
+    "finished_at": "2026-08-03T05:09:16Z",
     "status": "success",
-    "duration_seconds": 33.6,
-    "video_url": "https://www.youtube.com/watch?v=hzuu29RmEEk",
-    "video_title": "A Gentle Hand",
+    "duration_seconds": 554.5,
+    "video_url": "https://www.youtube.com/watch?v=RbE6w4k33lw",
+    "video_title": "AI #54: How AI Shrinks Images to Super Speed",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-08-03T05:00:00Z",
+  "next_run_at": "2026-08-03T08:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 229,
-    "runs_succeeded": 201,
-    "videos_published": 201
+    "runs_attempted": 230,
+    "runs_succeeded": 202,
+    "videos_published": 202
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -96,20 +96,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-08-02T06:00:20Z",
-        "finished_at": "2026-08-02T06:10:56Z",
+        "started_at": "2026-08-03T05:00:02Z",
+        "finished_at": "2026-08-03T05:09:16Z",
         "status": "success",
-        "duration_seconds": 635.5,
-        "video_url": "https://www.youtube.com/watch?v=JZSLKEZToeQ",
-        "video_title": "AI #53: Can AI See Edges Like You Do?",
+        "duration_seconds": 554.5,
+        "video_url": "https://www.youtube.com/watch?v=RbE6w4k33lw",
+        "video_title": "AI #54: How AI Shrinks Images to Super Speed",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-03T05:00:00Z",
+      "next_run_at": "2026-08-04T05:00:00Z",
       "totals": {
-        "runs_attempted": 56,
-        "runs_succeeded": 53,
-        "videos_published": 53
+        "runs_attempted": 57,
+        "runs_succeeded": 54,
+        "videos_published": 54
       }
     },
     "shorts": {
@@ -135,6 +135,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-08-02T13:00:40Z"
+    "checked_at": "2026-08-03T05:09:16Z"
   }
 }
