@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-08-03T11:56:03Z",
+  "updated_at": "2026-08-03T12:16:21Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1018.2227284987028,
-    "total_value_usd": 1018.2227284987028,
-    "pnl_usd": 7.67,
-    "pnl_pct": 0.76
+    "balance_usd": 1116.8978349770177,
+    "total_value_usd": 1116.8978349770177,
+    "pnl_usd": 58.26,
+    "pnl_pct": 5.5
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "QQQ",
+      "size": 0.1498172229879547,
+      "entry": 667.743705,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.6188302980519432
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "kBONK",
-      "size": -3867.7918424753866,
-      "entry": 0.0028415785,
+      "asset": "NVDA",
+      "size": 0.5211862198363475,
+      "entry": 192.0109575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.10280010548523347
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "AVAX",
-      "size": -2.3331777881474567,
-      "entry": 6.42208735,
+      "asset": "TSLA",
+      "size": 0.3298533801725133,
+      "entry": 303.25155,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.04505984601026556
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "XRP",
-      "size": -11.186203682125377,
-      "entry": 1.071713875,
+      "asset": "AVGO",
+      "size": 0.26592915647271564,
+      "entry": 376.6232175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.06447587974831012
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-08-03T11:56:03Z",
-    "asset": "BTC",
+    "at": "2026-08-03T12:16:21Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
