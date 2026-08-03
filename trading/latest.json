@@ -1,21 +1,13 @@
 {
-  "updated_at": "2026-08-03T17:21:29Z",
+  "updated_at": "2026-08-03T18:23:16Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1116.8978349770177,
-    "total_value_usd": 1116.8978349770177,
-    "pnl_usd": 58.26,
-    "pnl_pct": 5.5
+    "balance_usd": 1121.730383517798,
+    "total_value_usd": 1121.730383517798,
+    "pnl_usd": 63.09,
+    "pnl_pct": 5.96
   },
   "open_positions": [
-    {
-      "asset": "QQQ",
-      "size": 0.1498172229879547,
-      "entry": 667.743705,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
     {
       "asset": "NVDA",
       "size": 0.5211862198363475,
@@ -90,7 +82,7 @@
     }
   ],
   "last_decision": {
-    "at": "2026-08-03T17:21:29Z",
+    "at": "2026-08-03T18:23:16Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
