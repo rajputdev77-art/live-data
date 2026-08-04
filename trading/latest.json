@@ -1,42 +1,74 @@
 {
-  "updated_at": "2026-08-04T16:08:22Z",
+  "updated_at": "2026-08-04T16:49:33Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1017.0987239373682,
-    "total_value_usd": 1017.0987239373682,
-    "pnl_usd": 6.55,
-    "pnl_pct": 0.65
+    "balance_usd": 1133.0036459887751,
+    "total_value_usd": 1133.0036459887751,
+    "pnl_usd": 74.36,
+    "pnl_pct": 7.02
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "TSLA",
+      "size": 0.3298533801725133,
+      "entry": 303.25155,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.2421749176901146
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "kBONK",
-      "size": -3867.7918424753866,
-      "entry": 0.0028415785,
+      "asset": "AVGO",
+      "size": 0.26592915647271564,
+      "entry": 376.6232175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.18402373417721563
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "XRP",
-      "size": -11.186203682125377,
-      "entry": 1.071713875,
+      "asset": "AAPL",
+      "size": 0.32722513089005234,
+      "entry": 305.7177825,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.042911675600094096
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "MSFT",
+      "size": 0.2074688796680498,
+      "entry": 482.30603249999996,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AMZN",
+      "size": 0.3513703443429374,
+      "entry": 284.60222999999996,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "GOOG",
+      "size": 0.27036526347094925,
+      "entry": 370.17499499999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "META",
+      "size": 0.16908743511269678,
+      "entry": 591.7257149999999,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-08-04T16:08:22Z",
-    "asset": "BTC",
-    "action": "hold",
-    "rationale": "hold-all: empty response"
+    "at": "2026-08-04T16:49:33Z",
+    "asset": "SPY",
+    "action": "buy",
+    "rationale": "intraday ema20 indicates a potential buy signal"
   }
 }
