@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-04T09:40:16Z",
+  "updated_at": "2026-08-04T13:01:09Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 5,
-    "video_count": 202,
+    "video_count": 203,
     "view_count": 2217
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-08-04T05:00:22Z",
-    "finished_at": "2026-08-04T05:11:09Z",
+    "pipeline": "shorts",
+    "started_at": "2026-08-04T13:00:26Z",
+    "finished_at": "2026-08-04T13:01:09Z",
     "status": "success",
-    "duration_seconds": 647.2,
-    "video_url": "https://www.youtube.com/watch?v=Dov3jO48vZQ",
-    "video_title": "AI #55: How AI Recognizes Your Face So Fast",
+    "duration_seconds": 43.2,
+    "video_url": "https://www.youtube.com/watch?v=fQumpOLE0Zo",
+    "video_title": "Unlikely Gardeners",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-08-04T08:30:00Z",
+  "next_run_at": "2026-08-05T05:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 232,
-    "runs_succeeded": 204,
-    "videos_published": 204
+    "runs_attempted": 233,
+    "runs_succeeded": 205,
+    "videos_published": 205
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-05T09:31:00Z",
+      "next_run_at": "2026-08-05T10:00:00Z",
       "totals": {
         "runs_attempted": 9,
         "runs_succeeded": 9,
@@ -115,26 +115,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-08-03T13:00:16Z",
-        "finished_at": "2026-08-03T13:00:50Z",
+        "started_at": "2026-08-04T13:00:26Z",
+        "finished_at": "2026-08-04T13:01:09Z",
         "status": "success",
-        "duration_seconds": 34.4,
-        "video_url": "https://www.youtube.com/watch?v=X228t3acWjY",
-        "video_title": "Beyond the Horizon",
+        "duration_seconds": 43.2,
+        "video_url": "https://www.youtube.com/watch?v=fQumpOLE0Zo",
+        "video_title": "Unlikely Gardeners",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-04T13:00:00Z",
+      "next_run_at": "2026-08-05T13:00:00Z",
       "totals": {
-        "runs_attempted": 55,
-        "runs_succeeded": 52,
-        "videos_published": 52
+        "runs_attempted": 56,
+        "runs_succeeded": 53,
+        "videos_published": 53
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-08-04T05:11:09Z"
+    "checked_at": "2026-08-04T13:01:09Z"
   }
 }
