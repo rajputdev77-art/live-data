@@ -1,25 +1,17 @@
 {
-  "updated_at": "2026-08-04T16:49:33Z",
+  "updated_at": "2026-08-04T17:49:56Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1133.0036459887751,
-    "total_value_usd": 1133.0036459887751,
-    "pnl_usd": 74.36,
-    "pnl_pct": 7.02
+    "balance_usd": 1144.5387971695006,
+    "total_value_usd": 1144.5387971695006,
+    "pnl_usd": 85.9,
+    "pnl_pct": 8.11
   },
   "open_positions": [
     {
       "asset": "TSLA",
       "size": 0.3298533801725133,
       "entry": 303.25155,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.26592915647271564,
-      "entry": 376.6232175,
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
@@ -66,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-08-04T16:49:33Z",
+    "at": "2026-08-04T17:49:56Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "intraday ema20 indicates a potential buy signal"
+    "action": "hold",
+    "rationale": "Current price is near the EMA20, and RSI14 is high, indicating a potential pullback."
   }
 }
