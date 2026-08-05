@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-04T13:01:09Z",
+  "updated_at": "2026-08-05T05:10:52Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 5,
-    "video_count": 203,
-    "view_count": 2217
+    "video_count": 204,
+    "view_count": 2218
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-08-04T13:00:26Z",
-    "finished_at": "2026-08-04T13:01:09Z",
+    "pipeline": "teaching",
+    "started_at": "2026-08-05T05:00:15Z",
+    "finished_at": "2026-08-05T05:10:52Z",
     "status": "success",
-    "duration_seconds": 43.2,
-    "video_url": "https://www.youtube.com/watch?v=fQumpOLE0Zo",
-    "video_title": "Unlikely Gardeners",
+    "duration_seconds": 636.8,
+    "video_url": "https://www.youtube.com/watch?v=v6uS7wet89s",
+    "video_title": "AI #56: How AI Learned to See in 3 Powerful Steps",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-08-05T05:00:00Z",
+  "next_run_at": "2026-08-05T10:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 233,
-    "runs_succeeded": 205,
-    "videos_published": 205
+    "runs_attempted": 234,
+    "runs_succeeded": 206,
+    "videos_published": 206
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -96,20 +96,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-08-04T05:00:22Z",
-        "finished_at": "2026-08-04T05:11:09Z",
+        "started_at": "2026-08-05T05:00:15Z",
+        "finished_at": "2026-08-05T05:10:52Z",
         "status": "success",
-        "duration_seconds": 647.2,
-        "video_url": "https://www.youtube.com/watch?v=Dov3jO48vZQ",
-        "video_title": "AI #55: How AI Recognizes Your Face So Fast",
+        "duration_seconds": 636.8,
+        "video_url": "https://www.youtube.com/watch?v=v6uS7wet89s",
+        "video_title": "AI #56: How AI Learned to See in 3 Powerful Steps",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-05T05:00:00Z",
+      "next_run_at": "2026-08-06T05:00:00Z",
       "totals": {
-        "runs_attempted": 58,
-        "runs_succeeded": 55,
-        "videos_published": 55
+        "runs_attempted": 59,
+        "runs_succeeded": 56,
+        "videos_published": 56
       }
     },
     "shorts": {
@@ -135,6 +135,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-08-04T13:01:09Z"
+    "checked_at": "2026-08-05T05:10:52Z"
   }
 }
