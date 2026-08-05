@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T17:19:00Z",
+  "updated_at": "2026-08-05T18:20:51Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1144.5387971695006,
@@ -58,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-08-05T17:19:00Z",
+    "at": "2026-08-05T18:20:51Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "No clear trend or signal to enter or exit."
+    "rationale": "hold-all: empty response"
   }
 }
