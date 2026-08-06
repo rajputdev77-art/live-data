@@ -1,66 +1,42 @@
 {
-  "updated_at": "2026-08-06T11:45:15Z",
+  "updated_at": "2026-08-06T12:24:46Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1144.5387971695006,
-    "total_value_usd": 1144.5387971695006,
-    "pnl_usd": 85.9,
-    "pnl_pct": 8.11
+    "balance_usd": 1017.644585950367,
+    "total_value_usd": 1017.644585950367,
+    "pnl_usd": 7.09,
+    "pnl_pct": 0.7
   },
   "open_positions": [
     {
-      "asset": "TSLA",
-      "size": 0.3298533801725133,
-      "entry": 303.25155,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.4024538029504661
     },
     {
-      "asset": "AAPL",
-      "size": 0.32722513089005234,
-      "entry": 305.7177825,
+      "asset": "kBONK",
+      "size": -3867.7918424753866,
+      "entry": 0.0028415785,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.25751177918424767
     },
     {
-      "asset": "MSFT",
-      "size": 0.2074688796680498,
-      "entry": 482.30603249999996,
+      "asset": "XRP",
+      "size": -11.186203682125377,
+      "entry": 1.071713875,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "AMZN",
-      "size": 0.3513703443429374,
-      "entry": 284.60222999999996,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "GOOG",
-      "size": 0.27036526347094925,
-      "entry": 370.17499499999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "META",
-      "size": 0.16908743511269678,
-      "entry": 591.7257149999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.2691834071312043
     }
   ],
   "last_decision": {
-    "at": "2026-08-06T11:45:15Z",
-    "asset": "SPY",
-    "action": "buy",
-    "rationale": "intraday RSI7 is 37.72, indicating a potential buy opportunity"
+    "at": "2026-08-06T12:24:46Z",
+    "asset": "BTC",
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
