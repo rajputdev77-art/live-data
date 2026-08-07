@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-07T09:42:55Z",
+  "updated_at": "2026-08-07T13:00:54Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 5,
-    "video_count": 208,
-    "view_count": 2199
+    "video_count": 209,
+    "view_count": 2204
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-08-07T05:00:01Z",
-    "finished_at": "2026-08-07T05:09:31Z",
+    "pipeline": "shorts",
+    "started_at": "2026-08-07T13:00:15Z",
+    "finished_at": "2026-08-07T13:00:54Z",
     "status": "success",
-    "duration_seconds": 570.5,
-    "video_url": "https://www.youtube.com/watch?v=8g_bxAOdNN4",
-    "video_title": "AI #58: Can AI Really Find Stuff in Pictures?",
+    "duration_seconds": 38.3,
+    "video_url": "https://www.youtube.com/watch?v=-gpWHD-ak2g",
+    "video_title": "Morning Sunshine",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-08-07T10:00:00Z",
+  "next_run_at": "2026-08-08T06:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 238,
-    "runs_succeeded": 210,
-    "videos_published": 210
+    "runs_attempted": 239,
+    "runs_succeeded": 211,
+    "videos_published": 211
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-08T09:31:00Z",
+      "next_run_at": "2026-08-08T11:30:00Z",
       "totals": {
         "runs_attempted": 12,
         "runs_succeeded": 12,
@@ -115,26 +115,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-08-06T13:00:04Z",
-        "finished_at": "2026-08-06T13:00:39Z",
+        "started_at": "2026-08-07T13:00:15Z",
+        "finished_at": "2026-08-07T13:00:54Z",
         "status": "success",
-        "duration_seconds": 35.5,
-        "video_url": "https://www.youtube.com/watch?v=Bw7Ws16igxo",
-        "video_title": "Promise of Dawn",
+        "duration_seconds": 38.3,
+        "video_url": "https://www.youtube.com/watch?v=-gpWHD-ak2g",
+        "video_title": "Morning Sunshine",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-07T13:00:00Z",
+      "next_run_at": "2026-08-08T13:00:00Z",
       "totals": {
-        "runs_attempted": 58,
-        "runs_succeeded": 55,
-        "videos_published": 55
+        "runs_attempted": 59,
+        "runs_succeeded": 56,
+        "videos_published": 56
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-08-07T05:09:31Z"
+    "checked_at": "2026-08-07T13:00:54Z"
   }
 }
