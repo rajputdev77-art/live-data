@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-06T13:00:40Z",
+  "updated_at": "2026-08-07T05:09:32Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 5,
-    "video_count": 207,
-    "view_count": 2198
+    "video_count": 208,
+    "view_count": 2199
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-08-06T13:00:04Z",
-    "finished_at": "2026-08-06T13:00:39Z",
+    "pipeline": "teaching",
+    "started_at": "2026-08-07T05:00:01Z",
+    "finished_at": "2026-08-07T05:09:31Z",
     "status": "success",
-    "duration_seconds": 35.5,
-    "video_url": "https://www.youtube.com/watch?v=Bw7Ws16igxo",
-    "video_title": "Promise of Dawn",
+    "duration_seconds": 570.5,
+    "video_url": "https://www.youtube.com/watch?v=8g_bxAOdNN4",
+    "video_title": "AI #58: Can AI Really Find Stuff in Pictures?",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-08-07T05:00:00Z",
+  "next_run_at": "2026-08-07T10:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 237,
-    "runs_succeeded": 209,
-    "videos_published": 209
+    "runs_attempted": 238,
+    "runs_succeeded": 210,
+    "videos_published": 210
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -96,20 +96,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-08-06T05:00:28Z",
-        "finished_at": "2026-08-06T05:09:55Z",
+        "started_at": "2026-08-07T05:00:01Z",
+        "finished_at": "2026-08-07T05:09:31Z",
         "status": "success",
-        "duration_seconds": 567.0,
-        "video_url": "https://www.youtube.com/watch?v=2aCH0n7OW7g",
-        "video_title": "AI #57: Can AI See Deeper Than You Think?",
+        "duration_seconds": 570.5,
+        "video_url": "https://www.youtube.com/watch?v=8g_bxAOdNN4",
+        "video_title": "AI #58: Can AI Really Find Stuff in Pictures?",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-07T05:00:00Z",
+      "next_run_at": "2026-08-08T06:00:00Z",
       "totals": {
-        "runs_attempted": 60,
-        "runs_succeeded": 57,
-        "videos_published": 57
+        "runs_attempted": 61,
+        "runs_succeeded": 58,
+        "videos_published": 58
       }
     },
     "shorts": {
@@ -135,6 +135,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-08-06T13:00:39Z"
+    "checked_at": "2026-08-07T05:09:31Z"
   }
 }
