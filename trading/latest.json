@@ -1,41 +1,57 @@
 {
-  "updated_at": "2026-08-08T04:42:22Z",
+  "updated_at": "2026-08-08T05:36:11Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1018.5718745007864,
-    "total_value_usd": 1018.5718745007864,
-    "pnl_usd": 8.02,
-    "pnl_pct": 0.79
+    "balance_usd": 1148.2097447836086,
+    "total_value_usd": 1148.2097447836086,
+    "pnl_usd": 89.57,
+    "pnl_pct": 8.46
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "TSLA",
+      "size": 0.3298533801725133,
+      "entry": 303.25155,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.035682287179694176
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "kBONK",
-      "size": -3867.7918424753866,
-      "entry": 0.0028415785,
+      "asset": "AAPL",
+      "size": 0.32722513089005234,
+      "entry": 305.7177825,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.4139815400843891
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "XRP",
-      "size": -11.186203682125377,
-      "entry": 1.071713875,
+      "asset": "AMZN",
+      "size": 0.3513703443429374,
+      "entry": 284.60222999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.40677371242134625
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "GOOG",
+      "size": 0.27036526347094925,
+      "entry": 370.17499499999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "META",
+      "size": 0.16908743511269678,
+      "entry": 591.7257149999999,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-08-08T04:42:22Z",
-    "asset": "BTC",
+    "at": "2026-08-08T05:36:11Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
