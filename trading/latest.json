@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T16:52:47Z",
+  "updated_at": "2026-08-08T17:54:06Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1148.2097447836086,
@@ -50,9 +50,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-08-08T16:52:47Z",
+    "at": "2026-08-08T17:54:06Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "Neutral trend, holding to avoid churn."
   }
 }
