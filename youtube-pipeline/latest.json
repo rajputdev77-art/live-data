@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-08T09:42:01Z",
+  "updated_at": "2026-08-08T13:00:38Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 5,
-    "video_count": 210,
+    "video_count": 211,
     "view_count": 2205
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-08-08T06:00:07Z",
-    "finished_at": "2026-08-08T06:09:33Z",
+    "pipeline": "shorts",
+    "started_at": "2026-08-08T13:00:00Z",
+    "finished_at": "2026-08-08T13:00:38Z",
     "status": "success",
-    "duration_seconds": 565.2,
-    "video_url": "https://www.youtube.com/watch?v=OaMTFpo1kHc",
-    "video_title": "AI #59: Can AI Separate Objects in Images?",
+    "duration_seconds": 37.5,
+    "video_url": "https://www.youtube.com/watch?v=lW5OyVFgDUE",
+    "video_title": "A Mother's Silent Strength",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-08-08T11:30:00Z",
+  "next_run_at": "2026-08-09T06:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 240,
-    "runs_succeeded": 212,
-    "videos_published": 212
+    "runs_attempted": 241,
+    "runs_succeeded": 213,
+    "videos_published": 213
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-09T09:31:00Z",
+      "next_run_at": "2026-08-09T11:30:00Z",
       "totals": {
         "runs_attempted": 13,
         "runs_succeeded": 13,
@@ -115,26 +115,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-08-07T13:00:15Z",
-        "finished_at": "2026-08-07T13:00:54Z",
+        "started_at": "2026-08-08T13:00:00Z",
+        "finished_at": "2026-08-08T13:00:38Z",
         "status": "success",
-        "duration_seconds": 38.3,
-        "video_url": "https://www.youtube.com/watch?v=-gpWHD-ak2g",
-        "video_title": "Morning Sunshine",
+        "duration_seconds": 37.5,
+        "video_url": "https://www.youtube.com/watch?v=lW5OyVFgDUE",
+        "video_title": "A Mother's Silent Strength",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-08T13:00:00Z",
+      "next_run_at": "2026-08-09T13:00:00Z",
       "totals": {
-        "runs_attempted": 59,
-        "runs_succeeded": 56,
-        "videos_published": 56
+        "runs_attempted": 60,
+        "runs_succeeded": 57,
+        "videos_published": 57
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-08-08T06:09:33Z"
+    "checked_at": "2026-08-08T13:00:38Z"
   }
 }
