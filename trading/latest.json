@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-10T14:38:37Z",
+  "updated_at": "2026-08-10T15:40:25Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1149.1974979719057,
-    "total_value_usd": 1149.1974979719057,
-    "pnl_usd": 90.56,
-    "pnl_pct": 8.55
+    "balance_usd": 1148.1724979719056,
+    "total_value_usd": 1148.1724979719056,
+    "pnl_usd": 89.53,
+    "pnl_pct": 8.46
   },
   "open_positions": [
     {
@@ -49,14 +49,6 @@
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "NVDA",
-      "size": 0.2232840619836556,
-      "entry": 224.041965,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
       "asset": "AVGO",
       "size": 0.11693991627101995,
       "entry": 427.78378499999997,
@@ -66,9 +58,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-08-10T14:38:37Z",
+    "at": "2026-08-10T15:40:25Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "High RSI7 indicates potential overbuying, suggesting a hold or sell strategy."
+    "rationale": "hold-all: empty response"
   }
 }
