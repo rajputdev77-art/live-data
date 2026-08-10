@@ -1,41 +1,81 @@
 {
-  "updated_at": "2026-08-10T05:01:30Z",
+  "updated_at": "2026-08-10T05:28:21Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1018.1616216081948,
-    "total_value_usd": 1018.1616216081948,
-    "pnl_usd": 7.61,
-    "pnl_pct": 0.75
+    "balance_usd": 1148.2097447836086,
+    "total_value_usd": 1148.2097447836086,
+    "pnl_usd": 89.57,
+    "pnl_pct": 8.46
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "TSLA",
+      "size": 0.3298533801725133,
+      "entry": 303.25155,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.46358644040630537
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "kBONK",
-      "size": -3867.7918424753866,
-      "entry": 0.0028415785,
+      "asset": "AAPL",
+      "size": 0.32722513089005234,
+      "entry": 305.7177825,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.452659458509143
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "XRP",
-      "size": -11.186203682125377,
-      "entry": 1.071713875,
+      "asset": "AMZN",
+      "size": 0.3513703443429374,
+      "entry": 284.60222999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.45711162899090985
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "GOOG",
+      "size": 0.27036526347094925,
+      "entry": 370.17499499999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "META",
+      "size": 0.16908743511269678,
+      "entry": 591.7257149999999,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "NVDA",
+      "size": 0.2232840619836556,
+      "entry": 224.041965,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "MSFT",
+      "size": 0.1000250062515629,
+      "entry": 500.1249375,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.11693991627101995,
+      "entry": 427.78378499999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-08-10T05:01:30Z",
-    "asset": "BTC",
+    "at": "2026-08-10T05:28:21Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
