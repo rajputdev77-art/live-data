@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-10T13:38:13Z",
+  "updated_at": "2026-08-10T14:38:37Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1148.2097447836086,
-    "total_value_usd": 1148.2097447836086,
-    "pnl_usd": 89.57,
-    "pnl_pct": 8.46
+    "balance_usd": 1149.1974979719057,
+    "total_value_usd": 1149.1974979719057,
+    "pnl_usd": 90.56,
+    "pnl_pct": 8.55
   },
   "open_positions": [
     {
@@ -57,14 +57,6 @@
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "MSFT",
-      "size": 0.1000250062515629,
-      "entry": 500.1249375,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
       "asset": "AVGO",
       "size": 0.11693991627101995,
       "entry": 427.78378499999997,
@@ -74,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-08-10T13:38:13Z",
+    "at": "2026-08-10T14:38:37Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "hold-all: empty response"
+    "rationale": "High RSI7 indicates potential overbuying, suggesting a hold or sell strategy."
   }
 }
