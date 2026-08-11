@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-10T09:41:43Z",
+  "updated_at": "2026-08-11T05:10:43Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 5,
-    "video_count": 215,
-    "view_count": 2218
+    "video_count": 218,
+    "view_count": 2227
   },
   "last_run": {
     "pipeline": "teaching",
-    "started_at": "2026-08-10T05:00:08Z",
-    "finished_at": "2026-08-10T05:08:10Z",
+    "started_at": "2026-08-11T05:00:16Z",
+    "finished_at": "2026-08-11T05:10:43Z",
     "status": "success",
-    "duration_seconds": 481.6,
-    "video_url": "https://www.youtube.com/watch?v=NB5pK-1iMfw",
-    "video_title": "AI #61: Can You Guess What Comes Next?",
+    "duration_seconds": 627.2,
+    "video_url": "https://www.youtube.com/watch?v=nqiJFyWLOYg",
+    "video_title": "AI #62: Can AI Remember What You Said?",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-08-10T08:30:00Z",
+  "next_run_at": "2026-08-11T08:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 243,
-    "runs_succeeded": 215,
-    "videos_published": 215
+    "runs_attempted": 244,
+    "runs_succeeded": 216,
+    "videos_published": 216
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-11T09:31:00Z",
+      "next_run_at": "2026-08-11T08:30:00Z",
       "totals": {
         "runs_attempted": 15,
         "runs_succeeded": 15,
@@ -96,20 +96,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-08-10T05:00:08Z",
-        "finished_at": "2026-08-10T05:08:10Z",
+        "started_at": "2026-08-11T05:00:16Z",
+        "finished_at": "2026-08-11T05:10:43Z",
         "status": "success",
-        "duration_seconds": 481.6,
-        "video_url": "https://www.youtube.com/watch?v=NB5pK-1iMfw",
-        "video_title": "AI #61: Can You Guess What Comes Next?",
+        "duration_seconds": 627.2,
+        "video_url": "https://www.youtube.com/watch?v=nqiJFyWLOYg",
+        "video_title": "AI #62: Can AI Remember What You Said?",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-11T05:00:00Z",
+      "next_run_at": "2026-08-12T05:00:00Z",
       "totals": {
-        "runs_attempted": 64,
-        "runs_succeeded": 61,
-        "videos_published": 61
+        "runs_attempted": 65,
+        "runs_succeeded": 62,
+        "videos_published": 62
       }
     },
     "shorts": {
@@ -124,7 +124,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-10T13:00:00Z",
+      "next_run_at": "2026-08-11T13:00:00Z",
       "totals": {
         "runs_attempted": 60,
         "runs_succeeded": 57,
@@ -135,6 +135,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-08-10T05:08:10Z"
+    "checked_at": "2026-08-11T05:10:43Z"
   }
 }
