@@ -1,58 +1,34 @@
 {
-  "updated_at": "2026-08-12T20:04:45Z",
+  "updated_at": "2026-08-12T20:06:13Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1172.6083950186242,
-    "total_value_usd": 1172.6083950186242,
-    "pnl_usd": 113.97,
-    "pnl_pct": 10.77
+    "balance_usd": 1019.4172136082761,
+    "total_value_usd": 1019.4172136082761,
+    "pnl_usd": 8.87,
+    "pnl_pct": 0.88
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.129243216346682,
-      "entry": 774.1919024999999,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.2704503836675803
     },
     {
-      "asset": "QQQ",
-      "size": -0.138534855369611,
-      "entry": 721.37913,
+      "asset": "kBONK",
+      "size": -3867.7918424753866,
+      "entry": 0.0028415785,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "NVDA",
-      "size": 0.4550211584838695,
-      "entry": 219.939915,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "MSFT",
-      "size": -0.19950721717358125,
-      "entry": 501.0843325,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "asset": "GOOG",
-      "size": -0.2858858172046085,
-      "entry": 349.72505,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 2.156597573839663
     }
   ],
   "last_decision": {
-    "at": "2026-08-12T20:04:45Z",
-    "asset": "SPY",
-    "action": "buy",
-    "rationale": "SPY's current price is below its ema20, indicating a potential buy opportunity."
+    "at": "2026-08-12T20:06:13Z",
+    "asset": "BTC",
+    "action": "hold",
+    "rationale": "hold-all: empty response"
   }
 }
