@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-14T09:40:22Z",
+  "updated_at": "2026-08-15T06:09:39Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 5,
-    "video_count": 226,
-    "view_count": 2261
+    "video_count": 229,
+    "view_count": 2275
   },
   "last_run": {
     "pipeline": "teaching",
-    "started_at": "2026-08-14T05:00:25Z",
-    "finished_at": "2026-08-14T05:12:42Z",
+    "started_at": "2026-08-15T06:00:18Z",
+    "finished_at": "2026-08-15T06:09:38Z",
     "status": "success",
-    "duration_seconds": 737.1,
-    "video_url": "https://www.youtube.com/watch?v=49uMEaQdEqk",
-    "video_title": "AI #65: Can AI Remember More Than You?",
+    "duration_seconds": 560.5,
+    "video_url": "https://www.youtube.com/watch?v=47nMPDGbGkU",
+    "video_title": "AI #66: Can AI Translate Your Thoughts?",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-08-14T10:00:00Z",
+  "next_run_at": "2026-08-15T11:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 247,
-    "runs_succeeded": 219,
-    "videos_published": 219
+    "runs_attempted": 248,
+    "runs_succeeded": 220,
+    "videos_published": 220
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-15T09:31:00Z",
+      "next_run_at": "2026-08-15T11:30:00Z",
       "totals": {
         "runs_attempted": 19,
         "runs_succeeded": 19,
@@ -96,20 +96,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-08-14T05:00:25Z",
-        "finished_at": "2026-08-14T05:12:42Z",
+        "started_at": "2026-08-15T06:00:18Z",
+        "finished_at": "2026-08-15T06:09:38Z",
         "status": "success",
-        "duration_seconds": 737.1,
-        "video_url": "https://www.youtube.com/watch?v=49uMEaQdEqk",
-        "video_title": "AI #65: Can AI Remember More Than You?",
+        "duration_seconds": 560.5,
+        "video_url": "https://www.youtube.com/watch?v=47nMPDGbGkU",
+        "video_title": "AI #66: Can AI Translate Your Thoughts?",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-15T06:00:00Z",
+      "next_run_at": "2026-08-16T06:00:00Z",
       "totals": {
-        "runs_attempted": 68,
-        "runs_succeeded": 65,
-        "videos_published": 65
+        "runs_attempted": 69,
+        "runs_succeeded": 66,
+        "videos_published": 66
       }
     },
     "shorts": {
@@ -124,7 +124,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-14T13:00:00Z",
+      "next_run_at": "2026-08-15T13:00:00Z",
       "totals": {
         "runs_attempted": 60,
         "runs_succeeded": 57,
@@ -135,6 +135,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-08-14T05:12:42Z"
+    "checked_at": "2026-08-15T06:09:38Z"
   }
 }
