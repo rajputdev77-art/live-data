@@ -1,58 +1,66 @@
 {
-  "updated_at": "2026-08-15T14:46:28Z",
+  "updated_at": "2026-08-15T15:05:17Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1172.6083950186242,
-    "total_value_usd": 1172.6083950186242,
-    "pnl_usd": 0.0,
-    "pnl_pct": 0.0
+    "balance_usd": 1019.8533522103837,
+    "total_value_usd": 1019.8533522103837,
+    "pnl_usd": 0.78,
+    "pnl_pct": 0.08
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.129243216346682,
-      "entry": 774.1919024999999,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.16840616005182465
     },
     {
-      "asset": "QQQ",
-      "size": -0.138534855369611,
-      "entry": 721.37913,
+      "asset": "kBONK",
+      "size": -3867.7918424753866,
+      "entry": 0.0028415785,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 1.920662271448665
     },
     {
-      "asset": "NVDA",
-      "size": 0.4550211584838695,
-      "entry": 219.939915,
+      "asset": "ETH",
+      "size": 0.02691380269747476,
+      "entry": 1887.9935249999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.14112319728927267
     },
     {
-      "asset": "MSFT",
-      "size": -0.19950721717358125,
-      "entry": 501.0843325,
+      "asset": "ARB",
+      "size": 144.98484249373928,
+      "entry": 0.07593794999999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.2795235270858023
     },
     {
-      "asset": "GOOG",
-      "size": -0.2858858172046085,
-      "entry": 349.72505,
+      "asset": "XRP",
+      "size": 10.87547580206634,
+      "entry": 1.0121558249999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.11534339314844858
+    },
+    {
+      "asset": "SUI",
+      "size": 15.964471793680971,
+      "entry": 0.689554605,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.1127826872559967
     }
   ],
   "last_decision": {
-    "at": "2026-08-15T14:46:28Z",
-    "asset": "SPY",
+    "at": "2026-08-15T15:05:17Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "Current price is above EMA20, but RSI14 is below 50, indicating a potential reversal."
+    "rationale": "hold-all: empty response"
   }
 }
