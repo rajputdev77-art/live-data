@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T06:09:39Z",
+  "updated_at": "2026-08-15T09:38:59Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -72,25 +72,25 @@
       "last_run": {
         "pipeline": "news",
         "status": "success",
-        "started_at": "2026-08-14T09:40:21.851268+00:00",
-        "finished_at": "2026-08-14T09:40:21.851268+00:00",
-        "video_url": "https://www.youtube.com/watch?v=OooBVvyUK5g",
-        "video_title": "\u091f\u094b\u092a\u0940 \u0935\u093f\u0915\u094d\u0930\u0947\u0924\u093e \u0914\u0930 \u092c\u0902\u0926\u0930 | The Cap Seller and the Monkeys | Hindi Kahani | KathaVerse",
+        "started_at": "2026-08-15T09:38:58.558068+00:00",
+        "finished_at": "2026-08-15T09:38:58.558068+00:00",
+        "video_url": "https://www.youtube.com/watch?v=JRct1mz8vX8",
+        "video_title": "\u091a\u093e\u0930 \u0926\u094b\u0938\u094d\u0924 \u0914\u0930 \u0936\u093f\u0915\u093e\u0930\u0940 | The Four Friends and the Hunter | Hindi Kahani | KathaVerse",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-15T11:30:00Z",
+      "next_run_at": "2026-08-16T09:31:00Z",
       "totals": {
-        "runs_attempted": 19,
-        "runs_succeeded": 19,
-        "videos_published": 19
+        "runs_attempted": 20,
+        "runs_succeeded": 20,
+        "videos_published": 20
       },
       "channel": {
         "id": "UCZzWA24H4iBzTorzWsN-ScQ",
         "title": "CalmSpark ",
         "subscriber_count": 8,
-        "video_count": 51,
-        "view_count": 49
+        "video_count": 52,
+        "view_count": 50
       }
     },
     "teaching": {
