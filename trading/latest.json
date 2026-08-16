@@ -1,58 +1,58 @@
 {
-  "updated_at": "2026-08-16T23:18:48Z",
+  "updated_at": "2026-08-16T23:19:14Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1172.6083950186242,
-    "total_value_usd": 1172.6083950186242,
-    "pnl_usd": 0.0,
-    "pnl_pct": 0.0
+    "balance_usd": 1019.7021729529871,
+    "total_value_usd": 1019.7021729529871,
+    "pnl_usd": 0.63,
+    "pnl_pct": 0.06
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.129243216346682,
-      "entry": 774.1919024999999,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.09792392095579522
     },
     {
-      "asset": "QQQ",
-      "size": -0.138534855369611,
-      "entry": 721.37913,
+      "asset": "kBONK",
+      "size": -3867.7918424753866,
+      "entry": 0.0028415785,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 2.056034985935303
     },
     {
-      "asset": "NVDA",
-      "size": 0.4550211584838695,
-      "entry": 219.939915,
+      "asset": "ETH",
+      "size": 0.02691380269747476,
+      "entry": 1887.9935249999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.3833474215665455
     },
     {
-      "asset": "MSFT",
-      "size": -0.19950721717358125,
-      "entry": 501.0843325,
+      "asset": "ARB",
+      "size": 144.98484249373928,
+      "entry": 0.07593794999999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.3708639778568589
     },
     {
-      "asset": "GOOG",
-      "size": -0.2858858172046085,
-      "entry": 349.72505,
+      "asset": "XRP",
+      "size": 10.87547580206634,
+      "entry": 1.0121558249999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.2182797716150059
     }
   ],
   "last_decision": {
-    "at": "2026-08-16T23:18:48Z",
-    "asset": "SPY",
+    "at": "2026-08-16T23:19:14Z",
+    "asset": "BTC",
     "action": "hold",
-    "rationale": "Current price is above the long-term ema20, and the recent trading history shows a stable trend."
+    "rationale": "hold-all: empty response"
   }
 }
