@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-15T09:38:59Z",
+  "updated_at": "2026-08-16T06:07:51Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 5,
-    "video_count": 229,
-    "view_count": 2275
+    "video_count": 232,
+    "view_count": 2297
   },
   "last_run": {
     "pipeline": "teaching",
-    "started_at": "2026-08-15T06:00:18Z",
-    "finished_at": "2026-08-15T06:09:38Z",
+    "started_at": "2026-08-16T06:00:14Z",
+    "finished_at": "2026-08-16T06:07:51Z",
     "status": "success",
-    "duration_seconds": 560.5,
-    "video_url": "https://www.youtube.com/watch?v=47nMPDGbGkU",
-    "video_title": "AI #66: Can AI Translate Your Thoughts?",
+    "duration_seconds": 456.1,
+    "video_url": "https://www.youtube.com/watch?v=OrQJ3h0AHPA",
+    "video_title": "AI #67: Can AI Translate Secrets?",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-08-15T11:30:00Z",
+  "next_run_at": "2026-08-16T11:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 248,
-    "runs_succeeded": 220,
-    "videos_published": 220
+    "runs_attempted": 249,
+    "runs_succeeded": 221,
+    "videos_published": 221
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-16T09:31:00Z",
+      "next_run_at": "2026-08-16T11:30:00Z",
       "totals": {
         "runs_attempted": 20,
         "runs_succeeded": 20,
@@ -96,20 +96,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-08-15T06:00:18Z",
-        "finished_at": "2026-08-15T06:09:38Z",
+        "started_at": "2026-08-16T06:00:14Z",
+        "finished_at": "2026-08-16T06:07:51Z",
         "status": "success",
-        "duration_seconds": 560.5,
-        "video_url": "https://www.youtube.com/watch?v=47nMPDGbGkU",
-        "video_title": "AI #66: Can AI Translate Your Thoughts?",
+        "duration_seconds": 456.1,
+        "video_url": "https://www.youtube.com/watch?v=OrQJ3h0AHPA",
+        "video_title": "AI #67: Can AI Translate Secrets?",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-16T06:00:00Z",
+      "next_run_at": "2026-08-17T05:00:00Z",
       "totals": {
-        "runs_attempted": 69,
-        "runs_succeeded": 66,
-        "videos_published": 66
+        "runs_attempted": 70,
+        "runs_succeeded": 67,
+        "videos_published": 67
       }
     },
     "shorts": {
@@ -124,7 +124,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-15T13:00:00Z",
+      "next_run_at": "2026-08-16T13:00:00Z",
       "totals": {
         "runs_attempted": 60,
         "runs_succeeded": 57,
@@ -135,6 +135,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-08-15T06:09:38Z"
+    "checked_at": "2026-08-16T06:07:51Z"
   }
 }
