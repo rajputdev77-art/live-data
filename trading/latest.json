@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-17T16:34:10Z",
+  "updated_at": "2026-08-17T17:34:41Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1172.6083950186242,
-    "total_value_usd": 1172.6083950186242,
-    "pnl_usd": 0.0,
-    "pnl_pct": 0.0
+    "balance_usd": 1176.8148715216616,
+    "total_value_usd": 1176.8148715216616,
+    "pnl_usd": 4.21,
+    "pnl_pct": 0.36
   },
   "open_positions": [
     {
@@ -33,14 +33,6 @@
       "unrealized_pnl": 0.0
     },
     {
-      "asset": "MSFT",
-      "size": -0.19950721717358125,
-      "entry": 501.0843325,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
-    {
       "asset": "GOOG",
       "size": -0.2858858172046085,
       "entry": 349.72505,
@@ -50,7 +42,7 @@
     }
   ],
   "last_decision": {
-    "at": "2026-08-17T16:34:10Z",
+    "at": "2026-08-17T17:34:41Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
