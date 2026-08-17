@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-08-17T15:22:40Z",
+  "updated_at": "2026-08-17T15:33:42Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1020.4658695766555,
-    "total_value_usd": 1020.4658695766555,
-    "pnl_usd": 1.39,
-    "pnl_pct": 0.14
+    "balance_usd": 1172.6083950186242,
+    "total_value_usd": 1172.6083950186242,
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "SPY",
+      "size": 0.129243216346682,
+      "entry": 774.1919024999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.2645734912080363
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "kBONK",
-      "size": -3867.7918424753866,
-      "entry": 0.0028415785,
+      "asset": "QQQ",
+      "size": -0.138534855369611,
+      "entry": 721.37913,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.021224859353025
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "ETH",
-      "size": 0.02691380269747476,
-      "entry": 1887.9935249999999,
+      "asset": "NVDA",
+      "size": 0.4550211584838695,
+      "entry": 219.939915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.45905460286441324
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "ARB",
-      "size": 144.98484249373928,
-      "entry": 0.07593794999999999,
+      "asset": "MSFT",
+      "size": -0.19950721717358125,
+      "entry": 501.0843325,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.1606359562409379
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "XRP",
-      "size": 10.87547580206634,
-      "entry": 1.0121558249999998,
+      "asset": "GOOG",
+      "size": -0.2858858172046085,
+      "entry": 349.72505,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.1099056552474136
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-08-17T15:22:40Z",
-    "asset": "BTC",
+    "at": "2026-08-17T15:33:42Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
