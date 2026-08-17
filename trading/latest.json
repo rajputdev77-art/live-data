@@ -1,49 +1,57 @@
 {
-  "updated_at": "2026-08-17T22:37:05Z",
+  "updated_at": "2026-08-17T23:23:31Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1176.8148715216616,
-    "total_value_usd": 1176.8148715216616,
-    "pnl_usd": 4.21,
-    "pnl_pct": 0.36
+    "balance_usd": 1020.5828006245274,
+    "total_value_usd": 1020.5828006245274,
+    "pnl_usd": 1.51,
+    "pnl_pct": 0.15
   },
   "open_positions": [
     {
-      "asset": "SPY",
-      "size": 0.129243216346682,
-      "entry": 774.1919024999999,
+      "asset": "SOL",
+      "size": -0.2671314754339217,
+      "entry": 74.81107575,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.27525875022539104
     },
     {
-      "asset": "QQQ",
-      "size": -0.138534855369611,
-      "entry": 721.37913,
+      "asset": "kBONK",
+      "size": -3867.7918424753866,
+      "entry": 0.0028415785,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 2.025092651195499
     },
     {
-      "asset": "NVDA",
-      "size": 0.4550211584838695,
-      "entry": 219.939915,
+      "asset": "ETH",
+      "size": 0.02691380269747476,
+      "entry": 1887.9935249999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.5882408558122909
     },
     {
-      "asset": "GOOG",
-      "size": -0.2858858172046085,
-      "entry": 349.72505,
+      "asset": "ARB",
+      "size": 144.98484249373928,
+      "entry": 0.07593794999999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.1606359562409379
+    },
+    {
+      "asset": "XRP",
+      "size": 10.87547580206634,
+      "entry": 1.0121558249999998,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.11534339314844858
     }
   ],
   "last_decision": {
-    "at": "2026-08-17T22:37:05Z",
-    "asset": "SPY",
+    "at": "2026-08-17T23:23:31Z",
+    "asset": "BTC",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
