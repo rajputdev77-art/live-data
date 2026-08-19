@@ -1,41 +1,49 @@
 {
-  "updated_at": "2026-08-19T07:26:55Z",
+  "updated_at": "2026-08-19T07:52:13Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1020.5544576097135,
-    "total_value_usd": 1020.5544576097135,
-    "pnl_usd": 1.48,
-    "pnl_pct": 0.15
+    "balance_usd": 1176.8148715216616,
+    "total_value_usd": 1176.8148715216616,
+    "pnl_usd": 4.21,
+    "pnl_pct": 0.36
   },
   "open_positions": [
     {
-      "asset": "SOL",
-      "size": -0.2671314754339217,
-      "entry": 74.81107575,
+      "asset": "SPY",
+      "size": 0.129243216346682,
+      "entry": 774.1919024999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.5816585525481007
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "kBONK",
-      "size": -3867.7918424753866,
-      "entry": 0.0028415785,
+      "asset": "QQQ",
+      "size": -0.138534855369611,
+      "entry": 721.37913,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.094712904360057
+      "unrealized_pnl": 0.0
     },
     {
-      "asset": "ARB",
-      "size": 144.98484249373928,
-      "entry": 0.07593794999999999,
+      "asset": "NVDA",
+      "size": 0.4550211584838695,
+      "entry": 219.939915,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.05829115592461004
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "GOOG",
+      "size": -0.2858858172046085,
+      "entry": 349.72505,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-08-19T07:26:55Z",
-    "asset": "BTC",
+    "at": "2026-08-19T07:52:13Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
