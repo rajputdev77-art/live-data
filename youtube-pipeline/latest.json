@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-19T09:43:58Z",
+  "updated_at": "2026-08-20T05:30:36Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 5,
-    "video_count": 241,
-    "view_count": 2367
+    "video_count": 244,
+    "view_count": 2388
   },
   "last_run": {
     "pipeline": "teaching",
-    "started_at": "2026-08-19T05:00:18Z",
-    "finished_at": "2026-08-19T05:26:01Z",
+    "started_at": "2026-08-20T05:00:07Z",
+    "finished_at": "2026-08-20T05:30:36Z",
     "status": "success",
-    "duration_seconds": 1542.3,
-    "video_url": "https://www.youtube.com/watch?v=GOx9m3F90wM",
-    "video_title": "AI #70: How Does Your Phone Know What You\u2019re Saying? \ud83e\udd14",
+    "duration_seconds": 1828.7,
+    "video_url": "https://www.youtube.com/watch?v=b8w7hG6Uh44",
+    "video_title": "AI #71: Can Your Phone Know What You\u2019re Thinking? Self-Attention Explained",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-08-19T10:00:00Z",
+  "next_run_at": "2026-08-20T10:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 252,
-    "runs_succeeded": 224,
-    "videos_published": 224
+    "runs_attempted": 253,
+    "runs_succeeded": 225,
+    "videos_published": 225
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-20T09:31:00Z",
+      "next_run_at": "2026-08-20T10:00:00Z",
       "totals": {
         "runs_attempted": 24,
         "runs_succeeded": 24,
@@ -96,20 +96,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-08-19T05:00:18Z",
-        "finished_at": "2026-08-19T05:26:01Z",
+        "started_at": "2026-08-20T05:00:07Z",
+        "finished_at": "2026-08-20T05:30:36Z",
         "status": "success",
-        "duration_seconds": 1542.3,
-        "video_url": "https://www.youtube.com/watch?v=GOx9m3F90wM",
-        "video_title": "AI #70: How Does Your Phone Know What You\u2019re Saying? \ud83e\udd14",
+        "duration_seconds": 1828.7,
+        "video_url": "https://www.youtube.com/watch?v=b8w7hG6Uh44",
+        "video_title": "AI #71: Can Your Phone Know What You\u2019re Thinking? Self-Attention Explained",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-20T05:00:00Z",
+      "next_run_at": "2026-08-21T05:00:00Z",
       "totals": {
-        "runs_attempted": 73,
-        "runs_succeeded": 70,
-        "videos_published": 70
+        "runs_attempted": 74,
+        "runs_succeeded": 71,
+        "videos_published": 71
       }
     },
     "shorts": {
@@ -124,7 +124,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-19T13:00:00Z",
+      "next_run_at": "2026-08-20T13:00:00Z",
       "totals": {
         "runs_attempted": 60,
         "runs_succeeded": 57,
@@ -135,6 +135,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-08-19T05:26:01Z"
+    "checked_at": "2026-08-20T05:30:36Z"
   }
 }
