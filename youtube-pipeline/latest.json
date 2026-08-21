@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T05:52:53Z",
+  "updated_at": "2026-08-21T09:54:11Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -72,24 +72,24 @@
       "last_run": {
         "pipeline": "news",
         "status": "success",
-        "started_at": "2026-08-20T09:51:27.218459+00:00",
-        "finished_at": "2026-08-20T09:51:27.218459+00:00",
-        "video_url": "https://www.youtube.com/watch?v=FBXzMF-iF7w",
-        "video_title": "\u0939\u093f\u0902\u0926\u0940 \u0928\u0948\u0924\u093f\u0915 \u0915\u0939\u093e\u0928\u0940: \u0930\u092c\u094d\u092c\u093f\u091f \u0914\u0930 \u092a\u094d\u0930\u0932\u092f \u0915\u0947 \u0932\u093e\u0939\u094b | Rabbit and the Bullying Lion | Hindi Story | KathaVerse",
+        "started_at": "2026-08-21T09:54:10.826490+00:00",
+        "finished_at": "2026-08-21T09:54:10.826490+00:00",
+        "video_url": "https://www.youtube.com/watch?v=6FZbHn6Km2w",
+        "video_title": "\u0905\u0928\u0941\u0936\u093e\u0938\u093f\u0924 \u092e\u0947\u0939\u092e\u093e\u0928 \u0926\u093f\u0935\u094d\u092f\u093e\u0915\u0930 | The Kind Deer | Hindi Story | KathaVerse | #hindikahaniya #moralstories #kidsstories (89 chars)",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-21T10:00:00Z",
+      "next_run_at": "2026-08-22T09:31:00Z",
       "totals": {
-        "runs_attempted": 25,
-        "runs_succeeded": 25,
-        "videos_published": 25
+        "runs_attempted": 26,
+        "runs_succeeded": 26,
+        "videos_published": 26
       },
       "channel": {
         "id": "UCZzWA24H4iBzTorzWsN-ScQ",
         "title": "CalmSpark ",
         "subscriber_count": 8,
-        "video_count": 57,
+        "video_count": 58,
         "view_count": 54
       }
     },
