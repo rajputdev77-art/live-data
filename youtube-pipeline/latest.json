@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T06:50:37Z",
+  "updated_at": "2026-08-22T09:58:25Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -72,24 +72,24 @@
       "last_run": {
         "pipeline": "news",
         "status": "success",
-        "started_at": "2026-08-21T09:54:10.826490+00:00",
-        "finished_at": "2026-08-21T09:54:10.826490+00:00",
-        "video_url": "https://www.youtube.com/watch?v=6FZbHn6Km2w",
-        "video_title": "\u0905\u0928\u0941\u0936\u093e\u0938\u093f\u0924 \u092e\u0947\u0939\u092e\u093e\u0928 \u0926\u093f\u0935\u094d\u092f\u093e\u0915\u0930 | The Kind Deer | Hindi Story | KathaVerse | #hindikahaniya #moralstories #kidsstories (89 chars)",
+        "started_at": "2026-08-22T09:58:24.775743+00:00",
+        "finished_at": "2026-08-22T09:58:24.775743+00:00",
+        "video_url": "https://www.youtube.com/watch?v=3xhDzmLH-sA",
+        "video_title": "\u092e\u0902\u0917\u094b\u0932 \u0914\u0930 \u0915\u094d\u0930\u0949\u0915\u0947\u0921\u093e\u0907\u0932 | The Monkey and the Crocodile | Hindi Kahaniya | KathaVerse (85 chars)",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-22T11:30:00Z",
+      "next_run_at": "2026-08-23T09:31:00Z",
       "totals": {
-        "runs_attempted": 26,
-        "runs_succeeded": 26,
-        "videos_published": 26
+        "runs_attempted": 27,
+        "runs_succeeded": 27,
+        "videos_published": 27
       },
       "channel": {
         "id": "UCZzWA24H4iBzTorzWsN-ScQ",
         "title": "CalmSpark ",
         "subscriber_count": 8,
-        "video_count": 58,
+        "video_count": 59,
         "view_count": 54
       }
     },
