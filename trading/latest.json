@@ -1,16 +1,49 @@
 {
-  "updated_at": "2026-08-21T23:33:52Z",
+  "updated_at": "2026-08-22T00:23:09Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1016.1001112125689,
-    "total_value_usd": 1016.1001112125689,
-    "pnl_usd": -2.97,
-    "pnl_pct": -0.29
+    "balance_usd": 1176.8148715216616,
+    "total_value_usd": 1176.8148715216616,
+    "pnl_usd": 4.21,
+    "pnl_pct": 0.36
   },
-  "open_positions": [],
+  "open_positions": [
+    {
+      "asset": "SPY",
+      "size": 0.129243216346682,
+      "entry": 774.1919024999999,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "QQQ",
+      "size": -0.138534855369611,
+      "entry": 721.37913,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "NVDA",
+      "size": 0.4550211584838695,
+      "entry": 219.939915,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "GOOG",
+      "size": -0.2858858172046085,
+      "entry": 349.72505,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    }
+  ],
   "last_decision": {
-    "at": "2026-08-21T23:33:52Z",
-    "asset": "BTC",
+    "at": "2026-08-22T00:23:09Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
