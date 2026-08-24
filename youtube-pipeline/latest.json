@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-23T09:48:51Z",
+  "updated_at": "2026-08-24T05:27:51Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 5,
-    "video_count": 253,
-    "view_count": 2440
+    "video_count": 256,
+    "view_count": 2448
   },
   "last_run": {
     "pipeline": "teaching",
-    "started_at": "2026-08-23T06:00:12Z",
-    "finished_at": "2026-08-23T06:26:48Z",
+    "started_at": "2026-08-24T05:00:24Z",
+    "finished_at": "2026-08-24T05:27:51Z",
     "status": "success",
-    "duration_seconds": 1595.9,
-    "video_url": "https://www.youtube.com/watch?v=KZ_TnpkguVg",
-    "video_title": "AI #74: How Your Phone Knows You Better Than Mommy and Daddy",
+    "duration_seconds": 1647.0,
+    "video_url": "https://www.youtube.com/watch?v=A7MbY1eCrMA",
+    "video_title": "AI #75: BERT: Learning to Fill in Blanks Like a Pro",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-08-23T11:30:00Z",
+  "next_run_at": "2026-08-24T08:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 256,
-    "runs_succeeded": 228,
-    "videos_published": 228
+    "runs_attempted": 257,
+    "runs_succeeded": 229,
+    "videos_published": 229
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-24T09:31:00Z",
+      "next_run_at": "2026-08-24T08:30:00Z",
       "totals": {
         "runs_attempted": 28,
         "runs_succeeded": 28,
@@ -96,20 +96,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-08-23T06:00:12Z",
-        "finished_at": "2026-08-23T06:26:48Z",
+        "started_at": "2026-08-24T05:00:24Z",
+        "finished_at": "2026-08-24T05:27:51Z",
         "status": "success",
-        "duration_seconds": 1595.9,
-        "video_url": "https://www.youtube.com/watch?v=KZ_TnpkguVg",
-        "video_title": "AI #74: How Your Phone Knows You Better Than Mommy and Daddy",
+        "duration_seconds": 1647.0,
+        "video_url": "https://www.youtube.com/watch?v=A7MbY1eCrMA",
+        "video_title": "AI #75: BERT: Learning to Fill in Blanks Like a Pro",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-24T05:00:00Z",
+      "next_run_at": "2026-08-25T05:00:00Z",
       "totals": {
-        "runs_attempted": 77,
-        "runs_succeeded": 74,
-        "videos_published": 74
+        "runs_attempted": 78,
+        "runs_succeeded": 75,
+        "videos_published": 75
       }
     },
     "shorts": {
@@ -124,7 +124,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-23T13:00:00Z",
+      "next_run_at": "2026-08-24T13:00:00Z",
       "totals": {
         "runs_attempted": 60,
         "runs_succeeded": 57,
@@ -135,6 +135,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-08-23T06:26:48Z"
+    "checked_at": "2026-08-24T05:27:51Z"
   }
 }
