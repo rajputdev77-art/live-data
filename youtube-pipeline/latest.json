@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T05:27:51Z",
+  "updated_at": "2026-08-24T09:45:51Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -72,24 +72,24 @@
       "last_run": {
         "pipeline": "news",
         "status": "success",
-        "started_at": "2026-08-23T09:48:51.150167+00:00",
-        "finished_at": "2026-08-23T09:48:51.150167+00:00",
-        "video_url": "https://www.youtube.com/watch?v=Rsmkf_V4mDY",
-        "video_title": "\u092c\u094d\u0932\u0942 \u091c\u093e\u0915\u0932 | The Blue Jackal | Hindi Kahaniya | KathaVerse (123 chars)",
+        "started_at": "2026-08-24T09:45:51.365306+00:00",
+        "finished_at": "2026-08-24T09:45:51.365306+00:00",
+        "video_url": "https://www.youtube.com/watch?v=mnsBSDpgs8M",
+        "video_title": "\u0905\u0902\u091f\u094d\u0938 \u0914\u0930 \u0939\u093e\u0925\u0940 | The Elephant and the Ants | Hindi Kahaniya | KathaVerse (91)",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-24T08:30:00Z",
+      "next_run_at": "2026-08-25T09:31:00Z",
       "totals": {
-        "runs_attempted": 28,
-        "runs_succeeded": 28,
-        "videos_published": 28
+        "runs_attempted": 29,
+        "runs_succeeded": 29,
+        "videos_published": 29
       },
       "channel": {
         "id": "UCZzWA24H4iBzTorzWsN-ScQ",
         "title": "CalmSpark ",
         "subscriber_count": 8,
-        "video_count": 60,
+        "video_count": 61,
         "view_count": 55
       }
     },
