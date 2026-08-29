@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-29T08:58:50Z",
+  "updated_at": "2026-08-29T09:00:12Z",
   "totals": {
     "blogs": 162,
     "videos": 36,
-    "reels": 58,
+    "reels": 59,
     "shorts": 57,
     "platforms_active": 9
   },
   "streak_days": 7,
-  "last_publish_at": "2026-08-29T08:58:50Z",
+  "last_publish_at": "2026-08-29T09:00:12Z",
   "today": {
     "date": "2026-08-29",
     "entries_processed": 1,
@@ -35,6 +35,12 @@
         "platform": "devto",
         "url": null,
         "at": "2026-08-29T08:58:50Z",
+        "entry_ts": "2:05 PM"
+      },
+      {
+        "platform": "instagram",
+        "url": null,
+        "at": "2026-08-29T09:00:12Z",
         "entry_ts": "2:05 PM"
       }
     ]
