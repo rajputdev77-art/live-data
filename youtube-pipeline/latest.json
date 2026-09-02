@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-01T09:55:12Z",
+  "updated_at": "2026-09-02T05:12:10Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 8,
-    "video_count": 262,
-    "view_count": 2468
+    "video_count": 271,
+    "view_count": 2551
   },
   "last_run": {
     "pipeline": "teaching",
-    "started_at": "2026-08-26T05:00:22Z",
-    "finished_at": "2026-08-26T05:30:33Z",
+    "started_at": "2026-09-02T05:00:11Z",
+    "finished_at": "2026-09-02T05:12:10Z",
     "status": "success",
-    "duration_seconds": 1811.1,
-    "video_url": "https://www.youtube.com/watch?v=JbRMfWzowLA",
-    "video_title": "AI #77: How Your Phone Can Turn Words into Numbers \ud83e\udd2f",
+    "duration_seconds": 718.4,
+    "video_url": "https://www.youtube.com/watch?v=fJQcY0zLwI8",
+    "video_title": "AI #78: Why Bigger AI Models Suddenly Get Smarter \u2013 The Secret Scaling Law",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-08-26T10:00:00Z",
+  "next_run_at": "2026-09-02T10:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 259,
-    "runs_succeeded": 231,
-    "videos_published": 231
+    "runs_attempted": 260,
+    "runs_succeeded": 232,
+    "videos_published": 232
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-09-02T09:31:00Z",
+      "next_run_at": "2026-09-02T10:00:00Z",
       "totals": {
         "runs_attempted": 36,
         "runs_succeeded": 36,
@@ -96,20 +96,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-08-26T05:00:22Z",
-        "finished_at": "2026-08-26T05:30:33Z",
+        "started_at": "2026-09-02T05:00:11Z",
+        "finished_at": "2026-09-02T05:12:10Z",
         "status": "success",
-        "duration_seconds": 1811.1,
-        "video_url": "https://www.youtube.com/watch?v=JbRMfWzowLA",
-        "video_title": "AI #77: How Your Phone Can Turn Words into Numbers \ud83e\udd2f",
+        "duration_seconds": 718.4,
+        "video_url": "https://www.youtube.com/watch?v=fJQcY0zLwI8",
+        "video_title": "AI #78: Why Bigger AI Models Suddenly Get Smarter \u2013 The Secret Scaling Law",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-27T05:00:00Z",
+      "next_run_at": "2026-09-03T05:00:00Z",
       "totals": {
-        "runs_attempted": 80,
-        "runs_succeeded": 77,
-        "videos_published": 77
+        "runs_attempted": 81,
+        "runs_succeeded": 78,
+        "videos_published": 78
       }
     },
     "shorts": {
@@ -124,7 +124,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-08-26T13:00:00Z",
+      "next_run_at": "2026-09-02T13:00:00Z",
       "totals": {
         "runs_attempted": 60,
         "runs_succeeded": 57,
@@ -135,6 +135,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-08-26T05:30:33Z"
+    "checked_at": "2026-09-02T05:12:10Z"
   }
 }
