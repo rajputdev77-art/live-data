@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-04T13:33:56Z",
+  "updated_at": "2026-09-05T06:15:20Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 8,
-    "video_count": 277,
+    "video_count": 280,
     "view_count": 2554
   },
   "last_run": {
     "pipeline": "teaching",
-    "started_at": "2026-09-04T05:00:04Z",
-    "finished_at": "2026-09-04T05:12:45Z",
+    "started_at": "2026-09-05T06:00:21Z",
+    "finished_at": "2026-09-05T06:15:19Z",
     "status": "success",
-    "duration_seconds": 761.0,
-    "video_url": "https://www.youtube.com/watch?v=EMaIbj5JA0o",
-    "video_title": "AI #80: How Humans Teach AI to Be Nice (RLHF Explained)",
+    "duration_seconds": 897.9,
+    "video_url": "https://www.youtube.com/watch?v=5Qu5t1GA7Po",
+    "video_title": "AI #81: Why Some AIs Can Create Anything While Others Only Choose",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-09-04T10:00:00Z",
+  "next_run_at": "2026-09-05T11:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 262,
-    "runs_succeeded": 234,
-    "videos_published": 234
+    "runs_attempted": 263,
+    "runs_succeeded": 235,
+    "videos_published": 235
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-09-05T13:30:00Z",
+      "next_run_at": "2026-09-05T11:30:00Z",
       "totals": {
         "runs_attempted": 36,
         "runs_succeeded": 36,
@@ -98,20 +98,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-09-04T05:00:04Z",
-        "finished_at": "2026-09-04T05:12:45Z",
+        "started_at": "2026-09-05T06:00:21Z",
+        "finished_at": "2026-09-05T06:15:19Z",
         "status": "success",
-        "duration_seconds": 761.0,
-        "video_url": "https://www.youtube.com/watch?v=EMaIbj5JA0o",
-        "video_title": "AI #80: How Humans Teach AI to Be Nice (RLHF Explained)",
+        "duration_seconds": 897.9,
+        "video_url": "https://www.youtube.com/watch?v=5Qu5t1GA7Po",
+        "video_title": "AI #81: Why Some AIs Can Create Anything While Others Only Choose",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-09-05T06:00:00Z",
+      "next_run_at": "2026-09-06T06:00:00Z",
       "totals": {
-        "runs_attempted": 83,
-        "runs_succeeded": 80,
-        "videos_published": 80
+        "runs_attempted": 84,
+        "runs_succeeded": 81,
+        "videos_published": 81
       }
     },
     "shorts": {
@@ -126,7 +126,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-09-04T13:00:00Z",
+      "next_run_at": "2026-09-05T13:00:00Z",
       "totals": {
         "runs_attempted": 60,
         "runs_succeeded": 57,
@@ -137,6 +137,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-09-04T05:12:45Z"
+    "checked_at": "2026-09-05T06:15:19Z"
   }
 }
