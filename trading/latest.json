@@ -1,21 +1,13 @@
 {
-  "updated_at": "2026-09-10T16:42:35Z",
+  "updated_at": "2026-09-10T17:43:01Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1177.9311119217823,
-    "total_value_usd": 1177.9311119217823,
-    "pnl_usd": 5.64,
-    "pnl_pct": 0.48
+    "balance_usd": 1175.8720603731256,
+    "total_value_usd": 1175.8720603731256,
+    "pnl_usd": 3.58,
+    "pnl_pct": 0.31
   },
   "open_positions": [
-    {
-      "asset": "SPY",
-      "size": 0.129243216346682,
-      "entry": 774.1919024999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.0
-    },
     {
       "asset": "QQQ",
       "size": -0.138534855369611,
@@ -26,7 +18,7 @@
     }
   ],
   "last_decision": {
-    "at": "2026-09-10T16:42:35Z",
+    "at": "2026-09-10T17:43:01Z",
     "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
