@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-11T13:19:59Z",
+  "updated_at": "2026-09-11T13:22:09Z",
   "totals": {
-    "blogs": 177,
+    "blogs": 180,
     "videos": 36,
-    "reels": 64,
+    "reels": 65,
     "shorts": 63,
     "platforms_active": 9
   },
   "streak_days": 7,
-  "last_publish_at": "2026-09-11T13:19:59Z",
+  "last_publish_at": "2026-09-11T13:22:09Z",
   "today": {
     "date": "2026-09-11",
     "entries_processed": 1,
@@ -17,6 +17,30 @@
         "platform": "linkedin",
         "url": null,
         "at": "2026-09-11T13:19:59Z",
+        "entry_ts": "6:15 PM"
+      },
+      {
+        "platform": "wordpress",
+        "url": null,
+        "at": "2026-09-11T13:20:13Z",
+        "entry_ts": "6:15 PM"
+      },
+      {
+        "platform": "blogger",
+        "url": null,
+        "at": "2026-09-11T13:20:14Z",
+        "entry_ts": "6:15 PM"
+      },
+      {
+        "platform": "devto",
+        "url": null,
+        "at": "2026-09-11T13:20:18Z",
+        "entry_ts": "6:15 PM"
+      },
+      {
+        "platform": "instagram",
+        "url": null,
+        "at": "2026-09-11T13:22:09Z",
         "entry_ts": "6:15 PM"
       }
     ]
