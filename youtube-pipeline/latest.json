@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-12T13:34:26Z",
+  "updated_at": "2026-09-13T06:12:23Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 8,
-    "video_count": 300,
-    "view_count": 2699
+    "video_count": 303,
+    "view_count": 2711
   },
   "last_run": {
     "pipeline": "teaching",
-    "started_at": "2026-09-12T06:00:16Z",
-    "finished_at": "2026-09-12T06:15:27Z",
+    "started_at": "2026-09-13T06:00:03Z",
+    "finished_at": "2026-09-13T06:12:22Z",
     "status": "success",
-    "duration_seconds": 910.8,
-    "video_url": "https://www.youtube.com/watch?v=zMS9WBok1ck",
-    "video_title": "AI #88: Why Does AI Invent Stories? The Mystery of Hallucinations",
+    "duration_seconds": 739.5,
+    "video_url": "https://www.youtube.com/watch?v=x4gG2yvTBZg",
+    "video_title": "AI #89: How AI Finds Answers Faster Than Google!",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-09-12T11:30:00Z",
+  "next_run_at": "2026-09-13T11:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 270,
-    "runs_succeeded": 242,
-    "videos_published": 242
+    "runs_attempted": 271,
+    "runs_succeeded": 243,
+    "videos_published": 243
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-09-13T13:30:00Z",
+      "next_run_at": "2026-09-13T11:30:00Z",
       "totals": {
         "runs_attempted": 36,
         "runs_succeeded": 36,
@@ -98,20 +98,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-09-12T06:00:16Z",
-        "finished_at": "2026-09-12T06:15:27Z",
+        "started_at": "2026-09-13T06:00:03Z",
+        "finished_at": "2026-09-13T06:12:22Z",
         "status": "success",
-        "duration_seconds": 910.8,
-        "video_url": "https://www.youtube.com/watch?v=zMS9WBok1ck",
-        "video_title": "AI #88: Why Does AI Invent Stories? The Mystery of Hallucinations",
+        "duration_seconds": 739.5,
+        "video_url": "https://www.youtube.com/watch?v=x4gG2yvTBZg",
+        "video_title": "AI #89: How AI Finds Answers Faster Than Google!",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-09-13T06:00:00Z",
+      "next_run_at": "2026-09-14T05:00:00Z",
       "totals": {
-        "runs_attempted": 91,
-        "runs_succeeded": 88,
-        "videos_published": 88
+        "runs_attempted": 92,
+        "runs_succeeded": 89,
+        "videos_published": 89
       }
     },
     "shorts": {
@@ -126,7 +126,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-09-12T13:00:00Z",
+      "next_run_at": "2026-09-13T13:00:00Z",
       "totals": {
         "runs_attempted": 60,
         "runs_succeeded": 57,
@@ -137,6 +137,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-09-12T06:15:27Z"
+    "checked_at": "2026-09-13T06:12:22Z"
   }
 }
