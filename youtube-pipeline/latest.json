@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-22T13:34:40Z",
+  "updated_at": "2026-09-23T05:11:59Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 8,
-    "video_count": 327,
-    "view_count": 2874
+    "video_count": 330,
+    "view_count": 2884
   },
   "last_run": {
     "pipeline": "teaching",
-    "started_at": "2026-09-22T05:00:08Z",
-    "finished_at": "2026-09-22T05:12:28Z",
+    "started_at": "2026-09-23T05:00:04Z",
+    "finished_at": "2026-09-23T05:11:59Z",
     "status": "success",
-    "duration_seconds": 739.7,
-    "video_url": "https://www.youtube.com/watch?v=lpWvwxkQHaQ",
-    "video_title": "AI #98: How to Teach a Computer to See Anything \u2013 Build an Image Classifier!",
+    "duration_seconds": 714.5,
+    "video_url": "https://www.youtube.com/watch?v=-wWpwEWvzh0",
+    "video_title": "AI #99: How to Put Your AI Model on the Internet in 5 Minutes",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-09-22T08:30:00Z",
+  "next_run_at": "2026-09-23T10:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 280,
-    "runs_succeeded": 252,
-    "videos_published": 252
+    "runs_attempted": 281,
+    "runs_succeeded": 253,
+    "videos_published": 253
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-09-23T13:30:00Z",
+      "next_run_at": "2026-09-23T10:00:00Z",
       "totals": {
         "runs_attempted": 40,
         "runs_succeeded": 40,
@@ -98,20 +98,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-09-22T05:00:08Z",
-        "finished_at": "2026-09-22T05:12:28Z",
+        "started_at": "2026-09-23T05:00:04Z",
+        "finished_at": "2026-09-23T05:11:59Z",
         "status": "success",
-        "duration_seconds": 739.7,
-        "video_url": "https://www.youtube.com/watch?v=lpWvwxkQHaQ",
-        "video_title": "AI #98: How to Teach a Computer to See Anything \u2013 Build an Image Classifier!",
+        "duration_seconds": 714.5,
+        "video_url": "https://www.youtube.com/watch?v=-wWpwEWvzh0",
+        "video_title": "AI #99: How to Put Your AI Model on the Internet in 5 Minutes",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-09-23T05:00:00Z",
+      "next_run_at": "2026-09-24T05:00:00Z",
       "totals": {
-        "runs_attempted": 101,
-        "runs_succeeded": 98,
-        "videos_published": 98
+        "runs_attempted": 102,
+        "runs_succeeded": 99,
+        "videos_published": 99
       }
     },
     "shorts": {
@@ -126,7 +126,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-09-22T13:00:00Z",
+      "next_run_at": "2026-09-23T13:00:00Z",
       "totals": {
         "runs_attempted": 60,
         "runs_succeeded": 57,
@@ -137,6 +137,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-09-22T05:12:28Z"
+    "checked_at": "2026-09-23T05:11:59Z"
   }
 }
