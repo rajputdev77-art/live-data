@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-23T00:13:09Z",
+  "updated_at": "2026-09-23T00:55:26Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1016.1001112125689,
-    "total_value_usd": 1016.1001112125689,
-    "pnl_usd": 0.0,
-    "pnl_pct": 0.0
+    "balance_usd": 1173.2924208408192,
+    "total_value_usd": 1173.2924208408192,
+    "pnl_usd": 1.0,
+    "pnl_pct": 0.09
   },
   "open_positions": [],
   "last_decision": {
-    "at": "2026-09-23T00:13:09Z",
-    "asset": "BTC",
+    "at": "2026-09-23T00:55:26Z",
+    "asset": "SPY",
     "action": "hold",
     "rationale": "hold-all: empty response"
   }
