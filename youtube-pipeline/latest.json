@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-16T13:34:45Z",
+  "updated_at": "2026-10-16T15:13:37Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
-    "subscriber_count": 8,
-    "video_count": 333,
-    "view_count": 2895
+    "subscriber_count": 10,
+    "video_count": 372,
+    "view_count": 3169
   },
   "last_run": {
     "pipeline": "teaching",
-    "started_at": "2026-09-24T05:00:05Z",
-    "finished_at": "2026-09-24T05:24:39Z",
+    "started_at": "2026-10-16T14:59:57Z",
+    "finished_at": "2026-10-16T15:13:37Z",
     "status": "success",
-    "duration_seconds": 1473.8,
-    "video_url": "https://www.youtube.com/watch?v=HQZ8WsTzwqc",
-    "video_title": "AI #100: Where Does an AI Engineer Start? Your Roadmap Revealed",
+    "duration_seconds": 819.5,
+    "video_url": "https://www.youtube.com/watch?v=_4bCoX7o-8I",
+    "video_title": "AI #101: What Really Happens When You Hit Enter on ChatGPT?",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-09-24T10:00:00Z",
+  "next_run_at": "2026-10-17T06:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 282,
-    "runs_succeeded": 254,
-    "videos_published": 254
+    "runs_attempted": 283,
+    "runs_succeeded": 255,
+    "videos_published": 255
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-10-17T13:30:00Z",
+      "next_run_at": "2026-10-17T11:30:00Z",
       "totals": {
         "runs_attempted": 52,
         "runs_succeeded": 52,
@@ -98,20 +98,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-09-24T05:00:05Z",
-        "finished_at": "2026-09-24T05:24:39Z",
+        "started_at": "2026-10-16T14:59:57Z",
+        "finished_at": "2026-10-16T15:13:37Z",
         "status": "success",
-        "duration_seconds": 1473.8,
-        "video_url": "https://www.youtube.com/watch?v=HQZ8WsTzwqc",
-        "video_title": "AI #100: Where Does an AI Engineer Start? Your Roadmap Revealed",
+        "duration_seconds": 819.5,
+        "video_url": "https://www.youtube.com/watch?v=_4bCoX7o-8I",
+        "video_title": "AI #101: What Really Happens When You Hit Enter on ChatGPT?",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-09-25T05:00:00Z",
+      "next_run_at": "2026-10-17T06:00:00Z",
       "totals": {
-        "runs_attempted": 103,
-        "runs_succeeded": 100,
-        "videos_published": 100
+        "runs_attempted": 104,
+        "runs_succeeded": 101,
+        "videos_published": 101
       }
     },
     "shorts": {
@@ -126,7 +126,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-09-24T13:00:00Z",
+      "next_run_at": "2026-10-17T13:00:00Z",
       "totals": {
         "runs_attempted": 60,
         "runs_succeeded": 57,
@@ -137,6 +137,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-09-24T05:24:39Z"
+    "checked_at": "2026-10-16T15:13:37Z"
   }
 }
