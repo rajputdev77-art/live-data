@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-16T15:13:37Z",
+  "updated_at": "2026-10-16T15:16:30Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 10,
-    "video_count": 372,
+    "video_count": 373,
     "view_count": 3169
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-10-16T14:59:57Z",
-    "finished_at": "2026-10-16T15:13:37Z",
+    "pipeline": "shorts",
+    "started_at": "2026-10-16T15:14:09Z",
+    "finished_at": "2026-10-16T15:16:30Z",
     "status": "success",
-    "duration_seconds": 819.5,
-    "video_url": "https://www.youtube.com/watch?v=_4bCoX7o-8I",
-    "video_title": "AI #101: What Really Happens When You Hit Enter on ChatGPT?",
+    "duration_seconds": 140.8,
+    "video_url": "https://www.youtube.com/watch?v=0sYVccgWIm4",
+    "video_title": "Three Heart Attacks in Four Days? #Shorts",
     "error": null,
     "stage_timings": {}
   },
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 283,
-    "runs_succeeded": 255,
-    "videos_published": 255
+    "runs_attempted": 284,
+    "runs_succeeded": 256,
+    "videos_published": 256
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -117,26 +117,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-08-08T13:00:00Z",
-        "finished_at": "2026-08-08T13:00:38Z",
+        "started_at": "2026-10-16T15:14:09Z",
+        "finished_at": "2026-10-16T15:16:30Z",
         "status": "success",
-        "duration_seconds": 37.5,
-        "video_url": "https://www.youtube.com/watch?v=lW5OyVFgDUE",
-        "video_title": "A Mother's Silent Strength",
+        "duration_seconds": 140.8,
+        "video_url": "https://www.youtube.com/watch?v=0sYVccgWIm4",
+        "video_title": "Three Heart Attacks in Four Days? #Shorts",
         "error": null,
         "stage_timings": {}
       },
       "next_run_at": "2026-10-17T13:00:00Z",
       "totals": {
-        "runs_attempted": 60,
-        "runs_succeeded": 57,
-        "videos_published": 57
+        "runs_attempted": 61,
+        "runs_succeeded": 58,
+        "videos_published": 58
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-10-16T15:13:37Z"
+    "checked_at": "2026-10-16T15:16:30Z"
   }
 }
