@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-16T15:16:30Z",
+  "updated_at": "2026-10-17T06:13:13Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 10,
-    "video_count": 373,
-    "view_count": 3169
+    "video_count": 374,
+    "view_count": 3174
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-10-16T15:14:09Z",
-    "finished_at": "2026-10-16T15:16:30Z",
+    "pipeline": "teaching",
+    "started_at": "2026-10-17T06:00:04Z",
+    "finished_at": "2026-10-17T06:13:12Z",
     "status": "success",
-    "duration_seconds": 140.8,
-    "video_url": "https://www.youtube.com/watch?v=0sYVccgWIm4",
-    "video_title": "Three Heart Attacks in Four Days? #Shorts",
+    "duration_seconds": 788.5,
+    "video_url": "https://www.youtube.com/watch?v=wjfmdcW-qm0",
+    "video_title": "AI #102: Why AI Misses the R's in \u201cStrawberry\u201d \u2013 The Token Mystery",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-10-17T06:00:00Z",
+  "next_run_at": "2026-10-17T11:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 284,
-    "runs_succeeded": 256,
-    "videos_published": 256
+    "runs_attempted": 285,
+    "runs_succeeded": 257,
+    "videos_published": 257
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -98,20 +98,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-10-16T14:59:57Z",
-        "finished_at": "2026-10-16T15:13:37Z",
+        "started_at": "2026-10-17T06:00:04Z",
+        "finished_at": "2026-10-17T06:13:12Z",
         "status": "success",
-        "duration_seconds": 819.5,
-        "video_url": "https://www.youtube.com/watch?v=_4bCoX7o-8I",
-        "video_title": "AI #101: What Really Happens When You Hit Enter on ChatGPT?",
+        "duration_seconds": 788.5,
+        "video_url": "https://www.youtube.com/watch?v=wjfmdcW-qm0",
+        "video_title": "AI #102: Why AI Misses the R's in \u201cStrawberry\u201d \u2013 The Token Mystery",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-10-17T06:00:00Z",
+      "next_run_at": "2026-10-18T06:00:00Z",
       "totals": {
-        "runs_attempted": 104,
-        "runs_succeeded": 101,
-        "videos_published": 101
+        "runs_attempted": 105,
+        "runs_succeeded": 102,
+        "videos_published": 102
       }
     },
     "shorts": {
@@ -137,6 +137,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-10-16T15:16:30Z"
+    "checked_at": "2026-10-17T06:13:12Z"
   }
 }
