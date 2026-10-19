@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-18T13:33:37Z",
+  "updated_at": "2026-10-19T05:15:44Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 10,
-    "video_count": 378,
-    "view_count": 3196
+    "video_count": 380,
+    "view_count": 3263
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-10-18T13:00:19Z",
-    "finished_at": "2026-10-18T13:03:28Z",
+    "pipeline": "teaching",
+    "started_at": "2026-10-19T05:00:26Z",
+    "finished_at": "2026-10-19T05:15:44Z",
     "status": "success",
-    "duration_seconds": 188.7,
-    "video_url": "https://www.youtube.com/watch?v=DWupItg9zTg",
-    "video_title": "Eva Marcille vs. HOA: Legal Battle Explained #Shorts",
+    "duration_seconds": 917.3,
+    "video_url": "https://www.youtube.com/watch?v=Djg2RZ7bZUQ",
+    "video_title": "AI #104: What Hidden Numbers Decide Every Word a Bot Says?",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-10-19T05:00:00Z",
+  "next_run_at": "2026-10-19T08:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 288,
-    "runs_succeeded": 260,
-    "videos_published": 260
+    "runs_attempted": 289,
+    "runs_succeeded": 261,
+    "videos_published": 261
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-10-19T13:30:00Z",
+      "next_run_at": "2026-10-19T08:30:00Z",
       "totals": {
         "runs_attempted": 54,
         "runs_succeeded": 54,
@@ -98,20 +98,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-10-18T06:00:19Z",
-        "finished_at": "2026-10-18T06:16:20Z",
+        "started_at": "2026-10-19T05:00:26Z",
+        "finished_at": "2026-10-19T05:15:44Z",
         "status": "success",
-        "duration_seconds": 961.4,
-        "video_url": "https://www.youtube.com/watch?v=pdTgtb3pRjg",
-        "video_title": "AI #103: What Does a Word Map Look Like Inside AI?",
+        "duration_seconds": 917.3,
+        "video_url": "https://www.youtube.com/watch?v=Djg2RZ7bZUQ",
+        "video_title": "AI #104: What Hidden Numbers Decide Every Word a Bot Says?",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-10-19T05:00:00Z",
+      "next_run_at": "2026-10-20T05:00:00Z",
       "totals": {
-        "runs_attempted": 106,
-        "runs_succeeded": 103,
-        "videos_published": 103
+        "runs_attempted": 107,
+        "runs_succeeded": 104,
+        "videos_published": 104
       }
     },
     "shorts": {
@@ -137,6 +137,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-10-18T13:03:28Z"
+    "checked_at": "2026-10-19T05:15:44Z"
   }
 }
