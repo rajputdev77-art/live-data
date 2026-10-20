@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-20T05:14:49Z",
+  "updated_at": "2026-10-20T13:03:38Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 10,
-    "video_count": 383,
-    "view_count": 3269
+    "video_count": 384,
+    "view_count": 3281
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-10-20T05:00:20Z",
-    "finished_at": "2026-10-20T05:14:49Z",
+    "pipeline": "shorts",
+    "started_at": "2026-10-20T13:00:25Z",
+    "finished_at": "2026-10-20T13:03:37Z",
     "status": "success",
-    "duration_seconds": 868.8,
-    "video_url": "https://www.youtube.com/watch?v=jSR08tsrybU",
-    "video_title": "AI #105: Why Does Your AI Forget After 4,096 Words?",
+    "duration_seconds": 192.9,
+    "video_url": "https://www.youtube.com/watch?v=4ZPrE0BgEIA",
+    "video_title": "Anthropic Gives 5% Shares to Public Benefit Fund #Shorts",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-10-20T08:30:00Z",
+  "next_run_at": "2026-10-21T05:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 291,
-    "runs_succeeded": 263,
-    "videos_published": 263
+    "runs_attempted": 292,
+    "runs_succeeded": 264,
+    "videos_published": 264
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-10-20T08:30:00Z",
+      "next_run_at": "2026-10-21T10:00:00Z",
       "totals": {
         "runs_attempted": 55,
         "runs_succeeded": 55,
@@ -117,26 +117,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-10-19T13:00:04Z",
-        "finished_at": "2026-10-19T13:03:48Z",
+        "started_at": "2026-10-20T13:00:25Z",
+        "finished_at": "2026-10-20T13:03:37Z",
         "status": "success",
-        "duration_seconds": 224.0,
-        "video_url": "https://www.youtube.com/watch?v=3I2GaOEC9aY",
-        "video_title": "Michigan's Epic Win Over Penn State Shock Fans #Shorts",
+        "duration_seconds": 192.9,
+        "video_url": "https://www.youtube.com/watch?v=4ZPrE0BgEIA",
+        "video_title": "Anthropic Gives 5% Shares to Public Benefit Fund #Shorts",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-10-20T13:00:00Z",
+      "next_run_at": "2026-10-21T13:00:00Z",
       "totals": {
-        "runs_attempted": 64,
-        "runs_succeeded": 61,
-        "videos_published": 61
+        "runs_attempted": 65,
+        "runs_succeeded": 62,
+        "videos_published": 62
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-10-20T05:14:49Z"
+    "checked_at": "2026-10-20T13:03:37Z"
   }
 }
