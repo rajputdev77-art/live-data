@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-21T05:11:15Z",
+  "updated_at": "2026-10-21T13:03:51Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 10,
-    "video_count": 386,
+    "video_count": 387,
     "view_count": 3371
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-10-21T05:00:26Z",
-    "finished_at": "2026-10-21T05:11:15Z",
+    "pipeline": "shorts",
+    "started_at": "2026-10-21T13:00:14Z",
+    "finished_at": "2026-10-21T13:03:51Z",
     "status": "success",
-    "duration_seconds": 649.1,
-    "video_url": "https://www.youtube.com/watch?v=AMG-Qbz6WFA",
-    "video_title": "AI #106: Why Your AI Chat Replies Get Faster After the First Word",
+    "duration_seconds": 216.8,
+    "video_url": "https://www.youtube.com/watch?v=PLrN7_O726Y",
+    "video_title": "49ers Stun Commanders 6-0 Victory! #Shorts",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-10-21T10:00:00Z",
+  "next_run_at": "2026-10-22T05:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 293,
-    "runs_succeeded": 265,
-    "videos_published": 265
+    "runs_attempted": 294,
+    "runs_succeeded": 266,
+    "videos_published": 266
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-10-21T10:00:00Z",
+      "next_run_at": "2026-10-22T10:00:00Z",
       "totals": {
         "runs_attempted": 56,
         "runs_succeeded": 56,
@@ -117,26 +117,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-10-20T13:00:25Z",
-        "finished_at": "2026-10-20T13:03:37Z",
+        "started_at": "2026-10-21T13:00:14Z",
+        "finished_at": "2026-10-21T13:03:51Z",
         "status": "success",
-        "duration_seconds": 192.9,
-        "video_url": "https://www.youtube.com/watch?v=4ZPrE0BgEIA",
-        "video_title": "Anthropic Gives 5% Shares to Public Benefit Fund #Shorts",
+        "duration_seconds": 216.8,
+        "video_url": "https://www.youtube.com/watch?v=PLrN7_O726Y",
+        "video_title": "49ers Stun Commanders 6-0 Victory! #Shorts",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-10-21T13:00:00Z",
+      "next_run_at": "2026-10-22T13:00:00Z",
       "totals": {
-        "runs_attempted": 65,
-        "runs_succeeded": 62,
-        "videos_published": 62
+        "runs_attempted": 66,
+        "runs_succeeded": 63,
+        "videos_published": 63
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-10-21T05:11:15Z"
+    "checked_at": "2026-10-21T13:03:51Z"
   }
 }
