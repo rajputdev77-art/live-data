@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-23T05:11:06Z",
+  "updated_at": "2026-10-23T13:03:46Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 10,
-    "video_count": 391,
+    "video_count": 392,
     "view_count": 3789
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-10-23T05:00:06Z",
-    "finished_at": "2026-10-23T05:11:06Z",
+    "pipeline": "shorts",
+    "started_at": "2026-10-23T13:00:22Z",
+    "finished_at": "2026-10-23T13:03:46Z",
     "status": "success",
-    "duration_seconds": 659.6,
-    "video_url": "https://www.youtube.com/watch?v=MxQM1B8h-ZM",
-    "video_title": "AI #108: What Secret Instructions Make Your Chatbot Behave Like a Wizard?",
+    "duration_seconds": 203.8,
+    "video_url": "https://www.youtube.com/watch?v=nT3hbmCyZ7U",
+    "video_title": "Vance vs Ohio: Why the \u2018Stop Whining\u2019 Ad Scandal Could Shape 2028 #Shorts",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-10-23T10:00:00Z",
+  "next_run_at": "2026-10-24T06:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 297,
-    "runs_succeeded": 269,
-    "videos_published": 269
+    "runs_attempted": 298,
+    "runs_succeeded": 270,
+    "videos_published": 270
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-10-23T10:00:00Z",
+      "next_run_at": "2026-10-24T11:30:00Z",
       "totals": {
         "runs_attempted": 58,
         "runs_succeeded": 58,
@@ -117,26 +117,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-10-22T13:00:28Z",
-        "finished_at": "2026-10-22T13:03:15Z",
+        "started_at": "2026-10-23T13:00:22Z",
+        "finished_at": "2026-10-23T13:03:46Z",
         "status": "success",
-        "duration_seconds": 166.9,
-        "video_url": "https://www.youtube.com/watch?v=xKkoHLae9NQ",
-        "video_title": "76ers Stun Knicks 106-100: Shock Victory! #Shorts",
+        "duration_seconds": 203.8,
+        "video_url": "https://www.youtube.com/watch?v=nT3hbmCyZ7U",
+        "video_title": "Vance vs Ohio: Why the \u2018Stop Whining\u2019 Ad Scandal Could Shape 2028 #Shorts",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-10-23T13:00:00Z",
+      "next_run_at": "2026-10-24T13:00:00Z",
       "totals": {
-        "runs_attempted": 67,
-        "runs_succeeded": 64,
-        "videos_published": 64
+        "runs_attempted": 68,
+        "runs_succeeded": 65,
+        "videos_published": 65
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-10-23T05:11:06Z"
+    "checked_at": "2026-10-23T13:03:46Z"
   }
 }
