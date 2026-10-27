@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T13:03:17Z",
+  "updated_at": "2026-10-27T13:30:46Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -72,25 +72,25 @@
       "last_run": {
         "pipeline": "news",
         "status": "success",
-        "started_at": "2026-10-26T13:32:12.199936+00:00",
-        "finished_at": "2026-10-26T13:32:12.199936+00:00",
-        "video_url": "https://www.youtube.com/watch?v=zXnh2iiP1L8",
-        "video_title": "\u0924\u0947\u0928\u093e\u0932\u0940 \u0914\u0930 \u092c\u0902\u0926 \u092c\u0949\u0915\u094d\u0938 | \u0909\u0938 \u0926\u0930\u092c\u093e\u0930\u0940 \u0928\u0947 \u0915\u094d\u092f\u093e \u091b\u0941\u092a\u093e\u092f\u093e? | KathaVerse",
+        "started_at": "2026-10-27T13:30:46.018207+00:00",
+        "finished_at": "2026-10-27T13:30:46.018207+00:00",
+        "video_url": "https://www.youtube.com/watch?v=nWRBkxMGtq0",
+        "video_title": "\u092a\u0924\u094d\u0925\u0930 \u0924\u094b\u0921\u093c\u0928\u0947 \u0935\u093e\u0932\u093e \u0914\u0930 \u0905\u0939\u0902\u0915\u093e\u0930 \u0915\u0940 \u0938\u091c\u093c\u093e | KathaVerse",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-10-28T10:00:00Z",
+      "next_run_at": "2026-10-28T13:30:00Z",
       "totals": {
-        "runs_attempted": 62,
-        "runs_succeeded": 62,
-        "videos_published": 62
+        "runs_attempted": 63,
+        "runs_succeeded": 63,
+        "videos_published": 63
       },
       "channel": {
         "id": "UCZzWA24H4iBzTorzWsN-ScQ",
         "title": "CalmSpark ",
         "subscriber_count": 14,
-        "video_count": 94,
-        "view_count": 823
+        "video_count": 95,
+        "view_count": 854
       },
       "label": "KathaVerse",
       "channel_name": "CalmSpark"
