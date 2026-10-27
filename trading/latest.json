@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T18:29:10Z",
+  "updated_at": "2026-10-27T19:29:36Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1173.2924208408192,
@@ -7,11 +7,68 @@
     "pnl_usd": 0.0,
     "pnl_pct": 0.0
   },
-  "open_positions": [],
+  "open_positions": [
+    {
+      "asset": "SPY",
+      "size": 0.10400821664911529,
+      "entry": 769.5595874999999,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "QQQ",
+      "size": 0.11104402201447737,
+      "entry": 720.7952174999999,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "NVDA",
+      "size": -0.36773155596414614,
+      "entry": 217.4262325,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AMZN",
+      "size": 0.31507226970186286,
+      "entry": 254.10698999999997,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "META",
+      "size": -0.12859048751868582,
+      "entry": 621.798945,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "TSLA",
+      "size": 0.1972483850288476,
+      "entry": 405.752775,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.23344713881350493,
+      "entry": 342.8363325,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
+    }
+  ],
   "last_decision": {
-    "at": "2026-10-27T18:29:10Z",
+    "at": "2026-10-27T19:29:36Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "Price just below short\u2011term EMA20 but above long\u2011term EMA20/50, MACD slightly positive and RSI7 low indicating slight oversold; modest bullish bias."
+    "action": "hold",
+    "rationale": "Price above EMA20 with positive MACD; RSI7 overbought but stop\u2011loss far below entry, so keep position."
   }
 }
