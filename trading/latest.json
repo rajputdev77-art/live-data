@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T19:29:36Z",
+  "updated_at": "2026-10-28T13:35:25Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1173.2924208408192,
@@ -66,9 +66,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-10-27T19:29:36Z",
+    "at": "2026-10-28T13:35:25Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price above EMA20 with positive MACD; RSI7 overbought but stop\u2011loss far below entry, so keep position."
+    "rationale": "EMA20 > EMA50, MACD positive, RSI moderate; position size within limits and exposure budget already tight"
   }
 }
