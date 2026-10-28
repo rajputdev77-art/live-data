@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T17:37:30Z",
+  "updated_at": "2026-10-28T18:38:01Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1173.2924208408192,
@@ -74,9 +74,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-10-28T17:37:30Z",
+    "at": "2026-10-28T18:38:01Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Position is near entry, price slightly above EMA20, MACD neutral; no clear signal to adjust."
+    "rationale": "Price above EMA20, bullish MACD, but RSI overbought; position still below TP and within risk limits."
   }
 }
