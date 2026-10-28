@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T16:37:03Z",
+  "updated_at": "2026-10-28T17:37:30Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1173.2924208408192,
@@ -63,12 +63,20 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 0.0
+    },
+    {
+      "asset": "AAPL",
+      "size": 0.057870370370370364,
+      "entry": 345.782805,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.0
     }
   ],
   "last_decision": {
-    "at": "2026-10-28T16:37:03Z",
+    "at": "2026-10-28T17:37:30Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price marginally above EMA20, MACD positive, RSI neutral \u2013 position remains valid."
+    "rationale": "Position is near entry, price slightly above EMA20, MACD neutral; no clear signal to adjust."
   }
 }
