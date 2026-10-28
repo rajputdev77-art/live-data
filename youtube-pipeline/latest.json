@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-27T13:30:46Z",
+  "updated_at": "2026-10-28T05:15:54Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 10,
-    "video_count": 404,
-    "view_count": 3921
+    "video_count": 406,
+    "view_count": 3929
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-10-27T13:00:12Z",
-    "finished_at": "2026-10-27T13:03:16Z",
+    "pipeline": "teaching",
+    "started_at": "2026-10-28T05:00:23Z",
+    "finished_at": "2026-10-28T05:15:54Z",
     "status": "success",
-    "duration_seconds": 184.7,
-    "video_url": "https://www.youtube.com/watch?v=_Gu7vDix2sw",
-    "video_title": "Rainy Umbrella Pact",
+    "duration_seconds": 930.2,
+    "video_url": "https://www.youtube.com/watch?v=m7JzMDQMpiY",
+    "video_title": "Inference-Time Scaling: How Giving AI More Compute Improves Answers | AI Lesson 113",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-10-28T05:00:00Z",
+  "next_run_at": "2026-10-28T10:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 306,
-    "runs_succeeded": 278,
-    "videos_published": 278
+    "runs_attempted": 307,
+    "runs_succeeded": 279,
+    "videos_published": 279
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-10-28T13:30:00Z",
+      "next_run_at": "2026-10-28T10:00:00Z",
       "totals": {
         "runs_attempted": 63,
         "runs_succeeded": 63,
@@ -98,20 +98,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-10-27T05:00:20Z",
-        "finished_at": "2026-10-27T05:15:31Z",
+        "started_at": "2026-10-28T05:00:23Z",
+        "finished_at": "2026-10-28T05:15:54Z",
         "status": "success",
-        "duration_seconds": 910.9,
-        "video_url": "https://www.youtube.com/watch?v=8glIDGPp7E4",
-        "video_title": "AI #112: Can a Robot Show Its Homework? Inside Chain\u2011of\u2011Thought Prompting",
+        "duration_seconds": 930.2,
+        "video_url": "https://www.youtube.com/watch?v=m7JzMDQMpiY",
+        "video_title": "Inference-Time Scaling: How Giving AI More Compute Improves Answers | AI Lesson 113",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-10-28T05:00:00Z",
+      "next_run_at": "2026-10-29T05:00:00Z",
       "totals": {
-        "runs_attempted": 115,
-        "runs_succeeded": 112,
-        "videos_published": 112
+        "runs_attempted": 116,
+        "runs_succeeded": 113,
+        "videos_published": 113
       }
     },
     "shorts": {
@@ -137,6 +137,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-10-27T13:03:16Z"
+    "checked_at": "2026-10-28T05:15:54Z"
   }
 }
