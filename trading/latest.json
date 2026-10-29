@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-29T15:35:25Z",
+  "updated_at": "2026-10-29T16:09:32Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1173.2924208408192,
-    "total_value_usd": 1173.2924208408192,
+    "balance_usd": 1171.523960087224,
+    "total_value_usd": 1171.523960087224,
     "pnl_usd": 0.0,
     "pnl_pct": 0.0
   },
@@ -14,7 +14,7 @@
       "entry": 769.5595874999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.019284423469464247
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 720.7952174999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -0.4925043897089851
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 217.4262325,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 1.3371574350723991
     },
     {
       "asset": "AMZN",
@@ -38,7 +38,7 @@
       "entry": 254.10698999999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -2.281750226458181
     },
     {
       "asset": "META",
@@ -46,7 +46,7 @@
       "entry": 621.798945,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": -1.1047279507498413
     },
     {
       "asset": "TSLA",
@@ -54,7 +54,7 @@
       "entry": 405.752775,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.05270969968933306
     },
     {
       "asset": "AVGO",
@@ -62,7 +62,7 @@
       "entry": 342.8363325,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.5004330444424973
     },
     {
       "asset": "AAPL",
@@ -70,13 +70,13 @@
       "entry": 345.782805,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0
+      "unrealized_pnl": 0.20093721064814807
     }
   ],
   "last_decision": {
-    "at": "2026-10-29T15:35:25Z",
+    "at": "2026-10-29T16:09:32Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Position within risk limits; price near entry; no TP hit; indicators neutral."
+    "rationale": "Position is near entry with minimal PnL; TP/SL still wide and technicals are neutral."
   }
 }
