@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29T17:10:01Z",
+  "updated_at": "2026-10-29T18:10:42Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1170.6617582366623,
-    "total_value_usd": 1170.6617582366623,
-    "pnl_usd": -0.86,
+    "balance_usd": 1170.6822817827915,
+    "total_value_usd": 1170.6822817827915,
+    "pnl_usd": -0.84,
     "pnl_pct": -0.07
   },
   "open_positions": [
@@ -14,7 +14,7 @@
       "entry": 769.5595874999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.06860251959904101
+      "unrealized_pnl": -0.22149459807324332
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 720.7952174999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6568495422904136
+      "unrealized_pnl": -0.838961738394155
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 217.4262325,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.5026366352562606
+      "unrealized_pnl": 1.6681158354401326
     },
     {
       "asset": "AMZN",
@@ -38,7 +38,7 @@
       "entry": 254.10698999999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.538534126265198
+      "unrealized_pnl": -2.970183135756752
     },
     {
       "asset": "META",
@@ -46,7 +46,7 @@
       "entry": 621.798945,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2564647260218986
+      "unrealized_pnl": -0.7832517319531267
     },
     {
       "asset": "TSLA",
@@ -54,7 +54,7 @@
       "entry": 405.752775,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.3486907638443655
+      "unrealized_pnl": -0.10903397603432062
     },
     {
       "asset": "AVGO",
@@ -62,7 +62,7 @@
       "entry": 342.8363325,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5051019872187631
+      "unrealized_pnl": 0.3988835390586221
     },
     {
       "asset": "AAPL",
@@ -70,13 +70,13 @@
       "entry": 345.782805,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.23074045138888802
+      "unrealized_pnl": 0.2457867476851838
     }
   ],
   "last_decision": {
-    "at": "2026-10-29T17:10:01Z",
+    "at": "2026-10-29T18:10:42Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price near EMA20, modest bearish MACD, RSI neutral; still above mandatory stop."
+    "rationale": "Price is slightly below EMA20 and MACD negative; however the position is within its 5% mandatory stop and still has upside to the original TP, so we keep the trade."
   }
 }
