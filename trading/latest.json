@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T19:38:28Z",
+  "updated_at": "2026-10-29T13:34:15Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1173.2924208408192,
@@ -74,9 +74,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-10-28T19:38:28Z",
+    "at": "2026-10-29T13:34:15Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price 770.81 is slightly below EMA20, MACD near zero, RSI neutral; position is profitable and within risk limits, no need to adjust."
+    "rationale": "Long position is slightly underwater; bearish short\u2011term signals justify keeping the stop at the mandatory 5\u202f% level (\u2248731) and letting the trade run to its TP."
   }
 }
