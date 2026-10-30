@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30T17:34:38Z",
+  "updated_at": "2026-10-30T18:35:16Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1165.7456801375067,
-    "total_value_usd": 1165.7456801375067,
-    "pnl_usd": -5.78,
-    "pnl_pct": -0.49
+    "balance_usd": 1162.0913324926537,
+    "total_value_usd": 1162.0913324926537,
+    "pnl_usd": -9.43,
+    "pnl_pct": -0.81
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 769.5595874999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.5236774705201648
+      "unrealized_pnl": -1.966752473445395
     },
     {
       "asset": "TSLA",
@@ -22,7 +22,7 @@
       "entry": 405.752775,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.487800187385967
+      "unrealized_pnl": -2.24622022782188
     },
     {
       "asset": "MSFT",
@@ -30,7 +30,7 @@
       "entry": 529.58466,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.3803792973177091
+      "unrealized_pnl": -1.591183981866269
     },
     {
       "asset": "AAPL",
@@ -38,7 +38,7 @@
       "entry": 347.1735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.16517143556585034
+      "unrealized_pnl": -1.220713390838526
     },
     {
       "asset": "NVDA",
@@ -46,7 +46,7 @@
       "entry": 206.16303,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2089436893203809
+      "unrealized_pnl": -2.0167106796116476
     },
     {
       "asset": "GOOG",
@@ -54,13 +54,13 @@
       "entry": 278.84935499999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.48758482174878953
+      "unrealized_pnl": -0.8663237931281722
     }
   ],
   "last_decision": {
-    "at": "2026-10-30T17:34:38Z",
+    "at": "2026-10-30T18:35:16Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price below entry but above SL; indicators bearish but stop\u2011loss intact; no reason to exit or adjust now."
+    "rationale": "Position is modestly down but above SL; RSI extremely low suggests possible rebound, however adding would increase exposure beyond the remaining headroom. Hold until clearer signal."
   }
 }
