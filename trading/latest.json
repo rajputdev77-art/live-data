@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30T13:32:19Z",
+  "updated_at": "2026-10-30T14:32:54Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1164.8107078916205,
-    "total_value_usd": 1164.8107078916205,
-    "pnl_usd": -6.71,
-    "pnl_pct": -0.57
+    "balance_usd": 1165.0456180446022,
+    "total_value_usd": 1165.0456180446022,
+    "pnl_usd": -6.48,
+    "pnl_pct": -0.55
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 769.5595874999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.9214698961217793
+      "unrealized_pnl": -1.196051588075454
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 720.7952174999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.764465080125196
+      "unrealized_pnl": -2.9332519935871995
     },
     {
       "asset": "TSLA",
@@ -30,7 +30,7 @@
       "entry": 405.752775,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.760052270822032
+      "unrealized_pnl": -1.5035800581882717
     },
     {
       "asset": "AVGO",
@@ -38,7 +38,7 @@
       "entry": 342.8363325,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.7643251918643723
+      "unrealized_pnl": -3.5895608275701183
     },
     {
       "asset": "MSFT",
@@ -46,13 +46,21 @@
       "entry": 529.58466,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.3410895353229995
+      "unrealized_pnl": -0.9202357385719654
+    },
+    {
+      "asset": "AAPL",
+      "size": 0.2880059905246029,
+      "entry": 347.1735,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.17381161528159694
     }
   ],
   "last_decision": {
-    "at": "2026-10-30T13:32:19Z",
+    "at": "2026-10-30T14:32:54Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price below EMA20 and RSI low; keep existing position with TP 774.88 and SL 730.71, within risk limits."
+    "rationale": "Position remains below stop\u2011loss, still has upside to TP 774.88; no adjustment needed."
   }
 }
