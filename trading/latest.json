@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30T16:34:06Z",
+  "updated_at": "2026-10-30T17:34:38Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1163.9914573273043,
-    "total_value_usd": 1163.9914573273043,
-    "pnl_usd": -7.53,
-    "pnl_pct": -0.64
+    "balance_usd": 1165.7456801375067,
+    "total_value_usd": 1165.7456801375067,
+    "pnl_usd": -5.78,
+    "pnl_pct": -0.49
   },
   "open_positions": [
     {
@@ -14,15 +14,7 @@
       "entry": 769.5595874999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.286538736560173
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.11104402201447737,
-      "entry": 720.7952174999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -3.1731070811384674
+      "unrealized_pnl": -1.5236774705201648
     },
     {
       "asset": "TSLA",
@@ -30,7 +22,7 @@
       "entry": 405.752775,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0972483850288453
+      "unrealized_pnl": -1.487800187385967
     },
     {
       "asset": "MSFT",
@@ -38,7 +30,7 @@
       "entry": 529.58466,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0600166225916035
+      "unrealized_pnl": -1.3803792973177091
     },
     {
       "asset": "AAPL",
@@ -46,7 +38,7 @@
       "entry": 347.1735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.0010080209668286448
+      "unrealized_pnl": -0.16517143556585034
     },
     {
       "asset": "NVDA",
@@ -54,13 +46,21 @@
       "entry": 206.16303,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7196233009708698
+      "unrealized_pnl": -1.2089436893203809
+    },
+    {
+      "asset": "GOOG",
+      "size": 0.28692346316620043,
+      "entry": 278.84935499999995,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.48758482174878953
     }
   ],
   "last_decision": {
-    "at": "2026-10-30T16:34:06Z",
+    "at": "2026-10-30T17:34:38Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price is slightly below short\u2011term EMA but not oversold; position remains within risk limits and loss is modest."
+    "rationale": "Price below entry but above SL; indicators bearish but stop\u2011loss intact; no reason to exit or adjust now."
   }
 }
