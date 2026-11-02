@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-01T13:34:24Z",
+  "updated_at": "2026-11-02T05:14:00Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 10,
-    "video_count": 416,
-    "view_count": 3988
+    "video_count": 418,
+    "view_count": 4009
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-11-01T13:00:09Z",
-    "finished_at": "2026-11-01T13:01:44Z",
+    "pipeline": "teaching",
+    "started_at": "2026-11-02T05:00:15Z",
+    "finished_at": "2026-11-02T05:14:00Z",
     "status": "success",
-    "duration_seconds": 95.3,
-    "video_url": "https://www.youtube.com/watch?v=QR9wbJ_EkTI",
-    "video_title": "Nintendo Highlights Eight New Things In Zelda: Ocarina Of Time #Shorts",
+    "duration_seconds": 824.9,
+    "video_url": "https://www.youtube.com/watch?v=_xRkY7V_6So",
+    "video_title": "Reinforcement learning on verifiable rewards: how AI learned math fast | AI Lesson 118",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-11-02T05:00:00Z",
+  "next_run_at": "2026-11-02T08:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 316,
-    "runs_succeeded": 288,
-    "videos_published": 288
+    "runs_attempted": 317,
+    "runs_succeeded": 289,
+    "videos_published": 289
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-11-02T13:30:00Z",
+      "next_run_at": "2026-11-02T08:30:00Z",
       "totals": {
         "runs_attempted": 68,
         "runs_succeeded": 68,
@@ -98,20 +98,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-11-01T06:00:20Z",
-        "finished_at": "2026-11-01T06:13:08Z",
+        "started_at": "2026-11-02T05:00:15Z",
+        "finished_at": "2026-11-02T05:14:00Z",
         "status": "success",
-        "duration_seconds": 768.4,
-        "video_url": "https://www.youtube.com/watch?v=8CdCBf406hs",
-        "video_title": "Tree of Thoughts: How branching search solves puzzles quickly | AI Lesson 117",
+        "duration_seconds": 824.9,
+        "video_url": "https://www.youtube.com/watch?v=_xRkY7V_6So",
+        "video_title": "Reinforcement learning on verifiable rewards: how AI learned math fast | AI Lesson 118",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-11-02T05:00:00Z",
+      "next_run_at": "2026-11-03T05:00:00Z",
       "totals": {
-        "runs_attempted": 120,
-        "runs_succeeded": 117,
-        "videos_published": 117
+        "runs_attempted": 121,
+        "runs_succeeded": 118,
+        "videos_published": 118
       }
     },
     "shorts": {
@@ -137,6 +137,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-11-01T13:01:44Z"
+    "checked_at": "2026-11-02T05:14:00Z"
   }
 }
