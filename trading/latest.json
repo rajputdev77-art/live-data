@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03T18:33:14Z",
+  "updated_at": "2026-11-03T19:33:43Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1167.8440173894066,
-    "total_value_usd": 1167.8440173894066,
-    "pnl_usd": -3.68,
-    "pnl_pct": -0.31
+    "balance_usd": 1166.5262491709498,
+    "total_value_usd": 1166.5262491709498,
+    "pnl_usd": -5.0,
+    "pnl_pct": -0.43
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 769.5595874999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.3364626805517503
+      "unrealized_pnl": -1.50911632018929
     },
     {
       "asset": "TSLA",
@@ -22,7 +22,7 @@
       "entry": 405.752775,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.3152078504857254
+      "unrealized_pnl": -1.3872035110212453
     },
     {
       "asset": "MSFT",
@@ -30,7 +30,7 @@
       "entry": 529.58466,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.4393139403097908
+      "unrealized_pnl": -1.2866883264072437
     },
     {
       "asset": "NVDA",
@@ -38,7 +38,7 @@
       "entry": 206.16303,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.8415417475728235
+      "unrealized_pnl": 0.24736699029126966
     },
     {
       "asset": "GOOG",
@@ -46,7 +46,7 @@
       "entry": 278.84935499999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.12930062405855117
+      "unrealized_pnl": -0.30395380532240884
     },
     {
       "asset": "QQQ",
@@ -54,7 +54,7 @@
       "entry": 684.0868724999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.21949397625592834
+      "unrealized_pnl": 0.08615284519562737
     },
     {
       "asset": "AVGO",
@@ -62,7 +62,7 @@
       "entry": 319.529685,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.6417650741969836
+      "unrealized_pnl": 1.5553584622127625
     },
     {
       "asset": "AAPL",
@@ -70,7 +70,7 @@
       "entry": 336.88836000000003,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6747699434323687
+      "unrealized_pnl": -0.7340100663667585
     },
     {
       "asset": "AMZN",
@@ -78,13 +78,13 @@
       "entry": 250.64526,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.05756874875273977
+      "unrealized_pnl": 0.13824126920774282
     }
   ],
   "last_decision": {
-    "at": "2026-11-03T18:33:14Z",
+    "at": "2026-11-03T19:33:43Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price slightly below short\u2011term EMA but above entry; no clear trend reversal, keep position with existing targets."
+    "rationale": "Position down ~1.9% but above SL; price below short\u2011term EMA20 and long\u2011term EMA20 indicating slight bearish bias, yet no stop triggered. Hold and watch."
   }
 }
