@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04T14:34:55Z",
+  "updated_at": "2026-11-04T15:35:39Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1171.7451126087224,
-    "total_value_usd": 1171.7451126087224,
-    "pnl_usd": 0.22,
-    "pnl_pct": 0.02
+    "balance_usd": 1175.0150660245545,
+    "total_value_usd": 1175.0150660245545,
+    "pnl_usd": 3.49,
+    "pnl_pct": 0.3
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 769.5595874999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6905716551607524
+      "unrealized_pnl": -0.3463044580521746
     },
     {
       "asset": "NVDA",
@@ -22,15 +22,7 @@
       "entry": 206.16303,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.8303029126213606
-    },
-    {
-      "asset": "GOOG",
-      "size": 0.28692346316620043,
-      "entry": 278.84935499999995,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 1.736072017789264
+      "unrealized_pnl": -0.7254485436893221
     },
     {
       "asset": "QQQ",
@@ -38,7 +30,7 @@
       "entry": 684.0868724999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.26569550850927437
+      "unrealized_pnl": 0.7247866834317858
     },
     {
       "asset": "AVGO",
@@ -46,13 +38,21 @@
       "entry": 319.529685,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.8816373426836165
+      "unrealized_pnl": 1.1245776720305576
+    },
+    {
+      "asset": "META",
+      "size": 0.1266784899923993,
+      "entry": 631.9158,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.416240182417025
     }
   ],
   "last_decision": {
-    "at": "2026-11-04T14:34:55Z",
+    "at": "2026-11-04T15:35:39Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Position is within all risk limits; technicals (price near EMA20, MACD positive, RSI high) do not indicate a clear upside or downside, so holding is prudent."
+    "rationale": "Price 766.25 is above EMA20 (764.81) and MACD positive; position remains within risk limits and below TP."
   }
 }
