@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04T15:35:39Z",
+  "updated_at": "2026-11-04T16:36:16Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1175.0150660245545,
-    "total_value_usd": 1175.0150660245545,
-    "pnl_usd": 3.49,
-    "pnl_pct": 0.3
+    "balance_usd": 1173.864217607204,
+    "total_value_usd": 1173.864217607204,
+    "pnl_usd": 2.34,
+    "pnl_pct": 0.2
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 769.5595874999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.3463044580521746
+      "unrealized_pnl": -0.44823251036830947
     },
     {
       "asset": "NVDA",
@@ -22,7 +22,7 @@
       "entry": 206.16303,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7254485436893221
+      "unrealized_pnl": -1.449720388349509
     },
     {
       "asset": "QQQ",
@@ -30,7 +30,7 @@
       "entry": 684.0868724999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.7247866834317858
+      "unrealized_pnl": 0.46044373939997213
     },
     {
       "asset": "AVGO",
@@ -38,7 +38,7 @@
       "entry": 319.529685,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.1245776720305576
+      "unrealized_pnl": 0.862853296600093
     },
     {
       "asset": "META",
@@ -46,13 +46,13 @@
       "entry": 631.9158,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.416240182417025
+      "unrealized_pnl": -0.21482138332910605
     }
   ],
   "last_decision": {
-    "at": "2026-11-04T15:35:39Z",
+    "at": "2026-11-04T16:36:16Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price 766.25 is above EMA20 (764.81) and MACD positive; position remains within risk limits and below TP."
+    "rationale": "Price is slightly below EMA20 but MACD is positive and RSI7 is low, indicating potential upside; current stop is already near the mandatory 5\u202f% floor, so we keep the position."
   }
 }
