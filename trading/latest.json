@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04T17:36:53Z",
+  "updated_at": "2026-11-04T18:37:24Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1179.6281466084538,
-    "total_value_usd": 1179.6281466084538,
-    "pnl_usd": 8.1,
-    "pnl_pct": 0.69
+    "balance_usd": 1178.751393933732,
+    "total_value_usd": 1178.751393933732,
+    "pnl_usd": 7.23,
+    "pnl_pct": 0.62
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 769.5595874999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.15596942158430116
+      "unrealized_pnl": -0.15544938050104423
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 684.0868724999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.680339639745021
+      "unrealized_pnl": 0.6025573132931793
     },
     {
       "asset": "AVGO",
@@ -30,7 +30,7 @@
       "entry": 319.529685,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.0957754680358147
+      "unrealized_pnl": 0.9993506981403816
     },
     {
       "asset": "META",
@@ -38,13 +38,13 @@
       "entry": 631.9158,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.8733468457055936
+      "unrealized_pnl": 0.17028122624778325
     }
   ],
   "last_decision": {
-    "at": "2026-11-04T17:36:53Z",
+    "at": "2026-11-04T18:37:24Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "Price above EMA20, MACD positive, RSI modestly bullish; small add improves position while staying under per\u2011asset cap."
+    "action": "hold",
+    "rationale": "Small loss but still above mandatory stop. EMA20 aligns with price; no edge to add or reduce position."
   }
 }
