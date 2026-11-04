@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04T19:37:55Z",
+  "updated_at": "2026-11-04T20:38:25Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1177.9907972993253,
-    "total_value_usd": 1177.9907972993253,
-    "pnl_usd": 6.47,
-    "pnl_pct": 0.55
+    "balance_usd": 1177.395079263671,
+    "total_value_usd": 1177.395079263671,
+    "pnl_usd": 5.87,
+    "pnl_pct": 0.5
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 769.5595874999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.15596942158430116
+      "unrealized_pnl": -0.16533016108271303
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 684.0868724999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5586950991286083
+      "unrealized_pnl": 0.5145404702029404
     },
     {
       "asset": "AVGO",
@@ -30,7 +30,7 @@
       "entry": 319.529685,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9404940204120027
+      "unrealized_pnl": 0.6988059608039623
     },
     {
       "asset": "META",
@@ -38,7 +38,7 @@
       "entry": 631.9158,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4175069673169478
+      "unrealized_pnl": 0.19688370914619172
     },
     {
       "asset": "NVDA",
@@ -46,7 +46,7 @@
       "entry": 203.80184999999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.023633641740506542
+      "unrealized_pnl": -1.0807421405256725
     },
     {
       "asset": "MSFT",
@@ -54,13 +54,29 @@
       "entry": 555.99786,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.09320314960628621
+      "unrealized_pnl": 0.39093633295838254
+    },
+    {
+      "asset": "AAPL",
+      "size": 0.19828343200294593,
+      "entry": 353.286555,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.30665623318131846
+    },
+    {
+      "asset": "AMZN",
+      "size": 0.260989523134857,
+      "entry": 268.27407,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.011987248797583583
     }
   ],
   "last_decision": {
-    "at": "2026-11-04T19:37:55Z",
+    "at": "2026-11-04T20:38:25Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price is at EMA20, MACD positive, RSI neutral; slight loss but still above SL and below TP, no need to adjust."
+    "rationale": "Position is modestly below TP, above SL; exposure within limits; no edge to add or adjust."
   }
 }
