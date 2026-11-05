@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T17:35:59Z",
+  "updated_at": "2026-11-05T18:36:29Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1175.5054391901695,
@@ -9,9 +9,9 @@
   },
   "open_positions": [],
   "last_decision": {
-    "at": "2026-11-05T17:35:59Z",
+    "at": "2026-11-05T18:36:29Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price is below EMA20, MACD negative and RSI low, but signal is ambiguous; no clear edge given limited capital."
+    "rationale": "Price below EMA20 but longer\u2011term EMA20 < EMA50 (down\u2011trend) and RSI not low enough for a clear edge."
   }
 }
