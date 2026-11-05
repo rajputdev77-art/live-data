@@ -1,74 +1,17 @@
 {
-  "updated_at": "2026-11-05T16:35:30Z",
+  "updated_at": "2026-11-05T17:35:59Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1154.7850830798302,
-    "total_value_usd": 1154.7850830798302,
-    "pnl_usd": -16.74,
-    "pnl_pct": -1.43
+    "balance_usd": 1175.5054391901695,
+    "total_value_usd": 1175.5054391901695,
+    "pnl_usd": 3.98,
+    "pnl_pct": 0.34
   },
-  "open_positions": [
-    {
-      "asset": "SPY",
-      "size": 0.10400821664911529,
-      "entry": 769.5595874999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -2.6386455529986717
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.058482952219428036,
-      "entry": 684.0868724999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.406624510205272
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.12522697389017592,
-      "entry": 319.529685,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.834535720994299
-    },
-    {
-      "asset": "MSFT",
-      "size": 0.17997750281214847,
-      "entry": 555.99786,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -2.37171833520808
-    },
-    {
-      "asset": "AAPL",
-      "size": 0.19828343200294593,
-      "entry": 353.286555,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.3238502393564302
-    },
-    {
-      "asset": "NVDA",
-      "size": 0.25673940949935814,
-      "entry": 194.33712,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -2.0275019255455713
-    },
-    {
-      "asset": "TSLA",
-      "size": 0.13628805844031947,
-      "entry": 366.88334999999995,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -2.3820903862403546
-    }
-  ],
+  "open_positions": [],
   "last_decision": {
-    "at": "2026-11-05T16:35:30Z",
+    "at": "2026-11-05T17:35:59Z",
     "asset": "SPY",
-    "action": "sell",
-    "rationale": "Price 743.985 is 1.8% above SL 730.71; bearish intraday signals; preserve capital."
+    "action": "hold",
+    "rationale": "Price is below EMA20, MACD negative and RSI low, but signal is ambiguous; no clear edge given limited capital."
   }
 }
