@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05T15:34:52Z",
+  "updated_at": "2026-11-05T16:35:30Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1156.0214656649002,
-    "total_value_usd": 1156.0214656649002,
-    "pnl_usd": -15.5,
-    "pnl_pct": -1.32
+    "balance_usd": 1154.7850830798302,
+    "total_value_usd": 1154.7850830798302,
+    "pnl_usd": -16.74,
+    "pnl_pct": -1.43
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 769.5595874999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.211171782570818
+      "unrealized_pnl": -2.6386455529986717
     },
     {
       "asset": "QQQ",
@@ -22,7 +22,7 @@
       "entry": 684.0868724999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.329427013275624
+      "unrealized_pnl": -1.406624510205272
     },
     {
       "asset": "AVGO",
@@ -30,7 +30,7 @@
       "entry": 319.529685,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.875860622378055
+      "unrealized_pnl": -1.834535720994299
     },
     {
       "asset": "MSFT",
@@ -38,7 +38,7 @@
       "entry": 555.99786,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.5067014623171913
+      "unrealized_pnl": -2.37171833520808
     },
     {
       "asset": "AAPL",
@@ -46,7 +46,7 @@
       "entry": 353.286555,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7666737954281516
+      "unrealized_pnl": -1.3238502393564302
     },
     {
       "asset": "NVDA",
@@ -54,7 +54,7 @@
       "entry": 194.33712,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.7386700898587935
+      "unrealized_pnl": -2.0275019255455713
     },
     {
       "asset": "TSLA",
@@ -62,13 +62,13 @@
       "entry": 366.88334999999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.3200793196500036
+      "unrealized_pnl": -2.3820903862403546
     }
   ],
   "last_decision": {
-    "at": "2026-11-05T15:34:52Z",
+    "at": "2026-11-05T16:35:30Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "Price remains below EMA20 but RSI7 is extremely low (2.8), indicating oversold conditions. Position is within loss limits and above SL, so holding preserves upside potential."
+    "action": "sell",
+    "rationale": "Price 743.985 is 1.8% above SL 730.71; bearish intraday signals; preserve capital."
   }
 }
