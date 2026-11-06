@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06T16:34:12Z",
+  "updated_at": "2026-11-06T17:34:47Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1188.4424279824495,
-    "total_value_usd": 1188.4424279824495,
-    "pnl_usd": 16.92,
-    "pnl_pct": 1.44
+    "balance_usd": 1183.9981164569049,
+    "total_value_usd": 1183.9981164569049,
+    "pnl_usd": 12.47,
+    "pnl_pct": 1.06
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 342.8063175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.6864003723715105
+      "unrealized_pnl": 0.3774050452687015
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.07333403286884922
+      "unrealized_pnl": -0.5101718525565431
     },
     {
       "asset": "TSLA",
@@ -30,7 +30,7 @@
       "entry": 339.959895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 7.308180914659286
+      "unrealized_pnl": 6.647806334295292
     },
     {
       "asset": "QQQ",
@@ -38,7 +38,7 @@
       "entry": 652.8562649999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.4617767847561958
+      "unrealized_pnl": 0.8892904664817058
     },
     {
       "asset": "NVDA",
@@ -46,7 +46,7 @@
       "entry": 183.301605,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.3253575721153923
+      "unrealized_pnl": 2.661295072115381
     },
     {
       "asset": "AVGO",
@@ -54,13 +54,13 @@
       "entry": 297.498675,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.08193911550889854
+      "unrealized_pnl": -1.5729477988691407
     }
   ],
   "last_decision": {
-    "at": "2026-11-06T16:34:12Z",
+    "at": "2026-11-06T17:34:47Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price is slightly above short\u2011term EMA20 and MACD is positive, but long\u2011term EMAs are well above price indicating a bearish backdrop. With limited free capital and exposure constraints, we avoid new exposure."
+    "rationale": "price below long\u2011term EMAs, no clear edge; keep current exposure unchanged"
   }
 }
