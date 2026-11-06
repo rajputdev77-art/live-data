@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05T20:37:24Z",
+  "updated_at": "2026-11-06T14:33:13Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1175.412826193802,
-    "total_value_usd": 1175.412826193802,
-    "pnl_usd": 3.89,
-    "pnl_pct": 0.33
+    "balance_usd": 1185.0696884161273,
+    "total_value_usd": 1185.0696884161273,
+    "pnl_usd": 13.55,
+    "pnl_pct": 1.16
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 342.8063175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9953956994743005
+      "unrealized_pnl": -0.5697328051985859
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.3589322756356342
+      "unrealized_pnl": -1.1494540358535044
     },
     {
       "asset": "TSLA",
@@ -30,7 +30,7 @@
       "entry": 339.959895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.0667944961422922
+      "unrealized_pnl": 3.3425468961658407
     },
     {
       "asset": "QQQ",
@@ -38,7 +38,7 @@
       "entry": 652.8562649999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.3686617969432539
+      "unrealized_pnl": 0.6582724234666666
     },
     {
       "asset": "NVDA",
@@ -46,7 +46,7 @@
       "entry": 183.301605,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.43365685096152795
+      "unrealized_pnl": 5.227400841346157
     },
     {
       "asset": "AVGO",
@@ -54,13 +54,13 @@
       "entry": 297.498675,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.9935522684437242
+      "unrealized_pnl": 2.0552159060312407
     }
   ],
   "last_decision": {
-    "at": "2026-11-05T20:37:24Z",
+    "at": "2026-11-06T14:33:13Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "Price is below EMA20 and long\u2011term trend; no clear entry signal."
+    "action": "buy",
+    "rationale": "Price just above EMA20, modest bullish momentum, low\u2011cost hedge; fits remaining exposure budget."
   }
 }
