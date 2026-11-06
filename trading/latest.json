@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06T18:35:24Z",
+  "updated_at": "2026-11-06T19:35:55Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1183.7465831752756,
-    "total_value_usd": 1183.7465831752756,
-    "pnl_usd": 12.22,
-    "pnl_pct": 1.04
+    "balance_usd": 1183.0147268643634,
+    "total_value_usd": 1183.0147268643634,
+    "pnl_usd": 11.49,
+    "pnl_pct": 0.98
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 342.8063175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5957169611565443
+      "unrealized_pnl": 0.4546538770444085
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7375675284943997
+      "unrealized_pnl": -0.7225508329135879
     },
     {
       "asset": "TSLA",
@@ -30,7 +30,7 @@
       "entry": 339.959895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 7.016938792037219
+      "unrealized_pnl": 6.796813931915881
     },
     {
       "asset": "QQQ",
@@ -38,7 +38,7 @@
       "entry": 652.8562649999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9752898839544558
+      "unrealized_pnl": 0.9078393604464192
     },
     {
       "asset": "NVDA",
@@ -46,7 +46,7 @@
       "entry": 183.301605,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.396871995192306
+      "unrealized_pnl": 2.2526412259615483
     },
     {
       "asset": "AVGO",
@@ -54,13 +54,13 @@
       "entry": 297.498675,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.006106118739906
+      "unrealized_pnl": -2.180109888260627
     }
   ],
   "last_decision": {
-    "at": "2026-11-06T18:35:24Z",
+    "at": "2026-11-06T19:35:55Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "RSI7 oversold, price just above EMA20, short\u2011term bounce potential and room under exposure limit."
+    "action": "hold",
+    "rationale": "No position and insufficient exposure capacity to open a new trade."
   }
 }
