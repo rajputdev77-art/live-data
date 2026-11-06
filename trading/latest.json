@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06T19:35:55Z",
+  "updated_at": "2026-11-06T20:36:31Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1183.0147268643634,
-    "total_value_usd": 1183.0147268643634,
-    "pnl_usd": 11.49,
-    "pnl_pct": 0.98
+    "balance_usd": 1183.9054962296527,
+    "total_value_usd": 1183.9054962296527,
+    "pnl_usd": 12.38,
+    "pnl_pct": 1.06
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 342.8063175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.4546538770444085
+      "unrealized_pnl": 0.32366672751168374
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7225508329135879
+      "unrealized_pnl": -0.8534106086891425
     },
     {
       "asset": "TSLA",
@@ -30,7 +30,7 @@
       "entry": 339.959895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 6.796813931915881
+      "unrealized_pnl": 6.955981138465157
     },
     {
       "asset": "QQQ",
@@ -38,7 +38,7 @@
       "entry": 652.8562649999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9078393604464192
+      "unrealized_pnl": 0.9752898839544558
     },
     {
       "asset": "NVDA",
@@ -46,7 +46,7 @@
       "entry": 183.301605,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.2526412259615483
+      "unrealized_pnl": 2.697352764423075
     },
     {
       "asset": "AVGO",
@@ -54,13 +54,13 @@
       "entry": 297.498675,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.180109888260627
+      "unrealized_pnl": -1.6988228661820017
     }
   ],
   "last_decision": {
-    "at": "2026-11-06T19:35:55Z",
+    "at": "2026-11-06T20:36:31Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "No position and insufficient exposure capacity to open a new trade."
+    "rationale": "Price is near EMA20 but MACD negative and RSI high; no existing position and no exposure capacity for a new trade."
   }
 }
