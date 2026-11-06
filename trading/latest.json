@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06T17:34:47Z",
+  "updated_at": "2026-11-06T18:35:24Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1183.9981164569049,
-    "total_value_usd": 1183.9981164569049,
-    "pnl_usd": 12.47,
-    "pnl_pct": 1.06
+    "balance_usd": 1183.7465831752756,
+    "total_value_usd": 1183.7465831752756,
+    "pnl_usd": 12.22,
+    "pnl_pct": 1.04
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 342.8063175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.3774050452687015
+      "unrealized_pnl": 0.5957169611565443
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.5101718525565431
+      "unrealized_pnl": -0.7375675284943997
     },
     {
       "asset": "TSLA",
@@ -30,7 +30,7 @@
       "entry": 339.959895,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 6.647806334295292
+      "unrealized_pnl": 7.016938792037219
     },
     {
       "asset": "QQQ",
@@ -38,7 +38,7 @@
       "entry": 652.8562649999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.8892904664817058
+      "unrealized_pnl": 0.9752898839544558
     },
     {
       "asset": "NVDA",
@@ -46,7 +46,7 @@
       "entry": 183.301605,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.661295072115381
+      "unrealized_pnl": 2.396871995192306
     },
     {
       "asset": "AVGO",
@@ -54,13 +54,13 @@
       "entry": 297.498675,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.5729477988691407
+      "unrealized_pnl": -2.006106118739906
     }
   ],
   "last_decision": {
-    "at": "2026-11-06T17:34:47Z",
+    "at": "2026-11-06T18:35:24Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "price below long\u2011term EMAs, no clear edge; keep current exposure unchanged"
+    "action": "buy",
+    "rationale": "RSI7 oversold, price just above EMA20, short\u2011term bounce potential and room under exposure limit."
   }
 }
