@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-07T06:15:45Z",
+  "updated_at": "2026-11-07T13:09:10Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 10,
-    "video_count": 431,
+    "video_count": 433,
     "view_count": 4173
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-11-07T06:00:00Z",
-    "finished_at": "2026-11-07T06:15:45Z",
+    "pipeline": "shorts",
+    "started_at": "2026-11-07T13:00:14Z",
+    "finished_at": "2026-11-07T13:09:10Z",
     "status": "success",
-    "duration_seconds": 945.5,
-    "video_url": "https://www.youtube.com/watch?v=uxoahV5qzbY",
-    "video_title": "ReAct Loop: How AI Agents Think, Act, Observe and Improve | AI Lesson 123",
+    "duration_seconds": 535.9,
+    "video_url": "https://www.youtube.com/watch?v=mIgtykxWqCs",
+    "video_title": "AI predicts every Week 9 NFL game score #Shorts",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-11-07T11:30:00Z",
+  "next_run_at": "2026-11-08T06:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 327,
-    "runs_succeeded": 299,
-    "videos_published": 299
+    "runs_attempted": 328,
+    "runs_succeeded": 300,
+    "videos_published": 300
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-11-07T11:30:00Z",
+      "next_run_at": "2026-11-08T11:30:00Z",
       "totals": {
         "runs_attempted": 69,
         "runs_succeeded": 69,
@@ -117,26 +117,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-11-06T13:00:16Z",
-        "finished_at": "2026-11-06T13:07:37Z",
+        "started_at": "2026-11-07T13:00:14Z",
+        "finished_at": "2026-11-07T13:09:10Z",
         "status": "success",
-        "duration_seconds": 441.0,
-        "video_url": "https://www.youtube.com/watch?v=tFhr-gCcktk",
-        "video_title": "Apple Flaw Exploited by Russian Hackers, CISA Alerts #Shorts",
+        "duration_seconds": 535.9,
+        "video_url": "https://www.youtube.com/watch?v=mIgtykxWqCs",
+        "video_title": "AI predicts every Week 9 NFL game score #Shorts",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-11-07T13:00:00Z",
+      "next_run_at": "2026-11-08T13:00:00Z",
       "totals": {
-        "runs_attempted": 82,
-        "runs_succeeded": 79,
-        "videos_published": 79
+        "runs_attempted": 83,
+        "runs_succeeded": 80,
+        "videos_published": 80
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-11-07T06:15:45Z"
+    "checked_at": "2026-11-07T13:09:10Z"
   }
 }
