@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09T14:33:01Z",
+  "updated_at": "2026-11-09T15:33:30Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1187.938240541829,
-    "total_value_usd": 1187.938240541829,
-    "pnl_usd": 16.41,
-    "pnl_pct": 1.4
+    "balance_usd": 1195.3465809547727,
+    "total_value_usd": 1195.3465809547727,
+    "pnl_usd": 23.82,
+    "pnl_pct": 2.03
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 342.8063175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.8854365873247794
+      "unrealized_pnl": 2.6646421948014125
     },
     {
       "asset": "MSFT",
@@ -22,29 +22,37 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.7037181244986785
+      "unrealized_pnl": 1.0440561400563628
     },
     {
-      "asset": "QQQ",
-      "size": 0.168626308770101,
-      "entry": 652.8562649999999,
+      "asset": "SPY",
+      "size": 0.053911262062644884,
+      "entry": 742.6711499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.722304431806014
+      "unrealized_pnl": 0.36222168310960634
     },
     {
-      "asset": "AVGO",
-      "size": 0.3702207862143242,
-      "entry": 297.498675,
+      "asset": "NVDA",
+      "size": 0.23080030004039004,
+      "entry": 174.58724999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.6475691639741465
+      "unrealized_pnl": 1.120016156021006
+    },
+    {
+      "asset": "TSLA",
+      "size": 0.10961306587745259,
+      "entry": 365.532675,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 1.4794831743943866
     }
   ],
   "last_decision": {
-    "at": "2026-11-09T14:33:01Z",
+    "at": "2026-11-09T15:33:30Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "Price below EMA20/EMA50 and RSI14=35.8 suggests oversold condition; 2\u00d7ATR TP and 1\u00d7ATR SL give ~2:1 RR and respect mandatory 5% SL."
+    "action": "hold",
+    "rationale": "Position is modestly in profit, price below EMA20/50 but long\u2011term RSI low; no trigger to adjust."
   }
 }
