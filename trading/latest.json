@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09T19:35:38Z",
+  "updated_at": "2026-11-09T20:36:14Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1194.939509340939,
-    "total_value_usd": 1194.939509340939,
-    "pnl_usd": 23.42,
-    "pnl_pct": 2.0
+    "balance_usd": 1197.133237298014,
+    "total_value_usd": 1197.133237298014,
+    "pnl_usd": 25.61,
+    "pnl_pct": 2.19
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 342.8063175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.8325744377920667
+      "unrealized_pnl": 2.696549320969627
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.8624660492100054
+      "unrealized_pnl": 2.160654718600194
     },
     {
       "asset": "SPY",
@@ -30,7 +30,7 @@
       "entry": 742.6711499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5220685751253501
+      "unrealized_pnl": 0.6554989487303975
     },
     {
       "asset": "NVDA",
@@ -38,7 +38,7 @@
       "entry": 174.58724999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.31221510587964096
+      "unrealized_pnl": 0.7403496624545621
     },
     {
       "asset": "TSLA",
@@ -46,7 +46,7 @@
       "entry": 365.532675,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.435637948043408
+      "unrealized_pnl": 1.716247396689687
     },
     {
       "asset": "QQQ",
@@ -54,7 +54,7 @@
       "entry": 675.6276449999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.2758594895646773
+      "unrealized_pnl": 0.8202152241856953
     },
     {
       "asset": "AMZN",
@@ -62,7 +62,7 @@
       "entry": 270.33509999999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.8513213413279774
+      "unrealized_pnl": -0.5755792434673114
     },
     {
       "asset": "META",
@@ -70,7 +70,7 @@
       "entry": 641.9408099999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.07291007138181643
+      "unrealized_pnl": 0.1924200617187779
     },
     {
       "asset": "AVGO",
@@ -78,13 +78,13 @@
       "entry": 321.72078,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.19906260112009838
+      "unrealized_pnl": 0.05071960174237611
     }
   ],
   "last_decision": {
-    "at": "2026-11-09T19:35:38Z",
+    "at": "2026-11-09T20:36:14Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Position is within 10% max\u2011position limit, TP/SL are reasonable, and technicals (price near EMA20, neutral MACD, RSI mid\u2011range) do not warrant adjustment."
+    "rationale": "Price above short\u2011term EMA20 and long\u2011term EMA20, modest profit; adjust TP to current+ATR and SL to 5% below entry to meet mandatory rule."
   }
 }
