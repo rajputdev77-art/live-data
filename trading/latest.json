@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09T15:33:30Z",
+  "updated_at": "2026-11-09T16:34:01Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1195.3465809547727,
-    "total_value_usd": 1195.3465809547727,
-    "pnl_usd": 23.82,
-    "pnl_pct": 2.03
+    "balance_usd": 1192.8998180874712,
+    "total_value_usd": 1192.8998180874712,
+    "pnl_usd": 21.38,
+    "pnl_pct": 1.82
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 342.8063175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.6646421948014125
+      "unrealized_pnl": 2.4328956994743107
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.0440561400563628
+      "unrealized_pnl": 1.0537097300725833
     },
     {
       "asset": "SPY",
@@ -30,7 +30,7 @@
       "entry": 742.6711499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.36222168310960634
+      "unrealized_pnl": 0.37893417434902943
     },
     {
       "asset": "NVDA",
@@ -38,7 +38,7 @@
       "entry": 174.58724999999998,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.120016156021006
+      "unrealized_pnl": 0.042178754832387526
     },
     {
       "asset": "TSLA",
@@ -46,13 +46,29 @@
       "entry": 365.532675,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.4794831743943866
+      "unrealized_pnl": 1.2328537761701184
+    },
+    {
+      "asset": "QQQ",
+      "size": 0.148124009420687,
+      "entry": 675.6276449999999,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.12111285568277323
+    },
+    {
+      "asset": "AMZN",
+      "size": 0.3701236212895107,
+      "entry": 270.33509999999995,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.7958027981345592
     }
   ],
   "last_decision": {
-    "at": "2026-11-09T15:33:30Z",
+    "at": "2026-11-09T16:34:01Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Position is modestly in profit, price below EMA20/50 but long\u2011term RSI low; no trigger to adjust."
+    "rationale": "Price slightly above EMA20, bullish MACD, modest upside; existing TP/SL remain appropriate."
   }
 }
