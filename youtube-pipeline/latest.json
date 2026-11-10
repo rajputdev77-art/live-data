@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-10T05:17:15Z",
+  "updated_at": "2026-11-10T13:02:55Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 10,
-    "video_count": 440,
-    "view_count": 4255
+    "video_count": 441,
+    "view_count": 4276
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-11-10T05:00:13Z",
-    "finished_at": "2026-11-10T05:17:15Z",
+    "pipeline": "shorts",
+    "started_at": "2026-11-10T13:00:03Z",
+    "finished_at": "2026-11-10T13:02:55Z",
     "status": "success",
-    "duration_seconds": 1021.8,
-    "video_url": "https://www.youtube.com/watch?v=Vn1QF5FBa8M",
-    "video_title": "Why Every AI Tool Needs One Universal Plug | AI Lesson 126",
+    "duration_seconds": 172.4,
+    "video_url": "https://www.youtube.com/watch?v=y9XM6rOjwxc",
+    "video_title": "Motorola's Signature 27 Challenges Pixel and Samsung #Shorts",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-11-10T08:30:00Z",
+  "next_run_at": "2026-11-11T05:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 333,
-    "runs_succeeded": 305,
-    "videos_published": 305
+    "runs_attempted": 334,
+    "runs_succeeded": 306,
+    "videos_published": 306
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-11-10T08:30:00Z",
+      "next_run_at": "2026-11-11T10:00:00Z",
       "totals": {
         "runs_attempted": 70,
         "runs_succeeded": 70,
@@ -117,26 +117,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-11-09T13:00:03Z",
-        "finished_at": "2026-11-09T13:09:25Z",
+        "started_at": "2026-11-10T13:00:03Z",
+        "finished_at": "2026-11-10T13:02:55Z",
         "status": "success",
-        "duration_seconds": 561.7,
-        "video_url": "https://www.youtube.com/watch?v=b-68986VM9U",
-        "video_title": "Nintendo's Ocarina of Time remake: Does it match the classic? #Shorts",
+        "duration_seconds": 172.4,
+        "video_url": "https://www.youtube.com/watch?v=y9XM6rOjwxc",
+        "video_title": "Motorola's Signature 27 Challenges Pixel and Samsung #Shorts",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-11-10T13:00:00Z",
+      "next_run_at": "2026-11-11T13:00:00Z",
       "totals": {
-        "runs_attempted": 85,
-        "runs_succeeded": 82,
-        "videos_published": 82
+        "runs_attempted": 86,
+        "runs_succeeded": 83,
+        "videos_published": 83
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-11-10T05:17:15Z"
+    "checked_at": "2026-11-10T13:02:55Z"
   }
 }
