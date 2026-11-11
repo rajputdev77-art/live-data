@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11T16:34:20Z",
+  "updated_at": "2026-11-11T17:34:53Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1192.5620959039065,
-    "total_value_usd": 1192.5620959039065,
-    "pnl_usd": 21.04,
-    "pnl_pct": 1.8
+    "balance_usd": 1195.0259338217177,
+    "total_value_usd": 1195.0259338217177,
+    "pnl_usd": 23.5,
+    "pnl_pct": 2.01
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 342.8063175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.6436871714369143
+      "unrealized_pnl": 3.8804716340537504
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.6744041356538997
+      "unrealized_pnl": -3.301131988359701
     },
     {
       "asset": "QQQ",
@@ -30,7 +30,7 @@
       "entry": 675.6276449999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.334783220512223
+      "unrealized_pnl": 2.79767074995187
     },
     {
       "asset": "AMZN",
@@ -38,7 +38,7 @@
       "entry": 270.33509999999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.3620919387075217
+      "unrealized_pnl": -1.3602413206010546
     },
     {
       "asset": "META",
@@ -46,7 +46,7 @@
       "entry": 641.9408099999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.04678694554408732
+      "unrealized_pnl": 0.0231609987219851
     },
     {
       "asset": "GOOG",
@@ -54,7 +54,7 @@
       "entry": 288.56421,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.19329849113607228
+      "unrealized_pnl": 0.7725355511954647
     },
     {
       "asset": "AVGO",
@@ -62,13 +62,13 @@
       "entry": 352.58120249999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.09958524822695512
+      "unrealized_pnl": 0.8394434042553218
     }
   ],
   "last_decision": {
-    "at": "2026-11-11T16:34:20Z",
+    "at": "2026-11-11T17:34:53Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price is slightly above EMA20 but RSI14 is high (67.7) indicating overbought; no edge to add exposure now."
+    "rationale": "Price is above short\u2011term EMAs but RSI is in overbought territory; no clear edge and exposure budget is limited."
   }
 }
