@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11T14:32:54Z",
+  "updated_at": "2026-11-11T15:33:41Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1196.4441572805483,
-    "total_value_usd": 1196.4441572805483,
-    "pnl_usd": 24.92,
-    "pnl_pct": 2.13
+    "balance_usd": 1190.5118953777296,
+    "total_value_usd": 1190.5118953777296,
+    "pnl_usd": 18.99,
+    "pnl_pct": 1.62
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 342.8063175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.0576036433995486
+      "unrealized_pnl": 3.5143793443341136
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0228847445296276
+      "unrealized_pnl": -3.753778098009563
     },
     {
       "asset": "QQQ",
@@ -30,7 +30,7 @@
       "entry": 675.6276449999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.7822806653730578
+      "unrealized_pnl": 1.7082186606627143
     },
     {
       "asset": "AMZN",
@@ -38,7 +38,7 @@
       "entry": 270.33509999999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.1158857058257712
+      "unrealized_pnl": -1.3750462654526427
     },
     {
       "asset": "META",
@@ -46,13 +46,29 @@
       "entry": 641.9408099999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.1372472179794921
+      "unrealized_pnl": -0.2880512452853689
+    },
+    {
+      "asset": "GOOG",
+      "size": 0.27781153959682603,
+      "entry": 288.56421,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.12062854860833987
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.22695035460992907,
+      "entry": 352.58120249999996,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.547223262411335
     }
   ],
   "last_decision": {
-    "at": "2026-11-11T14:32:54Z",
+    "at": "2026-11-11T15:33:41Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price is above EMA20 but RSI7/14 are extreme (overbought) and price is below EMA50, indicating limited upside; no current position to manage."
+    "rationale": "Price is slightly above EMA20 and MACD is positive, but RSI14 is in overbought territory and price is below EMA50 on the longer term. No existing position and exposure limits prevent a new entry now."
   }
 }
