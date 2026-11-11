@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11T18:35:38Z",
+  "updated_at": "2026-11-11T19:36:09Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1194.7676418246476,
-    "total_value_usd": 1194.7676418246476,
-    "pnl_usd": 23.24,
-    "pnl_pct": 1.98
+    "balance_usd": 1192.9957077642607,
+    "total_value_usd": 1192.9957077642607,
+    "pnl_usd": 21.47,
+    "pnl_pct": 1.83
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.165981728132493
+      "unrealized_pnl": -3.3097129572630326
     },
     {
       "asset": "AMZN",
@@ -22,7 +22,7 @@
       "entry": 270.33509999999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.3750462654526427
+      "unrealized_pnl": -1.4194611000073856
     },
     {
       "asset": "META",
@@ -30,7 +30,7 @@
       "entry": 641.9408099999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.04454262647672862
+      "unrealized_pnl": -0.22670652411084244
     },
     {
       "asset": "GOOG",
@@ -38,7 +38,7 @@
       "entry": 288.56421,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.1086875141076185
+      "unrealized_pnl": 0.7294747625579484
     },
     {
       "asset": "AVGO",
@@ -46,13 +46,13 @@
       "entry": 352.58120249999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.08710297872340748
+      "unrealized_pnl": -0.935308368794322
     }
   ],
   "last_decision": {
-    "at": "2026-11-11T18:35:38Z",
+    "at": "2026-11-11T19:36:09Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "Price is marginally above EMA20 but RSI7/14 are overbought (>70); no existing position and no clear edge, so hold."
+    "action": "buy",
+    "rationale": "Price near 20\u2011EMA, positive MACD, RSI7\u224839 indicates emerging uptrend; 2\u202fATR target gives ~2% upside with 5% stop respecting mandatory SL"
   }
 }
