@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10T20:36:51Z",
+  "updated_at": "2026-11-11T14:32:54Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1191.4196181098973,
-    "total_value_usd": 1191.4196181098973,
-    "pnl_usd": 19.9,
-    "pnl_pct": 1.7
+    "balance_usd": 1196.4441572805483,
+    "total_value_usd": 1196.4441572805483,
+    "pnl_usd": 24.92,
+    "pnl_pct": 2.13
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 342.8063175,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.0348962835864595
+      "unrealized_pnl": 3.0576036433995486
     },
     {
       "asset": "MSFT",
@@ -22,23 +22,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.5745291193314191
-    },
-    {
-      "asset": "SPY",
-      "size": 0.053911262062644884,
-      "entry": 742.6711499999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.3606043452477285
-    },
-    {
-      "asset": "TSLA",
-      "size": 0.10961306587745259,
-      "entry": 365.532675,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 1.324928751507182
+      "unrealized_pnl": -1.0228847445296276
     },
     {
       "asset": "QQQ",
@@ -46,7 +30,7 @@
       "entry": 675.6276449999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.23813082312511055
+      "unrealized_pnl": 1.7822806653730578
     },
     {
       "asset": "AMZN",
@@ -54,7 +38,7 @@
       "entry": 270.33509999999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5051817306980658
+      "unrealized_pnl": 1.1158857058257712
     },
     {
       "asset": "META",
@@ -62,21 +46,13 @@
       "entry": 641.9408099999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.14435422835946557
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.074673304293715,
-      "entry": 321.72078,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.8034265090230265
+      "unrealized_pnl": 0.1372472179794921
     }
   ],
   "last_decision": {
-    "at": "2026-11-10T20:36:51Z",
+    "at": "2026-11-11T14:32:54Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price is slightly above short\u2011term EMA20 and MACD positive, but long\u2011term EMAs are higher. Adjusted SL meets mandatory 5\u202f% rule; TP offers modest upside."
+    "rationale": "Price is above EMA20 but RSI7/14 are extreme (overbought) and price is below EMA50, indicating limited upside; no current position to manage."
   }
 }
