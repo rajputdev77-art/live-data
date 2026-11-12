@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12T17:34:25Z",
+  "updated_at": "2026-11-12T18:35:01Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1195.8148859969922,
-    "total_value_usd": 1195.8148859969922,
-    "pnl_usd": 24.29,
-    "pnl_pct": 2.07
+    "balance_usd": 1195.3416207083085,
+    "total_value_usd": 1195.3416207083085,
+    "pnl_usd": 23.82,
+    "pnl_pct": 2.03
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.690055076762337
+      "unrealized_pnl": -2.284287173316912
     },
     {
       "asset": "AMZN",
@@ -22,7 +22,7 @@
       "entry": 270.33509999999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.32204456288399563
+      "unrealized_pnl": -0.3664593974387176
     },
     {
       "asset": "AVGO",
@@ -30,7 +30,7 @@
       "entry": 352.58120249999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.513202269503549
+      "unrealized_pnl": 2.822989503546104
     },
     {
       "asset": "SPY",
@@ -38,7 +38,7 @@
       "entry": 760.8202200000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.036790889724635054
+      "unrealized_pnl": -0.007918891197442613
     },
     {
       "asset": "AAPL",
@@ -46,7 +46,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0005486113057378339
+      "unrealized_pnl": -0.12416762422577564
     },
     {
       "asset": "TSLA",
@@ -54,13 +54,13 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.011022007761436702
+      "unrealized_pnl": 0.01399841707516507
     }
   ],
   "last_decision": {
-    "at": "2026-11-12T17:34:25Z",
+    "at": "2026-11-12T18:35:01Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Position is within risk limits; technicals are neutral\u2011bullish; no change needed."
+    "rationale": "Price is slightly above short\u2011term EMA20, MACD positive and RSI neutral \u2013 bullish bias. Existing position is within risk limits; raise TP to capture further upside."
   }
 }
