@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12T15:33:17Z",
+  "updated_at": "2026-11-12T16:33:50Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1192.2836714322136,
-    "total_value_usd": 1192.2836714322136,
-    "pnl_usd": 20.76,
-    "pnl_pct": 1.77
+    "balance_usd": 1195.1729946106161,
+    "total_value_usd": 1195.1729946106161,
+    "pnl_usd": 23.65,
+    "pnl_pct": 2.02
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.454833930270286
+      "unrealized_pnl": -1.870255423731956
     },
     {
       "asset": "AMZN",
@@ -22,7 +22,7 @@
       "entry": 270.33509999999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4275297949514944
+      "unrealized_pnl": -0.521911318380318
     },
     {
       "asset": "GOOG",
@@ -30,7 +30,7 @@
       "entry": 288.56421,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.0183987637386531
+      "unrealized_pnl": 1.7018151511468396
     },
     {
       "asset": "AVGO",
@@ -38,7 +38,7 @@
       "entry": 352.58120249999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.6950462411347633
+      "unrealized_pnl": 2.857032056737601
     },
     {
       "asset": "SPY",
@@ -46,7 +46,7 @@
       "entry": 760.8202200000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.5181363911316923
+      "unrealized_pnl": -0.030273781658473973
     },
     {
       "asset": "AAPL",
@@ -54,13 +54,13 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.3046320170398923
+      "unrealized_pnl": 0.370493399848658
     }
   ],
   "last_decision": {
-    "at": "2026-11-12T15:33:17Z",
+    "at": "2026-11-12T16:33:50Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Position is within risk limits; price near EMA20 with neutral momentum, keep existing stop."
+    "rationale": "Position is near entry, price slightly below EMA20, MACD positive but no strong signal to add or reduce; stop\u2011loss already meets mandatory 5% distance."
   }
 }
