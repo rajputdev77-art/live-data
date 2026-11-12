@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12T14:32:46Z",
+  "updated_at": "2026-11-12T15:33:17Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1190.8385680837835,
-    "total_value_usd": 1190.8385680837835,
-    "pnl_usd": 19.31,
-    "pnl_pct": 1.65
+    "balance_usd": 1192.2836714322136,
+    "total_value_usd": 1192.2836714322136,
+    "pnl_usd": 20.76,
+    "pnl_pct": 1.77
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.9106979032588884
+      "unrealized_pnl": -2.454833930270286
     },
     {
       "asset": "AMZN",
@@ -22,7 +22,7 @@
       "entry": 270.33509999999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.40532237767412294
+      "unrealized_pnl": -0.4275297949514944
     },
     {
       "asset": "GOOG",
@@ -30,7 +30,7 @@
       "entry": 288.56421,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.1017422256176883
+      "unrealized_pnl": 1.0183987637386531
     },
     {
       "asset": "AVGO",
@@ -38,7 +38,7 @@
       "entry": 352.58120249999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.2139114893617124
+      "unrealized_pnl": 1.6950462411347633
     },
     {
       "asset": "SPY",
@@ -46,13 +46,21 @@
       "entry": 760.8202200000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.827159876916615
+      "unrealized_pnl": -0.5181363911316923
+    },
+    {
+      "asset": "AAPL",
+      "size": 0.2802612034416076,
+      "entry": 356.2630425,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.3046320170398923
     }
   ],
   "last_decision": {
-    "at": "2026-11-12T14:32:46Z",
+    "at": "2026-11-12T15:33:17Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price below EMA20 and MACD negative indicate short\u2011term weakness; existing stop is already near mandatory level, so we keep the trade without adding."
+    "rationale": "Position is within risk limits; price near EMA20 with neutral momentum, keep existing stop."
   }
 }
