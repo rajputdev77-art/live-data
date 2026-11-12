@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12T16:33:50Z",
+  "updated_at": "2026-11-12T17:34:25Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1195.1729946106161,
-    "total_value_usd": 1195.1729946106161,
-    "pnl_usd": 23.65,
-    "pnl_pct": 2.02
+    "balance_usd": 1195.8148859969922,
+    "total_value_usd": 1195.8148859969922,
+    "pnl_usd": 24.29,
+    "pnl_pct": 2.07
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.870255423731956
+      "unrealized_pnl": -1.690055076762337
     },
     {
       "asset": "AMZN",
@@ -22,15 +22,7 @@
       "entry": 270.33509999999995,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.521911318380318
-    },
-    {
-      "asset": "GOOG",
-      "size": 0.27781153959682603,
-      "entry": 288.56421,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 1.7018151511468396
+      "unrealized_pnl": -0.32204456288399563
     },
     {
       "asset": "AVGO",
@@ -38,7 +30,7 @@
       "entry": 352.58120249999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.857032056737601
+      "unrealized_pnl": 2.513202269503549
     },
     {
       "asset": "SPY",
@@ -46,7 +38,7 @@
       "entry": 760.8202200000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.030273781658473973
+      "unrealized_pnl": 0.036790889724635054
     },
     {
       "asset": "AAPL",
@@ -54,13 +46,21 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.370493399848658
+      "unrealized_pnl": 0.0005486113057378339
+    },
+    {
+      "asset": "TSLA",
+      "size": 0.05106209150326797,
+      "entry": 391.905855,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.011022007761436702
     }
   ],
   "last_decision": {
-    "at": "2026-11-12T16:33:50Z",
+    "at": "2026-11-12T17:34:25Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Position is near entry, price slightly below EMA20, MACD positive but no strong signal to add or reduce; stop\u2011loss already meets mandatory 5% distance."
+    "rationale": "Position is within risk limits; technicals are neutral\u2011bullish; no change needed."
   }
 }
