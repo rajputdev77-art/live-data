@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-11T13:32:09Z",
+  "updated_at": "2026-11-12T05:13:34Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 10,
-    "video_count": 445,
-    "view_count": 4306
+    "video_count": 446,
+    "view_count": 4311
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-11-11T13:00:02Z",
-    "finished_at": "2026-11-11T13:10:55Z",
+    "pipeline": "teaching",
+    "started_at": "2026-11-12T05:00:00Z",
+    "finished_at": "2026-11-12T05:13:33Z",
     "status": "success",
-    "duration_seconds": 652.7,
-    "video_url": "https://www.youtube.com/watch?v=Wa66rlu3MPE",
-    "video_title": "Google patches actively exploited Chrome zero\u2011day CVE\u20112026\u2011125350 #Shorts",
+    "duration_seconds": 813.3,
+    "video_url": "https://www.youtube.com/watch?v=rM2sFkcA8y8",
+    "video_title": "AI coding agents: how machines write and test code | AI Lesson 128",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-11-12T05:00:00Z",
+  "next_run_at": "2026-11-12T10:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 336,
-    "runs_succeeded": 308,
-    "videos_published": 308
+    "runs_attempted": 337,
+    "runs_succeeded": 309,
+    "videos_published": 309
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-11-12T13:30:00Z",
+      "next_run_at": "2026-11-12T10:00:00Z",
       "totals": {
         "runs_attempted": 71,
         "runs_succeeded": 71,
@@ -98,20 +98,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-11-11T05:00:22Z",
-        "finished_at": "2026-11-11T05:16:23Z",
+        "started_at": "2026-11-12T05:00:00Z",
+        "finished_at": "2026-11-12T05:13:33Z",
         "status": "success",
-        "duration_seconds": 961.6,
-        "video_url": "https://www.youtube.com/watch?v=BPYmFhdQ_0E",
-        "video_title": "AI Agents that Use a Computer: How They Click Screenshots & Buttons | AI Lesson 127",
+        "duration_seconds": 813.3,
+        "video_url": "https://www.youtube.com/watch?v=rM2sFkcA8y8",
+        "video_title": "AI coding agents: how machines write and test code | AI Lesson 128",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-11-12T05:00:00Z",
+      "next_run_at": "2026-11-13T05:00:00Z",
       "totals": {
-        "runs_attempted": 130,
-        "runs_succeeded": 127,
-        "videos_published": 127
+        "runs_attempted": 131,
+        "runs_succeeded": 128,
+        "videos_published": 128
       }
     },
     "shorts": {
@@ -137,6 +137,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-11-11T13:10:55Z"
+    "checked_at": "2026-11-12T05:13:33Z"
   }
 }
