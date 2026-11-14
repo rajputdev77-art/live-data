@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:09:03Z",
+  "updated_at": "2026-11-14T13:34:15Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-11-15T11:30:00Z",
+      "next_run_at": "2026-11-15T13:30:00Z",
       "totals": {
         "runs_attempted": 71,
         "runs_succeeded": 71,
@@ -90,7 +90,7 @@
         "title": "CalmSpark ",
         "subscriber_count": 15,
         "video_count": 112,
-        "view_count": 2252
+        "view_count": 2259
       },
       "label": "KathaVerse",
       "channel_name": "CalmSpark"
