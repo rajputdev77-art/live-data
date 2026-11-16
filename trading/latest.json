@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16T16:32:08Z",
+  "updated_at": "2026-11-16T17:32:33Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1177.2404600554212,
-    "total_value_usd": 1177.2404600554212,
-    "pnl_usd": 5.72,
-    "pnl_pct": 0.49
+    "balance_usd": 1172.902541254554,
+    "total_value_usd": 1172.902541254554,
+    "pnl_usd": 1.38,
+    "pnl_pct": 0.12
   },
   "open_positions": [
     {
@@ -14,15 +14,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.3100300800268574
-    },
-    {
-      "asset": "AMZN",
-      "size": 0.3701236212895107,
-      "entry": 270.33509999999995,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -3.196054482197041
+      "unrealized_pnl": -3.0447755423731833
     },
     {
       "asset": "SPY",
@@ -30,7 +22,7 @@
       "entry": 760.8202200000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.8646897930200241
+      "unrealized_pnl": -2.3006101570102326
     },
     {
       "asset": "AAPL",
@@ -38,7 +30,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.42404711190829386
+      "unrealized_pnl": -0.9285172781031907
     },
     {
       "asset": "TSLA",
@@ -46,7 +38,7 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.5134729881535923
+      "unrealized_pnl": -0.6860628574346378
     },
     {
       "asset": "QQQ",
@@ -54,15 +46,7 @@
       "entry": 691.455555,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.0431753501360017
-    },
-    {
-      "asset": "NVDA",
-      "size": 0.3909892026827874,
-      "entry": 166.573245,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -2.556383199494717
+      "unrealized_pnl": -2.491769018751082
     },
     {
       "asset": "GOOG",
@@ -70,13 +54,13 @@
       "entry": 298.32909,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.7377451539338713
+      "unrealized_pnl": -3.2064217922060507
     }
   ],
   "last_decision": {
-    "at": "2026-11-16T16:32:08Z",
+    "at": "2026-11-16T17:32:33Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Neutral intraday bias; exposure already within limits."
+    "rationale": "Position is within risk limits; price remains above mandatory stop and no clear upside signal, so hold."
   }
 }
