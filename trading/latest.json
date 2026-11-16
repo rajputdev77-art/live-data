@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16T17:32:33Z",
+  "updated_at": "2026-11-16T18:32:55Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1172.902541254554,
-    "total_value_usd": 1172.902541254554,
-    "pnl_usd": 1.38,
-    "pnl_pct": 0.12
+    "balance_usd": 1171.578785431501,
+    "total_value_usd": 1171.578785431501,
+    "pnl_usd": 0.05,
+    "pnl_pct": 0.0
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.0447755423731833
+      "unrealized_pnl": -3.3729976029249706
     },
     {
       "asset": "SPY",
@@ -22,7 +22,7 @@
       "entry": 760.8202200000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.3006101570102326
+      "unrealized_pnl": -2.7404755016700477
     },
     {
       "asset": "AAPL",
@@ -30,7 +30,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.9285172781031907
+      "unrealized_pnl": -1.1247001205123128
     },
     {
       "asset": "TSLA",
@@ -38,7 +38,7 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6860628574346378
+      "unrealized_pnl": -0.7077642463235273
     },
     {
       "asset": "QQQ",
@@ -46,21 +46,13 @@
       "entry": 691.455555,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.491769018751082
-    },
-    {
-      "asset": "GOOG",
-      "size": 0.21798913408008586,
-      "entry": 298.32909,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -3.2064217922060507
+      "unrealized_pnl": -2.7597966823890263
     }
   ],
   "last_decision": {
-    "at": "2026-11-16T17:32:33Z",
+    "at": "2026-11-16T18:32:55Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Position is within risk limits; price remains above mandatory stop and no clear upside signal, so hold."
+    "rationale": "Price below EMA20 and RSI very low; existing position respects risk limits, no additional exposure allowed."
   }
 }
