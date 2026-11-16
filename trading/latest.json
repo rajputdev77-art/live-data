@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16T18:32:55Z",
+  "updated_at": "2026-11-16T19:33:20Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1171.578785431501,
-    "total_value_usd": 1171.578785431501,
-    "pnl_usd": 0.05,
-    "pnl_pct": 0.0
+    "balance_usd": 1170.799091561246,
+    "total_value_usd": 1170.799091561246,
+    "pnl_usd": -0.72,
+    "pnl_pct": -0.06
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 536.5781549999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.3729976029249706
+      "unrealized_pnl": -3.8867831160109443
     },
     {
       "asset": "SPY",
@@ -22,7 +22,7 @@
       "entry": 760.8202200000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.7404755016700477
+      "unrealized_pnl": -2.8075401730531566
     },
     {
       "asset": "AAPL",
@@ -30,7 +30,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.1247001205123128
+      "unrealized_pnl": -1.2844490064740273
     },
     {
       "asset": "TSLA",
@@ -38,7 +38,7 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7077642463235273
+      "unrealized_pnl": -0.7769533803104562
     },
     {
       "asset": "QQQ",
@@ -46,13 +46,13 @@
       "entry": 691.455555,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.7597966823890263
+      "unrealized_pnl": -2.7297023482261755
     }
   ],
   "last_decision": {
-    "at": "2026-11-16T18:32:55Z",
+    "at": "2026-11-16T19:33:20Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price below EMA20 and RSI very low; existing position respects risk limits, no additional exposure allowed."
+    "rationale": "Long position is down ~2.8% but still above the tightened SL; bearish indicators suggest limited upside, so we hold and protect downside."
   }
 }
