@@ -1,28 +1,20 @@
 {
-  "updated_at": "2026-11-17T15:34:50Z",
+  "updated_at": "2026-11-17T16:35:14Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1168.4017136208627,
-    "total_value_usd": 1168.4017136208627,
-    "pnl_usd": -3.12,
-    "pnl_pct": -0.27
+    "balance_usd": 1172.7271178434203,
+    "total_value_usd": 1172.7271178434203,
+    "pnl_usd": 1.2,
+    "pnl_pct": 0.1
   },
   "open_positions": [
-    {
-      "asset": "SPY",
-      "size": 0.1314993556531573,
-      "entry": 760.8202200000001,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -3.422957157509941
-    },
     {
       "asset": "AAPL",
       "size": 0.2802612034416076,
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7057096213671082
+      "unrealized_pnl": -1.176548443149011
     },
     {
       "asset": "TSLA",
@@ -30,13 +22,13 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6178949652777761
+      "unrealized_pnl": -0.6528724979575148
     }
   ],
   "last_decision": {
-    "at": "2026-11-17T15:34:50Z",
+    "at": "2026-11-17T16:35:14Z",
     "asset": "SPY",
-    "action": "sell",
-    "rationale": "Bearish intraday indicators (price < EMA20, negative MACD, RSI 29) and a 3.5% unrealised loss; exiting reduces downside risk and frees capital."
+    "action": "hold",
+    "rationale": "Price below EMA20/50, bearish MACD and modest RSI; shorting would add margin risk, so we stay flat."
   }
 }
