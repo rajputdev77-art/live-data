@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-17T05:14:16Z",
+  "updated_at": "2026-11-17T13:10:26Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
     "subscriber_count": 10,
-    "video_count": 460,
-    "view_count": 4506
+    "video_count": 461,
+    "view_count": 4520
   },
   "last_run": {
-    "pipeline": "teaching",
-    "started_at": "2026-11-17T05:00:03Z",
-    "finished_at": "2026-11-17T05:14:16Z",
+    "pipeline": "shorts",
+    "started_at": "2026-11-17T13:00:20Z",
+    "finished_at": "2026-11-17T13:10:26Z",
     "status": "success",
-    "duration_seconds": 852.9,
-    "video_url": "https://www.youtube.com/watch?v=ChjayjMdYMc",
-    "video_title": "Semantic Search: Find Meaning Behind Your Queries | AI Lesson 133",
+    "duration_seconds": 605.9,
+    "video_url": "https://www.youtube.com/watch?v=LYECUsX3jbM",
+    "video_title": "Samsung Gallery Now Syncs with Google Storage #Shorts",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-11-17T08:30:00Z",
+  "next_run_at": "2026-11-18T05:00:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 347,
-    "runs_succeeded": 319,
-    "videos_published": 319
+    "runs_attempted": 348,
+    "runs_succeeded": 320,
+    "videos_published": 320
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-11-17T08:30:00Z",
+      "next_run_at": "2026-11-18T10:00:00Z",
       "totals": {
         "runs_attempted": 72,
         "runs_succeeded": 72,
@@ -117,26 +117,26 @@
     "shorts": {
       "last_run": {
         "pipeline": "shorts",
-        "started_at": "2026-11-16T13:00:10Z",
-        "finished_at": "2026-11-16T13:11:14Z",
+        "started_at": "2026-11-17T13:00:20Z",
+        "finished_at": "2026-11-17T13:10:26Z",
         "status": "success",
-        "duration_seconds": 663.9,
-        "video_url": "https://www.youtube.com/watch?v=-4tIP10N4Dk",
-        "video_title": "Google Gemini 4 Hydrogen: Free AI Upgrade Beats Argon #Shorts",
+        "duration_seconds": 605.9,
+        "video_url": "https://www.youtube.com/watch?v=LYECUsX3jbM",
+        "video_title": "Samsung Gallery Now Syncs with Google Storage #Shorts",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-11-17T13:00:00Z",
+      "next_run_at": "2026-11-18T13:00:00Z",
       "totals": {
-        "runs_attempted": 92,
-        "runs_succeeded": 89,
-        "videos_published": 89
+        "runs_attempted": 93,
+        "runs_succeeded": 90,
+        "videos_published": 90
       }
     }
   },
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-11-17T05:14:16Z"
+    "checked_at": "2026-11-17T13:10:26Z"
   }
 }
