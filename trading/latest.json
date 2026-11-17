@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17T18:36:05Z",
+  "updated_at": "2026-11-17T19:36:31Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1174.3692736690577,
-    "total_value_usd": 1174.3692736690577,
-    "pnl_usd": 2.85,
-    "pnl_pct": 0.24
+    "balance_usd": 1173.8553863679292,
+    "total_value_usd": 1173.8553863679292,
+    "pnl_usd": 2.33,
+    "pnl_pct": 0.2
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.494644909055233
+      "unrealized_pnl": -1.6614003251029972
     },
     {
       "asset": "TSLA",
@@ -22,7 +22,7 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6385751123366011
+      "unrealized_pnl": -0.6110015829248354
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 153.6717975,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.07042599583442101
+      "unrealized_pnl": -0.027204829471492626
     },
     {
       "asset": "MSFT",
@@ -38,7 +38,7 @@
       "entry": 499.79477249999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.8794940419614069
+      "unrealized_pnl": 1.4137665209256818
     },
     {
       "asset": "AVGO",
@@ -46,13 +46,29 @@
       "entry": 335.777805,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9960348681269569
+      "unrealized_pnl": 0.7024869617046611
+    },
+    {
+      "asset": "QQQ",
+      "size": 0.07625089594802739,
+      "entry": 655.58763,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.10275799490643871
+    },
+    {
+      "asset": "META",
+      "size": 0.1608078988839932,
+      "entry": 622.260975,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.41504116682212727
     }
   ],
   "last_decision": {
-    "at": "2026-11-17T18:36:05Z",
+    "at": "2026-11-17T19:36:31Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price is below long\u2011term EMAs and MACD is negative; no clear edge for a new position."
+    "rationale": "SPY is neutral (price slightly below EMA20, MACD negative, RSI 44) \u2013 no edge to justify new exposure under current capital constraints."
   }
 }
