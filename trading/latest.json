@@ -1,28 +1,20 @@
 {
-  "updated_at": "2026-11-17T14:34:23Z",
+  "updated_at": "2026-11-17T15:34:50Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1169.8799446028765,
-    "total_value_usd": 1169.8799446028765,
-    "pnl_usd": -1.64,
-    "pnl_pct": -0.14
+    "balance_usd": 1168.4017136208627,
+    "total_value_usd": 1168.4017136208627,
+    "pnl_usd": -3.12,
+    "pnl_pct": -0.27
   },
   "open_positions": [
-    {
-      "asset": "MSFT",
-      "size": 0.21452422258287163,
-      "entry": 536.5781549999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -4.922935111086223
-    },
     {
       "asset": "SPY",
       "size": 0.1314993556531573,
       "entry": 760.8202200000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.985064303184922
+      "unrealized_pnl": -3.422957157509941
     },
     {
       "asset": "AAPL",
@@ -30,7 +22,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.060240043720738
+      "unrealized_pnl": -0.7057096213671082
     },
     {
       "asset": "TSLA",
@@ -38,21 +30,13 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6191715175653595
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.09404479425892702,
-      "entry": 691.455555,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -2.8171640068869728
+      "unrealized_pnl": -0.6178949652777761
     }
   ],
   "last_decision": {
-    "at": "2026-11-17T14:34:23Z",
+    "at": "2026-11-17T15:34:50Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "Price remains below EMA20 and MACD is negative; position is within 5% stop\u2011loss band, so we keep existing risk parameters."
+    "action": "sell",
+    "rationale": "Bearish intraday indicators (price < EMA20, negative MACD, RSI 29) and a 3.5% unrealised loss; exiting reduces downside risk and frees capital."
   }
 }
