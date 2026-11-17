@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17T17:35:40Z",
+  "updated_at": "2026-11-17T18:36:05Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1174.4067260052775,
-    "total_value_usd": 1174.4067260052775,
-    "pnl_usd": 2.88,
-    "pnl_pct": 0.25
+    "balance_usd": 1174.3692736690577,
+    "total_value_usd": 1174.3692736690577,
+    "pnl_usd": 2.85,
+    "pnl_pct": 0.24
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.3937508758162505
+      "unrealized_pnl": -1.494644909055233
     },
     {
       "asset": "TSLA",
@@ -22,7 +22,7 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.5875130208333331
+      "unrealized_pnl": -0.6385751123366011
     },
     {
       "asset": "NVDA",
@@ -30,7 +30,7 @@
       "entry": 153.6717975,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.3307748633168512
+      "unrealized_pnl": 0.07042599583442101
     },
     {
       "asset": "MSFT",
@@ -38,7 +38,7 @@
       "entry": 499.79477249999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.4122557504327313
+      "unrealized_pnl": 0.8794940419614069
     },
     {
       "asset": "AVGO",
@@ -46,13 +46,13 @@
       "entry": 335.777805,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.0884205036507244
+      "unrealized_pnl": 0.9960348681269569
     }
   ],
   "last_decision": {
-    "at": "2026-11-17T17:35:40Z",
+    "at": "2026-11-17T18:36:05Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price below long\u2011term EMAs and negative MACD; no clear edge, exposure budget better used elsewhere."
+    "rationale": "Price is below long\u2011term EMAs and MACD is negative; no clear edge for a new position."
   }
 }
