@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18T17:33:52Z",
+  "updated_at": "2026-11-18T18:34:17Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1183.3031410863534,
-    "total_value_usd": 1183.3031410863534,
-    "pnl_usd": 11.78,
-    "pnl_pct": 1.01
+    "balance_usd": 1183.4614229705724,
+    "total_value_usd": 1183.4614229705724,
+    "pnl_usd": 11.94,
+    "pnl_pct": 1.02
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.666473052885287
+      "unrealized_pnl": -0.6146247302485889
     },
     {
       "asset": "TSLA",
@@ -22,7 +22,7 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.2964590992647034
+      "unrealized_pnl": -0.3015653084150314
     },
     {
       "asset": "MSFT",
@@ -30,7 +30,7 @@
       "entry": 499.79477249999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.1316226275400503
+      "unrealized_pnl": 1.6678961270247887
     },
     {
       "asset": "QQQ",
@@ -38,7 +38,7 @@
       "entry": 655.58763,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5186868070699828
+      "unrealized_pnl": 0.39096655635704036
     },
     {
       "asset": "META",
@@ -46,7 +46,7 @@
       "entry": 622.260975,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.5276066960409115
+      "unrealized_pnl": -0.7656023863892244
     },
     {
       "asset": "AMZN",
@@ -54,7 +54,7 @@
       "entry": 264.20703749999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.4873404235169363
+      "unrealized_pnl": 0.6653842147132494
     },
     {
       "asset": "AVGO",
@@ -62,13 +62,13 @@
       "entry": 350.285055,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.043912087284359
+      "unrealized_pnl": 0.8068505083971249
     }
   ],
   "last_decision": {
-    "at": "2026-11-18T17:33:52Z",
+    "at": "2026-11-18T18:34:17Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "SPY is overbought (RSI7 77) and trading below its 20\u2011day EMA20 (750); no edge for new position."
+    "rationale": "Short\u2011term bullish but long\u2011term downtrend; no position and insufficient risk budget for new entry."
   }
 }
