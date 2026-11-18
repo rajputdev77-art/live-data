@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18T18:34:17Z",
+  "updated_at": "2026-11-18T19:34:42Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1183.4614229705724,
-    "total_value_usd": 1183.4614229705724,
-    "pnl_usd": 11.94,
-    "pnl_pct": 1.02
+    "balance_usd": 1182.8947813424772,
+    "total_value_usd": 1182.8947813424772,
+    "pnl_usd": 11.37,
+    "pnl_pct": 0.97
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.6146247302485889
+      "unrealized_pnl": -1.0700491858412013
     },
     {
       "asset": "TSLA",
@@ -22,7 +22,7 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.3015653084150314
+      "unrealized_pnl": -0.46853834763071667
     },
     {
       "asset": "MSFT",
@@ -30,7 +30,7 @@
       "entry": 499.79477249999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.6678961270247887
+      "unrealized_pnl": 1.447783869773586
     },
     {
       "asset": "QQQ",
@@ -38,7 +38,7 @@
       "entry": 655.58763,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.39096655635704036
+      "unrealized_pnl": 0.25790874292773225
     },
     {
       "asset": "META",
@@ -46,7 +46,7 @@
       "entry": 622.260975,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7656023863892244
+      "unrealized_pnl": -1.1901352394429643
     },
     {
       "asset": "AMZN",
@@ -54,7 +54,7 @@
       "entry": 264.20703749999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.6653842147132494
+      "unrealized_pnl": 0.5877268164254955
     },
     {
       "asset": "AVGO",
@@ -62,13 +62,13 @@
       "entry": 350.285055,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.8068505083971249
+      "unrealized_pnl": 1.717966697132415
     }
   ],
   "last_decision": {
-    "at": "2026-11-18T18:34:17Z",
+    "at": "2026-11-18T19:34:42Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Short\u2011term bullish but long\u2011term downtrend; no position and insufficient risk budget for new entry."
+    "rationale": "Price is below both intraday and long\u2011term EMAs, MACD negative and RSI low \u2013 no clear upside, so no new exposure."
   }
 }
