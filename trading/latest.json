@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18T16:33:25Z",
+  "updated_at": "2026-11-18T17:33:52Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1179.5650195219403,
-    "total_value_usd": 1179.5650195219403,
-    "pnl_usd": 8.04,
-    "pnl_pct": 0.69
+    "balance_usd": 1183.3031410863534,
+    "total_value_usd": 1183.3031410863534,
+    "pnl_usd": 11.78,
+    "pnl_pct": 1.01
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.9201094419999342
+      "unrealized_pnl": -0.666473052885287
     },
     {
       "asset": "TSLA",
@@ -22,7 +22,7 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.5533014195261428
+      "unrealized_pnl": -0.2964590992647034
     },
     {
       "asset": "MSFT",
@@ -30,7 +30,7 @@
       "entry": 499.79477249999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.7324190337071945
+      "unrealized_pnl": 1.1316226275400503
     },
     {
       "asset": "QQQ",
@@ -38,7 +38,7 @@
       "entry": 655.58763,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.05126881490857524
+      "unrealized_pnl": 0.5186868070699828
     },
     {
       "asset": "META",
@@ -46,13 +46,29 @@
       "entry": 622.260975,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.3573754542823113
+      "unrealized_pnl": -0.5276066960409115
+    },
+    {
+      "asset": "AMZN",
+      "size": 0.18940828850670505,
+      "entry": 264.20703749999996,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.4873404235169363
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.2856163601051068,
+      "entry": 350.285055,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 1.043912087284359
     }
   ],
   "last_decision": {
-    "at": "2026-11-18T16:33:25Z",
+    "at": "2026-11-18T17:33:52Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price below short\u2011 and long\u2011term EMAs, negative MACD and neutral RSI suggest no upside; maintain current exposure (none)."
+    "rationale": "SPY is overbought (RSI7 77) and trading below its 20\u2011day EMA20 (750); no edge for new position."
   }
 }
