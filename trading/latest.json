@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18T14:32:36Z",
+  "updated_at": "2026-11-18T15:33:00Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1181.8326982886185,
-    "total_value_usd": 1181.8326982886185,
-    "pnl_usd": 10.31,
-    "pnl_pct": 0.88
+    "balance_usd": 1179.8591243558237,
+    "total_value_usd": 1179.8591243558237,
+    "pnl_usd": 8.34,
+    "pnl_pct": 0.71
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.32875830273815426
+      "unrealized_pnl": -0.8976885457246101
     },
     {
       "asset": "TSLA",
@@ -22,7 +22,7 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4036894914215673
+      "unrealized_pnl": -0.5622372855392153
     },
     {
       "asset": "MSFT",
@@ -30,7 +30,7 @@
       "entry": 499.79477249999997,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.3207190667240327
+      "unrealized_pnl": 0.6893970925171926
     },
     {
       "asset": "QQQ",
@@ -38,7 +38,7 @@
       "entry": 655.58763,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.4775113232580508
+      "unrealized_pnl": 0.16907644914827444
     },
     {
       "asset": "META",
@@ -46,13 +46,13 @@
       "entry": 622.260975,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.8452022963368017
+      "unrealized_pnl": -1.1515413437108044
     }
   ],
   "last_decision": {
-    "at": "2026-11-18T14:32:36Z",
+    "at": "2026-11-18T15:33:00Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "Price > EMA20, MACD positive, RSI high but not extreme; short\u2011term bullish momentum below long\u2011term trend, fits remaining exposure budget."
+    "action": "hold",
+    "rationale": "SPY is trading below its 20\u2011period EMA, MACD is negative and RSI is mid\u2011range; no clear bullish edge, so we stay out."
   }
 }
