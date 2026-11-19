@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19T19:32:49Z",
+  "updated_at": "2026-11-19T20:33:11Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1174.960326935861,
-    "total_value_usd": 1174.960326935861,
-    "pnl_usd": 3.44,
-    "pnl_pct": 0.29
+    "balance_usd": 1171.2693326341266,
+    "total_value_usd": 1171.2693326341266,
+    "pnl_usd": -0.25,
+    "pnl_pct": -0.02
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.7664982763936
+      "unrealized_pnl": -2.071982988144945
     },
     {
       "asset": "TSLA",
@@ -22,7 +22,7 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.714657628676468
+      "unrealized_pnl": -0.8816306678921563
     },
     {
       "asset": "QQQ",
@@ -30,7 +30,7 @@
       "entry": 655.58763,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4008989980632234
+      "unrealized_pnl": -0.7691908254921987
     },
     {
       "asset": "META",
@@ -38,7 +38,7 @@
       "entry": 622.260975,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.0056564178432414
+      "unrealized_pnl": -4.1152309201428094
     },
     {
       "asset": "AVGO",
@@ -46,7 +46,7 @@
       "entry": 350.285055,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.14710813435394093
+      "unrealized_pnl": -0.9668270878555988
     },
     {
       "asset": "NVDA",
@@ -54,7 +54,7 @@
       "entry": 154.347135,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0789779481017192
+      "unrealized_pnl": -1.4102435776687983
     },
     {
       "asset": "SPY",
@@ -62,13 +62,13 @@
       "entry": 730.2949649999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2745654407232279
+      "unrealized_pnl": -1.8642510786932385
     }
   ],
   "last_decision": {
-    "at": "2026-11-19T19:32:49Z",
+    "at": "2026-11-19T20:33:11Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price 720.99 is below entry 730.29 but above mandatory SL; bearish intraday signals (MACD -1.23, RSI14 44.6) suggest no upside yet."
+    "rationale": "Price below EMA20 (716.7<718.7) and RSI ~39; modest loss within limits; no breach of mandatory SL; keep original targets."
   }
 }
