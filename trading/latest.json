@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18T20:35:06Z",
+  "updated_at": "2026-11-19T14:30:49Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1181.508876192248,
-    "total_value_usd": 1181.508876192248,
-    "pnl_usd": 9.98,
-    "pnl_pct": 0.85
+    "balance_usd": 1191.254825941708,
+    "total_value_usd": 1191.254825941708,
+    "pnl_usd": 19.73,
+    "pnl_pct": 1.68
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2115810935792117
+      "unrealized_pnl": -0.7281305176424324
     },
     {
       "asset": "TSLA",
@@ -22,15 +22,7 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4532197201797386
-    },
-    {
-      "asset": "MSFT",
-      "size": 0.20010205204654374,
-      "entry": 499.79477249999997,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 1.3717450899959005
+      "unrealized_pnl": -0.10038066789215565
     },
     {
       "asset": "QQQ",
@@ -38,7 +30,7 @@
       "entry": 655.58763,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.19118920897320826
+      "unrealized_pnl": 1.1691069495066544
     },
     {
       "asset": "META",
@@ -46,7 +38,7 @@
       "entry": 622.260975,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2769715048403147
+      "unrealized_pnl": 0.14698243977742967
     },
     {
       "asset": "AMZN",
@@ -54,7 +46,7 @@
       "entry": 264.20703749999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.3130847980907754
+      "unrealized_pnl": 1.5489738805970215
     },
     {
       "asset": "AVGO",
@@ -62,13 +54,13 @@
       "entry": 350.285055,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9625114246543964
+      "unrealized_pnl": 3.5630483834113993
     }
   ],
   "last_decision": {
-    "at": "2026-11-18T20:35:06Z",
+    "at": "2026-11-19T14:30:49Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price is below EMA20 and MACD is negative, indicating bearish bias; with limited capital we avoid opening a new short position."
+    "rationale": "Price is above short\u2011term EMA20 but RSI 77 indicates overbought; price remains below longer\u2011term EMA20/EMA50, suggesting limited upside now."
   }
 }
