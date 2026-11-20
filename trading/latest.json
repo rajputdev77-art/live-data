@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20T14:33:52Z",
+  "updated_at": "2026-11-20T15:34:17Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1166.1174690728926,
-    "total_value_usd": 1166.1174690728926,
-    "pnl_usd": -5.41,
-    "pnl_pct": -0.46
+    "balance_usd": 1164.54208720209,
+    "total_value_usd": 1164.54208720209,
+    "pnl_usd": -6.98,
+    "pnl_pct": -0.6
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.4778292368487358
+      "unrealized_pnl": -1.8982210420111472
     },
     {
       "asset": "TSLA",
@@ -22,7 +22,7 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.297786713643789
+      "unrealized_pnl": -1.4678234783496706
     },
     {
       "asset": "QQQ",
@@ -30,15 +30,7 @@
       "entry": 655.58763,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.5118745520259862
-    },
-    {
-      "asset": "AVGO",
-      "size": 0.2856163601051068,
-      "entry": 350.285055,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -3.811566034502457
+      "unrealized_pnl": -1.8938915407256027
     },
     {
       "asset": "SPY",
@@ -46,13 +38,13 @@
       "entry": 730.2949649999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.492290254092173
+      "unrealized_pnl": -2.821034860625969
     }
   ],
   "last_decision": {
-    "at": "2026-11-20T14:33:52Z",
+    "at": "2026-11-20T15:34:17Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Position within exposure limits; stop\u2011loss already at 5% below entry (693.55 \u2264 693.78) so no adjustment needed."
+    "rationale": "Long position still within TP/SL band; price below EMA but no breach of stop\u2011loss. No need to add or reduce exposure."
   }
 }
