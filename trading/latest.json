@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20T19:35:48Z",
+  "updated_at": "2026-11-20T20:36:11Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1151.9993823907462,
-    "total_value_usd": 1151.9993823907462,
-    "pnl_usd": -19.52,
-    "pnl_pct": -1.67
+    "balance_usd": 1148.662926276993,
+    "total_value_usd": 1148.662926276993,
+    "pnl_usd": -22.86,
+    "pnl_pct": -1.95
   },
   "open_positions": [
     {
@@ -14,15 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.5363477761273514
-    },
-    {
-      "asset": "SPY",
-      "size": 0.13697691938908294,
-      "entry": 730.2949649999999,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -4.908563112115594
+      "unrealized_pnl": -3.9385226030660587
     },
     {
       "asset": "MSFT",
@@ -30,7 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.8838111944511486
+      "unrealized_pnl": -2.800215743205084
     },
     {
       "asset": "AMZN",
@@ -38,7 +30,7 @@
       "entry": 256.30809,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.3724096197392073
+      "unrealized_pnl": -4.020492699305068
     },
     {
       "asset": "GOOG",
@@ -46,13 +38,13 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.870633825824954
+      "unrealized_pnl": -4.115778487675612
     }
   ],
   "last_decision": {
-    "at": "2026-11-20T19:35:48Z",
+    "at": "2026-11-20T20:36:11Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price 694.46 just above SL; downtrend persists but no breach; keep existing TP/SL"
+    "rationale": "Price (689.65) is below EMA20 (696.54), MACD negative and RSI14 modestly low; no bullish trigger and exposure limits already near capacity."
   }
 }
