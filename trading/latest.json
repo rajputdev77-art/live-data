@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19T20:33:11Z",
+  "updated_at": "2026-11-20T14:33:52Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1171.2693326341266,
-    "total_value_usd": 1171.2693326341266,
-    "pnl_usd": -0.25,
-    "pnl_pct": -0.02
+    "balance_usd": 1166.1174690728926,
+    "total_value_usd": 1166.1174690728926,
+    "pnl_usd": -5.41,
+    "pnl_pct": -0.46
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.071982988144945
+      "unrealized_pnl": -1.4778292368487358
     },
     {
       "asset": "TSLA",
@@ -22,7 +22,7 @@
       "entry": 391.905855,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.8816306678921563
+      "unrealized_pnl": -1.297786713643789
     },
     {
       "asset": "QQQ",
@@ -30,15 +30,7 @@
       "entry": 655.58763,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7691908254921987
-    },
-    {
-      "asset": "META",
-      "size": 0.1608078988839932,
-      "entry": 622.260975,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -4.1152309201428094
+      "unrealized_pnl": -1.5118745520259862
     },
     {
       "asset": "AVGO",
@@ -46,15 +38,7 @@
       "entry": 350.285055,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.9668270878555988
-    },
-    {
-      "asset": "NVDA",
-      "size": 0.19486213503945957,
-      "entry": 154.347135,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -1.4102435776687983
+      "unrealized_pnl": -3.811566034502457
     },
     {
       "asset": "SPY",
@@ -62,13 +46,13 @@
       "entry": 730.2949649999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.8642510786932385
+      "unrealized_pnl": -2.492290254092173
     }
   ],
   "last_decision": {
-    "at": "2026-11-19T20:33:11Z",
+    "at": "2026-11-20T14:33:52Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price below EMA20 (716.7<718.7) and RSI ~39; modest loss within limits; no breach of mandatory SL; keep original targets."
+    "rationale": "Position within exposure limits; stop\u2011loss already at 5% below entry (693.55 \u2264 693.78) so no adjustment needed."
   }
 }
