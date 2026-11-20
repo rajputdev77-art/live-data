@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20T16:34:41Z",
+  "updated_at": "2026-11-20T17:35:03Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1159.5576131740322,
-    "total_value_usd": 1159.5576131740322,
-    "pnl_usd": -11.97,
-    "pnl_pct": -1.02
+    "balance_usd": 1156.9044677061972,
+    "total_value_usd": 1156.9044677061972,
+    "pnl_usd": -14.62,
+    "pnl_pct": -1.25
   },
   "open_positions": [
     {
@@ -14,15 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.4195068804125412
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.07625089594802739,
-      "entry": 655.58763,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -2.3529219343327266
+      "unrealized_pnl": -2.8370960735405393
     },
     {
       "asset": "SPY",
@@ -30,7 +22,7 @@
       "entry": 730.2949649999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -3.5182473803164056
+      "unrealized_pnl": -3.9278083692897647
     },
     {
       "asset": "MSFT",
@@ -38,7 +30,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.1448403097023745
+      "unrealized_pnl": -1.4049419308008542
     },
     {
       "asset": "AMZN",
@@ -46,7 +38,7 @@
       "entry": 256.30809,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.4828179901616312
+      "unrealized_pnl": -2.1309010697274924
     },
     {
       "asset": "GOOG",
@@ -54,13 +46,13 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.5945239045993986
+      "unrealized_pnl": -1.3659327694485655
     }
   ],
   "last_decision": {
-    "at": "2026-11-20T16:34:41Z",
+    "at": "2026-11-20T17:35:03Z",
     "asset": "SPY",
-    "action": "sell",
-    "rationale": "SPY is below both intraday and long\u2011term EMAs, MACD is strongly negative and the position is the largest unrealised loss; closing it brings total exposure within the 50\u202f% limit."
+    "action": "hold",
+    "rationale": "Price still above 5% SL, but bearish trend; keep position and monitor"
   }
 }
