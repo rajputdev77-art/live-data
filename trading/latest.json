@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-23T16:33:19Z",
+  "updated_at": "2026-11-23T17:33:42Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1171.4362886072618,
-    "total_value_usd": 1171.4362886072618,
-    "pnl_usd": -0.09,
-    "pnl_pct": -0.01
+    "balance_usd": 1172.5255043908624,
+    "total_value_usd": 1172.5255043908624,
+    "pnl_usd": 1.0,
+    "pnl_pct": 0.09
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.171475715366721
+      "unrealized_pnl": -2.0887986603514426
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.49440479070894816
+      "unrealized_pnl": 0.5508609565287669
     },
     {
       "asset": "AMZN",
@@ -30,7 +30,7 @@
       "entry": 256.30809,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.13543765128444593
+      "unrealized_pnl": 0.7191028343874383
     },
     {
       "asset": "GOOG",
@@ -38,7 +38,7 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.6525447417141734
+      "unrealized_pnl": 2.0554924311177225
     },
     {
       "asset": "SPY",
@@ -46,7 +46,7 @@
       "entry": 720.55954,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.2495530912115311
+      "unrealized_pnl": -0.25994954255613884
     },
     {
       "asset": "QQQ",
@@ -54,7 +54,7 @@
       "entry": 651.2542100000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.04195866640072225
+      "unrealized_pnl": -0.10916028660416992
     },
     {
       "asset": "TSLA",
@@ -62,13 +62,13 @@
       "entry": 380.84948,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.4848396777760182
+      "unrealized_pnl": -1.443771915969038
     }
   ],
   "last_decision": {
-    "at": "2026-11-23T16:33:19Z",
+    "at": "2026-11-23T17:33:42Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "Short remains justified by long\u2011term downtrend (price < EMA20/50) and over\u2011bought RSI; loss is minimal and stop is at mandatory 5% distance."
+    "action": "buy",
+    "rationale": "Short SPY is currently losing (~$0.26) and offers limited upside; closing removes downside and frees ~$60 of exposure."
   }
 }
