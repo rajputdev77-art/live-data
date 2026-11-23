@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-23T14:32:31Z",
+  "updated_at": "2026-11-23T15:32:53Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1174.9497512941464,
-    "total_value_usd": 1174.9497512941464,
-    "pnl_usd": 3.43,
-    "pnl_pct": 0.29
+    "balance_usd": 1173.3352649902738,
+    "total_value_usd": 1173.3352649902738,
+    "pnl_usd": 1.81,
+    "pnl_pct": 0.15
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.13644306493652
+      "unrealized_pnl": -1.036417841428207
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.983436164206809
+      "unrealized_pnl": 1.7112367932897952
     },
     {
       "asset": "AMZN",
@@ -30,7 +30,7 @@
       "entry": 256.30809,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5590341219645569
+      "unrealized_pnl": 0.6136917310845641
     },
     {
       "asset": "GOOG",
@@ -38,13 +38,37 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.441995498602386
+      "unrealized_pnl": 2.0500471920717334
+    },
+    {
+      "asset": "SPY",
+      "size": -0.08317161075686166,
+      "entry": 720.55954,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.6034482949819866
+    },
+    {
+      "asset": "QQQ",
+      "size": -0.09205701397732328,
+      "entry": 651.2542100000001,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.5491928134157728
+    },
+    {
+      "asset": "TSLA",
+      "size": -0.15795293002685198,
+      "entry": 380.84948,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -1.9523803506554969
     }
   ],
   "last_decision": {
-    "at": "2026-11-23T14:32:31Z",
+    "at": "2026-11-23T15:32:53Z",
     "asset": "SPY",
-    "action": "sell",
-    "rationale": "RSI7=81.6 (overbought), price 721.4 is below long\u2011term EMA20 (738.5) and EMA50 (748.6); recent price decline supports short bias. TP set 2\u00d7ATR below entry, SL at mandatory 5% above entry."
+    "action": "hold",
+    "rationale": "Short position is within SL band and exposure limit; no room for additional size."
   }
 }
