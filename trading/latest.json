@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-23T19:34:32Z",
+  "updated_at": "2026-11-23T20:34:58Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1172.5968718538943,
-    "total_value_usd": 1172.5968718538943,
-    "pnl_usd": 1.07,
-    "pnl_pct": 0.09
+    "balance_usd": 1172.2742037891057,
+    "total_value_usd": 1172.2742037891057,
+    "pnl_usd": 0.75,
+    "pnl_pct": 0.06
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.6543937950169474
+      "unrealized_pnl": -1.5198684173649866
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.018559964513284472
+      "unrealized_pnl": 0.14155375433504705
     },
     {
       "asset": "AMZN",
@@ -30,7 +30,7 @@
       "entry": 256.30809,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.27793784649019637
+      "unrealized_pnl": 0.168622628250182
     },
     {
       "asset": "GOOG",
@@ -38,7 +38,7 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.104499582531666
+      "unrealized_pnl": 1.7904907975460227
     },
     {
       "asset": "SPY",
@@ -46,7 +46,7 @@
       "entry": 720.55954,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.2320870529525966
+      "unrealized_pnl": -0.25787025228721916
     },
     {
       "asset": "QQQ",
@@ -54,7 +54,7 @@
       "entry": 651.2542100000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.030306089571484063
+      "unrealized_pnl": -0.06681406017459786
     },
     {
       "asset": "TSLA",
@@ -62,13 +62,13 @@
       "entry": 380.84948,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0496793555520416
+      "unrealized_pnl": -1.0836392355078108
     }
   ],
   "last_decision": {
-    "at": "2026-11-23T19:34:32Z",
+    "at": "2026-11-23T20:34:58Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "Price is slightly above EMA20, MACD positive, long\u2011term EMA20 higher; short bias remains but loss is small. Tightening SL protects downside without adding exposure."
+    "action": "buy",
+    "rationale": "Short is losing as price is above entry and EMA20; bullish MACD and RSI suggest further upside. Closing eliminates downside risk and frees exposure for new longs."
   }
 }
