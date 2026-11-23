@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-22T13:35:02Z",
+  "updated_at": "2026-11-23T05:16:18Z",
   "channel": {
     "id": "UCp5CgkVkHtB5Kyfv71SFiqw",
     "title": "Dev Rajput",
-    "subscriber_count": 10,
-    "video_count": 476,
-    "view_count": 4651
+    "subscriber_count": 11,
+    "video_count": 477,
+    "view_count": 4943
   },
   "last_run": {
-    "pipeline": "shorts",
-    "started_at": "2026-11-22T13:00:18Z",
-    "finished_at": "2026-11-22T13:09:40Z",
+    "pipeline": "teaching",
+    "started_at": "2026-11-23T05:00:08Z",
+    "finished_at": "2026-11-23T05:16:18Z",
     "status": "success",
-    "duration_seconds": 561.5,
-    "video_url": "https://www.youtube.com/watch?v=pw7PF77GFkQ",
-    "video_title": "Nasdaq 100's Worst Week Since 2020 Explained #Shorts",
+    "duration_seconds": 970.1,
+    "video_url": "https://www.youtube.com/watch?v=awSwXVTKwRs",
+    "video_title": "Knowledge Graphs: Turning Facts Into Multi-Hop Answers | AI Lesson 139",
     "error": null,
     "stage_timings": {}
   },
-  "next_run_at": "2026-11-23T05:00:00Z",
+  "next_run_at": "2026-11-23T08:30:00Z",
   "schedule": {
     "monday": "14:00 IST",
     "tuesday": "14:00 IST",
@@ -29,9 +29,9 @@
     "sunday": "17:00 IST"
   },
   "totals": {
-    "runs_attempted": 358,
-    "runs_succeeded": 330,
-    "videos_published": 330
+    "runs_attempted": 359,
+    "runs_succeeded": 331,
+    "videos_published": 331
   },
   "backfill": {
     "ran_at": "2026-05-14T14:09:36Z",
@@ -79,7 +79,7 @@
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-11-23T13:30:00Z",
+      "next_run_at": "2026-11-23T08:30:00Z",
       "totals": {
         "runs_attempted": 74,
         "runs_succeeded": 74,
@@ -98,20 +98,20 @@
     "teaching": {
       "last_run": {
         "pipeline": "teaching",
-        "started_at": "2026-11-22T06:00:23Z",
-        "finished_at": "2026-11-22T06:14:31Z",
+        "started_at": "2026-11-23T05:00:08Z",
+        "finished_at": "2026-11-23T05:16:18Z",
         "status": "success",
-        "duration_seconds": 848.0,
-        "video_url": "https://www.youtube.com/watch?v=LH4WWnM1xLc",
-        "video_title": "Citations in AI: How to Make Models Show Their Sources | AI Lesson 138",
+        "duration_seconds": 970.1,
+        "video_url": "https://www.youtube.com/watch?v=awSwXVTKwRs",
+        "video_title": "Knowledge Graphs: Turning Facts Into Multi-Hop Answers | AI Lesson 139",
         "error": null,
         "stage_timings": {}
       },
-      "next_run_at": "2026-11-23T05:00:00Z",
+      "next_run_at": "2026-11-24T05:00:00Z",
       "totals": {
-        "runs_attempted": 141,
-        "runs_succeeded": 138,
-        "videos_published": 138
+        "runs_attempted": 142,
+        "runs_succeeded": 139,
+        "videos_published": 139
       }
     },
     "shorts": {
@@ -137,6 +137,6 @@
   "health": {
     "youtube_token": "ok",
     "detail": null,
-    "checked_at": "2026-11-22T13:09:40Z"
+    "checked_at": "2026-11-23T05:16:18Z"
   }
 }
