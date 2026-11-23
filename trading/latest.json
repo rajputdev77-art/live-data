@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-23T18:34:07Z",
+  "updated_at": "2026-11-23T19:34:32Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1173.444549502876,
-    "total_value_usd": 1173.444549502876,
-    "pnl_usd": 1.92,
-    "pnl_pct": 0.16
+    "balance_usd": 1172.5968718538943,
+    "total_value_usd": 1172.5968718538943,
+    "pnl_usd": 1.07,
+    "pnl_pct": 0.09
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.8617870855637395
+      "unrealized_pnl": -1.6543937950169474
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.40568795870636776
+      "unrealized_pnl": 0.018559964513284472
     },
     {
       "asset": "AMZN",
@@ -30,7 +30,7 @@
       "entry": 256.30809,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.0158155696103819
+      "unrealized_pnl": 0.27793784649019637
     },
     {
       "asset": "GOOG",
@@ -38,7 +38,7 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.2605964351835
+      "unrealized_pnl": 2.104499582531666
     },
     {
       "asset": "SPY",
@@ -46,7 +46,7 @@
       "entry": 720.55954,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.2878120321596905
+      "unrealized_pnl": -0.2320870529525966
     },
     {
       "asset": "QQQ",
@@ -54,7 +54,7 @@
       "entry": 651.2542100000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.06497291989505308
+      "unrealized_pnl": 0.030306089571484063
     },
     {
       "asset": "TSLA",
@@ -62,13 +62,13 @@
       "entry": 380.84948,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.1247069973147998
+      "unrealized_pnl": -1.0496793555520416
     }
   ],
   "last_decision": {
-    "at": "2026-11-23T18:34:07Z",
+    "at": "2026-11-23T19:34:32Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "Short SPY is losing (price above entry) and near mandatory 5% stop\u2011loss; closing reduces risk and frees capital for higher\u2011probability trades."
+    "action": "hold",
+    "rationale": "Price is slightly above EMA20, MACD positive, long\u2011term EMA20 higher; short bias remains but loss is small. Tightening SL protects downside without adding exposure."
   }
 }
