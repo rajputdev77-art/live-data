@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-23T20:34:58Z",
+  "updated_at": "2026-11-24T14:30:38Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1172.2742037891057,
-    "total_value_usd": 1172.2742037891057,
-    "pnl_usd": 0.75,
-    "pnl_pct": 0.06
+    "balance_usd": 1169.5084742313907,
+    "total_value_usd": 1169.5084742313907,
+    "pnl_usd": -2.02,
+    "pnl_pct": -0.17
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.5198684173649866
+      "unrealized_pnl": -2.6156897228216636
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.14155375433504705
+      "unrealized_pnl": -1.3575590773449275
     },
     {
       "asset": "AMZN",
@@ -30,7 +30,7 @@
       "entry": 256.30809,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.168622628250182
+      "unrealized_pnl": -1.5413797142187784
     },
     {
       "asset": "GOOG",
@@ -38,7 +38,7 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.7904907975460227
+      "unrealized_pnl": 0.7087033070751846
     },
     {
       "asset": "SPY",
@@ -46,7 +46,7 @@
       "entry": 720.55954,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.25787025228721916
+      "unrealized_pnl": 0.5376662046021577
     },
     {
       "asset": "QQQ",
@@ -54,7 +54,7 @@
       "entry": 651.2542100000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.06681406017459786
+      "unrealized_pnl": 1.0581226506282952
     },
     {
       "asset": "TSLA",
@@ -62,13 +62,13 @@
       "entry": 380.84948,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0836392355078108
+      "unrealized_pnl": -0.383117990838722
     }
   ],
   "last_decision": {
-    "at": "2026-11-23T20:34:58Z",
+    "at": "2026-11-24T14:30:38Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "Short is losing as price is above entry and EMA20; bullish MACD and RSI suggest further upside. Closing eliminates downside risk and frees exposure for new longs."
+    "action": "hold",
+    "rationale": "Price below EMA20, negative MACD and low RSI support continued downside; position is profitable and within risk limits."
   }
 }
