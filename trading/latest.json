@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-24T15:31:03Z",
+  "updated_at": "2026-11-24T16:31:28Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1172.6581333937079,
-    "total_value_usd": 1172.6581333937079,
-    "pnl_usd": 1.13,
-    "pnl_pct": 0.1
+    "balance_usd": 1172.4293458651675,
+    "total_value_usd": 1172.4293458651675,
+    "pnl_usd": 0.91,
+    "pnl_pct": 0.08
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.4161717720915905
+      "unrealized_pnl": -1.3993560998850934
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4834966529558681
+      "unrealized_pnl": -0.08023832567140968
     },
     {
       "asset": "AMZN",
@@ -30,7 +30,7 @@
       "entry": 256.30809,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.143159990630123
+      "unrealized_pnl": -1.8693253689388547
     },
     {
       "asset": "GOOG",
@@ -38,7 +38,7 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.0625349402838718
+      "unrealized_pnl": -0.16253494028386611
     },
     {
       "asset": "SPY",
@@ -46,7 +46,7 @@
       "entry": 720.55954,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.49815968949264655
+      "unrealized_pnl": 0.5256063210424143
     },
     {
       "asset": "QQQ",
@@ -54,7 +54,7 @@
       "entry": 651.2542100000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.4944728968808083
+      "unrealized_pnl": 1.6896337665127341
     },
     {
       "asset": "TSLA",
@@ -62,13 +62,13 @@
       "entry": 380.84948,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5440657084188999
+      "unrealized_pnl": 0.6238319380824594
     }
   ],
   "last_decision": {
-    "at": "2026-11-24T15:31:03Z",
+    "at": "2026-11-24T16:31:28Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "short is in profit, stop meets 5% rule, no exposure headroom for new trade"
+    "rationale": "Short is in profit, EMA20 below price, MACD negative, long\u2011term EMA20 above price indicating continued downtrend."
   }
 }
