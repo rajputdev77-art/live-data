@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-24T17:31:51Z",
+  "updated_at": "2026-11-24T18:32:17Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1173.3627114824103,
-    "total_value_usd": 1173.3627114824103,
-    "pnl_usd": 1.84,
-    "pnl_pct": 0.16
+    "balance_usd": 1172.1279727997603,
+    "total_value_usd": 1172.1279727997603,
+    "pnl_usd": 0.6,
+    "pnl_pct": 0.05
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.8374323869846715
+      "unrealized_pnl": -0.8500441411395323
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9742822001774528
+      "unrealized_pnl": 0.14861077506251866
     },
     {
       "asset": "AMZN",
@@ -30,7 +30,7 @@
       "entry": 256.30809,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.9460021863043656
+      "unrealized_pnl": -1.5355235418130682
     },
     {
       "asset": "GOOG",
@@ -38,7 +38,7 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.412845318909505
+      "unrealized_pnl": 0.41829055795549414
     },
     {
       "asset": "SPY",
@@ -46,7 +46,7 @@
       "entry": 720.55954,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.09061879678402629
+      "unrealized_pnl": 0.1554926531743761
     },
     {
       "asset": "QQQ",
@@ -54,7 +54,7 @@
       "entry": 651.2542100000001,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.0627255013271573
+      "unrealized_pnl": 1.1317682618101497
     },
     {
       "asset": "TSLA",
@@ -62,13 +62,13 @@
       "entry": 380.84948,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.4960543358079262
+      "unrealized_pnl": -0.4423503395987915
     }
   ],
   "last_decision": {
-    "at": "2026-11-24T17:31:51Z",
+    "at": "2026-11-24T18:32:17Z",
     "asset": "SPY",
-    "action": "buy",
-    "rationale": "Short SPY has only a small profit and is near entry; closing frees ~60\u202fUSD exposure for higher\u2011edge trade."
+    "action": "hold",
+    "rationale": "Price 718.74 is above EMA20 but long\u2011term EMAs are well above price, indicating bearish bias; short remains viable with tighter stop."
   }
 }
