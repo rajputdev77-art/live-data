@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-24T20:33:07Z",
+  "updated_at": "2026-11-25T14:33:46Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1170.7712127657614,
-    "total_value_usd": 1170.7712127657614,
-    "pnl_usd": -0.75,
-    "pnl_pct": -0.06
+    "balance_usd": 1164.66728806444,
+    "total_value_usd": 1164.66728806444,
+    "pnl_usd": -6.86,
+    "pnl_pct": -0.59
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.1835549732350448
+      "unrealized_pnl": -1.5282762534682273
     },
     {
       "asset": "MSFT",
@@ -22,15 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.40586942495361167
-    },
-    {
-      "asset": "AMZN",
-      "size": 0.39041149371437495,
-      "entry": 256.30809,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -2.0840516904817656
+      "unrealized_pnl": -2.356631583192182
     },
     {
       "asset": "GOOG",
@@ -38,23 +30,7 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.1843158964678434
-    },
-    {
-      "asset": "SPY",
-      "size": -0.08317161075686166,
-      "entry": 720.55954,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.3625899639589624
-    },
-    {
-      "asset": "QQQ",
-      "size": -0.09205701397732328,
-      "entry": 651.2542100000001,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 1.4696175031069327
+      "unrealized_pnl": -4.769207173194889
     },
     {
       "asset": "TSLA",
@@ -62,13 +38,13 @@
       "entry": 380.84948,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.30493129047542955
+      "unrealized_pnl": 2.3455188753751424
     }
   ],
   "last_decision": {
-    "at": "2026-11-24T20:33:07Z",
+    "at": "2026-11-25T14:33:46Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price still below short\u2011term EMA20 and long\u2011term EMAs, negative MACD; downtrend supports existing short. Exposure within limits."
+    "rationale": "Price is well below EMA20/EMA50 and trend is bearish; no position and no new signal to enter."
   }
 }
