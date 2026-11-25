@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-25T17:34:58Z",
+  "updated_at": "2026-11-25T18:35:21Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1169.2495380886003,
-    "total_value_usd": 1169.2495380886003,
-    "pnl_usd": -2.27,
-    "pnl_pct": -0.19
+    "balance_usd": 1171.743373224162,
+    "total_value_usd": 1171.743373224162,
+    "pnl_usd": 0.22,
+    "pnl_pct": 0.02
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.2900542305428544
+      "unrealized_pnl": -0.5235398391300696
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.9977316719090077
+      "unrealized_pnl": -1.4291374304379227
     },
     {
       "asset": "GOOG",
@@ -30,7 +30,7 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.841592550912991
+      "unrealized_pnl": -2.5366591643373093
     },
     {
       "asset": "TSLA",
@@ -38,7 +38,7 @@
       "entry": 380.84948,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.1307028905386214
+      "unrealized_pnl": 0.724132048649509
     },
     {
       "asset": "AMZN",
@@ -46,7 +46,7 @@
       "entry": 242.2060425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.4663269286333424
+      "unrealized_pnl": 0.6324638832707353
     },
     {
       "asset": "AVGO",
@@ -54,7 +54,7 @@
       "entry": 282.28106999999994,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.13270563652142
+      "unrealized_pnl": 2.1987395300242687
     },
     {
       "asset": "SPY",
@@ -62,7 +62,7 @@
       "entry": 701.1453975,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.3019217298885873
+      "unrealized_pnl": 0.539663715993554
     },
     {
       "asset": "QQQ",
@@ -70,7 +70,7 @@
       "entry": 613.276485,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.3716481499608469
+      "unrealized_pnl": 0.7064171397807388
     },
     {
       "asset": "NVDA",
@@ -78,13 +78,13 @@
       "entry": 144.001965,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.00027299249791784536
+      "unrealized_pnl": 0.45540914142817285
     }
   ],
   "last_decision": {
-    "at": "2026-11-25T17:34:58Z",
+    "at": "2026-11-25T18:35:21Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price above EMA20, MACD positive but RSI overbought; small profit, no need to adjust"
+    "rationale": "Position within 10% limit; exposure near cap. Adjust SL to 5% from entry (701.145\u202f\u00d7\u202f0.95) to meet mandatory stop\u2011loss rule."
   }
 }
