@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-26T16:32:38Z",
+  "updated_at": "2026-11-26T17:33:03Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1176.5911865614537,
-    "total_value_usd": 1176.5911865614537,
-    "pnl_usd": 5.07,
+    "balance_usd": 1176.5436865614538,
+    "total_value_usd": 1176.5436865614538,
+    "pnl_usd": 5.02,
     "pnl_pct": 0.43
   },
   "open_positions": [
@@ -63,12 +63,20 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 1.0103521436961618
+    },
+    {
+      "asset": "META",
+      "size": 0.15593965955910113,
+      "entry": 609.514605,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": -0.04749999999998816
     }
   ],
   "last_decision": {
-    "at": "2026-11-26T16:32:38Z",
+    "at": "2026-11-26T17:33:03Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price marginally above EMA20 but long\u2011term trend down; position within risk limits, no adjustment needed."
+    "rationale": "Price is slightly above intraday EMA20 but below long\u2011term EMA20/50; existing TP/SL meet mandatory 5% stop and exposure limits, no edge to adjust."
   }
 }
