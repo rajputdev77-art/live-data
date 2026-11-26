@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-26T15:32:14Z",
+  "updated_at": "2026-11-26T16:32:38Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1175.5511059835155,
-    "total_value_usd": 1175.5511059835155,
-    "pnl_usd": 4.03,
-    "pnl_pct": 0.34
+    "balance_usd": 1176.5911865614537,
+    "total_value_usd": 1176.5911865614537,
+    "pnl_usd": 5.07,
+    "pnl_pct": 0.43
   },
   "open_positions": [
     {
@@ -63,20 +63,12 @@
       "tp": null,
       "sl": null,
       "unrealized_pnl": 1.0103521436961618
-    },
-    {
-      "asset": "NVDA",
-      "size": 0.1389274798555154,
-      "entry": 144.001965,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 0.795781467074184
     }
   ],
   "last_decision": {
-    "at": "2026-11-26T15:32:14Z",
+    "at": "2026-11-26T16:32:38Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price is modestly above entry, short\u2011term EMA20 support holds, but long\u2011term EMAs are above price; position remains within risk limits and TP is still distant."
+    "rationale": "Price marginally above EMA20 but long\u2011term trend down; position within risk limits, no adjustment needed."
   }
 }
