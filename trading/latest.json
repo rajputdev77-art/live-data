@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T17:33:03Z",
+  "updated_at": "2026-11-26T18:33:26Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1176.5436865614538,
@@ -74,9 +74,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-11-26T17:33:03Z",
+    "at": "2026-11-26T18:33:26Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price is slightly above intraday EMA20 but below long\u2011term EMA20/50; existing TP/SL meet mandatory 5% stop and exposure limits, no edge to adjust."
+    "rationale": "Price 716.67 above entry, profit ~2.2%; tighten SL from 665.92 to 704 to protect profit while keeping upside."
   }
 }
