@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T14:31:48Z",
+  "updated_at": "2026-11-26T15:32:14Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1175.5511059835155,
@@ -74,9 +74,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-11-26T14:31:48Z",
+    "at": "2026-11-26T15:32:14Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price below both long\u2011term EMA20/50; position modestly profitable; no need to adjust."
+    "rationale": "Price is modestly above entry, short\u2011term EMA20 support holds, but long\u2011term EMAs are above price; position remains within risk limits and TP is still distant."
   }
 }
