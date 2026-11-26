@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T19:33:51Z",
+  "updated_at": "2026-11-26T20:34:17Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1176.5436865614538,
@@ -74,9 +74,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-11-26T19:33:51Z",
+    "at": "2026-11-26T20:34:17Z",
     "asset": "SPY",
-    "action": "hold",
-    "rationale": "Price near intraday EMA20, modest upside, stop loss already at mandatory 5% level; no need to adjust."
+    "action": "sell",
+    "rationale": "profit captured; frees ~$30 exposure for higher\u2011edge short positions"
   }
 }
