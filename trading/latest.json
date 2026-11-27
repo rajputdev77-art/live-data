@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-27T15:35:17Z",
+  "updated_at": "2026-11-27T16:35:42Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1180.25209959409,
-    "total_value_usd": 1180.25209959409,
-    "pnl_usd": 8.73,
-    "pnl_pct": 0.75
+    "balance_usd": 1182.2129140686425,
+    "total_value_usd": 1182.2129140686425,
+    "pnl_usd": 10.69,
+    "pnl_pct": 0.91
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5232357557243386
+      "unrealized_pnl": 0.3662894817970377
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.1226611017017378
+      "unrealized_pnl": -0.971439228970066
     },
     {
       "asset": "GOOG",
@@ -30,7 +30,7 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.1046702000217765
+      "unrealized_pnl": -1.364117689766569
     },
     {
       "asset": "TSLA",
@@ -38,7 +38,7 @@
       "entry": 380.84948,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -2.768996998894324
+      "unrealized_pnl": -2.7595198230927127
     },
     {
       "asset": "AMZN",
@@ -46,7 +46,7 @@
       "entry": 242.2060425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.688228113262062
+      "unrealized_pnl": 3.433677405374172
     },
     {
       "asset": "SPY",
@@ -54,15 +54,7 @@
       "entry": 701.1453975,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9494530079746678
-    },
-    {
-      "asset": "QQQ",
-      "size": 0.048942834768989814,
-      "entry": 613.276485,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 1.4155988155834016
+      "unrealized_pnl": 1.0864060872790573
     },
     {
       "asset": "META",
@@ -70,13 +62,13 @@
       "entry": 609.514605,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.467379926462146
+      "unrealized_pnl": 3.7324773477126247
     }
   ],
   "last_decision": {
-    "at": "2026-11-27T15:35:17Z",
+    "at": "2026-11-27T16:35:42Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price 723.33 is above entry and well above SL; EMA20 (724.39) is slightly higher, indicating a mild pull\u2011back. No immediate upside pressure, so we hold."
+    "rationale": "Position is within risk limits, price modestly above short\u2011term EMA20, but RSI7 is high; existing SL already >5% from entry, so hold."
   }
 }
