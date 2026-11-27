@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-27T14:34:54Z",
+  "updated_at": "2026-11-27T15:35:17Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1182.6898427520339,
-    "total_value_usd": 1182.6898427520339,
-    "pnl_usd": 11.17,
-    "pnl_pct": 0.95
+    "balance_usd": 1180.25209959409,
+    "total_value_usd": 1180.25209959409,
+    "pnl_usd": 8.73,
+    "pnl_pct": 0.75
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.3452698915389203
+      "unrealized_pnl": 0.5232357557243386
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.2625312525203777
+      "unrealized_pnl": -1.1226611017017378
     },
     {
       "asset": "GOOG",
@@ -30,7 +30,7 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.7106890042472913
+      "unrealized_pnl": -2.1046702000217765
     },
     {
       "asset": "TSLA",
@@ -38,7 +38,7 @@
       "entry": 380.84948,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.0236171220976078
+      "unrealized_pnl": -2.768996998894324
     },
     {
       "asset": "AMZN",
@@ -46,7 +46,7 @@
       "entry": 242.2060425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.8806580468072835
+      "unrealized_pnl": 2.688228113262062
     },
     {
       "asset": "SPY",
@@ -54,7 +54,7 @@
       "entry": 701.1453975,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.9271981325877
+      "unrealized_pnl": 0.9494530079746678
     },
     {
       "asset": "QQQ",
@@ -62,7 +62,7 @@
       "entry": 613.276485,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.3221180011746272
+      "unrealized_pnl": 1.4155988155834016
     },
     {
       "asset": "META",
@@ -70,13 +70,13 @@
       "entry": 609.514605,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 2.481841278048619
+      "unrealized_pnl": 3.467379926462146
     }
   ],
   "last_decision": {
-    "at": "2026-11-27T14:34:54Z",
+    "at": "2026-11-27T15:35:17Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Long position is modestly in profit (\u2248$0.93) and still far from TP (736.02). RSI7 is extremely low (5.49) indicating oversold, but no immediate signal to adjust. Maintain current stop at 665.92."
+    "rationale": "Price 723.33 is above entry and well above SL; EMA20 (724.39) is slightly higher, indicating a mild pull\u2011back. No immediate upside pressure, so we hold."
   }
 }
