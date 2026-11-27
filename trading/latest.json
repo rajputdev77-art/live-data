@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T19:36:58Z",
+  "updated_at": "2026-11-27T20:37:24Z",
   "mode": "paper",
   "account": {
     "balance_usd": 1183.4525592622774,
@@ -74,9 +74,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-11-27T19:36:58Z",
+    "at": "2026-11-27T20:37:24Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Position is in profit (+1.16%) and well within TP/SL bounds; keeping it preserves upside while staying within per\u2011position risk limits."
+    "rationale": "Price above EMA20, modest profit (+1.66%); stop already at mandatory level; keep exposure low."
   }
 }
