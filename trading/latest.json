@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-27T17:36:09Z",
+  "updated_at": "2026-11-27T18:36:34Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1182.015082919717,
-    "total_value_usd": 1182.015082919717,
-    "pnl_usd": 10.49,
-    "pnl_pct": 0.9
+    "balance_usd": 1184.1470593624579,
+    "total_value_usd": 1184.1470593624579,
+    "pnl_usd": 12.62,
+    "pnl_pct": 1.08
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.5947023626019472
+      "unrealized_pnl": 0.6773794176172259
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.8676002096943093
+      "unrealized_pnl": -0.4633337365916406
     },
     {
       "asset": "GOOG",
@@ -30,7 +30,7 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.4185700802265226
+      "unrealized_pnl": -1.1644589247468011
     },
     {
       "asset": "SPY",
@@ -38,7 +38,7 @@
       "entry": 701.1453975,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.1137967031399354
+      "unrealized_pnl": 1.1642981511334327
     },
     {
       "asset": "META",
@@ -46,13 +46,37 @@
       "entry": 609.514605,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.050241337141557
+      "unrealized_pnl": 3.193705823935924
+    },
+    {
+      "asset": "QQQ",
+      "size": 0.18234921419851338,
+      "entry": 647.16342,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.664039251441018
+    },
+    {
+      "asset": "TSLA",
+      "size": 0.2955319575235424,
+      "entry": 399.47963999999996,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.18629152474455582
+    },
+    {
+      "asset": "AVGO",
+      "size": 0.3082851637764933,
+      "entry": 311.42563499999994,
+      "tp": null,
+      "sl": null,
+      "unrealized_pnl": 0.34662504816957795
     }
   ],
   "last_decision": {
-    "at": "2026-11-27T17:36:09Z",
+    "at": "2026-11-27T18:36:34Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Position is profitable, price above intraday EMA20 and MACD positive; no further upside within risk limits."
+    "rationale": "Price is above intraday EMA20 and MACD positive; modest profit (+1.16\u202fUSD) and position size (\u224830\u202fUSD) well below the 10\u202f% cap. No adjustment needed."
   }
 }
