@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-27T18:36:34Z",
+  "updated_at": "2026-11-27T19:36:58Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1184.1470593624579,
-    "total_value_usd": 1184.1470593624579,
-    "pnl_usd": 12.62,
-    "pnl_pct": 1.08
+    "balance_usd": 1183.4525592622774,
+    "total_value_usd": 1183.4525592622774,
+    "pnl_usd": 11.93,
+    "pnl_pct": 1.02
   },
   "open_positions": [
     {
@@ -62,7 +62,7 @@
       "entry": 399.47963999999996,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.18629152474455582
+      "unrealized_pnl": -0.5082085754357756
     },
     {
       "asset": "AVGO",
@@ -74,9 +74,9 @@
     }
   ],
   "last_decision": {
-    "at": "2026-11-27T18:36:34Z",
+    "at": "2026-11-27T19:36:58Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Price is above intraday EMA20 and MACD positive; modest profit (+1.16\u202fUSD) and position size (\u224830\u202fUSD) well below the 10\u202f% cap. No adjustment needed."
+    "rationale": "Position is in profit (+1.16%) and well within TP/SL bounds; keeping it preserves upside while staying within per\u2011position risk limits."
   }
 }
