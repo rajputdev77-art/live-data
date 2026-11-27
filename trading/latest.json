@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-27T16:35:42Z",
+  "updated_at": "2026-11-27T17:36:09Z",
   "mode": "paper",
   "account": {
-    "balance_usd": 1182.2129140686425,
-    "total_value_usd": 1182.2129140686425,
-    "pnl_usd": 10.69,
-    "pnl_pct": 0.91
+    "balance_usd": 1182.015082919717,
+    "total_value_usd": 1182.015082919717,
+    "pnl_usd": 10.49,
+    "pnl_pct": 0.9
   },
   "open_positions": [
     {
@@ -14,7 +14,7 @@
       "entry": 356.2630425,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 0.3662894817970377
+      "unrealized_pnl": 0.5947023626019472
     },
     {
       "asset": "MSFT",
@@ -22,7 +22,7 @@
       "entry": 496.1479499999999,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -0.971439228970066
+      "unrealized_pnl": -0.8676002096943093
     },
     {
       "asset": "GOOG",
@@ -30,23 +30,7 @@
       "entry": 275.607735,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": -1.364117689766569
-    },
-    {
-      "asset": "TSLA",
-      "size": -0.15795293002685198,
-      "entry": 380.84948,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": -2.7595198230927127
-    },
-    {
-      "asset": "AMZN",
-      "size": 0.2889338341519792,
-      "entry": 242.2060425,
-      "tp": null,
-      "sl": null,
-      "unrealized_pnl": 3.433677405374172
+      "unrealized_pnl": -1.4185700802265226
     },
     {
       "asset": "SPY",
@@ -54,7 +38,7 @@
       "entry": 701.1453975,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 1.0864060872790573
+      "unrealized_pnl": 1.1137967031399354
     },
     {
       "asset": "META",
@@ -62,13 +46,13 @@
       "entry": 609.514605,
       "tp": null,
       "sl": null,
-      "unrealized_pnl": 3.7324773477126247
+      "unrealized_pnl": 3.050241337141557
     }
   ],
   "last_decision": {
-    "at": "2026-11-27T16:35:42Z",
+    "at": "2026-11-27T17:36:09Z",
     "asset": "SPY",
     "action": "hold",
-    "rationale": "Position is within risk limits, price modestly above short\u2011term EMA20, but RSI7 is high; existing SL already >5% from entry, so hold."
+    "rationale": "Position is profitable, price above intraday EMA20 and MACD positive; no further upside within risk limits."
   }
 }
